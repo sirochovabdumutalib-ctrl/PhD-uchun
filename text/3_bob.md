@@ -4,43 +4,88 @@ Ushbu bobda Marhamat tumani bo'yicha 2009–2024-yillardagi meliorativ monitorin
 
 *Izoh: bu birinchi qoralama. Barcha raqamlar `scripts/10_chapter3_analysis.py` hisobidan olingan; jadval va rasm raqamlari yakuniy tahrirda aniqlashtiriladi. Adabiyotlarga havolalar hali qo'yilmagan.*
 
-## 3.1-§. Monitoring ma'lumotlari tekshiruvi natijalari
+## 3.1-§. Monitoring ma’lumotlari tekshiruvi natijalari
 
-Tahlil uchun meliorativ ekspeditsiyaning 2009–2024-yillardagi kuzatuv jadvallari olindi. Jadvallarda har bir kuzatuv qudug'i uchun sizot suvi sathi oyiga uch marta, ya'ni yiliga 36 ta o'n kunlik o'lchov ko'rinishida qayd etilgan. 2010, 2013 va 2017-yillar bo'yicha mustaqil kuzatuv ma'lumotlari mavjud emas, shuning uchun tahlilga 13 yil kiritildi. Shu yillar uchun Marhamat tumani bo'yicha jami 196 ta quduq va 75 200 ta o'lchov mavjud.
+**Tahlil qilingan ma’lumotlar.** Tahlil uchun meliorativ ekspeditsiyaning 2009–2024-yillardagi kuzatuv jadvallari olindi. Jadvallarda har bir kuzatuv qudug’i uchun sizot suvi sathi oyiga uch marta, ya’ni yiliga 36 ta o’n kunlik o’lchov ko’rinishida qayd etilgan. 2010, 2013 va 2017-yillar bo’yicha mustaqil kuzatuv ma’lumotlari mavjud emas, shuning uchun tahlilga 13 yil kiritildi. Shu yillar uchun Marhamat tumani bo’yicha jami 196 ta quduq va 75 200 ta o’lchov mavjud.
 
-Ma'lumotlar 2.4-§ da bayon etilgan uchta qoida bo'yicha tekshirildi: yil ichidagi o'zgarmaslik, o'lchov birligi xatolari va kuzatuv tarmog'i tarkibining barqarorligi. Natijalar 3.1-jadvalda keltirilgan.
+Ma’lumotlar 2.4-§ da bayon etilgan uchta qoida bo’yicha tekshirildi: yil ichidagi o’zgarmaslik, o’lchov birligi va kuzatuv tarmog’i tarkibi. Qo’shimcha ravishda har bir o’lchov quduq pasportidagi chuqurlik bilan solishtirilib, kesilgan qiymatlar aniqlandi. Yillar bo’yicha natijalar 3.1-jadvalda keltirilgan.
 
-*3.1-jadval. Monitoring ma'lumotlarining yillar bo'yicha tekshiruvi*
+*3.1-jadval. Monitoring ma’lumotlarining yillar bo’yicha tekshiruvi*
 
-| Yil | Quduqlar | O'lchovlar | O'zgarmas qatorli quduqlar | Izoh |
-| --- | --- | --- | --- | --- |
-| 2009 | 132 | 4 410 | 12 |  |
-| 2011 | 138 | 4 907 | 29 |  |
-| 2012 | 133 | 4 733 | 40 |  |
-| 2014 | 137 | 4 788 | 21 |  |
-| 2015 | 134 | 4 755 | 20 |  |
-| 2016 | 128 | 4 508 | 17 |  |
-| 2018 | 188 | 6 763 | 13 | Tarmoq kengaygan |
-| 2019 | 189 | 6 800 | 16 |  |
-| 2020 | 196 | 6 060 | 23 |  |
-| 2021 | 196 | 7 088 | 14 |  |
-| 2022 | 196 | 7 092 | 22 |  |
-| 2023 | 188 | 6 204 | 21 | Har bir quduqda 33 ta o'lchov |
-| 2024 | 196 | 7 092 | 22 |  |
+| Yil | Quduqlar | O’lchovlar | O’zgarmas qatordagi o’lchovlar | Yaroqli o’lchovlar, % | Kesilgan o’lchovlar | 5 m dan chuqur o’lchovlar, % |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2009 | 132 | 4 410 | 392 | 91,1 | 155 | 0,0 |
+| 2011 | 138 | 4 907 | 1 044 | 78,7 | 29 | 0,0 |
+| 2012 | 133 | 4 733 | 1 440 | 69,6 | 35 | 0,0 |
+| 2014 | 137 | 4 788 | 756 | 84,2 | 95 | 0,1 |
+| 2015 | 134 | 4 755 | 711 | 85,0 | 84 | 0,0 |
+| 2016 | 128 | 4 508 | 612 | 86,4 | 137 | 0,0 |
+| 2018 | 188 | 6 763 | 468 | 93,1 | 662 | 3,7 |
+| 2019 | 189 | 6 800 | 576 | 91,5 | 643 | 4,0 |
+| 2020 | 196 | 6 060 | 327 | 94,6 | 500 | 3,2 |
+| 2021 | 196 | 7 088 | 504 | 92,9 | 1 023 | 4,3 |
+| 2022 | 196 | 7 092 | 792 | 88,8 | 691 | 4,0 |
+| 2023 | 188 | 6 204 | 693 | 88,8 | 615 | 4,0 |
+| 2024 | 196 | 7 092 | 792 | 88,8 | 657 | 3,9 |
+| Jami | 196 | 75 200 | 9 107 | 87,9 | 5 326 | — |
 
-**Yil ichidagi o'zgarmaslik.** 270 ta quduq-yilda (9 107 ta o'lchov) yil davomidagi barcha qiymatlar bir xil, masalan 36 marta 3,0 m. Sug'oriladigan hududda sath mavsumiy tebranadi (3.2-§), demak bunday qator haqiqiy o'lchov emas: quduq qurigan, ishdan chiqqan yoki o'lchov o'tkazilmagan. Ushbu quduq-yillar ham tahlildan chiqarildi.
+**Yil ichidagi o’zgarmaslik.** 270 ta quduq-yilda (9 107 ta o’lchov) yil davomidagi barcha qiymatlar bir xil. Sug’oriladigan hududda sath mavsumiy tebranadi (3.2-§), shuning uchun bunday qator haqiqiy o’lchov emas. O’zgarmas qatorlar 56 ta quduqda uchraydi, shundan 36 tasida kamida uch yil davomida.
 
-**O'lchov birligi xatolari.** 13 ta qiymat 20 dan katta (masalan 400, 532, 197). Ular metr o'rniga santimetrda yozilgan deb baholanib, 100 ga bo'lindi.
+O’zgarmas qatorlarda yozilgan qiymatlarning o’zi ularning tabiatini ko’rsatadi (3.2-jadval). Eng ko’p uchraydigan qiymat — aynan 3,0 m (65 ta quduq-yil), keyingilari 2,8; 3,2; 2,6 m. Bu yaxlit qiymatlar kuzatuv quduqlarining odatiy chuqurligiga mos keladi (2.2-§). Pasporti bor quduqlar bo’yicha tekshirilganda o’zgarmas qatorlarning 53 foizida yozilgan qiymat quduq chuqurligidan 0,3 m dan kam farq qiladi; farqning medianasi 0,25 m. Demak o’zgarmas qatorlarning yarmidan ko’pi quduq qurigan holatda uning chuqurligi yoki shunga yaqin shartli qiymat yozilganini bildiradi.
 
-**Kuzatuv tarmog'ining o'zgarishi.** 2018-yilda quduqlar soni 128 dan 188 ga oshgan. 2018-yilgacha 5 m dan chuqur qiymatlar deyarli uchramaydi, undan keyin esa o'lchovlarning taxminan 4 foizini tashkil etadi. Bu tarmoq tarkibi va o'lchash imkoniyati o'zgarganini bildiradi. Shu sababli yillarni barcha quduqlar o'rtachasi bo'yicha solishtirish noto'g'ri natija beradi; ko'p yillik tahlil faqat butun davr mobaynida kuzatilgan quduqlar bo'yicha bajarilishi kerak.
+*3.2-jadval. O’zgarmas qatorlarda eng ko’p uchraydigan qiymatlar*
 
-Tekshiruvdan so'ng 66 093 ta o'lchov, ya'ni umumiy hajmning 87,9 foizi tahlil uchun yaroqli deb topildi. Qolgan 12,1 foiz o'lchov ishonchsiz. Bu ko'rsatkich monitoring ma'lumotlari ishonchliligining miqdoriy bahosi hisoblanadi.
+| Yozilgan qiymat, m | Quduq-yillar soni |
+| --- | --- |
+| 3,0 | 65 |
+| 2,8 | 17 |
+| 3,2 | 12 |
+| 2,6 | 12 |
+| 5,4 | 10 |
+| 2,5 | 9 |
+
+**Kesilgan qiymatlar.** O’zgarmas qatorlardan tashqari, o’zgaruvchan qatorlarda ham quduq qurigan holatlar uchraydi: bir necha o’n kunlik davomida sath quduq tubiga yetib, keyin yana ko’tariladi. Pasportda chuqurligi ko’rsatilgan quduqlarning yaroqli o’lchovlari orasida 5 326 tasi (8,2 foiz) quduq chuqurligidan 0,1 m dan kamroq farq qiladi. Bu o’lchovlar haqiqiy sathni emas, «sath quduq tubidan chuqur» degan holatni aks ettiradi. Kesilgan o’lchovlar 2018-yildan keyin keskin ko’paygan: 2009–2016-yillarda yiliga 29–155 ta, 2018–2024-yillarda 500–1 023 ta.
+
+Kesilgan o’lchovlar o’rtacha sathni kamaytirib ko’rsatadi: haqiqiy sath yozilgan qiymatdan chuqurroq. Shuning uchun ular tahlildan chiqarilmadi, balki alohida belgilandi; ko’p yillik tendensiya va xaritalashda ularning ta’siri 3.2 va 3.3-§ larda hisobga olinadi.
+
+**O’lchov birligi xatolari.** 13 ta qiymat 20 dan katta (masalan, 400, 532, 197). Ular metr o’rniga santimetrda yozilgan deb baholanib, 100 ga bo’lindi.
+
+**Kuzatuv tarmog’ining o’zgarishi.** Tarmoq tarkibi kuzatilgan davrda bir tekis bo’lmagan (3.1-rasm). 2009–2016-yillarda har yili 128–138 ta quduq kuzatilgan, quduqlar tarkibi yildan-yilga biroz o’zgargan: yiliga 1–12 ta quduq qo’shilgan va 1–8 tasi chiqib ketgan. 2018-yilda esa tarmoqqa birdaniga 60 ta yangi quduq qo’shilgan va kuzatilgan quduqlar soni 188 taga yetgan; 2020-yilda yana 7 ta quduq qo’shilgan. Bu 2013–2016-yillarda 120 ta yangi quduq qurilgani bilan mos keladi (2.2-§): yangi quduqlar kuzatuv jadvallariga asosan 2018-yildan kiritilgan.
+
+Tarmoq o’zgarishi o’lchovlar tarkibida aniq iz qoldirgan. 2018-yilgacha 5 m dan chuqur o’lchovlar deyarli uchramaydi (0–0,1 foiz), 2018-yildan keyin esa ular har yili 3,2–4,3 foizni tashkil etadi. Kesilgan o’lchovlar soni ham 2018-yildan ko’paygan. Demak yangi quduqlar sizot suvi chuqurroq joylashgan hududlarga ham qo’yilgan va ularning bir qismi chuqurroq (4–6 m) qurilgan. Shu sababli yillarni barcha quduqlar o’rtachasi bo’yicha solishtirish noto’g’ri natija beradi: 2018-yildagi o’rtacha sathning o’zgarishi asosan tarmoq tarkibining o’zgarishini aks ettiradi. Ko’p yillik tahlil faqat barqaror panel bo’yicha bajarilishi kerak (3.2-§).
+
+&#91;image: Kuzatuv tarmog’i tarkibi va yaroqsiz o’lchovlar ulushi yillar bo’yicha\]
+
+*3.1-rasm. Kuzatilgan quduqlar soni va 5 m dan chuqur o’lchovlar ulushi (chapda), yaroqsiz o’lchovlar ulushi (o’ngda) yillar bo’yicha*
+
+**Massivlar bo’yicha ishonchlilik.** Ma’lumotlar ishonchliligi massivlar orasida keskin farq qiladi (3.3-jadval).
+
+*3.3-jadval. Monitoring ma’lumotlari ishonchliligining massivlar bo’yicha ko’rsatkichlari*
+
+| Massiv | Quduqlar | O’lchovlar | Yaroqli o’lchovlar, % | Yaroqli o’lchovlar ichida kesilganlar, % | O’rtacha sath, 2019–2024, m |
+| --- | --- | --- | --- | --- | --- |
+| Mash’al | 27 | 11 075 | 97,9 | 2,9 | 1,91 |
+| Istiqlol | 25 | 9 539 | 97,2 | 5,8 | 2,08 |
+| Paxtakor | 19 | 7 806 | 93,9 | 5,6 | 2,39 |
+| Z.M.Bobur | 26 | 10 384 | 92,4 | 5,8 | 2,08 |
+| M.Tojiboyev | 28 | 10 154 | 87,8 | 10,5 | 2,36 |
+| U.Qoraboyev | 22 | 8 545 | 84,1 | 13,3 | 2,94 |
+| T.Mirzaev | 18 | 7 414 | 60,0 | 20,8 | 3,16 |
+| Y.Oxunboboyev | 7 | 2 844 | 50,3 | 29,2 | 3,36 |
+
+Jadvaldan muhim qonuniyat kelib chiqadi: ishonchlilik sizot suvi sathi bilan bevosita bog’liq. Sath sayoz bo’lgan Mash’al va Istiqlol massivlarida yaroqli o’lchovlar 97–98 foiz, kesilganlar 3–6 foiz. Sath chuqur bo’lgan T.Mirzaev va Y.Oxunboboyev massivlarida esa o’lchovlarning faqat 50–60 foizi yaroqli, yaroqlilarining ham 21–29 foizi kesilgan. Sababi aniq: sath chuqur joylarda sayoz quduqlar tez-tez quriydi.
+
+Bu natija ikki muhim xulosaga olib keladi. Birinchidan, monitoring tizimining xatosi tasodifiy emas, tizimli: u aynan sizot suvi chuqur bo’lgan, ya’ni meliorativ jihatdan qulay hududlarda to’planadi. Natijada hududiy o’rtacha sath haqiqatdagidan sayozroq, meliorativ holat esa haqiqatdagidan og’irroq ko’rinadi. Ikkinchidan, T.Mirzaev va Y.Oxunboboyev massivlari uchun mavjud kuzatuv tarmog’i sathni ishonchli o’lchashga yaroqsiz; bu massivlarda quduqlarni chuqurlashtirish birinchi navbatdagi vazifa hisoblanadi (4.5-§).
+
+**Umumiy baho.** Tekshiruvdan so’ng 66 093 ta o’lchov, ya’ni umumiy hajmning 87,9 foizi tahlil uchun yaroqli deb topildi; ularning 8,2 foizi kesilgan qiymat sifatida belgilandi. Shunday qilib, haqiqiy sathni aks ettiruvchi to’liq o’lchovlar umumiy hajmning taxminan 80 foizini tashkil etadi. Bu ko’rsatkich Marhamat tumani meliorativ monitoring ma’lumotlari ishonchliligining miqdoriy bahosi hisoblanadi.
+
+Tekshiruv natijalari monitoring tizimining uchta zaif nuqtasini ko’rsatdi: quduqlar chuqurligining sizot rejimiga mos emasligi, quruq quduq holatining alohida belgi bilan qayd etilmasligi va tarmoq tarkibidagi o’zgarishlarning hujjatlashtirilmasligi. Ularni bartaraf etish bo’yicha tavsiyalar 4.5-§ da berilgan.
 
 ## 3.2-§. Sizot suvi sathining ko'p yillik va mavsumiy dinamikasi
 
-Ko'p yillik dinamika barqaror panel usulida baholandi. Panelga 13 yilning barchasida kuzatilgan va hech bir yilda o'zgarmas qator bermagan quduqlar kiritildi; ular 84 ta. Bunday tanlov tarmoq tarkibi o'zgarishining ta'sirini istisno etadi: har yili aynan bir xil quduqlar solishtiriladi.
+Ko'p yillik dinamika barqaror panel usulida baholandi. Panelga 13 yilning barchasida kuzatilgan va hech bir yilda o'zgarmas qator bermagan quduqlar kiritildi; ular 84 ta. Bunday tanlov tarmoq tarkibi o'zgarishining ta'sirini istisno etadi: har yili aynan bir xil quduqlar solishtiriladi. Natijalar 3.4-jadval va 3.2-rasmda keltirilgan.
 
-*3.2-jadval. Barqaror panel (84 ta quduq) bo'yicha sizot suvining o'rtacha yillik sathi, m*
+*3.4-jadval. Barqaror panel (84 ta quduq) bo'yicha sizot suvining o'rtacha yillik sathi, m*
 
 | Yil | 2009 | 2011 | 2012 | 2014 | 2015 | 2016 | 2018 | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -60,15 +105,15 @@ Ushbu pog'onaning ikki ehtimoliy izohi bor va mavjud ma'lumot ularni ajratishga 
 
 &#91;image: Sizot suvi sathining ko'p yillik va mavsumiy dinamikasi\]
 
-*3.1-rasm. Sizot suvi sathining ko'p yillik dinamikasi (chapda: xom ma'lumot va barqaror panel) hamda yil ichidagi o'rtacha yo'li (o'ngda)*
+*3.2-rasm. Sizot suvi sathining ko'p yillik dinamikasi (chapda: xom ma'lumot va barqaror panel) hamda yil ichidagi o'rtacha yo'li (o'ngda)*
 
 ## 3.3-§. Sizot suvi sathining geostatistik modeli va noaniqlik xaritasi
 
 Nuqtaviy o'lchovlardan uzluksiz yuzaga o'tish uchun oddiy kriging usuli qo'llanildi. Modellashtirishga har bir quduqning 2019–2024-yillardagi tozalangan o'rtacha sathi kiritildi; bunday quduqlar 168 ta. Ko'p yillik o'rtachadan foydalanish bitta yilning tasodifiy xatolarini kamaytiradi. Qo'shni quduqlar orasidagi masofaning medianasi 606 m.
 
-Uch nazariy variogramma modeli solishtirildi. Har biri uchun bittadan chiqarib tashlash usulida kross-validatsiya bajarildi (3.3-jadval).
+Uch nazariy variogramma modeli solishtirildi. Har biri uchun bittadan chiqarib tashlash usulida kross-validatsiya bajarildi (3.5-jadval).
 
-*3.3-jadval. Variogramma modellarining qiyosi va kross-validatsiya natijalari*
+*3.5-jadval. Variogramma modellarining qiyosi va kross-validatsiya natijalari*
 
 | Model | Nagget | Plato | Nagget / plato | O'rtacha xato, m | O'rtacha kvadratik xato, m | Standartlashtirilgan xato |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -82,19 +127,19 @@ Natijani uch jihatdan ehtiyotkorlik bilan talqin qilish kerak. Birinchidan, mode
 
 Ushbu cheklovlarning amaliy ma'nosi bor: mavjud kuzatuv tarmog'i zichligida (o'rtacha 600 m) quduqlar orasidagi sathni ishonchli tiklab bo'lmaydi. Sath qisqa masofada kuchli o'zgaradi va bu o'zgarish tarmoq tomonidan ushlanmaydi.
 
-Kriging natijasida ikki xarita olindi (3.2-rasm): sath xaritasi va bahoning standart xatosi xaritasi. Xaritalar faqat eng yaqin quduqqacha masofa 1,5 km dan oshmaydigan hudud uchun tuzildi. Bu hududning 32 foizida ko'p yillik o'rtacha sath 2,0 m dan sayoz. Sayoz sathli zona tumanning shimoli-sharqidan janubi-g'arbiga cho'zilgan va kollektor tarmog'i zich joylashgan hududga to'g'ri keladi; chuqur sathli zonalar janubda va sharqda joylashgan. Standart xato 0,60–0,92 m oralig'ida o'zgaradi va quduqlar siyrak joylarda, ayniqsa hudud chekkalarida eng katta. Noaniqlik xaritasi kuzatuv tarmog'ini to'ldirish uchun asos bo'ladi: yangi quduq xato eng katta bo'lgan joyga qo'yilganda eng ko'p ma'lumot beradi (4.5-§).
+Kriging natijasida ikki xarita olindi (3.3-rasm): sath xaritasi va bahoning standart xatosi xaritasi. Xaritalar faqat eng yaqin quduqqacha masofa 1,5 km dan oshmaydigan hudud uchun tuzildi. Bu hududning 32 foizida ko'p yillik o'rtacha sath 2,0 m dan sayoz. Sayoz sathli zona tumanning shimoli-sharqidan janubi-g'arbiga cho'zilgan va kollektor tarmog'i zich joylashgan hududga to'g'ri keladi; chuqur sathli zonalar janubda va sharqda joylashgan. Standart xato 0,60–0,92 m oralig'ida o'zgaradi va quduqlar siyrak joylarda, ayniqsa hudud chekkalarida eng katta. Noaniqlik xaritasi kuzatuv tarmog'ini to'ldirish uchun asos bo'ladi: yangi quduq xato eng katta bo'lgan joyga qo'yilganda eng ko'p ma'lumot beradi (4.5-§).
 
 &#91;image: Sizot suvi sathi va bahoning standart xatosi xaritalari\]
 
-*3.2-rasm. Sizot suvi sathining 2019–2024-yillardagi o'rtacha xaritasi (chapda) va bahoning standart xatosi (o'ngda). Yashil chiziqlar — kollektorlar, nuqtalar — kuzatuv quduqlari*
+*3.3-rasm. Sizot suvi sathining 2019–2024-yillardagi o'rtacha xaritasi (chapda) va bahoning standart xatosi (o'ngda). Yashil chiziqlar — kollektorlar, nuqtalar — kuzatuv quduqlari*
 
 ## 3.4-§. Sizot rejimining drenaj tarmog'i, kanallar va relyef bilan bog'liqligi
 
 Geoma'lumotlar bazasi har bir quduq uchun tarmoq ko'rsatkichlarini hisoblash imkonini berdi: eng yaqin kollektorgacha masofa, eng yaqin kanalgacha masofa va quduq atrofidagi 1 km radiusda joylashgan kollektorlar uzunligi (tarmoq zichligi). Relyef ko'rsatkichi sifatida quduqning mutlaq balandligi olindi. Tahlil 2019–2024-yillardagi o'rtacha sathi ma'lum bo'lgan 168 ta quduq bo'yicha bajarildi.
 
-**Kollektorgacha masofa.** Sath kollektorga yaqinlashgan sari sayozlashadi (3.4-jadval). Kollektordan 150 m gacha bo'lgan quduqlarda o'rtacha sath 1,98 m, 800 m dan uzoqdagilarda 3,10 m. Sathi 1,5 m dan sayoz quduqlar ulushi mos ravishda 26 foiz va 0 foiz. Spearman korrelyatsiyasi ρ = +0,40 (p < 0,0001).
+**Kollektorgacha masofa.** Sath kollektorga yaqinlashgan sari sayozlashadi (3.6-jadval). Kollektordan 150 m gacha bo'lgan quduqlarda o'rtacha sath 1,98 m, 800 m dan uzoqdagilarda 3,10 m. Sathi 1,5 m dan sayoz quduqlar ulushi mos ravishda 26 foiz va 0 foiz. Spearman korrelyatsiyasi ρ = +0,40 (p < 0,0001).
 
-*3.4-jadval. Sizot suvi sathining kollektorgacha masofaga bog'liqligi*
+*3.6-jadval. Sizot suvi sathining kollektorgacha masofaga bog'liqligi*
 
 | Kollektorgacha masofa | Quduqlar soni | O'rtacha sath, m | 1,5 m dan sayoz quduqlar ulushi |
 | --- | --- | --- | --- |
@@ -107,9 +152,9 @@ Geoma'lumotlar bazasi har bir quduq uchun tarmoq ko'rsatkichlarini hisoblash imk
 
 **Kanallar va relyef.** Kanalgacha masofa bilan bog'lanish kuchsiz (ρ = −0,18; p = 0,02) va boshqa omillar hisobga olinganda ahamiyatini yo'qotadi. Mutlaq balandlik bilan juft korrelyatsiya ham kuchsiz (ρ = +0,23; p = 0,003); balandlikning o'zi sath o'zgaruvchanligining atigi 2 foizini tushuntiradi.
 
-**Ko'p omilli model.** Uch omil birgalikda kiritilganda (3.5-jadval) faqat tarmoq ko'rsatkichi statistik ahamiyatli bo'lib qoladi. Model sath o'zgaruvchanligining 15–20 foizini tushuntiradi.
+**Ko'p omilli model.** Uch omil birgalikda kiritilganda (3.7-jadval) faqat tarmoq ko'rsatkichi statistik ahamiyatli bo'lib qoladi. Model sath o'zgaruvchanligining 15–20 foizini tushuntiradi.
 
-*3.5-jadval. Sizot suvi sathining ko'p omilli regressiya modellari (n = 168)*
+*3.7-jadval. Sizot suvi sathining ko'p omilli regressiya modellari (n = 168)*
 
 | Omil | 1-model: koeffitsiyent | p | 2-model: koeffitsiyent | p |
 | --- | --- | --- | --- | --- |
@@ -127,9 +172,9 @@ Model sath o'zgaruvchanligining 80 foizini tushuntirmaydi. Bu 3.3-§ dagi xulosa
 
 ## 3.5-§. Sizot suvlari minerallashuvining dinamikasi
 
-Minerallashuv bo'yicha ikki manba mavjud: 1999–2015-yillar uchun yiliga uch marta (1-aprel, 1-iyul, 1-oktabr holatiga) o'lchangan qiymatlar jadvali (123 ta quduq, 4 961 ta qiymat) va 2009–2024-yillar uchun yillik qiymatlar. Har ikkisi 3.1-§ dagi qoidalar bo'yicha tekshirildi. Natijalar 3.6-jadvalda keltirilgan.
+Minerallashuv bo'yicha ikki manba mavjud: 1999–2015-yillar uchun yiliga uch marta (1-aprel, 1-iyul, 1-oktabr holatiga) o'lchangan qiymatlar jadvali (123 ta quduq, 4 961 ta qiymat) va 2009–2024-yillar uchun yillik qiymatlar. Har ikkisi 3.1-§ dagi qoidalar bo'yicha tekshirildi. Natijalar 3.8-jadvalda keltirilgan.
 
-*3.6-jadval. Minerallashuv qatorlarining tekshiruvi*
+*3.8-jadval. Minerallashuv qatorlarining tekshiruvi*
 
 | Davr | Holat | Baho |
 | --- | --- | --- |
@@ -145,9 +190,9 @@ Shunday qilib 26 yillik minerallashuv qatoridan faqat 2004–2010-yillar (7 yil,
 
 Tuman bo'yicha minerallashuv medianasi 1,02–1,45 g/l oralig'ida o'zgargan va aniq yo'nalishga ega emas. Mavsumlar orasidagi farq kichik: aprelda 1,27, iyulda 1,25, oktabrda 1,32 g/l. Qiymatlarning 8,2 foizi 3 g/l dan yuqori.
 
-Massivlar orasidagi farq esa katta (3.7-jadval): Mash'al massivida mediana 2,35 g/l, U.Qoraboyev va T.Mirzaev massivlarida 0,80–0,83 g/l. Ya'ni minerallashuv bo'yicha eng og'ir massiv bilan eng yengili orasida uch baravar farq bor.
+Massivlar orasidagi farq esa katta (3.9-jadval): Mash'al massivida mediana 2,35 g/l, U.Qoraboyev va T.Mirzaev massivlarida 0,80–0,83 g/l. Ya'ni minerallashuv bo'yicha eng og'ir massiv bilan eng yengili orasida uch baravar farq bor.
 
-*3.7-jadval. Sizot suvlari minerallashuvining massivlar bo'yicha medianasi, 2004–2010-yillar*
+*3.9-jadval. Sizot suvlari minerallashuvining massivlar bo'yicha medianasi, 2004–2010-yillar*
 
 | Massiv | Mediana, g/l | Qiymatlar soni |
 | --- | --- | --- |

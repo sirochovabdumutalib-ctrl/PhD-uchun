@@ -1,0 +1,283 @@
+{
+ "total": {
+  "obs": 75200,
+  "wells": 196,
+  "const_obs": 9107,
+  "unit": 13,
+  "valid": 66093,
+  "share_valid": 87.9,
+  "with_depth": 73868,
+  "censored": 5326,
+  "censored_share_of_valid_with_depth": 8.22
+ },
+ "const_values": {
+  "3.0": 65,
+  "2.8": 17,
+  "3.2": 12,
+  "2.6": 12,
+  "5.4": 10,
+  "2.5": 9
+ },
+ "const_near_depth_share": 52.6,
+ "const_vs_depth": {
+  "n": 270,
+  "median_gap": 0.25
+ },
+ "by_massif": [
+  {
+   "massif": "З.М.Бобур",
+   "obs": 10384,
+   "wells": 26,
+   "const": 787,
+   "censored": 560,
+   "valid_share": 92.4,
+   "cens_share": 5.8
+  },
+  {
+   "massif": "Истиқлол",
+   "obs": 9539,
+   "wells": 25,
+   "const": 264,
+   "censored": 535,
+   "valid_share": 97.2,
+   "cens_share": 5.8
+  },
+  {
+   "massif": "Й.Охунбобоев",
+   "obs": 2844,
+   "wells": 7,
+   "const": 1413,
+   "censored": 418,
+   "valid_share": 50.3,
+   "cens_share": 29.2
+  },
+  {
+   "massif": "М.Тожибоев",
+   "obs": 10154,
+   "wells": 28,
+   "const": 1240,
+   "censored": 940,
+   "valid_share": 87.8,
+   "cens_share": 10.5
+  },
+  {
+   "massif": "Машъал",
+   "obs": 11075,
+   "wells": 27,
+   "const": 231,
+   "censored": 312,
+   "valid_share": 97.9,
+   "cens_share": 2.9
+  },
+  {
+   "massif": "Пахтакор",
+   "obs": 7806,
+   "wells": 19,
+   "const": 477,
+   "censored": 411,
+   "valid_share": 93.9,
+   "cens_share": 5.6
+  },
+  {
+   "massif": "Т.Мирзаев",
+   "obs": 7414,
+   "wells": 18,
+   "const": 2963,
+   "censored": 927,
+   "valid_share": 60.0,
+   "cens_share": 20.8
+  },
+  {
+   "massif": "У.Қорабоев",
+   "obs": 8545,
+   "wells": 22,
+   "const": 1360,
+   "censored": 953,
+   "valid_share": 84.1,
+   "cens_share": 13.3
+  }
+ ],
+ "by_year": [
+  {
+   "year": 2009,
+   "obs": 4410,
+   "wells": 132,
+   "const": 392,
+   "censored": 155,
+   "deep5": 0.0,
+   "valid_share": 91.1
+  },
+  {
+   "year": 2011,
+   "obs": 4907,
+   "wells": 138,
+   "const": 1044,
+   "censored": 29,
+   "deep5": 0.0,
+   "valid_share": 78.7
+  },
+  {
+   "year": 2012,
+   "obs": 4733,
+   "wells": 133,
+   "const": 1440,
+   "censored": 35,
+   "deep5": 0.0,
+   "valid_share": 69.6
+  },
+  {
+   "year": 2014,
+   "obs": 4788,
+   "wells": 137,
+   "const": 756,
+   "censored": 95,
+   "deep5": 0.1,
+   "valid_share": 84.2
+  },
+  {
+   "year": 2015,
+   "obs": 4755,
+   "wells": 134,
+   "const": 711,
+   "censored": 84,
+   "deep5": 0.0,
+   "valid_share": 85.0
+  },
+  {
+   "year": 2016,
+   "obs": 4508,
+   "wells": 128,
+   "const": 612,
+   "censored": 137,
+   "deep5": 0.0,
+   "valid_share": 86.4
+  },
+  {
+   "year": 2018,
+   "obs": 6763,
+   "wells": 188,
+   "const": 468,
+   "censored": 662,
+   "deep5": 3.7,
+   "valid_share": 93.1
+  },
+  {
+   "year": 2019,
+   "obs": 6800,
+   "wells": 189,
+   "const": 576,
+   "censored": 643,
+   "deep5": 4.0,
+   "valid_share": 91.5
+  },
+  {
+   "year": 2020,
+   "obs": 6060,
+   "wells": 196,
+   "const": 327,
+   "censored": 500,
+   "deep5": 3.2,
+   "valid_share": 94.6
+  },
+  {
+   "year": 2021,
+   "obs": 7088,
+   "wells": 196,
+   "const": 504,
+   "censored": 1023,
+   "deep5": 4.3,
+   "valid_share": 92.9
+  },
+  {
+   "year": 2022,
+   "obs": 7092,
+   "wells": 196,
+   "const": 792,
+   "censored": 691,
+   "deep5": 4.0,
+   "valid_share": 88.8
+  },
+  {
+   "year": 2023,
+   "obs": 6204,
+   "wells": 188,
+   "const": 693,
+   "censored": 615,
+   "deep5": 4.0,
+   "valid_share": 88.8
+  },
+  {
+   "year": 2024,
+   "obs": 7092,
+   "wells": 196,
+   "const": 792,
+   "censored": 657,
+   "deep5": 3.9,
+   "valid_share": 88.8
+  }
+ ],
+ "wells_ever_const": 56,
+ "wells_const_ge3": 36,
+ "turnover": [
+  {
+   "year": 2011,
+   "new": 12,
+   "gone": 6
+  },
+  {
+   "year": 2012,
+   "new": 1,
+   "gone": 6
+  },
+  {
+   "year": 2014,
+   "new": 5,
+   "gone": 1
+  },
+  {
+   "year": 2015,
+   "new": 3,
+   "gone": 6
+  },
+  {
+   "year": 2016,
+   "new": 2,
+   "gone": 8
+  },
+  {
+   "year": 2018,
+   "new": 60,
+   "gone": 0
+  },
+  {
+   "year": 2019,
+   "new": 1,
+   "gone": 0
+  },
+  {
+   "year": 2020,
+   "new": 7,
+   "gone": 0
+  },
+  {
+   "year": 2021,
+   "new": 0,
+   "gone": 0
+  },
+  {
+   "year": 2022,
+   "new": 0,
+   "gone": 0
+  },
+  {
+   "year": 2023,
+   "new": 0,
+   "gone": 8
+  },
+  {
+   "year": 2024,
+   "new": 8,
+   "gone": 0
+  }
+ ]
+}
