@@ -67,7 +67,7 @@ for model in ('spherical', 'exponential', 'gaussian'):
     e, se = [], []
     for i in range(len(x)):
         m = np.arange(len(x)) != i
-        o = OrdinaryKriging(x[m], y[m], v[m], variogram_model=model, variogram_parameters=list(ok.variogram_model_parameters), nlags=12)
+        o = OrdinaryKriging(x[m], y[m], v[m], variogram_model=model, variogram_parameters=dict(zip(['psill', 'range', 'nugget'], ok.variogram_model_parameters)), nlags=12)
         p, s2 = o.execute('points', x[i:i + 1], y[i:i + 1]); e.append(float(p[0]) - v[i]); se.append(float(np.sqrt(s2[0])))
     e, se = np.array(e), np.array(se); psill, rng, nug = [float(q) for q in ok.variogram_model_parameters]
     res[model] = dict(nugget=round(nug, 3), sill=round(psill + nug, 3), range_m=round(rng), me=round(float(e.mean()), 3), rmse=round(float(np.sqrt((e ** 2).mean())), 3),

@@ -96,6 +96,10 @@ Ushbu paragrafda sizot suvi sathining 2009–2024-yillardagi o'zgarishi uch dara
 
 Panel bo'yicha yillik o'rtacha sath 2009-yildagi 1,60 m dan 2024-yilda 1,99 m ga chuqurlashgan. Mann–Kendall mezoni tendensiyani statistik ahamiyatli deb ko'rsatadi (τ = 0,744; p = 0,0005). Sen qiyaligi yiliga 0,033 m, chiziqli regressiya qiyaligi yiliga 0,032 m (R² = 0,825); ikki baho bir-biriga yaqin, demak natija baholash usuliga bog'liq emas. Iyul–avgustdagi sath ham xuddi shunday tezlikda chuqurlashgan: 1,44 m dan 1,80 m gacha, Sen qiyaligi yiliga 0,031 m (τ = 0,744; p = 0,0005). Yozgi sath yillik o'rtachadan har yili 0,11–0,28 m (o'rtacha 0,20 m) sayozroq, lekin ikki qator parallel harakatlanadi. Bu chuqurlashish faqat qishki-bahorgi davrga emas, sug'orish mavsumiga ham tegishli ekanini ko'rsatadi.
 
+&#91;image: Sizot suvi sathining dinamikasi\]
+
+*3.2-rasm. Sizot suvi sathining ko'p yillik dinamikasi (chapda: xom ma'lumot va barqaror panel) hamda yil ichidagi o'rtacha yo'li (o'ngda)*
+
 **Pog'onali o'zgarish.** Qatorning tuzilishi bir tekis tendensiyadan ko'ra pog'onali o'zgarishga yaqin. 2009–2016-yillarda o'rtacha sath 1,63 m, 2018–2024-yillarda 1,92 m; ikki davr orasidagi farq 0,30 m. Har bir davr ichida esa tendensiya statistik ahamiyatli emas: 2009–2016-yillarda Sen qiyaligi yiliga 0,021 m (p = 0,26), 2018–2024-yillarda yiliga 0,022 m (p = 0,23). Pettitt mezoni \[150\] qatordagi eng ehtimoliy uzilish nuqtasini 2016-yildan keyin ko'rsatadi (K = 42; p = 0,023). Yozgi qatorda ham uzilish nuqtasi aynan shu yerda. Demak o'zgarishning asosiy qismi 2016 va 2018-yillar orasida yuz bergan; 2017-yil bo'yicha mustaqil kuzatuv ma'lumotlari mavjud emasligi sababli uzilishni bir yil aniqligida belgilab bo'lmaydi.
 
 Ushbu pog'onaning ikki ehtimoliy izohi bor va mavjud ma'lumot ularni to'liq ajratishga imkon bermaydi. Birinchisi — haqiqiy meliorativ o'zgarish: kadastrga ko'ra tumandagi 90 ta kollektorning 55 tasi aynan 2016–2018-yillarda ta'mirlangan. Ikkinchisi — o'lchash tartibining o'zgarishi: 2018-yilda kuzatuv tarmog'i qayta tuzilgan (3.1-§). Barqaror panel tarmoq tarkibi ta'sirini olib tashlaydi, lekin bir xil quduqlarda o'lchash tartibi o'zgargan bo'lsa, uni olib tashlay olmaydi. Ta'mirning ta'siri alohida usul bilan, ta'mirlangan va ta'mirlanmagan kollektorlar yaqinidagi quduqlarni solishtirish orqali 4.3-§ da baholanadi.
@@ -121,7 +125,7 @@ Bu farqning yo'nalishi muhim. Kesilgan qiymatlarni olib tashlash quruq quduqlarn
 | Z.M.Bobur | 9 | 1,89 | 1,51 | 1,84 | 1,55 | −0,487 | 0,024 | −0,031 |
 | Tuman (panel) | 84 | 1,60 | 1,99 | 1,63 | 1,92 | 0,744 | 0,0005 | +0,033 |
 
-Jadvaldan uchta xulosa kelib chiqadi. Birinchidan, yetti massivdan oltitasida sath statistik ahamiyatli ravishda chuqurlashgan, tezlik yiliga 0,031 m dan 0,053 m gacha. Eng tez chuqurlashish U.Qoraboyev va T.Mirzaev massivlarida, ya'ni tumanning janubi-sharqiy qismida kuzatiladi. Ikkinchidan, Z.M.Bobur massivida jarayon teskari: sath 1,89 m dan 1,51 m gacha ko'tarilgan, yiliga 0,031 m tezlikda sayozlashgan (p = 0,024). Bu massiv tumanning shimoliy qismida joylashgan va 2018–2024-yillarda o'rtacha sathi 1,55 m bilan tumanda eng sayoz massivga aylangan. Uchinchidan, massivlar orasidagi tafovut kuchaygan: 2009-yilda massivlarning o'rtacha sathi 1,46–1,89 m oralig'ida bo'lgan bo'lsa, 2024-yilda 1,51–2,43 m oralig'ida. Tuman bo'yicha o'rtacha esa bu ikki qarama-qarshi jarayonni bitta raqamga aralashtiradi.
+Jadvaldan uchta xulosa kelib chiqadi. Birinchidan, yetti massivdan oltitasida sath statistik ahamiyatli ravishda chuqurlashgan, tezlik yiliga 0,031 m dan 0,053 m gacha. Eng tez chuqurlashish U.Qoraboyev va T.Mirzaev massivlarida, ya'ni tumanning sharqiy va janubiy qismlarida kuzatiladi. Ikkinchidan, Z.M.Bobur massivida jarayon teskari: sath 1,89 m dan 1,51 m gacha ko'tarilgan, yiliga 0,031 m tezlikda sayozlashgan (p = 0,024). Bu massiv tumanning shimoliy qismida joylashgan va 2018–2024-yillarda o'rtacha sathi 1,55 m bilan tumanda eng sayoz massivga aylangan. Uchinchidan, massivlar orasidagi tafovut kuchaygan: 2009-yilda massivlarning o'rtacha sathi 1,46–1,89 m oralig'ida bo'lgan bo'lsa, 2024-yilda 1,51–2,43 m oralig'ida. Tuman bo'yicha o'rtacha esa bu ikki qarama-qarshi jarayonni bitta raqamga aralashtiradi.
 
 Z.M.Bobur massividagi sayozlashish meliorativ nuqtai nazardan eng muhim natijadir. Sathning 1,5 m atrofigacha ko'tarilishi O'zbekiston sharoitida qabul qilingan kritik chuqurlikka yaqinlashish demakdir: bu chuqurlikda kapillyar ko'tarilish orqali tuz to'planishi tezlashadi \[37; 53\]. Massivdagi o'zgarish tumanning umumiy pog'onasidan farqli vaqtda yuz bergan: 2009–2018-yillarda sath 1,65–1,95 m oralig'ida bo'lgan, 2019-yildan boshlab esa 1,27–1,71 m oralig'iga ko'tarilgan va 2022-yilda 1,27 m ga yetgan. Shu sababli bu massiv drenaj tarmog'ini birinchi navbatda tekshirish talab etiladigan hudud sifatida ajratiladi (4.5-§).
 
@@ -153,10 +157,6 @@ Quduq tendensiyasining qaysi omillarga bog'liqligi Spearman korrelyatsiyasi bila
 
 **Mavsumiy dinamika.** Tozalangan qatorlar bo'yicha sathning yil ichidagi o'rtacha yo'li aniq mavsumiy xususiyatga ega (3.2-rasm, o'ngda). Sath yanvar–fevralda eng chuqur (2,03–2,04 m), mart oxiridan ko'tarila boshlaydi va iyul oxirida eng sayoz holatga yetadi (1,56 m). May oyining ikkinchi yarmidan avgust oxirigacha sath 1,56–1,62 m oralig'ida turadi, sentabrdan boshlab yana chuqurlashadi. Mavsumiy amplituda 0,48 m. Bu yo'l sug'orish mavsumi bilan mos keladi: 2.1-§ da ko'rsatilganidek, yog'inlarning 65 foizi noyabr–aprelda tushadi, lekin sath aynan shu davrda eng chuqur. Demak sathning mavsumiy ko'tarilishini yog'in emas, sug'orish va kanallardan filtratsiya belgilaydi \[148\].
 
-&#91;image: Sizot suvi sathining dinamikasi\]
-
-*3.2-rasm. Sizot suvi sathining ko'p yillik dinamikasi (chapda: xom ma'lumot va barqaror panel) hamda yil ichidagi o'rtacha yo'li (o'ngda)*
-
 Massivlar bo'yicha mavsumiy yo'l bir-biridan sezilarli farq qiladi (3.7-jadval va 3.4-rasm). Mavsumiy amplituda 0,32 m dan (T.Mirzaev) 0,85 m gacha (U.Qoraboyev) o'zgaradi, ya'ni deyarli 2,7 baravar farq qiladi.
 
 *3.7-jadval. Sizot suvi sathining massivlar bo'yicha mavsumiy ko'rsatkichlari (barqaror panel quduqlari, 2009–2024-yillar o'rtachasi)*
@@ -183,37 +183,113 @@ U.Qoraboyev massivi alohida e'tiborga loyiq. Uning yozgi eng sayoz sathi (1,45 m
 
 ## 3.3-§. Sizot suvi sathining geostatistik modeli va noaniqlik xaritasi
 
-Nuqtaviy o'lchovlardan uzluksiz yuzaga o'tish uchun oddiy kriging usuli qo'llanildi. Modellashtirishga har bir quduqning 2019–2024-yillardagi tozalangan o'rtacha sathi kiritildi; bunday quduqlar 168 ta. Ko'p yillik o'rtachadan foydalanish bitta yilning tasodifiy xatolarini kamaytiradi. Qo'shni quduqlar orasidagi masofaning medianasi 606 m.
+Kuzatuv quduqlari sathni faqat alohida nuqtalarda beradi, meliorativ qarorlar esa maydon bo'yicha qabul qilinadi: qaysi massivning qancha qismida sath kritik chuqurlikdan sayoz, qayerda drenaj tarmog'ini tekshirish kerak. Nuqtaviy o'lchovlardan uzluksiz yuzaga o'tish uchun geostatistik usul — kriging qo'llanildi \[74; 44; 111\]. Usulning boshqa interpolyatsiya usullaridan afzalligi shundaki, u har bir nuqtadagi baho bilan birga bahoning standart xatosini ham beradi \[29; 54\]. Ushbu paragrafda shu imkoniyatdan to'liq foydalaniladi: sath xaritasidan tashqari noaniqlik xaritasi va sathning kritik chegaradan sayoz bo'lish ehtimoli xaritasi tuziladi. Hisoblar 2.4-§ da bayon etilgan tartibda bajarildi.
 
-Uch nazariy variogramma modeli solishtirildi. Har biri uchun bittadan chiqarib tashlash usulida kross-validatsiya bajarildi (3.8-jadval).
+**Boshlang'ich ma'lumotlar.** Modellashtirishga ikki ko'rsatkich kiritildi. Birinchisi — har bir quduqning 2019–2024-yillardagi tozalangan o'rtacha sathi; bunday quduqlar 168 ta. Ikkinchisi — shu yillardagi iyul–avgust oylari o'rtacha sathi (167 ta quduq). 3.2-§ da ko'rsatilganidek, drenaj tizimi samaradorligini baholashda yozgi sath asosiy mezon bo'lishi kerak, shuning uchun u alohida modellashtirildi. Ko'p yillik o'rtachadan foydalanish bitta yilning tasodifiy xatolarini kamaytiradi. Qo'shni quduqlar orasidagi masofaning medianasi 606 m.
 
-*3.8-jadval. Variogramma modellarining qiyosi va kross-validatsiya natijalari*
+Ikkala ko'rsatkichning taqsimoti normal taqsimotdan farq qiladi (3.8-jadval). O'rtacha yillik sath bo'yicha o'rtacha qiymat 2,39 m, mediana 2,25 m, asimmetriya koeffitsiyenti +1,31: taqsimot chuqur sath tomoniga cho'zilgan, ya'ni sathi 4–6 m bo'lgan kam sonli quduqlar o'rtachani oshiradi. Yozgi sath bo'yicha mediana 1,93 m, asimmetriya +1,59. Logarifmik o'zgartirish asimmetriyani 0,36–0,46 gacha kamaytiradi, lekin taqsimotni to'liq normallashtirmaydi (Shapiro–Uilk mezoni bo'yicha p = 0,009–0,016). Oddiy kriging taqsimotning normal bo'lishini talab qilmaydi, lekin ehtimollik xaritasini tuzishda bu holat hisobga olinadi.
 
-| Model | Nagget | Plato | Nagget / plato | O'rtacha xato, m | O'rtacha kvadratik xato, m | Standartlashtirilgan xato |
+*3.8-jadval. Kriging uchun boshlang'ich ma'lumotlarning statistik tavsifi*
+
+| Ko'rsatkich | Quduqlar soni | O'rtacha, m | Mediana, m | Standart og'ish, m | Asimmetriya | Asimmetriya (logarifm) | 1,5 m dan sayoz quduqlar soni | 2,0 m dan sayoz quduqlar ulushi, % |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| O'rtacha yillik sath, 2019–2024 | 168 | 2,39 | 2,25 | 0,99 | +1,31 | +0,36 | 28 | 40 |
+| Iyul–avgust sathi, 2019–2024 | 167 | 2,14 | 1,93 | 0,92 | +1,59 | +0,46 | 39 | 55 |
+
+**Eksperimental variogramma.** Variogramma 500 m qadam bilan 10 km gacha bo'lgan masofada hisoblandi (3.5-rasm, chapda). Uning ikki xususiyati sath maydonining tuzilishini aniqlaydi. Birinchidan, eng qisqa masofadagi (0,5–1,0 km) yarimvariogramma 0,52–0,57 m² ni tashkil etadi, ya'ni ma'lumotlar umumiy dispersiyasining (0,97 m²) qariyb yarmiga teng. Bu qo'shni quduqlar sathi bir-biridan deyarli tasodifiy farq qilishini bildiradi: 500 m masofada joylashgan ikki quduq orasidagi sath farqi hudud bo'ylab olingan ikki tasodifiy quduq orasidagi farqning yarmiga teng. Ikkinchidan, yarimvariogramma masofa ortishi bilan deyarli chiziqli o'sadi va 7 km da ma'lumotlar dispersiyasiga yetadi, lekin plato hosil qilmaydi. Bunday shakl sathda tuman miqyosidagi umumiy yo'nalish (trend) borligini ko'rsatadi \[80; 111\].
+
+Trendning mavjudligi sath koordinatalar bo'yicha chiziqli regressiya bilan tasdiqlandi: u sath o'zgaruvchanligining 18 foizini tushuntiradi (p < 0,001). Sath sharq tomonga har kilometrda 0,10 m, janub tomonga har kilometrda 0,07 m chuqurlashadi. Yozgi sath uchun ham manzara o'xshash (R² = 0,15). Bu yo'nalish tumanning umumiy relyefiga va 3.2-§ da aniqlangan massivlar farqiga mos keladi: sayoz sathli Z.M.Bobur, Istiqlol va Mash'al massivlari tumanning shimoliy va g'arbiy qismida, chuqur sathli Y.Oxunboboyev va T.Mirzaev massivlari janubda joylashgan.
+
+Yo'nalishli variogrammalar (3.5-rasm, o'ngda) zaif anizotropiyani ko'rsatadi. Dastlabki 3 km masofada g'arb–sharq yo'nalishidagi o'rtacha yarimvariogramma 0,52 m², qolgan uch yo'nalishda 0,66–0,67 m². Ya'ni sath g'arb–sharq yo'nalishida biroz uzluksizroq o'zgaradi. Biroq yo'nalishlar bo'yicha juftliklar soni kam va farq qatordan qatorga barqaror emas, shuning uchun modelga anizotropiya kiritilmadi.
+
+&#91;image: Sizot suvi sathining eksperimental va nazariy variogrammalari\]
+
+*3.5-rasm. Sizot suvi sathining (2019–2024-yillar o'rtachasi) yo'nalishsiz eksperimental variogrammasi va nazariy modellar (chapda) hamda to'rt yo'nalish bo'yicha variogrammalar (o'ngda)*
+
+**Variogramma modelini tanlash.** Eksperimental variogrammaga uchta nazariy model — sferik, eksponensial va Gauss — juftliklar soni bo'yicha vaznlangan eng kichik kvadratlar usulida moslashtirildi \[80\]. Moslashtirish 10 km gacha bo'lgan masofa bilan cheklandi, chunki kriging bahosini asosan eng yaqin quduqlar belgilaydi. Taqqoslash uchun dasturning avtomatik moslashtirishi (butun masofa diapazoni bo'yicha) natijasi ham keltirilgan. Har bir model bittadan chiqarib tashlash usulidagi kross-validatsiya bilan baholandi (3.9-jadval).
+
+*3.9-jadval. Variogramma modellarining qiyosi va kross-validatsiya natijalari (o'rtacha yillik sath, n = 168)*
+
+| Model | Nagget, m² | Nagget / dispersiya | Ta'sir radiusi, km | O'rtacha xato (ME), m | O'rtacha kvadratik xato (RMSE), m | Standartlashtirilgan xato (RMSSE) |
 | --- | --- | --- | --- | --- | --- | --- |
-| Sferik | 0,475 | 1,459 | 0,33 | −0,001 | 0,852 | 1,14 |
-| Eksponensial | 0,267 | 1,468 | 0,18 | +0,003 | 0,816 | 1,24 |
-| Gauss | 0,641 | 1,543 | 0,42 | −0,001 | 0,898 | 1,10 |
+| Sferik | 0,512 | 0,53 | > 30 | −0,001 | 0,843 | 1,06 |
+| Eksponensial | 0,496 | 0,51 | > 30 | +0,002 | 0,819 | 0,93 |
+| Gauss | 0,601 | 0,62 | 7,5 | −0,001 | 0,860 | 1,04 |
+| Eksponensial (avtomatik moslashtirish) | 0,267 | 0,28 | > 19 | +0,005 | 0,813 | 1,19 |
 
-Eng kichik o'rtacha kvadratik xatoni eksponensial model berdi (0,816 m), shuning uchun xarita shu model bo'yicha tuzildi. O'rtacha xato uchala modelda nolga yaqin, ya'ni baho siljimagan.
+Eng kichik xatoni ikkala eksponensial model berdi (0,813–0,819 m), ular orasidagi farq amaliy ahamiyatga ega emas. Biroq ular noaniqlikni turlicha baholaydi. Avtomatik moslashtirilgan modelda nagget dispersiyaning atigi 28 foizi, standartlashtirilgan xato esa 1,19 ga teng: model o'z xatosini taxminan 20 foizga kam baholaydi. Eksperimental variogrammaga yaqin masofalarda moslashtirilgan modelda nagget 0,50 m², standartlashtirilgan xato 0,93; bu model noaniqlikni birmuncha ortiq, lekin haqiqatga yaqin baholaydi. Noaniqlik va ehtimollik xaritalari uchun aynan noaniqlikni to'g'ri baholash muhim, shuning uchun keyingi barcha xaritalar shu model bo'yicha tuzildi. Sferik va eksponensial modellarda ta'sir radiusi hisob chegarasiga tiralib qoldi; bu yuqorida qayd etilgan trendning natijasi bo'lib, radius qiymati xulosa sifatida keltirilmaydi.
 
-Natijani uch jihatdan ehtiyotkorlik bilan talqin qilish kerak. Birinchidan, modelning bashorat kuchi cheklangan: kross-validatsiya xatosi (0,82 m) ma'lumotning o'z standart og'ishidan (0,99 m) atigi 17 foizga kichik. Ya'ni qo'shni quduqlar bo'yicha baho hududiy o'rtachadan ozgina yaxshiroq. Ikkinchidan, standartlashtirilgan xato birdan katta (1,10–1,24), demak model o'z noaniqligini biroz kam baholaydi. Uchinchidan, uchala modelda ta'sir radiusi hisob chegarasiga (taxminan 19 km) tiralib qoldi. Bu sathda tuman miqyosidagi umumiy yo'nalish (trend) borligini va ta'sir radiusi ishonchli aniqlanmaganini bildiradi; radius qiymati xulosa sifatida keltirilmaydi.
+**Trendni hisobga olgan modellar.** Trend mavjud bo'lgani uchun oddiy kriging yana ikki usul bilan solishtirildi. Birinchisi — universal kriging: sathning koordinatalar bo'yicha chiziqli trendi kriging tizimiga qo'shiladi \[29; 111\]. Ikkinchisi — regressiya-kriging: sath avval drenaj tarmog'i ko'rsatkichlari (eng yaqin kollektorgacha masofa logarifmi va 1 km radiusdagi kollektorlar uzunligi) bo'yicha regressiya bilan baholanadi, so'ng regressiya qoldiqlari kriging bilan interpolyatsiya qilinadi \[48\]. Ikkinchi usul tarmoq haqidagi bilimni xaritaga kiritish imkonini beradi. Qo'shimcha ravishda ikki oddiy usul — eng yaqin quduq qiymatini olish va barcha quduqlar o'rtachasini olish — solishtirish uchun asos sifatida hisoblandi (3.10-jadval).
 
-Ushbu cheklovlarning amaliy ma'nosi bor: mavjud kuzatuv tarmog'i zichligida (o'rtacha 600 m) quduqlar orasidagi sathni ishonchli tiklab bo'lmaydi. Sath qisqa masofada kuchli o'zgaradi va bu o'zgarish tarmoq tomonidan ushlanmaydi.
+*3.10-jadval. Fazoviy baholash usullarining kross-validatsiya natijalari*
 
-Kriging natijasida ikki xarita olindi (3.5-rasm): sath xaritasi va bahoning standart xatosi xaritasi. Xaritalar faqat eng yaqin quduqqacha masofa 1,5 km dan oshmaydigan hudud uchun tuzildi. Bu hududning 32 foizida ko'p yillik o'rtacha sath 2,0 m dan sayoz. Sayoz sathli zona tumanning shimoli-sharqidan janubi-g'arbiga cho'zilgan va kollektor tarmog'i zich joylashgan hududga to'g'ri keladi; chuqur sathli zonalar janubda va sharqda joylashgan. Standart xato 0,60–0,92 m oralig'ida o'zgaradi va quduqlar siyrak joylarda, ayniqsa hudud chekkalarida eng katta. Noaniqlik xaritasi kuzatuv tarmog'ini to'ldirish uchun asos bo'ladi: yangi quduq xato eng katta bo'lgan joyga qo'yilganda eng ko'p ma'lumot beradi (4.5-§).
+| Usul | O'rtacha yillik sath: RMSE, m | RMSSE | Iyul–avgust sathi: RMSE, m | RMSSE |
+| --- | --- | --- | --- | --- |
+| Barcha quduqlar o'rtachasi | 0,991 | — | 0,927 | — |
+| Eng yaqin quduq qiymati | 1,052 | — | 0,948 | — |
+| Oddiy kriging | 0,819 | 0,93 | 0,765 | 0,93 |
+| Universal kriging (chiziqli trend) | 0,828 | 0,96 | 0,782 | 0,97 |
+| Regressiya-kriging (tarmoq ko'rsatkichlari) | 0,817 | 0,95 | 0,780 | 0,97 |
+
+Jadval uchta muhim natijani beradi. Birinchidan, trendni yoki tarmoq ko'rsatkichlarini modelga kiritish bahoni yaxshilamaydi: farq 0,01–0,02 m ichida va oddiy kriging foydasiga. Ya'ni trend mavjud bo'lsa ham, uni oddiy kriging qo'shni quduqlar orqali yetarli darajada hisobga oladi. Tarmoq ko'rsatkichlarining sath bilan bog'liqligi (3.4-§) statistik ahamiyatli, lekin bashorat uchun juda kuchsiz. Ikkinchidan, eng yaqin quduq qiymati hududiy o'rtachadan ham yomonroq baho beradi (1,052 m ga qarshi 0,991 m). Bu yuqorida qayd etilgan katta nagget samarasining amaliy ifodasidir: alohida quduq o'z atrofi uchun vakil emas. Shu sababli bitta quduq o'lchovi bo'yicha unga qo'shni dalaning meliorativ holati haqida xulosa chiqarish xatoga olib keladi. Uchinchidan, krigingning hududiy o'rtachaga nisbatan yutug'i 17 foizni tashkil etadi: yillik sath uchun 0,99 m dan 0,82 m gacha, yozgi sath uchun 0,93 m dan 0,77 m gacha.
+
+**O'rtacha yillik sath xaritasi.** Kriging natijasida ikki xarita olindi (3.6-rasm): sath xaritasi va bahoning standart xatosi xaritasi. Xaritalar faqat eng yaqin quduqqacha masofa 1,5 km dan oshmaydigan hudud uchun tuzildi. Bu hududda baholangan sath 1,57–4,52 m oralig'ida, hududning 31 foizida sath 2,0 m dan sayoz. Sayoz sathli zona tumanning shimoli-sharqidan janubi-g'arbiga cho'zilgan va kollektor tarmog'i zich joylashgan hududga to'g'ri keladi; chuqur sathli zonalar janubda va sharqda joylashgan. Standart xato 0,79–1,16 m oralig'ida o'zgaradi va quduqlar siyrak joylarda, ayniqsa hudud chekkalarida eng katta. Noaniqlik xaritasi kuzatuv tarmog'ini to'ldirish uchun asos bo'ladi: yangi quduq xato eng katta bo'lgan joyga qo'yilganda eng ko'p ma'lumot beradi (4.5-§).
 
 &#91;image: Sizot suvi sathi va bahoning standart xatosi xaritalari\]
 
-*3.5-rasm. Sizot suvi sathining 2019–2024-yillardagi o'rtacha xaritasi (chapda) va bahoning standart xatosi (o'ngda). Yashil chiziqlar — kollektorlar, nuqtalar — kuzatuv quduqlari*
+*3.6-rasm. Sizot suvi sathining 2019–2024-yillardagi o'rtacha xaritasi (chapda) va bahoning standart xatosi (o'ngda). Yashil chiziqlar — kollektorlar, nuqtalar — kuzatuv quduqlari*
+
+**Kriging xaritasining silliqlash xususiyati.** Kriging bahosi qo'shni quduqlar bo'yicha o'rtachalashtirilgan qiymat bo'lgani uchun xarita haqiqiy sath maydonidan silliqroq bo'ladi: eng sayoz va eng chuqur qiymatlar xaritada yo'qoladi \[44; 54\]. O'rganilayotgan hududda bu xususiyat ayniqsa kuchli namoyon bo'ladi, chunki nagget katta. Masalan, yozgi sath bo'yicha 167 ta quduqdan 39 tasida (23 foiz) sath 1,5 m dan sayoz, kriging xaritasida esa bunday sathli maydon hududning atigi 1,3 foizini tashkil etadi. Ya'ni kriging xaritasi bo'yicha «sayoz sathli maydon» ni hisoblash muammoning ko'lamini o'n baravardan ortiq kam ko'rsatadi. Bu xulosa kriging xaritalaridan meliorativ holatni baholashda foydalanadigan barcha ishlar uchun ahamiyatlidir.
+
+**Sayoz sath ehtimoli xaritasi.** Silliqlash muammosini hal etish uchun xaritaga baho emas, ehtimol ko'rsatkichi chiqarildi. Har bir katak uchun yozgi sathning kritik chuqurlikdan (1,5 m) sayoz bo'lish ehtimoli kriging bahosi va uning standart xatosi orqali hisoblandi:
+
+```latex
+P(z < z_{kr}) = \Phi\left(\frac{z_{kr} - \hat z}{\sigma_K}\right)
+```
+
+bu yerda ẑ — kriging bahosi, σ\_K — bahoning standart xatosi, z\_kr = 1,5 m, Φ — standart normal taqsimot funksiyasi. Taqsimotning asimmetriyasi tufayli bu ehtimollik sayoz sath tomonida biroz oshirib baholanadi, shuning uchun natija ehtiyotkor baho sifatida talqin qilinadi. Natijalar 3.7-rasm va 3.11-jadvalda keltirilgan.
+
+&#91;image: Yozgi sizot suvi sathi va sayoz sath ehtimoli xaritalari\]
+
+*3.7-rasm. Iyul–avgustdagi sizot suvi sathi (chapda) va sathning 1,5 m dan sayoz bo'lish ehtimoli (o'ngda), 2019–2024-yillar o'rtachasi. Kulrang chiziqlar — massivlar chegarasi, yashil chiziqlar — kollektorlar*
+
+*3.11-jadval. Yozgi sizot suvi sathining massivlar bo'yicha xarita ko'rsatkichlari*
+
+| Massiv | Xarita bilan qoplangan maydon, % | Baholangan o'rtacha sath, m | Sathi 2,0 m dan sayoz maydon, % | Sayoz sath ehtimoli 0,3 dan katta maydon, % | Quduqlar: jami / 1,5 m dan sayoz | Standart xato, m |
+| --- | --- | --- | --- | --- | --- | --- |
+| Istiqlol | 74 | 1,97 | 61 | 55 | 25 / 10 | 0,82 |
+| M.To'jiboyev | 81 | 2,43 | 20 | 17 | 27 / 4 | 0,81 |
+| Mash'al | 86 | 1,84 | 80 | 70 | 27 / 9 | 0,82 |
+| Paxtakor | 100 | 2,04 | 41 | 21 | 19 / 1 | 0,78 |
+| T.Mirzaev | 81 | 2,67 | 30 | 28 | 14 / 1 | 0,84 |
+| U.Qoraboyev | 96 | 2,44 | 45 | 19 | 22 / 2 | 0,80 |
+| Y.Oxunboboyev | 57 | 3,13 | 0 | 0 | 7 / 0 | 0,85 |
+| Z.M.Bobur | 85 | 1,97 | 62 | 59 | 26 / 12 | 0,82 |
+| Jami | 82 | — | 49 | 40 | 167 / 39 | — |
+
+Ehtimollik xaritasi bo'yicha massivlar uchta guruhga ajraladi. Birinchi guruh — Mash'al, Z.M.Bobur va Istiqlol: bu massivlar maydonining 55–70 foizida yozgi sathning kritik chuqurlikdan sayoz bo'lish ehtimoli 0,3 dan katta, 1,5 m dan sayoz quduqlar ulushi 33–46 foiz. Tumandagi 1,5 m dan sayoz 39 ta quduqning 31 tasi aynan shu uch massivga to'g'ri keladi. Ikkinchi guruh — Paxtakor, U.Qoraboyev, T.Mirzaev va M.To'jiboyev: xavfli maydon 17–28 foiz. Uchinchi guruh — Y.Oxunboboyev: yozda ham sath 2,0 m dan chuqur. Biroq bu massiv maydonining atigi 57 foizi xarita bilan qoplangan va 3.1-§ ga ko'ra uning ma'lumotlari eng kam ishonchli; shuning uchun bu massiv bo'yicha xulosa shartli.
+
+Massivlarni tartiblashda ehtimollik ko'rsatkichi sath bahosidan ko'ra ishonchliroq natija beradi. Masalan, U.Qoraboyev massivida maydonning 45 foizida baholangan sath 2,0 m dan sayoz, lekin sathning 1,5 m dan sayoz bo'lish ehtimoli 0,3 dan katta bo'lgan maydon atigi 19 foiz. Istiqlol massivida esa bu ikki ko'rsatkich bir-biriga yaqin (61 va 55 foiz). Demak U.Qoraboyevda sath ko'pincha 1,5–2,0 m oralig'ida turadi, Istiqlolda esa kritik chegaradan pastga tushadi. 3.2-§ dagi mavsumiy tahlil (U.Qoraboyevda yozgi minimum 1,45 m) bilan birga olinganda, U.Qoraboyev uchun xavf qisqa muddatli, Istiqlol, Mash'al va Z.M.Bobur uchun esa barqaror ekani ko'rinadi.
+
+**Kuzatuv tarmog'i zichligining baho aniqligiga ta'siri.** Kuzatuv tarmog'ini rejalashtirish (4.5-§) uchun asosiy savol: quduqlar soni ko'paytirilsa, xarita qanchalik aniqlashadi? Bu savolga sun'iy siyraklashtirish tajribasi bilan javob berildi. 168 ta quduqdan tasodifiy 34 tasi nazorat uchun ajratildi, qolgan 134 tasidan esa 25, 40, 55, 70, 85 va 100 foizi tanlanib, ular bo'yicha nazorat quduqlaridagi sath baholandi. Tajriba har bir zichlik uchun 40 marta takrorlandi. Natijalar 3.8-rasmda keltirilgan.
+
+&#91;image: Kuzatuv tarmog'i zichligining kriging aniqligiga ta'siri\]
+
+*3.8-rasm. Modelga kiritilgan quduqlar soni va nazorat quduqlaridagi baholash xatosi (40 ta takrorlash o'rtachasi va standart og'ishi). Raqamlar — qo'shni quduqlar orasidagi masofaning medianasi*
+
+34 ta quduq (qo'shni quduqlar orasi 1,2 km) bo'yicha xato 0,98 m, ya'ni hududiy o'rtacha bilan baholashdan farq qilmaydi. Quduqlar soni 54 taga (980 m) yetganda xato 0,90 m gacha, 94 taga (800 m) yetganda 0,86 m gacha kamayadi. Shundan keyin xato deyarli o'zgarmaydi: 114 va 134 ta quduqda 0,84–0,86 m. Ya'ni mavjud tarmoq xarita aniqligi bo'yicha to'yinish nuqtasidan o'tgan: quduqlar orasini 800 m dan kamaytirish xaritani aniqlashtirmaydi. Bu natija katta nagget bilan izohlanadi: sathning 500 m dan kichik masofadagi o'zgaruvchanligi quduqlar orasidagi masofani bir necha baravar qisqartirmasdan turib ushlanmaydi.
+
+Bundan ikki amaliy xulosa kelib chiqadi. Birinchidan, kuzatuv tarmog'ini xarita aniqligi uchun bir tekis zichlashtirish samarasiz: mavjud quduqlar soni bilan hudud bo'yicha umumiy manzara olinadi, undan keyingi har bir yangi quduq xaritani deyarli yaxshilamaydi. Ikkinchidan, yangi quduqlarni muayyan meliorativ savolga javob beradigan joylarga qo'yish kerak: ta'mirlangan kollektorlar yaqiniga (ta'mir samarasini o'lchash uchun, 4.3-§), sayoz sath ehtimoli yuqori massivlarga va standart xato eng katta bo'lgan chekka hududlarga. Bu masala 4.5-§ da kuzatuv tarmog'ini maqbullashtirish tavsiyalariga asos qilib olinadi.
+
+**Paragraf bo'yicha umumlashma.** Sizot suvi sathi maydoni ikki darajadagi o'zgaruvchanlikka ega: tuman miqyosidagi trend (sath shimoli-g'arbdan janubi-sharqqa chuqurlashadi) va juda kuchli mahalliy o'zgaruvchanlik (nagget dispersiyaning yarmiga teng). Mahalliy o'zgaruvchanlik sababli kriging xatosi 0,8 m atrofida bo'lib, hududiy o'rtachadan atigi 17 foizga kichik; trend yoki drenaj tarmog'i ko'rsatkichlarini modelga kiritish bahoni yaxshilamaydi. Kriging xaritasi sayoz sath maydonini o'n baravardan ortiq kam ko'rsatadi (1,3 foiz maydon va 23 foiz quduqlar), shuning uchun meliorativ holatni baholash uchun sath xaritasi o'rniga sayoz sath ehtimoli xaritasidan foydalanish taklif etiladi. Bu xarita bo'yicha Mash'al, Z.M.Bobur va Istiqlol massivlari maydonining 55–70 foizida yozgi sathning kritik chuqurlikdan sayoz bo'lish xavfi mavjud. Kuzatuv tarmog'i xarita aniqligi bo'yicha to'yingan: quduqlar sonini 94 tadan oshirish xatoni kamaytirmaydi.
 
 ## 3.4-§. Sizot rejimining drenaj tarmog'i, kanallar va relyef bilan bog'liqligi
 
 Geoma'lumotlar bazasi har bir quduq uchun tarmoq ko'rsatkichlarini hisoblash imkonini berdi: eng yaqin kollektorgacha masofa, eng yaqin kanalgacha masofa va quduq atrofidagi 1 km radiusda joylashgan kollektorlar uzunligi (tarmoq zichligi). Relyef ko'rsatkichi sifatida quduqning mutlaq balandligi olindi. Tahlil 2019–2024-yillardagi o'rtacha sathi ma'lum bo'lgan 168 ta quduq bo'yicha bajarildi.
 
-**Kollektorgacha masofa.** Sath kollektorga yaqinlashgan sari sayozlashadi (3.9-jadval). Kollektordan 150 m gacha bo'lgan quduqlarda o'rtacha sath 1,98 m, 800 m dan uzoqdagilarda 3,10 m. Sathi 1,5 m dan sayoz quduqlar ulushi mos ravishda 26 foiz va 0 foiz. Spearman korrelyatsiyasi ρ = +0,40 (p < 0,0001).
+**Kollektorgacha masofa.** Sath kollektorga yaqinlashgan sari sayozlashadi (3.12-jadval). Kollektordan 150 m gacha bo'lgan quduqlarda o'rtacha sath 1,98 m, 800 m dan uzoqdagilarda 3,10 m. Sathi 1,5 m dan sayoz quduqlar ulushi mos ravishda 26 foiz va 0 foiz. Spearman korrelyatsiyasi ρ = +0,40 (p < 0,0001).
 
-*3.9-jadval. Sizot suvi sathining kollektorgacha masofaga bog'liqligi*
+*3.12-jadval. Sizot suvi sathining kollektorgacha masofaga bog'liqligi*
 
 | Kollektorgacha masofa | Quduqlar soni | O'rtacha sath, m | 1,5 m dan sayoz quduqlar ulushi |
 | --- | --- | --- | --- |
@@ -226,9 +302,9 @@ Geoma'lumotlar bazasi har bir quduq uchun tarmoq ko'rsatkichlarini hisoblash imk
 
 **Kanallar va relyef.** Kanalgacha masofa bilan bog'lanish kuchsiz (ρ = −0,18; p = 0,02) va boshqa omillar hisobga olinganda ahamiyatini yo'qotadi. Mutlaq balandlik bilan juft korrelyatsiya ham kuchsiz (ρ = +0,23; p = 0,003); balandlikning o'zi sath o'zgaruvchanligining atigi 2 foizini tushuntiradi.
 
-**Ko'p omilli model.** Uch omil birgalikda kiritilganda (3.10-jadval) faqat tarmoq ko'rsatkichi statistik ahamiyatli bo'lib qoladi. Model sath o'zgaruvchanligining 15–20 foizini tushuntiradi.
+**Ko'p omilli model.** Uch omil birgalikda kiritilganda (3.13-jadval) faqat tarmoq ko'rsatkichi statistik ahamiyatli bo'lib qoladi. Model sath o'zgaruvchanligining 15–20 foizini tushuntiradi.
 
-*3.10-jadval. Sizot suvi sathining ko'p omilli regressiya modellari (n = 168)*
+*3.13-jadval. Sizot suvi sathining ko'p omilli regressiya modellari (n = 168)*
 
 | Omil | 1-model: koeffitsiyent | p | 2-model: koeffitsiyent | p |
 | --- | --- | --- | --- | --- |
@@ -246,9 +322,9 @@ Model sath o'zgaruvchanligining 80 foizini tushuntirmaydi. Bu 3.3-§ dagi xulosa
 
 ## 3.5-§. Sizot suvlari minerallashuvining dinamikasi
 
-Minerallashuv bo'yicha ikki manba mavjud: 1999–2015-yillar uchun yiliga uch marta (1-aprel, 1-iyul, 1-oktabr holatiga) o'lchangan qiymatlar jadvali (123 ta quduq, 4 961 ta qiymat) va 2009–2024-yillar uchun yillik qiymatlar. Har ikkisi 3.1-§ dagi qoidalar bo'yicha tekshirildi. Natijalar 3.11-jadvalda keltirilgan.
+Minerallashuv bo'yicha ikki manba mavjud: 1999–2015-yillar uchun yiliga uch marta (1-aprel, 1-iyul, 1-oktabr holatiga) o'lchangan qiymatlar jadvali (123 ta quduq, 4 961 ta qiymat) va 2009–2024-yillar uchun yillik qiymatlar. Har ikkisi 3.1-§ dagi qoidalar bo'yicha tekshirildi. Natijalar 3.14-jadvalda keltirilgan.
 
-*3.11-jadval. Minerallashuv qatorlarining tekshiruvi*
+*3.14-jadval. Minerallashuv qatorlarining tekshiruvi*
 
 | Davr | Holat | Baho |
 | --- | --- | --- |
@@ -264,9 +340,9 @@ Shunday qilib 26 yillik minerallashuv qatoridan faqat 2004–2010-yillar (7 yil,
 
 Tuman bo'yicha minerallashuv medianasi 1,02–1,45 g/l oralig'ida o'zgargan va aniq yo'nalishga ega emas. Mavsumlar orasidagi farq kichik: aprelda 1,27, iyulda 1,25, oktabrda 1,32 g/l. Qiymatlarning 8,2 foizi 3 g/l dan yuqori.
 
-Massivlar orasidagi farq esa katta (3.12-jadval): Mash'al massivida mediana 2,35 g/l, U.Qoraboyev va T.Mirzaev massivlarida 0,80–0,83 g/l. Ya'ni minerallashuv bo'yicha eng og'ir massiv bilan eng yengili orasida uch baravar farq bor.
+Massivlar orasidagi farq esa katta (3.15-jadval): Mash'al massivida mediana 2,35 g/l, U.Qoraboyev va T.Mirzaev massivlarida 0,80–0,83 g/l. Ya'ni minerallashuv bo'yicha eng og'ir massiv bilan eng yengili orasida uch baravar farq bor.
 
-*3.12-jadval. Sizot suvlari minerallashuvining massivlar bo'yicha medianasi, 2004–2010-yillar*
+*3.15-jadval. Sizot suvlari minerallashuvining massivlar bo'yicha medianasi, 2004–2010-yillar*
 
 | Massiv | Mediana, g/l | Qiymatlar soni |
 | --- | --- | --- |

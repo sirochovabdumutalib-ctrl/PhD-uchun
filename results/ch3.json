@@ -138,18 +138,18 @@
     "nugget": 0.475,
     "sill": 1.459,
     "range_m": 19302,
-    "me": -0.001,
-    "rmse": 0.852,
-    "rmsse": 1.141,
+    "me": 0.0,
+    "rmse": 0.839,
+    "rmsse": 1.08,
     "nugget_ratio": 0.33
    },
    "exponential": {
     "nugget": 0.267,
     "sill": 1.468,
     "range_m": 19302,
-    "me": 0.003,
-    "rmse": 0.816,
-    "rmsse": 1.237,
+    "me": 0.005,
+    "rmse": 0.813,
+    "rmsse": 1.185,
     "nugget_ratio": 0.18
    },
    "gaussian": {
@@ -157,8 +157,8 @@
     "sill": 1.543,
     "range_m": 19302,
     "me": -0.001,
-    "rmse": 0.898,
-    "rmsse": 1.101,
+    "rmse": 0.894,
+    "rmsse": 1.089,
     "nugget_ratio": 0.42
    }
   },
