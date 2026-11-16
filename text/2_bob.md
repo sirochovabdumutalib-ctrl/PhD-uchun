@@ -105,40 +105,108 @@ Sizot suvlarining minerallashuvi 2004–2010-yillar ma’lumotlari bo’yicha tu
 
 ## 2.2-§. Meliorativ tizimning tarkibi: kollektorlar, zovurlar, kuzatuv quduqlari
 
-Tizim tarkibi 2021-yil 1-yanvar holatidagi meliorativ kadastr bo'yicha tavsiflanadi.
+Meliorativ tizimning tarkibi Andijon viloyati meliorativ ekspeditsiyasining 2021-yil 1-yanvar holatidagi kadastri bo’yicha tavsiflanadi. Kadastr yig’ma jadvallar (tarmoq turlari, inshootlar) va obyektlar ro’yxatlaridan (har bir kollektor, ichki zovur, yopiq drenaj va kuzatuv qudug’i) iborat.
 
-**Kollektor-drenaj tarmog'i.** Kadastrning yig'ma jadvaliga ko'ra tumanda 621,1 km ochiq va 91,7 km yopiq-yotiq drenaj tarmog'i bor (2.4-jadval). Ochiq tarmoqning 57 foizi va yopiq drenajning 61 foizi suv iste'molchilari uyushmalari hisobida.
+**Kollektor-drenaj tarmog’ining umumiy tarkibi.** Kadastrning yig’ma jadvaliga ko’ra tumanda 621,1 km ochiq va 91,7 km yopiq-yotiq kollektor-drenaj tarmog’i mavjud (2.4-jadval). Tarmoq to’rt iyerarxik darajaga bo’linadi: magistral, tumanlararo, xo’jaliklararo kollektorlar va xo’jalik ichki zovurlari. Ochiq tarmoqning 57 foizi va yopiq drenajning 61 foizi suv iste’molchilari uyushmalari hisobida, qolgani davlat hisobida.
 
-*2.4-jadval. Kollektor-drenaj tarmog'ining tarkibi (kadastr, 2021)*
+*2.4-jadval. Marhamat tumani kollektor-drenaj tarmog’ining tarkibi (kadastr, 2021-yil 1-yanvar)*
 
-| Tarmoq turi | Soni | Uzunligi, km | Hisobida |
+| Tarmoq turi | Soni | Uzunligi, km | Ochiq tarmoqdagi ulushi, % | Hisobida |
+| --- | --- | --- | --- | --- |
+| Magistral kollektorlar, jami | 15 | 41,8 | 6,7 | Davlat |
+| shu jumladan davlatlararo | 14 | 36,3 |  | Davlat |
+| shu jumladan viloyatlararo | 1 | 5,5 |  | Davlat |
+| Tumanlararo kollektorlar | 3 | 21,5 | 3,5 | Davlat |
+| Xo’jaliklararo kollektorlar | 72 | 202,5 | 32,6 | Davlat |
+| Xo’jalik ichki zovurlari | 330 | 355,3 | 57,2 | Suv iste’molchilari uyushmalari |
+| Ochiq tarmoq, jami | 420 | 621,1 | 100,0 |  |
+| Yopiq-yotiq drenaj | 7 | 36,0 |  | Davlat |
+| Yopiq-yotiq drenaj | 7 | 55,7 |  | Suv iste’molchilari uyushmalari |
+
+Tumanning o’ziga xos xususiyati — davlatlararo kollektorlarning ko’pligi. Kadastrga ko’ra 14 ta magistral kollektor O’zbekiston va Qirg’iziston hududidan o’tadi; ularning umumiy uzunligi 36,3 km, shundan O’zbekiston hududida atigi 6,7 km. Masalan, Aravon kollektorining 8,4 km uzunligidan 1,1 km, Yuqori Rovot kollektorining 3,2 km dan 0,9 km, Beshtentak kollektorining 5,2 km dan 4,7 km qismi O’zbekiston hududida joylashgan. Bu holat tarmoqni boshqarishda muhim: kollektorning yuqori qismidagi holat va unga tushadigan suv miqdori qo’shni davlat hududida shakllanadi. Polvontosh kollektori (5,5 km) viloyatlararo kollektor sifatida qayd etilgan.
+
+**Davlat hisobidagi kollektorlar.** Kadastrda davlat hisobidagi 90 ta kollektorning har biri uchun nomi, uzunligi, oxiridagi suv sarfi, xizmat ko’rsatish maydoni, foydalanishga topshirilgan yili, oxirgi ta’mir yili va ta’mirlangan uchastka (piketlar) ko’rsatilgan; 53 tasida ta’mir xarajati ham bor. Ularning umumiy uzunligi 265,8 km, xizmat ko’rsatish maydoni 11 079 ga; barchasi III kapitallik sinfiga kiradi va meliorativ ekspeditsiya tomonidan ishlatiladi.
+
+Kollektorlar o’lchami bo’yicha keskin farq qiladi (2.5-jadval). Ularning yarmi 2,1 km dan qisqa; 10 km dan uzunlari faqat bitta — G’arbiy Qoraqo’rg’on (12,5 km). Oxiridagi suv sarfi bo’yicha ham farq katta: 31 ta kollektorda sarf 0,01 m³/s gacha, faqat 5 tasida 1 m³/s dan ortiq. Barcha kollektorlar oxiridagi sarflar yig’indisi 18,3 m³/s.
+
+*2.5-jadval. Davlat hisobidagi kollektorlarning uzunlik va suv sarfi bo’yicha taqsimoti*
+
+| Uzunlik, km | Kollektorlar soni |  | Oxiridagi sarf, m³/s | Kollektorlar soni |
+| --- | --- | --- | --- | --- |
+| 1,0 gacha | 21 |  | 0,01 gacha | 31 |
+| 1,0–2,0 | 24 |  | 0,01–0,05 | 24 |
+| 2,0–5,0 | 30 |  | 0,05–0,2 | 25 |
+| 5,0–10,0 | 14 |  | 0,2–1,0 | 5 |
+| 10,0 dan ortiq | 1 |  | 1,0 dan ortiq | 5 |
+| Jami | 90 |  | Jami | 90 |
+
+Eng uzun o’nta kollektor tarmoqning asosiy bo’g’inini tashkil etadi (2.6-jadval). Ular asosan 1940–1950-yillarda qurilgan va 2012–2020-yillarda ta’mirlangan.
+
+*2.6-jadval. Uzunligi bo’yicha eng yirik o’nta kollektor*
+
+| Kollektor | Uzunligi, km | Oxiridagi sarf, m³/s | Xizmat maydoni, ga | Foydalanishga topshirilgan yil | Oxirgi ta’mir yili |
+| --- | --- | --- | --- | --- | --- |
+| G’arbiy Qoraqo’rg’on | 12,50 | 4,60 | 580 | 1918 | 2020 |
+| Nayman | 9,80 | 1,20 | 480 | 1948 | 2019 |
+| G’arbiy | 9,70 | 2,00 | 545 | 1944 | 2019 |
+| Markaziy | 8,50 | 1,50 | 375 | 1944 | 2012 |
+| Aravon | 8,40 | 0,20 | 304 | 1943 | 2013 |
+| Shukur mergan | 8,36 | 0,20 | 440 | 1948 | 2017 |
+| JFK chap | 8,30 | 0,06 | 512 | 1969 | 2019 |
+| Sharqiy Qoraqo’rg’on | 8,11 | 0,05 | 450 | 1950 | 2019 |
+| OD-2 | 6,70 | 0,30 | 151 | 1957 | 2016 |
+| Sho’r | 6,70 | 0,20 | 619 | 1951 | 2019 |
+
+Kollektorlarning yoshi va ta’mir tarixi ishonchlilik ko’rsatkichi sifatida 4.1-§ da, suv sarfi va xizmat maydoni nisbati esa gidravlik ko’rsatkich sifatida 4.2-§ da tahlil qilinadi.
+
+**Xo’jalik ichki zovurlari.** Kadastrning ichki zovurlar ro’yxatida tuman bo’yicha 332 ta yozuv bor, ularning umumiy uzunligi 370,7 km; yig’ma jadvalda esa 330 ta zovur va 355,3 km ko’rsatilgan. 15,4 km lik farq ro’yxat va yig’ma jadval turli sanalarda yangilangani bilan bog’liq bo’lishi mumkin \[aniqlashtiriladi\]. Ro’yxatda zovurlar massivlar va «Markaziy zovur tizimi» bo’yicha guruhlangan; har bir zovur uchun uzunligi, oxiridagi sarf, xizmat maydoni, foydalanishga topshirilgan yili va ta’mir yili berilgan. Ichki zovurlar dala bilan bevosita bog’langan quyi bo’g’in bo’lib, sizot suvlarini bevosita qabul qiladi; ularning holati 4.1-§ da tahlil qilinadi.
+
+**Yopiq-yotiq drenaj.** Kadastrga ko’ra tumanda 14 ta yopiq-yotiq drenaj tizimi bor, umumiy uzunligi 91,7 km. Ro’yxatda M.Tojiboyev massividagi 6,82 km uzunlikdagi yopiq drenaj alohida qayd etilgan; u 2016-yilda foydalanishga topshirilgan va 60 ga maydonga xizmat ko’rsatadi. Yopiq drenaj yer ostida joylashgani uchun meliorativ ekspeditsiya xaritasida ko’rsatilmagan va mazkur tadqiqotdagi fazoviy tahlilga kiritilmagan.
+
+**Gidrotexnik inshootlar.** Kollektor-drenaj tarmog’ida jami 455 ta inshoot qayd etilgan (2.7-jadval). Ularning yarmidan ko’pi (238 ta) davlat hisobidagi nazorat tarmog’i inshootlaridir. Inshootlar tarmoq ishonchliligida muhim o’rin tutadi: ko’prik va quvurli o’tish joylari ostida loyqa tez to’planadi va ular kollektorning o’tkazish qobiliyatini cheklovchi «tor joy» bo’lib qolishi mumkin \[89, 103\].
+
+*2.7-jadval. Kollektor-drenaj tarmog’idagi gidrotexnik inshootlar (kadastr, 2021)*
+
+| Inshoot turi | Davlat hisobida | Suv iste’molchilari uyushmalari hisobida | Jami |
 | --- | --- | --- | --- |
-| Magistral kollektorlar | 15 | 41,8 | Davlat |
-| Tumanlararo kollektorlar | 3 | 21,5 | Davlat |
-| Xo'jaliklararo kollektorlar | 72 | 202,5 | Davlat |
-| Xo'jalik ichki zovurlari | 330 | 355,3 | Suv iste'molchilari uyushmalari |
-| Yopiq-yotiq drenaj | 7 | 36,0 | Davlat |
-| Yopiq-yotiq drenaj | 7 | 55,7 | Suv iste'molchilari uyushmalari |
+| Nazorat tarmog’i inshootlari | 238 | — | 238 |
+| Ochiq ko’priklar | 26 | 117 | 143 |
+| Quvurli o’tish joylari | 7 | 35 | 42 |
+| Dyukerlar | 10 | — | 10 |
+| Suv o’lchash inshootlari | 6 | — | 6 |
+| Akveduklar | 2 | — | 2 |
+| Suv to’sish inshootlari | 1 | — | 1 |
+| Boshqalar | — | 13 | 13 |
+| Jami | 290 | 165 | 455 |
 
-Davlat hisobidagi 90 ta ochiq kollektor (265,8 km) bo'yicha kadastrda har biri uchun nomi, uzunligi, oxiridagi suv sarfi, xizmat ko'rsatish maydoni, foydalanishga topshirilgan yili, oxirgi ta'mir yili va ta'mirlangan uchastka ko'rsatilgan; 53 tasida ta'mir xarajati ham bor. Ichki zovurlar ro'yxatida 332 ta yozuv (370,7 km) mavjud; yig'ma jadvaldagi 355,3 km dan farqi \[aniqlashtiriladi\]. Tarmoqda 455 ta gidrotexnik inshoot qayd etilgan, shundan 238 tasi nazorat tarmog'i inshootlari.
+Suv o’lchash inshootlari atigi oltita. Bu kollektorlardagi drenaj oqimini muntazam o’lchash imkoniyati cheklanganini bildiradi: kadastrdagi kollektor oxiridagi sarflar asosan loyiha yoki bir martalik o’lchov qiymatlari bo’lishi mumkin. Shu sababli tarmoq ishini drenaj oqimi orqali emas, sizot suvlari rejimi orqali baholash amaliy jihatdan yagona imkoniyat bo’lib qoladi.
 
-Kollektorlar asosan 1940–1960-yillarda qurilgan (4.1-§). Ular umumiy drenaj tarmog'ining faqat bir qismini tashkil etadi: ochiq tarmoq uzunligining 43 foizi.
-
-**Kuzatuv quduqlari.** Kadastrda 188 ta quduqning pasporti bor: massivi, qurilgan yili, chuqurligi, diametri, materiali, biriktirilgan maydoni va mutlaq balandligi. GAT eksportida esa tuman bo'yicha 205 ta quduq nuqtasi koordinatalari bilan berilgan. Ikki ro'yxat orasidagi farq nomlanishdagi tafovutlar (masalan, «104А» va «104а») va pasporti rasmiylashtirilmagan qo'shimcha quduqlar bilan izohlanadi.
+**Kuzatuv quduqlari.** Kadastrda tuman bo’yicha 188 ta kuzatuv qudug’ining pasporti bor: massivi, qurilgan yili, chuqurligi, diametri, materiali, biriktirilgan maydoni va mutlaq balandligi. Barcha quduqlarning diametri 100 mm. Bitta quduqqa o’rtacha 85 ga maydon biriktirilgan (48 dan 133 ga gacha); jami biriktirilgan maydon 15 985 ga.
 
 Quduqlar tarkibining ikki xususiyati keyingi tahlil uchun muhim.
 
-Birinchidan, quduqlarning ko'pchiligi yangi: 188 tadan 120 tasi (64 foiz) 2013–2016-yillarda polietilen quvurdan qurilgan, 65 tasi 1971–1990-yillarga tegishli metall quduqlar. Demak kuzatuv tarmog'i 2013–2016-yillarda deyarli yangilangan. Bu 3.1-§ da aniqlangan tarmoq tarkibi o'zgarishining sababini ko'rsatadi.
+Birinchidan, kuzatuv tarmog’i asosan yangi. 188 ta quduqdan 120 tasi (64 foiz) 2013–2016-yillarda polietilen quvurdan qurilgan; 65 tasi 1971–1990-yillarda, 3 tasi 1991–2012-yillarda metall quvurdan qurilgan quduqlardir (2.8-jadval). Demak kuzatuv tarmog’i 2013–2016-yillarda deyarli yangilangan. Bu 3.1-§ da aniqlangan tarmoq tarkibi o’zgarishini izohlaydi.
 
-Ikkinchidan, quduqlar sayoz: chuqurlik medianasi 3,2 m, quduqlarning yarmi 3,0–3,5 m oralig'ida. Sizot suvi quduq tubidan pastga tushganda quduq quriydi va haqiqiy sathni o'lchab bo'lmaydi. Monitoring jadvallarida yil bo'yi «3,0 m» deb yozilgan qatorlar (3.1-§) aynan shunday hollarga to'g'ri kelishi mumkin. Bu o'lchov chegarasi: chuqurligi 3 m bo'lgan quduq 3 m dan chuqur sathni qayd eta olmaydi, shu sababli sath chuqur hududlarda o'rtacha qiymat kamaytirib ko'rsatiladi.
+*2.8-jadval. Kuzatuv quduqlarining qurilish davri, materiali va chuqurligi*
 
-Bitta quduqqa o'rtacha 85 ga maydon biriktirilgan; jami biriktirilgan maydon 15 985 ga. Quduqlar soni manbalar bo'yicha farq qiladi: pasportda 188 ta, koordinatalar jadvalida 205 ta, 2024-yilgi xaritada 202 ta, 2009–2024-yillar kuzatuv jadvallarida esa jami 196 ta quduq uchraydi. Keyingi boblarda har bir hisob qaysi manbaga tayanishi ko'rsatiladi.
+| Qurilish davri | Quduqlar soni | Material | Chuqurlik medianasi, m |
+| --- | --- | --- | --- |
+| 1971–1990 | 65 | Metall | 3,1 |
+| 1991–2012 | 3 | Metall | 3,2 |
+| 2013–2016 | 120 | Polietilen | 3,2 |
+| Jami | 188 |  | 3,2 |
+
+Ikkinchidan, quduqlar sayoz. Chuqurlik medianasi 3,2 m; 142 ta quduq (76 foiz) 2,5–3,5 m chuqurlikda, faqat 26 tasi (14 foiz) 4 m dan chuqur. Sizot suvi quduq tubidan pastga tushganda quduq quriydi va haqiqiy sathni o’lchab bo’lmaydi (1.4-§). 2024-yil 1-aprel holatiga quduqlarning 28 foizida sath 3 m dan chuqur bo’lgan (2.3-jadval), ya’ni ularning bir qismi o’lchov chegarasiga yaqin ishlaydi. Bu sath chuqur hududlarda monitoring sathni kamaytirib ko’rsatishi mumkinligini bildiradi; masala 3.1-§ da miqdoriy ko’rib chiqiladi.
+
+**Manbalar orasidagi farqlar.** Quduqlar soni manbalar bo’yicha farq qiladi: pasportda 188 ta, GAT eksportidagi koordinatalar jadvalida 205 ta, 2024-yilgi xaritada 202 ta, 2009–2024-yillar kuzatuv jadvallarida esa jami 196 ta quduq uchraydi. Farqlarning bir qismi nomlanishdagi tafovutlar bilan (masalan, «104А» va «104а»), bir qismi pasporti rasmiylashtirilmagan qo’shimcha quduqlar bilan izohlanadi. Keyingi boblarda har bir hisob qaysi manbaga tayanishi ko’rsatiladi.
+
+Shunday qilib, kadastr meliorativ tizimning tarkibi to’g’risida batafsil ma’lumot beradi, ammo bu ma’lumotlar jadval shaklida bo’lib, fazoviy joylashuvga ega emas. Kollektorlarni sizot suvlari rejimi bilan bog’lash uchun ularni geoma’lumotlar bazasiga o’tkazish zarur; bu 2.3-§ da bayon etiladi.
 
 ## 2.3-§. Geoma'lumotlar bazasini shakllantirish: xaritalarni joyiga bog'lash va tarmoqni vektorlash
 
-Tadqiqot boshida drenaj tarmog'ining tayyor raqamli qatlamlari mavjud emas edi. Mavjud manbalar: kuzatuv quduqlarining koordinatalari jadvali va meliorativ ekspeditsiyaning 1:50 000 masshtabli ikki xaritasi (2024-yil 1-aprel holatiga sizot suvlari sathi va minerallashuvi). Xaritalar PDF shaklida bo'lib, ularda quduqlar, kollektorlar, kanallar va massiv chegaralari tasvirlangan. Geoma'lumotlar bazasi shu manbalardan besh bosqichda tiklandi (2.5-jadval).
+Tadqiqot boshida drenaj tarmog'ining tayyor raqamli qatlamlari mavjud emas edi. Mavjud manbalar: kuzatuv quduqlarining koordinatalari jadvali va meliorativ ekspeditsiyaning 1:50 000 masshtabli ikki xaritasi (2024-yil 1-aprel holatiga sizot suvlari sathi va minerallashuvi). Xaritalar PDF shaklida bo'lib, ularda quduqlar, kollektorlar, kanallar va massiv chegaralari tasvirlangan. Geoma'lumotlar bazasi shu manbalardan besh bosqichda tiklandi (2.9-jadval).
 
-*2.5-jadval. Geoma'lumotlar bazasini shakllantirish bosqichlari*
+*2.9-jadval. Geoma'lumotlar bazasini shakllantirish bosqichlari*
 
 | Bosqich | Mazmuni | Natija |
 | --- | --- | --- |
@@ -164,9 +232,9 @@ Nomlarni biriktirishda xarita va kadastr turli qisqartmalardan foydalanishi hiso
 
 **Massiv chegaralari.** Xaritada massiv chegaralari qizil chiziq bilan berilgan, lekin ular ko'p joyda kollektor, kanal va aholi punktlari belgilari ostida qolib, uzuq-yuluq ko'rinadi. Shuning uchun chegaralar ikki manbadan tiklandi. Qizil chiziq bo'laklari to'siq sifatida olindi; har bir massivning pasportdagi quduqlaridan to'siqni hisobga oluvchi (geodezik) masofa hisoblandi va hududning har bir nuqtasi eng yaqin massivga biriktirildi. Qizil chiziq saqlangan joyda chegara aynan shu chiziqdan o'tadi; chiziq ko'rinmaydigan joyda u qo'shni massivlar quduqlari o'rtasidan o'tadi va taxminiydir.
 
-Natija mustaqil belgi bilan tekshirildi: xaritadagi sakkizta massiv nomi yozuvining har biri o'z poligoni ichiga tushdi. Pasportli 174 ta quduqning barchasi o'z massivi poligonida joylashgan; pasporti yo'q 28 ta quduq poligon bo'yicha massivga biriktirildi. Massivlar maydoni 2.6-jadvalda keltirilgan.
+Natija mustaqil belgi bilan tekshirildi: xaritadagi sakkizta massiv nomi yozuvining har biri o'z poligoni ichiga tushdi. Pasportli 174 ta quduqning barchasi o'z massivi poligonida joylashgan; pasporti yo'q 28 ta quduq poligon bo'yicha massivga biriktirildi. Massivlar maydoni 2.10-jadvalda keltirilgan.
 
-*2.6-jadval. Xarita bo'yicha massivlar maydoni va kollektorlar zichligi*
+*2.10-jadval. Xarita bo'yicha massivlar maydoni va kollektorlar zichligi*
 
 | Massiv | Umumiy maydon, ga | Sug'oriladigan maydon, ga | Kollektorlar (xaritada), km | Kollektor zichligi, m/ga |
 | --- | --- | --- | --- | --- |
@@ -186,9 +254,9 @@ Barcha bosqichlar dasturiy ravishda bajarilgan va takrorlanadi; boshqa tuman uch
 
 ## 2.4-§. Monitoring ma'lumotlarining ishonchliligini baholash usuli
 
-Monitoring qatorlari uchta rasmiy qoida bo'yicha tekshiriladi. Qoidalar ma'lumotning fizik ma'nosiga tayanadi va hech qanday qo'shimcha o'lchov talab qilmaydi (2.7-jadval).
+Monitoring qatorlari uchta rasmiy qoida bo'yicha tekshiriladi. Qoidalar ma'lumotning fizik ma'nosiga tayanadi va hech qanday qo'shimcha o'lchov talab qilmaydi (2.11-jadval).
 
-*2.7-jadval. Monitoring ma'lumotlarini tekshirish qoidalari*
+*2.11-jadval. Monitoring ma'lumotlarini tekshirish qoidalari*
 
 | Qoida | Mezon | Asos | Chora |
 | --- | --- | --- | --- |
