@@ -1,0 +1,124 @@
+{
+ "n": 53,
+ "to_balance": {
+  "med": 0.33,
+  "q25": 0.24,
+  "q75": 0.43,
+  "total": 0.05
+ },
+ "balance_total_all": 468433,
+ "balance_repaired": 428866,
+ "cost_ha": {
+  "med": 3.69,
+  "q25": 1.74,
+  "q75": 7.25,
+  "total": 2.69,
+  "ha": 7909
+ },
+ "scale": {
+  "slope": -0.411,
+  "p": 0.0021,
+  "r2": 0.171
+ },
+ "rho_cost_age": [
+  -0.181,
+  0.195
+ ],
+ "by_len": {
+  "<1 km": {
+   "n": 13,
+   "cost_km": 226.0
+  },
+  "1-3 km": {
+   "n": 19,
+   "cost_km": 145.4
+  },
+  ">3 km": {
+   "n": 21,
+   "cost_km": 135.3
+  }
+ },
+ "mapped": {
+  "n": 36,
+  "cost": 17339,
+  "share": 0.814
+ },
+ "by_massif": [
+  {
+   "massif": "З.М.Бобур",
+   "cost": 2800.5,
+   "n": 6.0,
+   "irr_ha": 3610,
+   "cost_per_ha": 776.0,
+   "risk_wells": 17.0,
+   "p30": 59
+  },
+  {
+   "massif": "Истиқлол",
+   "cost": 3381.1,
+   "n": 6.0,
+   "irr_ha": 2146,
+   "cost_per_ha": 1576.0,
+   "risk_wells": 12.0,
+   "p30": 55
+  },
+  {
+   "massif": "Й.Охунбобоев",
+   "cost": 0.0,
+   "n": 0.0,
+   "irr_ha": 1191,
+   "cost_per_ha": 0.0,
+   "risk_wells": NaN,
+   "p30": 0
+  },
+  {
+   "massif": "М.Тожибоев",
+   "cost": 316.8,
+   "n": 3.0,
+   "irr_ha": 2532,
+   "cost_per_ha": 125.0,
+   "risk_wells": 4.0,
+   "p30": 17
+  },
+  {
+   "massif": "Машъал",
+   "cost": 4051.0,
+   "n": 13.0,
+   "irr_ha": 3790,
+   "cost_per_ha": 1069.0,
+   "risk_wells": 17.0,
+   "p30": 70
+  },
+  {
+   "massif": "Пахтакор",
+   "cost": 983.6,
+   "n": 5.0,
+   "irr_ha": 1601,
+   "cost_per_ha": 614.0,
+   "risk_wells": 4.0,
+   "p30": 21
+  },
+  {
+   "massif": "Т.Мирзаев",
+   "cost": 2868.2,
+   "n": 5.0,
+   "irr_ha": 3371,
+   "cost_per_ha": 851.0,
+   "risk_wells": 1.0,
+   "p30": 28
+  },
+  {
+   "massif": "У.Қорабоев",
+   "cost": 2937.9,
+   "n": 9.0,
+   "irr_ha": 2420,
+   "cost_per_ha": 1214.0,
+   "risk_wells": 1.0,
+   "p30": 19
+  }
+ ],
+ "rho_cost_risk": [
+  0.393,
+  0.383
+ ]
+}

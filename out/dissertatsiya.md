@@ -1879,7 +1879,9 @@ Asosiy xulosa: tumanda 2017–2020-yillarda ta'mirga 21,3 mlrd so'm sarflangan (
 
 ## 4.4-§. Ta'mir xarajatlari tahlili
 
-Kadastrda 53 ta kollektor bo'yicha 2017–2020-yillardagi ta'mir xarajati va ta'mirlangan uchastka (piketlar) ko'rsatilgan. Jami 163,3 km uchastkaga 21 314 mln so'm sarflangan. Uzunlik bo'yicha tortilgan o'rtacha narx 130,5 mln so'm/km, mediana 146,0 mln so'm/km. Yillar bo'yicha taqsimot 4.4-jadvalda keltirilgan. Yillar bo'yicha taqsimot 4.4-jadvalda keltirilgan.
+Ta'mir xarajatlari meliorativ tizim samaradorligining iqtisodiy tomonini tavsiflaydi: qancha mablag' sarflangani, u tarmoqning qaysi qismiga yo'naltirilgani va sarflangan mablag' qanday natija bergani \[140; 141\]. Ushbu paragrafda kadastrdagi xarajat ma'lumotlari uch jihatdan tahlil qilinadi: 1 km ta'mir narxi va unga ta'sir etuvchi omillar, xarajatlarning balans qiymati va xizmat maydoniga nisbati hamda xarajatlarning massivlar bo'yicha taqsimoti va uning meliorativ ehtiyojga mosligi.
+
+**Umumiy ko'rsatkichlar.** Kadastrda 53 ta kollektor bo'yicha 2017–2020-yillardagi ta'mir xarajati va ta'mirlangan uchastka (piketlar) ko'rsatilgan. Jami 163,3 km uchastkaga 21 314 mln so'm sarflangan. Uzunlik bo'yicha tortilgan o'rtacha narx 130,5 mln so'm/km, mediana 146,0 mln so'm/km. Yillar bo'yicha taqsimot 4.4-jadvalda keltirilgan. Yillar bo'yicha taqsimot 4.9-jadvalda keltirilgan.
 
 
 ::: {custom-style="Sarlavha-jadval"}
@@ -1894,21 +1896,54 @@ Kadastrda 53 ta kollektor bo'yicha 2017–2020-yillardagi ta'mir xarajati va ta'
 | 2020 | 3 | 13,8 | 3 636 | 263,5 |
 | Jami | 53 | 163,3 | 21 314 | 130,5 |
 
-Narxlar ikki guruhga aniq ajraladi. 2019-yilda ta'mirlangan sakkizta kollektorda (Qushchi, Nayman, G'arbiy, ND-2-1, Sho'r qishloq, Ambarquloq, Marhamat, ND-7) narx 15–30 mln so'm/km; bu yengil tozalash ishlariga mos keladi. Qolgan 45 ta kollektorda narx asosan 95–270 mln so'm/km oralig'ida; bu mexanizmlar bilan chuqurlashtirish va tiklash ishlariga mos keladi. Ikki guruh orasidagi farq taxminan sakkiz baravar. Eng yuqori narx To'rtko'l kollektorida qayd etilgan: 671,5 mln so'm/km.
+**Narx tarkibi.** Narxlar ikki guruhga aniq ajraladi. 2019-yilda ta'mirlangan sakkizta kollektorda (Qushchi, Nayman, G'arbiy, ND-2-1, Sho'r qishloq, Ambarquloq, Marhamat, ND-7) narx 15–30 mln so'm/km; bu yengil tozalash ishlariga mos keladi. Qolgan 45 ta kollektorda narx asosan 95–270 mln so'm/km oralig'ida; bu mexanizmlar bilan chuqurlashtirish va tiklash ishlariga mos keladi. Ikki guruh orasidagi farq taxminan sakkiz baravar. Eng yuqori narx To'rtko'l kollektorida qayd etilgan: 671,5 mln so'm/km.
 
-Narx kollektorning suv sarfi bilan bog'liq emas (logarifmik korrelyatsiya −0,22): kichik zovurlarni ta'mirlash 1 km hisobida yirik kollektorlarnikidan arzon chiqmagan. Qisqa kollektorlarda (0,3–0,6 km) solishtirma narx eng yuqori, bu ish hajmiga bog'liq bo'lmagan doimiy xarajatlar ulushi bilan izohlanishi mumkin.
+Narx kollektorning suv sarfi bilan bog'liq emas (logarifmik korrelyatsiya −0,22) va yoshi bilan ham bog'lanmagan (ρ = −0,18; p = 0,20). Biroq ta'mirlangan uchastka uzunligi bilan aniq bog'liqlik bor: 1 km dan qisqa uchastkalarda narx medianasi 226 mln so'm/km, 1–3 km uchastkalarda 145 mln so'm/km, 3 km dan uzunlarida 135 mln so'm/km. Logarifmik regressiya bo'yicha uchastka uzunligi ikki baravar oshganda 1 km narxi taxminan 25 foizga kamayadi (darajali ko'rsatkich −0,41; p = 0,002). Bu hajm samarasi ish hajmiga bog'liq bo'lmagan doimiy xarajatlar (texnikani tashish, tayyorlov ishlari) bilan izohlanadi. Amaliy xulosa: qo'shni kichik kollektorlarni bitta shartnoma doirasida birgalikda ta'mirlash xarajatni kamaytiradi.
 
-Ikki amaliy xulosa kelib chiqadi. Birinchidan, 1 km ta'mirning haqiqiy narxi (mediana 146 mln so'm) rejalashtirish hisoblari uchun asos bo'ladi. Ikkinchidan, yengil tozalash va kapital ta'mir orasidagi sakkiz baravarlik narx farqi ta'mir turini to'g'ri tanlashni muhim qiladi; lekin qaysi tur qancha meliorativ natija berishi o'lchanmagan ekan (4.3-§), bu tanlovni asoslab bo'lmaydi.
+**Balans qiymati va xizmat maydoniga nisbat.** Ta'mirlangan kollektorlarda ta'mir xarajati kadastrdagi balans qiymatining medianasi bo'yicha 33 foizini (kvartillar 24 va 43 foiz) tashkil etadi. Ya'ni bitta ta'mir kollektor qiymatining uchdan bir qismiga teng; bunday nisbat ta'mirning ko'pchilik hollarda yengil tozalash emas, kapital tiklash xususiyatida bo'lganini tasdiqlaydi. Balans qiymati qayta baholanmagan bo'lishi mumkinligi sababli bu nisbat taxminiy. Xizmat maydoniga nisbatan ta'mir xarajati 53 ta kollektor bo'yicha (7 909 ga) o'rtacha 2,69 mln so'm/ga, kollektorlar bo'yicha mediana 3,69 mln so'm/ga.
 
-**Cheklov.** Kadastrda ta'mir turi faqat ikki kollektor uchun yozilgan; yengil tozalash va kapital ta'mirga ajratish narx bo'yicha qilingan taxmindir. Xarajatlar joriy narxlarda, inflyatsiyaga tuzatilmagan.
-
-## 4.5-§. Monitoring tizimini takomillashtirish va amaliy tavsiyalar
-
-III bob va 4.1–4.4-§ natijalari bitta umumiy xulosaga olib keladi: meliorativ tizim samaradorligini ta'minlashning birinchi sharti uni o'lchay olishdir. Quyidagi tavsiyalar shu maqsadga qaratilgan; har biri tadqiqotning aniq natijasiga tayanadi (4.10-jadval).
+**Xarajatlarning massivlar bo'yicha taqsimoti.** Kadastr xarajatlarni massivlar bo'yicha ko'rsatmaydi, shuning uchun taqsimot geoma'lumotlar bazasi orqali tiklandi: har bir kollektorning xarajati uning xaritadagi bo'laklari massivlar bo'yicha uzunligiga mutanosib taqsimlandi (4.1-§). Bu usul 36 ta kollektor va umumiy xarajatning 81 foizi (17 339 mln so'm) uchun bajarildi. Natijalar 4.10-jadval va 4.5-rasmda III bobda aniqlangan meliorativ xavf ko'rsatkichlari bilan birga keltirilgan.
 
 
 ::: {custom-style="Sarlavha-jadval"}
-4.10-jadval. Amaliy tavsiyalar va ularning asosi
+4.10-jadval. Kollektorlar ta'mir xarajatlarining massivlar bo'yicha taqsimoti (2017–2020-yillar) va meliorativ xavf ko'rsatkichlari
+:::
+
+| Massiv | Sug'oriladigan maydon, ga | Ta'mirlangan kollektorlar\* | Xarajat, mln so'm | Xarajat, ming so'm/ga | Yozgi sayoz sath ehtimoli 0,3 dan katta maydon, % (3.3-§) | Sho'rlanish xavfli quduqlar (3.5-§) |
+| --- | --- | --- | --- | --- | --- | --- |
+| Istiqlol | 2 146 | 6 | 3 381 | 1 576 | 55 | 12 |
+| U.Qoraboyev | 2 420 | 9 | 2 938 | 1 214 | 19 | 1 |
+| Mash'al | 3 790 | 13 | 4 051 | 1 069 | 70 | 17 |
+| T.Mirzaev | 3 371 | 5 | 2 868 | 851 | 28 | 1 |
+| Z.M.Bobur | 3 610 | 6 | 2 801 | 776 | 59 | 17 |
+| Paxtakor | 1 601 | 5 | 984 | 614 | 21 | 4 |
+| M.To'jiboyev | 2 532 | 3 | 317 | 125 | 17 | 4 |
+| Y.Oxunboboyev | 1 191 | 0 | 0 | 0 | 0 | — |
+| Jami | 20 661 | 36 | 17 339 | 839 | — | 56 |
+
+Izoh: \* — bir kollektor bir necha massivdan o'tishi mumkin, shuning uchun massivlar bo'yicha sonlar yig'indisi jami sondan katta.
+
+
+![](figures/ch4_cost_massif.png){width=16cm}
+
+
+::: {custom-style="Sarlavha-jadval"}
+4.5-rasm. Massivlar bo'yicha 1 ga sug'oriladigan maydonga to'g'ri keladigan ta'mir xarajati (2017–2020-yillar) va yozda sath kritik chuqurlikdan sayoz bo'lish ehtimoli yuqori maydon ulushi (doira o'lchami — sug'oriladigan maydon)
+:::
+
+Ta'mir xarajatlari massivlar orasida 12 baravardan ko'proq farq qiladi: 1 ga sug'oriladigan maydonga hisoblaganda Istiqlol massivida 1 576 ming so'm, M.To'jiboyev massivida 125 ming so'm; Y.Oxunboboyev massivida kollektor yo'q. Xarajat va meliorativ xavf o'rtasidagi bog'lanish kuchsiz va statistik ahamiyatsiz (Spearman ρ = +0,39; p = 0,38; yettita massiv). Ikki holat ayniqsa e'tiborga loyiq. Z.M.Bobur massivi meliorativ xavf bo'yicha birinchi o'rinlarda (sayoz sath ehtimoli yuqori maydon 59 foiz, sho'rlanish xavfli quduqlar 17 ta, sath ko'tarilmoqda), lekin unga to'g'ri kelgan xarajat tuman o'rtachasidan past (776 ming so'm/ga). U.Qoraboyev massivida esa xavf past (19 foiz, 1 ta quduq), xarajat esa ikkinchi o'rinda (1 214 ming so'm/ga). Bu natija 4.1-§ dagi xulosani to'ldiradi: ta'mir mablag'lari kollektorlarning holatiga ham, hududning meliorativ ehtiyojiga ham bog'liq holda taqsimlanmagan.
+
+**Amaliy xulosalar.** Birinchidan, 1 km ta'mirning haqiqiy narxi (mediana 146 mln so'm, uchastka uzunligiga qarab 135–226 mln so'm) rejalashtirish hisoblari uchun asos bo'ladi. Ikkinchidan, yengil tozalash va kapital ta'mir orasidagi sakkiz baravarlik narx farqi ta'mir turini to'g'ri tanlashni muhim qiladi; 4.2-§ ga ko'ra o'zandagi o'simlik va loyqa o'tkazish qobiliyatini 29–61 foizga kamaytiradi, ya'ni ko'p hollarda arzon tozalash ishlari o'tkazish qobiliyatining katta qismini tiklashi mumkin. Uchinchidan, ta'mir mablag'larini taqsimlashda meliorativ xavf ko'rsatkichlarini (III bob) hisobga olish zarur: 2017–2020-yillardagi xarajatlar xavf yuqori massivlarga ustuvor yo'naltirilmagan. Biroq qaysi tur va qaysi joydagi ta'mir qancha meliorativ natija berishi o'lchanmagan ekan (4.3-§), bu tanlovni miqdoriy asoslab bo'lmaydi.
+
+**Cheklov.** Kadastrda ta'mir turi faqat uchta kollektor uchun yozilgan; yengil tozalash va kapital ta'mirga ajratish narx bo'yicha qilingan taxmindir. Xarajatlar joriy narxlarda, inflyatsiyaga tuzatilmagan. Xarajatlarni massivlarga taqsimlash xaritadagi nomlangan bo'laklarga tayanadi va xarajatning 19 foizi taqsimlanmagan.
+
+## 4.5-§. Monitoring tizimini takomillashtirish va amaliy tavsiyalar
+
+III bob va 4.1–4.4-§ natijalari bitta umumiy xulosaga olib keladi: meliorativ tizim samaradorligini ta'minlashning birinchi sharti uni o'lchay olishdir. Quyidagi tavsiyalar shu maqsadga qaratilgan; har biri tadqiqotning aniq natijasiga tayanadi (4.11-jadval).
+
+
+::: {custom-style="Sarlavha-jadval"}
+4.11-jadval. Amaliy tavsiyalar va ularning asosi
 :::
 
 | № | Tavsiya | Asos |
@@ -1923,11 +1958,11 @@ III bob va 4.1–4.4-§ natijalari bitta umumiy xulosaga olib keladi: meliorativ
 | T-8 | Drenaj ishini yillik o'rtacha bo'yicha emas, yozgi eng sayoz sath bo'yicha baholash | Mavsumiy amplituda 0,48 m (3.2-§) |
 | T-9 | Xo'jalik ichki zovurlarini inventarizatsiya qilish va ta'mir rejasiga kiritish | 64,7 foizida ta'mir qayd etilmagan (4.1-§) |
 
-**Ta'mir samarasini aniqlash uchun zarur quduqlar soni.** 4.3-§ dagi modelning standart xatosi 0,105 m, ta'sir guruhida 36 ta quduq. 5 foizlik ahamiyat darajasi va 80 foizlik quvvat uchun aniqlanadigan eng kichik ta'sir standart xatoning 2,8 baravariga teng, ya'ni hozir 0,29 m. Standart xato quduqlar sonining kvadrat ildiziga teskari mutanosib deb olinsa, zarur quduqlar soni quyidagicha (4.11-jadval).
+**Ta'mir samarasini aniqlash uchun zarur quduqlar soni.** 4.3-§ dagi modelning standart xatosi 0,105 m, ta'sir guruhida 36 ta quduq. 5 foizlik ahamiyat darajasi va 80 foizlik quvvat uchun aniqlanadigan eng kichik ta'sir standart xatoning 2,8 baravariga teng, ya'ni hozir 0,29 m. Standart xato quduqlar sonining kvadrat ildiziga teskari mutanosib deb olinsa, zarur quduqlar soni quyidagicha (4.12-jadval).
 
 
 ::: {custom-style="Sarlavha-jadval"}
-4.11-jadval. Ta'mir ta'sirini aniqlash uchun ta'sir guruhida zarur quduqlar soni
+4.12-jadval. Ta'mir ta'sirini aniqlash uchun ta'sir guruhida zarur quduqlar soni
 :::
 
 | Aniqlanishi kerak bo'lgan ta'sir, m | Zarur quduqlar soni | Hozirgiga nisbatan |
