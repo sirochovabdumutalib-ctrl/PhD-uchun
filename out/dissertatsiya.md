@@ -230,19 +230,62 @@ To’rtinchi bobda tizim elementlarining ishonchlilik ko’rsatkichlari, kollekt
 # I BOB. MELIORATIV TIZIMLAR SAMARADORLIGI VA ISHONCHLILIGINI BAHOLASHNING HOZIRGI HOLATI
 
 
-## 1.1-§. Sug'oriladigan yerlarda kollektor-drenaj tizimlarining holati va muammolari
+## 1.1-§. Sug’oriladigan yerlarda kollektor-drenaj tizimlarining holati va muammolari
 
-Qurg'oqchil mintaqalarda sug'orma dehqonchilik doimo ikkilamchi sho'rlanish va zax bosish xavfi bilan birga kechadi. Sug'orish suvi bilan dalaga tuz keladi, bug'lanish esa suvni chiqarib, tuzni tuproqda qoldiradi. Sizot suvi sayoz joylashganda kapillyar ko'tarilish bu jarayonni kuchaytiradi. Sho'rlangan tuproqlarning tarqalishi, tasnifi va ularni yaxshilash yo'llari V.A.Kovda, N.G.Minashina, I.Szabolcs va L.A.Richards rahbarligidagi ishlarda asoslangan \[88, 105, 126, 129\]; muammoning dunyo miqyosidagi ko'lami keyingi sharhlarda yoritilgan \[41, 86, 98\].
+**Sho’rlanish va zax bosish — sug’orma dehqonchilikning doimiy xavfi.** Qurg’oqchil mintaqalarda sug’orma dehqonchilik ikki o’zaro bog’liq jarayon — ikkilamchi sho’rlanish va zax bosish bilan birga kechadi. Sug’orish suvi bilan dalaga har yili ma’lum miqdorda tuz keladi; bug’lanish va transpiratsiya suvni atmosferaga qaytaradi, tuz esa tuproqda qoladi. Sug’orish suvining bir qismi va kanallardan sizib chiqqan suv sizot suvlarini to’ldiradi va ularning sathini ko’taradi. Sath ma’lum chuqurlikdan sayozlashganda kapillyar ko’tarilish tuproq yuzasigacha yetadi va bug’lanish orqali tuz to’planishi keskin tezlashadi. Bu jarayonning nazariy asoslari V.A.Kovda, V.V.Yegorov va N.G.Minashina ishlarida ishlab chiqilgan \[122, 125, 126, 129\]; tuproq sho’rlanishini tashxislash va tasniflashning xalqaro amaliyoti L.A.Richards tahriridagi qo’llanmaga hamda I.Szabolcs ishlariga tayanadi \[88, 105\]. Sug’orish suvining sifati va ekinlarning tuzga chidamliligi bo’yicha me’yoriy ko’rsatkichlar R.S.Ayers va D.W.Westcot, E.V.Maas va G.J.Hoffman tomonidan umumlashtirilgan \[17, 69\].
 
-Bu xavfga qarshi asosiy muhandislik chorasi drenajdir. Drenaj nazariyasi va hisob usullari A.N.Kostyakov, S.F.Averyanov, I.P.Aydarov va A.I.Golovanov ishlarida ishlab chiqilgan \[115, 117, 120, 127\]. Sizot suvlari harakatining nazariy asoslari P.Ya.Polubarinova-Kochina va V.M.Shestakov tomonidan berilgan \[131, 132\]. Xorijda drenajlar orasidagi masofani hisoblash usullari S.B.Hooghoudt, L.F.Ernst va D.Kirkham nomlari bilan bog'liq \[34, 51, 62\]; zamonaviy loyihalash va ekspluatatsiya amaliyoti H.P.Ritzema hamda L.K.Smedema va hammualliflarining qo'llanmalarida jamlangan \[89, 103, 109\]. Sug'orishning sizot suvlari rejimiga ta'siri D.M.Kats va S.F.Averyanov ishlarida ko'rsatilgan \[116, 124\]. O'zbekiston sharoiti uchun zax qochirish melioratsiyasi X.A.Ahmedov darsligida bayon etilgan \[114\].
+Muammoning ko’lami global xarakterga ega. FAOning 2024-yilgi baholashiga ko’ra, dunyoda sho’rlangan tuproqlar 1 381 mln gektarni, ya’ni quruqlikning 10,7 foizini egallaydi; sug’oriladigan ekin maydonlarining taxminan 10 foizi sho’rlanishdan zarar ko’rgan \[133\]. Sho’rlanishning sabablari, tarqalishi va unga qarshi kurash strategiyalari F.Ghassemi va hammualliflari, P.Rengasamy, M.Qadir va hammualliflari, S.A.Shahid va hammualliflari ishlarida tahlil qilingan \[41, 85, 86, 98\]. Ushbu sharhlarning umumiy xulosasi shundaki, sug’oriladigan yerlarda tuz balansini boshqarishning ishonchli yo’li ortiqcha suv va tuzni drenaj orqali chiqarishdir; drenajsiz sug’orish uzoq muddatda yerni ishdan chiqaradi.
 
-Ushbu ishlarning umumiy xususiyati shundaki, ular drenajni loyihalash masalasini hal qiladi: berilgan sharoit uchun drenaj moduli, chuqurligi va oralig'i aniqlanadi. Tizim qurilganidan keyin uning haqiqatda qanday ishlayotganini baholash masalasi esa ancha kam ishlangan.
+**Drenaj — asosiy muhandislik chorasi.** Drenaj tizimi sizot suvlari sathini ekin uchun xavfsiz chuqurlikda ushlab turadi va sho’r yuvish suvlarini hududdan chiqaradi. Ochiq va yopiq gorizontal drenaj, vertikal drenaj quduqlari hamda ularni birlashtiruvchi kollektorlar tarmog’i yagona tizim bo’lib ishlaydi: dala zovuri yig’gan suv xo’jaliklararo kollektorga, undan magistral kollektorga o’tadi. Tizimning biror bo’g’inida suv o’tkazish qobiliyati pasaysa, undan yuqoridagi barcha bo’g’inlarda suv sathi ko’tariladi va drenajning ishlash chuqurligi kamayadi. Drenajni loyihalash nazariyasi A.N.Kostyakov, S.F.Averyanov, I.P.Aydarov ishlarida, xorijda S.B.Hooghoudt, L.F.Ernst va D.Kirkham tadqiqotlarida yaratilgan \[34, 51, 62, 115, 117, 127\]; zamonaviy loyihalash, qurish va ekspluatatsiya qilish amaliyoti H.P.Ritzema tahriridagi qo’llanmada hamda L.K.Smedema, W.F.Vlotman va D.W.Rycroft kitobida jamlangan \[89, 103, 109\].
 
-**O'zbekistondagi holat.** Sug'oriladigan yerlarning meliorativ holatini yaxshilash davlat siyosatining ustuvor yo'nalishlaridan biri sifatida belgilangan \[1, 2, 3\]. Suv xo'jaligini rivojlantirish konsepsiyasiga ko'ra respublikada meliorativ holatni yaxshilash uchun 142,9 ming km kollektor-drenaj tarmog'i ishlatiladi, shundan 106,2 ming km ochiq va 36,7 ming km yopiq-yotiq tarmoq; suv xo'jaligi obyektlarining aksariyati 50–60 yildan ortiq xizmat qilgan \[1\] \[raqamlar hujjat matni bo'yicha tekshiriladi\]. Mintaqada suv va yer resurslaridan foydalanish muammolari R.Kulmatov hamda V.A.Duxovniy va V.I.Sokolov ishlarida tahlil qilingan \[64, 121\]; Orol dengizi havzasida tuproq sho'rlanishi Ye.I.Pankova va hammualliflari tomonidan umumlashtirilgan \[130\].
+Ochiq kollektor-drenaj tarmog’ining o’ziga xos xususiyati uning vaqt o’tishi bilan muqarrar yomonlashishidir. O’zanga loyqa cho’kadi, qirg’oqlar o’pirilib tushadi, tub va yonbag’irlarni qamish va boshqa o’simliklar bosadi. Natijada ko’ndalang kesim torayadi, g’adir-budurlik ortadi va kollektor loyihaviy sarfni o’tkaza olmay qoladi. Shu sababli ochiq tarmoq muntazam tozalash va ta’mirlashni talab qiladi; bu ishlar to’xtasa, tizim rasman mavjud bo’lgani holda o’z vazifasini bajarmay qo’yadi \[89, 103\].
 
-Marhamat tumani ma'lumotlari respublika miqyosidagi bu holatni aniq raqamlarda ko'rsatadi: kollektorlarning uzunlik bo'yicha 90 foizi 50 yildan eski, xo'jalik ichki zovurlarining uchdan ikki qismida esa ta'mir qayd etilmagan (4.1-§).
+**Markaziy Osiyodagi holat.** Orol dengizi havzasi dunyodagi eng yirik sug’orma dehqonchilik mintaqalaridan biri bo’lib, bu yerda drenaj masalasi alohida keskinlikka ega. V.A.Duxovniy va hammualliflarining ma’lumotiga ko’ra, havzada 5,35 mln gektar yerda yuza, gorizontal va vertikal drenajning turli birikmalari qurilgan; drenajga sarmoya 1990-yillargacha katta hajmda yo’naltirilgan, undan keyin esa moliyalashtirish keskin kamaygan, tizimlarga lozim darajada xizmat ko’rsatilmay qolgan va sho’rlangan hamda zax bosgan maydonlar kengaya boshlagan \[136\]. Mualliflar buning sababini faqat mablag’ yetishmasligida emas, drenaj tarmog’iga mas’ul tashkilotlarning zaiflashganida ham ko’radi. Mintaqada suv va yer resurslarini boshqarish muammolari V.A.Duxovniy va V.I.Sokolov, R.Kulmatov ishlarida \[64, 121\], tuproqlarning tabiiy va antropogen sho’rlanishi Ye.I.Pankova va hammualliflari monografiyasida \[130\] umumlashtirilgan.
 
-**Muammoning mohiyati.** Eskirgan tarmoqni saqlash uchun har yili katta mablag' sarflanadi. Bu mablag'ning natijasini bilish uchun ikki narsa kerak: tizimning holati va meliorativ rejim to'g'risida ishonchli ma'lumot hamda ularni bir-biri bilan bog'lash usuli. Keyingi paragraflarda shu ikki masala bo'yicha mavjud yondashuvlar ko'rib chiqiladi.
+O’zbekiston drenaj tizimining hozirgi holatini Y.Okuda va hammualliflari maxsus o’rgangan \[137\]. Ular bir qator kollektorlarda loyqa cho’kishi natijasida suv sathining ko’tarilishini, dala drenajlarining og’zi kollektordagi suv sathidan pastda qolishini yoki tuproq bilan ko’milib qolishini qayd etadi; bunday holda sizot suvi kollektorga oqib chiqa olmaydi va drenajning sizot sathini boshqarish qobiliyati yo’qoladi. Bu kuzatuv muhim xulosaga olib keladi: kollektorning holati faqat uning o’ziga emas, unga ulangan butun quyi tarmoqning ishiga ta’sir qiladi.
+
+**O’zbekistondagi holat va davlat siyosati.** Suv xo’jaligini rivojlantirishning 2020–2030-yillarga mo’ljallangan konsepsiyasiga ko’ra, respublikada sug’oriladigan yerlarning meliorativ holatini yaxshilash uchun umumiy uzunligi 142,9 ming km bo’lgan kollektor-drenaj tarmog’idan foydalaniladi, shundan 106,2 ming km ochiq va 36,7 ming km yopiq-yotiq tarmoq. Konsepsiyada 14,5 ming km kollektor-drenaj tarmog’ini, 93 ta meliorativ nasos stansiyasini va 1 530 ta vertikal drenaj qudug’ini rekonstruksiya qilish va yangidan qurish zarurligi ko’rsatilgan \[1\]. Demak mavjud tarmoqning taxminan o’ndan bir qismi tubdan tiklashni talab qiladi.
+
+Meliorativ holatni yaxshilash ishlari davlat dasturlari asosida olib boriladi. 2018–2019-yillarga mo’ljallangan Davlat dasturi \[2\] kollektor-drenaj tarmoqlarini tozalash va ta’mirlashni nazarda tutgan. Marhamat tumani kadastri ma’lumotlariga ko’ra, tumandagi 90 ta kollektorning 55 tasi 2016–2018-yillarda, yana 16 tasi 2019–2020-yillarda ta’mirlangan (4.1-§). 2025-yilda qabul qilingan suv resurslarini boshqarish va irrigatsiya sektorini rivojlantirishning 2025–2028-yillarga mo’ljallangan dasturida meliorativ tadbirlar hisobiga sho’rlangan maydonlarni 1 898 ming gektardan 1 732 ming gektarga, shu jumladan o’rtacha va kuchli sho’rlangan yerlarni 578 ming gektardan 460 ming gektarga kamaytirish maqsad qilingan \[135\]. Bunday aniq maqsadli ko’rsatkichlarning qo’yilishi ularga erishilganini o’lchash, ya’ni meliorativ holat to’g’risidagi ma’lumotlarning ishonchliligi masalasini birinchi o’ringa chiqaradi.
+
+**Andijon viloyati va Marhamat tumani.** Viloyat meliorativ ekspeditsiyasining 2021-yil 1-yanvar holatidagi kadastriga ko’ra, Andijon viloyatida 7 616,3 km ochiq va 786,6 km yopiq-yotiq kollektor-drenaj tarmog’i mavjud (1.1-jadval). Ochiq tarmoqning 4 357,4 km qismi, ya’ni 57 foizi, suv iste’molchilari uyushmalari hisobidagi xo’jalik ichki zovurlaridir. Tarmoqda 6 076 ta gidrotexnik inshoot qayd etilgan.
+
+
+::: {custom-style="Sarlavha-jadval"}
+1.1-jadval. Andijon viloyati kollektor-drenaj tarmog’ining tumanlar bo’yicha tarkibi (kadastr, 2021-yil 1-yanvar), km
+:::
+
+| Tuman | Ochiq tarmoq, jami | Magistral | Tumanlararo | Xo’jaliklararo (davlat) | Xo’jalik ichki (uyushmalar) | Yopiq-yotiq drenaj | Inshootlar soni |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Ulug’nor | 1 259,3 | 39,0 | 55,9 | 259,9 | 904,5 | 3,1 | 580 |
+| Baliqchi | 873,9 | 33,0 | 71,0 | 355,4 | 414,6 | 62,8 | 844 |
+| Shahrixon | 675,3 | 7,6 | 164,3 | 184,0 | 319,4 | 65,7 | 473 |
+| Bo’ston | 622,1 | — | 60,7 | 234,6 | 326,8 | 10,4 | 376 |
+| Marhamat | 621,1 | 41,8 | 21,5 | 202,5 | 355,3 | 91,7 | 455 |
+| Oltinko’l | 606,1 | — | 115,1 | 199,7 | 291,4 | 25,1 | 652 |
+| Jalaquduq | 565,1 | 21,2 | 37,3 | 184,5 | 322,1 | 110,0 | 624 |
+| Izboskan | 531,9 | 26,0 | 52,1 | 201,3 | 252,6 | 33,4 | 405 |
+| Buloqboshi | 415,3 | 3,5 | 6,4 | 158,8 | 246,6 | 209,8 | 293 |
+| Andijon | 401,5 | — | 11,0 | 101,1 | 289,4 | 17,6 | 304 |
+| Qo’rg’ontepa | 337,0 | 7,4 | 23,0 | 59,1 | 247,5 | 66,7 | 342 |
+| Asaka | 299,1 | 7,1 | 63,0 | 71,1 | 157,8 | 7,7 | 261 |
+| Xo’jaobod | 241,0 | 2,8 | 3,1 | 79,9 | 155,1 | 62,3 | 334 |
+| Paxtaobod | 167,5 | 10,9 | 29,7 | 52,7 | 74,2 | 20,5 | 133 |
+| Viloyat bo’yicha | 7 616,3 | 200,4 | 714,0 | 2 344,6 | 4 357,4 | 786,6 | 6 076 |
+
+Marhamat tumani ochiq tarmoq uzunligi bo’yicha viloyatda beshinchi, magistral kollektorlar uzunligi bo’yicha birinchi, yopiq-yotiq drenaj bo’yicha uchinchi o’rinda turadi. Tumandagi tarmoq viloyat ochiq tarmog’ining 8,2 foizini, yopiq drenajining 11,7 foizini tashkil etadi. Shu jihatdan tuman viloyat uchun tipik va ayni paytda tarmog’i murakkab obyekt hisoblanadi: unda tarmoqning barcha turlari — magistral, tumanlararo va xo’jaliklararo kollektorlar, xo’jalik ichki zovurlari hamda yopiq drenaj — mavjud.
+
+**Muammolarning tizimlashtirilishi.** Ko’rib chiqilgan manbalar va kadastr ma’lumotlari asosida kollektor-drenaj tizimlarining hozirgi muammolarini to’rt guruhga ajratish mumkin.
+
+Birinchi guruh — jismoniy eskirish. Tarmoqning asosiy qismi o’tgan asrning o’rtalarida qurilgan; Marhamat tumanida kollektorlarning yoshi medianasi 61 yil (4.1-§). Eskirgan tarmoq tezroq loyqalanadi va tez-tez ta’mir talab qiladi.
+
+Ikkinchi guruh — mas’uliyatning bo’linishi. Tarmoqning yarmidan ko’pi suv iste’molchilari uyushmalari hisobida bo’lib, davlat dasturlari asosan davlat hisobidagi kollektorlarni qamraydi. Natijada tizimning quyi bo’g’ini — dala bilan bevosita bog’langan ichki zovurlar — xizmat ko’rsatishdan chetda qoladi. V.A.Duxovniy va hammualliflari ham institutsional zaiflikni tizim yomonlashuvining asosiy sabablaridan biri sifatida ko’rsatgan \[136\].
+
+Uchinchi guruh — axborot ta’minoti. Tarmoqning holati va sizot suvlari rejimi to’g’risidagi ma’lumotlar turli jadval va qog’oz xaritalarda yuritiladi, yagona raqamli asosga ega emas va rasmiy tekshiruvdan o’tkazilmaydi.
+
+To’rtinchi guruh — natijani o’lchash. Ta’mir ishlarining natijasi bajarilgan ish hajmi bilan o’lchanadi; ularning sizot rejimiga ta’siri baholanmaydi.
+
+Dastlabki ikki guruh moliyaviy va tashkiliy masalalar bo’lib, ularni hal etish ushbu tadqiqot doirasidan tashqarida. Keyingi ikki guruh esa ilmiy-uslubiy masalalardir: ular hal etilmasa, ajratilgan mablag’ qanchalik samarali sarflanayotganini bilish imkoni bo’lmaydi. Mazkur dissertatsiya aynan shu ikki masalaga — ma’lumotlarning ishonchliligi va natijani o’lchashga qaratilgan. Keyingi paragraflarda ular bo’yicha mavjud usullar ko’rib chiqiladi.
 
 ## 1.2-§. Meliorativ tizimlar ishonchliligi va samaradorligini baholash usullari
 
@@ -1103,3 +1146,6 @@ Samarani so'mda ifodalash uchun ta'mir turlarining haqiqiy meliorativ natijasi m
 132. Шестаков В.М. Гидрогеодинамика. – 3-е изд. – М.: Изд-во МГУ, 1995. – 368 с.
 133. FAO. Global status of salt-affected soils – Main report. – Rome: FAO, 2024. – https://doi.org/10.4060/cd3044en
 134. O'zbekiston Respublikasi Prezidentining «O'zbekiston — 2030» strategiyasi to'g'risida»gi PF-158-son Farmoni. – Toshkent, 2023-yil 11-sentabr. [Elektron resurs]. – URL: https://lex.uz
+135. O'zbekiston Respublikasi Prezidentining «O'zbekiston Respublikasida suv resurslarini boshqarish va irrigatsiya sektorini rivojlantirishning 2025–2028-yillarga mo'ljallangan dasturini tasdiqlash to'g'risida»gi PQ-250-son qarori. – Toshkent, 2025-yil 15-avgust. [Elektron resurs]. – URL: https://www.lex.uz/uz/docs/7686130
+136. Dukhovny V., Umarov P., Yakubov H., Madramootoo C.A. Drainage in the Aral Sea Basin // Irrigation and Drainage. – 2007. – Vol. 56, No. S1. – P. S91–S100.
+137. Okuda Y., Onishi J., Omori K., Oya T., Fukuo A., Kurvantaev R., Shirokova Y., Nasonov V.G. Current status and problems of the drainage system in Uzbekistan // Journal of Arid Land Studies. – 2015. – Vol. 25, No. 3. – P. 81–84.
