@@ -1423,7 +1423,9 @@ Modellar sath o'zgaruvchanligining 67–85 foizini tushuntirmaydi. Bu 3.3-§ dag
 
 ## 3.5-§. Sizot suvlari minerallashuvining dinamikasi
 
-Minerallashuv bo'yicha ikki manba mavjud: 1999–2015-yillar uchun yiliga uch marta (1-aprel, 1-iyul, 1-oktabr holatiga) o'lchangan qiymatlar jadvali (123 ta quduq, 4 961 ta qiymat) va 2009–2024-yillar uchun yillik qiymatlar. Har ikkisi 3.1-§ dagi qoidalar bo'yicha tekshirildi. Natijalar 3.16-jadvalda keltirilgan.
+Sizot suvining xavfliligi faqat uning sathi bilan emas, minerallashuvi bilan ham belgilanadi: bir xil chuqurlikda minerallashgan suv chuchuk suvga qaraganda tuproqqa ko'p tuz olib chiqadi \[41; 53; 88\]. Shuning uchun meliorativ holatni baholashda sath va minerallashuv birgalikda qaraladi. Ushbu paragrafda minerallashuv qatorlari 3.1-§ dagi tartibda tekshiriladi, ishonchli davr bo'yicha uning fazoviy va vaqt bo'yicha o'zgarishi tahlil qilinadi va sath bilan birgalikda sho'rlanish xavfi baholanadi.
+
+**Ma'lumotlar va ularning tekshiruvi.** Minerallashuv bo'yicha ikki manba mavjud: 1999–2015-yillar uchun yiliga uch marta (1-aprel, 1-iyul, 1-oktabr holatiga) o'lchangan qiymatlar jadvali (123 ta quduq, 4 961 ta qiymat) va 2009–2024-yillar uchun yillik qiymatlar. Har ikkisi 3.1-§ dagi qoidalar bo'yicha tekshirildi. Natijalar 3.16-jadvalda keltirilgan.
 
 
 ::: {custom-style="Sarlavha-jadval"}
@@ -1440,30 +1442,82 @@ Minerallashuv bo'yicha ikki manba mavjud: 1999–2015-yillar uchun yiliga uch ma
 | 2023 | Barcha 188 ta quduqda bitta qiymat: 0,20 g/l | Yaroqsiz |
 | 2024 | Qiymatlar kam xilma-xil, mediana 0,20 g/l | Shubhali |
 
-Shunday qilib 26 yillik minerallashuv qatoridan faqat 2004–2010-yillar (7 yil, 122 ta quduq, 2 136 ta qiymat) ishonchli deb topildi. Bu davr uchun asosiy ko'rsatkichlar quyidagicha.
+Ikki manba bir-biri bilan ham solishtirildi. 2009-yilda bir xil quduqlar bo'yicha yillik qiymat va mavsumiy qiymatlar o'rtachasi yaxshi mos keladi (Spearman ρ = 0,92; 105 ta quduq), 2010-yilda esa mos kelish kuchsiz (ρ = 0,37; 98 ta quduq). Demak yillik manba mavsumiy jadvaldan ko'ra kamroq ishonchli. Shunday qilib 26 yillik minerallashuv qatoridan faqat 2004–2010-yillar (7 yil, 122 ta quduq, 2 136 ta qiymat) ishonchli deb topildi va keyingi tahlil shu davr bo'yicha bajarildi.
 
-Tuman bo'yicha minerallashuv medianasi 1,02–1,45 g/l oralig'ida o'zgargan va aniq yo'nalishga ega emas. Mavsumlar orasidagi farq kichik: aprelda 1,27, iyulda 1,25, oktabrda 1,32 g/l. Qiymatlarning 8,2 foizi 3 g/l dan yuqori.
-
-Massivlar orasidagi farq esa katta (3.17-jadval): Mash'al massivida mediana 2,35 g/l, U.Qoraboyev va T.Mirzaev massivlarida 0,80–0,83 g/l. Ya'ni minerallashuv bo'yicha eng og'ir massiv bilan eng yengili orasida uch baravar farq bor.
+**Minerallashuv darajasi.** 2004–2010-yillarda o'lchangan qiymatlarning 30,7 foizi 1 g/l dan kam (chuchuk suv), 60,4 foizi 1–3 g/l (kam minerallashgan), 8,8 foizi 3–5 g/l (o'rtacha minerallashgan), atigi 0,2 foizi 5 g/l dan yuqori. Yillar bo'yicha taqsimot 3.17-jadvalda keltirilgan. Sug'orish suvi sifati mezonlari bo'yicha \[17\] 1–3 g/l minerallashuv sizot suvi kapillyar ko'tarilish orqali tuproqqa yetib kelganda o'rtacha sho'rlanish xavfini, 3 g/l dan yuqori minerallashuv esa jiddiy xavfni bildiradi.
 
 
 ::: {custom-style="Sarlavha-jadval"}
-3.17-jadval. Sizot suvlari minerallashuvining massivlar bo'yicha medianasi, 2004–2010-yillar
+3.17-jadval. Sizot suvlari minerallashuvi sinflarining yillar bo'yicha ulushi, %
 :::
 
-| Massiv | Mediana, g/l | Qiymatlar soni |
-| --- | --- | --- |
-| Mash'al | 2,35 | 371 |
-| Z.M.Bobur | 1,48 | 310 |
-| Paxtakor | 1,31 | 257 |
-| Istiqlol | 1,22 | 358 |
-| M.Tojiboyev | 1,08 | 339 |
-| U.Qoraboyev | 0,83 | 248 |
-| T.Mirzaev | 0,80 | 190 |
+| Yil | 1 g/l dan kam | 1–3 g/l | 3–5 g/l | 5 g/l va ortiq | Mediana, g/l |
+| --- | --- | --- | --- | --- | --- |
+| 2004 | 12,2 | 75,7 | 12,2 | 0,0 | 1,38 |
+| 2005 | 27,3 | 56,9 | 15,4 | 0,3 | 1,45 |
+| 2006 | 32,5 | 59,6 | 7,6 | 0,3 | 1,26 |
+| 2007 | 33,9 | 59,3 | 6,2 | 0,7 | 1,24 |
+| 2008 | 36,2 | 56,4 | 7,4 | 0,0 | 1,22 |
+| 2009 | 46,4 | 51,0 | 2,6 | 0,0 | 1,02 |
+| 2010 | 26,3 | 64,0 | 9,8 | 0,0 | 1,35 |
+| 2004–2010 | 30,7 | 60,4 | 8,8 | 0,2 | — |
 
-Minerallashuvi yuqori massivlar (Mash'al, Z.M.Bobur) ayni paytda sizot suvi eng sayoz massivlardir (3.4-§). Sayoz va minerallashgan sizot suvining birga uchrashi ikkilamchi sho'rlanish xavfi aynan shu massivlarda eng yuqori ekanini ko'rsatadi.
+**Vaqt bo'yicha o'zgarish.** Tuman bo'yicha yillik mediana 1,02–1,45 g/l oralig'ida o'zgargan. 2004–2009-yillarda pasayish kuzatilgan (1,38 dan 1,02 g/l gacha), 2010-yilda esa mediana 1,35 g/l ga qaytgan. Mann–Kendall mezoni bo'yicha tendensiya statistik ahamiyatli emas (τ = −0,52; p = 0,13). Quduqlar kesimida esa pasayish yo'nalishi ustun: kamida 12 ta qiymatli 102 ta quduqdan 76 tasida minerallashuv kamaygan, 24 tasida oshgan; statistik ahamiyatli pasayish 9 ta quduqda, ahamiyatli o'sish 1 ta quduqda aniqlandi. Sen qiyaligining medianasi yiliga −0,05 g/l. Shu bilan birga bitta quduq ichida minerallashuvning o'zgaruvchanligi katta: variatsiya koeffitsiyentining medianasi 39 foiz. Bunday o'zgaruvchanlik sinamalarni olish va tahlil qilish xatoligi bilan ham bog'liq bo'lishi mumkin, shuning uchun alohida yil bo'yicha xulosa chiqarishda ehtiyot bo'lish kerak.
 
-2010-yildan keyingi minerallashuv dinamikasi haqida ishonchli xulosa chiqarib bo'lmaydi. Bu tadqiqotning cheklovi sifatida qayd etiladi; ayni paytda u monitoring tizimining jiddiy kamchiligini ko'rsatadi: so'nggi 14 yil davomida tuman bo'yicha sizot suvlari minerallashuvining haqiqiy holati hujjatlashtirilmagan.
+**Mavsumiy farq.** Tuman bo'yicha medianalar aprelda 1,27, iyulda 1,25, oktabrda 1,32 g/l. Bir xil quduq va yil bo'yicha juft solishtirishda (675 ta juftlik) iyuldagi qiymat aprelga nisbatan mediana bo'yicha atigi 0,04 g/l yuqori (Wilcoxon mezoni, p = 0,29), oktabrdagi qiymat iyulga nisbatan 0,05 g/l yuqori (p = 0,28). Demak minerallashuvda statistik ahamiyatli mavsumiy o'zgarish yo'q. Bu natija sathning mavsumiy yo'liga (3.2-§) qarama-qarshi: sath yozda 0,5 m atrofida ko'tarilsa ham, sug'orish suvi kelishi minerallashuvni sezilarli suyultirmaydi. Bundan sizot suvining tuz zaxirasi katta va sug'orish mavsumida u yangilanmasligi kelib chiqadi.
+
+**Massivlar bo'yicha farq.** Massivlar orasidagi farq katta (3.18-jadval va 3.10-rasm). Quduqlar bo'yicha minerallashuv medianasi Mash'al massivida 2,47 g/l, U.Qoraboyev va T.Mirzaev massivlarida 0,80–0,84 g/l: eng og'ir massiv bilan eng yengili orasida uch baravar farq bor. Chuchuk sizot suvi tumanning sharqiy va janubiy qismlarida (U.Qoraboyev, M.To'jiboyev, T.Mirzaev), minerallashgan suv esa g'arbiy va shimoliy qismlarida (Mash'al, Z.M.Bobur) tarqalgan. 3 g/l dan yuqori minerallashuvli to'rtta quduqning ikkitasi Mash'al, ikkitasi Z.M.Bobur massivida joylashgan. Y.Oxunboboyev massivi bo'yicha 2004–2010-yillarda minerallashuv o'lchovlari mavjud emas.
+
+
+::: {custom-style="Sarlavha-jadval"}
+3.18-jadval. Sizot suvlari minerallashuvi va sho'rlanish xavfining massivlar bo'yicha ko'rsatkichlari
+:::
+
+| Massiv | Quduqlar soni | Minerallashuv medianasi, g/l | 3 g/l dan yuqori quduqlar, % | Aprel, g/l | Iyul, g/l | Oktabr, g/l | Xavfli quduqlar (yozgi sath < 2,0 m, minerallashuv ≥ 1 g/l) | Shundan yozgi sath < 1,5 m |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Mash'al | 21 | 2,47 | 10 | 2,36 | 2,15 | 2,45 | 17 | 8 |
+| Z.M.Bobur | 23 | 1,41 | 9 | 1,51 | 1,45 | 1,48 | 17 | 10 |
+| Paxtakor | 15 | 1,40 | 0 | 1,24 | 1,33 | 1,42 | 4 | 1 |
+| Istiqlol | 19 | 1,22 | 0 | 1,15 | 1,22 | 1,25 | 12 | 8 |
+| M.To'jiboyev | 14 | 1,03 | 0 | 1,10 | 1,07 | 1,00 | 4 | 2 |
+| U.Qoraboyev | 12 | 0,84 | 0 | 0,84 | 0,90 | 0,86 | 1 | 0 |
+| T.Mirzaev | 9 | 0,80 | 0 | 1,02 | 0,74 | 0,80 | 1 | 0 |
+| Jami | 113 | — | — | 1,27 | 1,25 | 1,32 | 56 | 29 |
+
+Izoh: minerallashuv — 2004–2010-yillar, yozgi sath — 2019–2024-yillar (iyul–avgust) bo'yicha.
+
+
+![](figures/ch3_miner.png){width=16cm}
+
+
+::: {custom-style="Sarlavha-jadval"}
+3.10-rasm. Sizot suvlari minerallashuvi, 2004–2010-yillar: a — quduqlar bo'yicha medianasi; b — massivlar bo'yicha taqsimoti (ko'k chiziq — 1 g/l, qizil chiziq — 3 g/l)
+:::
+
+**Minerallashuvning sath va tarmoq bilan bog'liqligi.** Quduq darajasida minerallashuv sath bilan kuchsiz bog'langan: 2009–2016-yillardagi o'rtacha sath bilan ρ = −0,16 (p = 0,09), 2019–2024-yillardagi yozgi sath bilan ρ = −0,12 (p = 0,19). Yo'nalish kutilganidek — sath sayoz joyda minerallashuv biroz yuqori, lekin bog'lanish ishonchli emas. Kollektorgacha masofa (ρ = −0,01), tarmoq zichligi (ρ = +0,07) va kanalgacha masofa (ρ = −0,04) bilan bog'lanish umuman yo'q. Demak minerallashuvning fazoviy taqsimotini drenaj tarmog'i joylashuvi emas, massivlar miqyosidagi gidrogeologik sharoit — sizot oqimining yo'nalishi, suvli qatlam tarkibi va sizot suvining hududda turib qolish vaqti belgilaydi \[41; 53\]. Tumanning g'arbiy qismida minerallashuvning yuqoriligi 3.3-§ da aniqlangan sath trendi bilan mos: sizot suvi shimoli-g'arbiy qismda sayozroq va u yerda bug'lanish orqali tuz to'planishi kuchliroq.
+
+**Sho'rlanish xavfi.** Sath va minerallashuv birgalikda baholash uchun quduqlar ikki belgi bo'yicha guruhlandi: yozgi sath (2019–2024-yillar, iyul–avgust) va minerallashuv medianasi (2004–2010-yillar). Natijalar 3.19-jadvalda keltirilgan.
+
+
+::: {custom-style="Sarlavha-jadval"}
+3.19-jadval. Quduqlarning yozgi sath va minerallashuv bo'yicha taqsimoti (quduqlar soni, n = 113)
+:::
+
+| Yozgi sath, m | 1 g/l dan kam | 1–3 g/l | 3 g/l va ortiq | Jami |
+| --- | --- | --- | --- | --- |
+| 1,5 dan sayoz | 6 | 28 | 1 | 35 |
+| 1,5–2,0 | 12 | 24 | 3 | 39 |
+| 2,0–3,0 | 8 | 22 | 0 | 30 |
+| 3,0 va chuqur | 1 | 8 | 0 | 9 |
+| Jami | 27 | 82 | 4 | 113 |
+
+Yozgi sath 2,0 m dan sayoz va minerallashuv 1 g/l dan yuqori bo'lgan quduqlar 56 ta (50 foiz); shundan 29 tasida (26 foiz) yozgi sath 1,5 m dan ham sayoz. Bu quduqlar sho'rlanish xavfi eng yuqori nuqtalar hisoblanadi. Ular massivlar bo'yicha notekis taqsimlangan (3.18-jadval): Mash'al va Z.M.Bobur massivlarida 17 tadan, Istiqlol massivida 12 ta, qolgan to'rtta massivda jami 10 ta. Ya'ni xavfli quduqlarning 82 foizi uchta massivga to'g'ri keladi. Bu natija 3.3-§ dagi ehtimollik xaritasi bilan to'liq mos: o'sha uchta massiv yozda sath kritik chuqurlikdan sayoz bo'lish ehtimoli eng yuqori massivlar sifatida ajratilgan edi. Shunday qilib, ikki mustaqil ko'rsatkich — sath va minerallashuv — bir xil ustuvor hududlarni ko'rsatadi.
+
+Bu bahoning cheklovi shundaki, sath va minerallashuv turli davrlarga tegishli. 2010-yildan keyingi minerallashuv dinamikasi noma'lum va bu davrda minerallashuv o'zgargan bo'lishi mumkin. Shu sababli xavf bahosi minerallashuvning nisbiy darajasiga (massivlar orasidagi farqqa) tayanadi; massivlar orasidagi farq gidrogeologik sharoit bilan belgilangani uchun vaqt o'tishi bilan saqlanib qolgan bo'lishi ehtimoli yuqori.
+
+**Monitoring tizimi uchun xulosa.** 2010-yildan keyingi minerallashuv dinamikasi haqida ishonchli xulosa chiqarib bo'lmaydi. Bu tadqiqotning cheklovi sifatida qayd etiladi; ayni paytda u monitoring tizimining jiddiy kamchiligini ko'rsatadi: so'nggi 14 yil davomida tuman bo'yicha sizot suvlari minerallashuvining haqiqiy holati hujjatlashtirilmagan. Minerallashuvni o'lchashni tiklash uchun barcha quduqlarda o'lchash shart emas: bir quduq ichidagi mavsumiy farq ahamiyatsiz bo'lgani uchun yiliga bir marta o'lchash yetarli, xavfli deb ajratilgan 56 ta quduq esa birinchi navbatda qamrab olinishi kerak. Elektr o'tkazuvchanlikni dalada o'lchaydigan asboblar bu ishni arzonlashtiradi \[87\]. Bu takliflar 4.5-§ da monitoring tizimini takomillashtirish tavsiyalariga kiritiladi.
+
+**Paragraf bo'yicha umumlashma.** Minerallashuv qatorining 26 yilidan faqat 2004–2010-yillar ishonchli. Bu davrda tuman bo'yicha minerallashuv medianasi 1,0–1,5 g/l, qiymatlarning 60 foizi 1–3 g/l oralig'ida bo'lgan va statistik ahamiyatli tendensiya hamda mavsumiy o'zgarish aniqlanmagan. Massivlar orasidagi farq uch baravarga yetadi: minerallashgan suv g'arbiy va shimoliy massivlarda (Mash'al, Z.M.Bobur), chuchuk suv sharqiy va janubiy massivlarda tarqalgan. Minerallashuv drenaj tarmog'i bilan bog'lanmagan. Yozgi sath va minerallashuv birgalikda baholanganda quduqlarning yarmi sho'rlanish xavfi ostida, ularning 82 foizi Mash'al, Z.M.Bobur va Istiqlol massivlarida joylashgan.
 
 ## III bob bo'yicha xulosalar
 
