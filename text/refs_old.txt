@@ -142,3 +142,7 @@
 142. Tilekeyev K., Kirbasheva D. Rehabilitating the Irrigation Canals in Southern Kyrgyzstan: An Impact Evaluation Study. Working Paper No. 69. – Bishkek: University of Central Asia, 2022.
 143. Angrist J.D., Pischke J.-S. Mostly Harmless Econometrics: An Empiricist's Companion. – Princeton: Princeton University Press, 2009. – 373 p.
 144. ГОСТ 27.002-2015. Надёжность в технике. Термины и определения. – М.: Стандартинформ, 2016.
+145. Loáiciga H.A., Charbeneau R.J., Everett L.G., Fogg G.E., Hobbs B.F., Rouhani S. Review of ground-water quality monitoring network design // Journal of Hydraulic Engineering. – 1992. – Vol. 118, No. 1. – P. 11–37.
+146. Hamidov A., Khamidov M., Ishchanov J. Impact of climate change on groundwater management in the northwestern part of Uzbekistan // Agronomy. – 2020. – Vol. 10, No. 8. – Art. 1173. – https://doi.org/10.3390/agronomy10081173
+147. Kholdorov Sh., Lakshmi G., Jabbarov Z., Yamaguchi T., Yamashita M., Samatov N., Katsura K. Analysis of irrigated salt-affected soils in the Central Fergana Valley, Uzbekistan, using Landsat 8 and Sentinel-2 satellite images, laboratory studies, and spectral index-based approaches // Eurasian Soil Science. – 2023. – Vol. 56, No. 8. – P. 1178–1189.
+148. Wang J., Khan S., O'Connell N. Quantifying rainfall and flooding impacts on groundwater levels in irrigation areas: GIS approach // Journal of Irrigation and Drainage Engineering. – 2007. – Vol. 133, No. 4. – P. 359–367.

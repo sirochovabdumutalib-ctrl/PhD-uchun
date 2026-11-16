@@ -336,25 +336,72 @@ Bunday masalalar uchun tadbirlar samarasini baholash amaliyotida «farqlar farqi
 
 **Yondashuvlarning umumiy cheklovi.** Ko’rib chiqilgan barcha yondashuvlar kirish ma’lumotlarining to’g’riligini oldindan qabul qiladi. Loyihaviy hisob loyiha parametrlariga, rejim bo’yicha baho monitoring qatorlariga, ishonchlilik hisobi kadastr yozuvlarining to’liqligiga tayanadi. Ma’lumotning o’zi tekshirilmasa, eng mukammal usul ham noto’g’ri xulosaga olib keladi. Shu sababli ma’lumotlar ishonchliligini baholash tizim ishonchliligini baholashdan oldin keladigan mustaqil bosqich sifatida qaralishi kerak; bu masala 1.4-§ da ko’rib chiqiladi.
 
-## 1.3-§. Meliorativ monitoringda GAT va geostatistik usullarning qo'llanilishi
+## 1.3-§. Meliorativ monitoringda GAT va geostatistik usullarning qo’llanilishi
 
-**GATning nazariy asoslari.** Geografik axborot tizimlari turli manbali ma'lumotlarni yagona fazoviy asosda birlashtiradi va ular orasidagi fazoviy munosabatlarni — masofa, qo'shnilik, ustma-ust tushish — hisoblash imkonini beradi. Nazariy asoslari P.A.Burrough va R.A.McDonnell, P.A.Longley va hammualliflari hamda M.F.Goodchild ishlarida berilgan \[23, 24, 43, 66\]. Fazoviy ma'lumotlar sifati masalalari alohida yo'nalish sifatida shakllangan \[45, 113\] va xalqaro standartda mustahkamlangan \[7\].
+**Geoaxborot tizimlarining nazariy asoslari.** Geografik axborot tizimi — fazoviy ma’lumotlarni yig’ish, saqlash, tahlil qilish va tasvirlash uchun mo’ljallangan apparat-dasturiy majmua. Uning nazariy asoslari P.A.Burrough va R.A.McDonnell, M.F.Goodchild, P.A.Longley va hammualliflari, C.D.Tomlin ishlarida ishlab chiqilgan \[23, 24, 43, 66, 107\]. GATning meliorativ masalalar uchun asosiy qimmati shundaki, u turli manbali ma’lumotlarni — kuzatuv quduqlari o’lchovlari, drenaj tarmog’i sxemasi, tuproq xaritasi, relyef modeli, kadastr yozuvlari — yagona koordinatalar tizimida birlashtiradi va ular orasidagi fazoviy munosabatlarni (masofa, qo’shnilik, ustma-ust tushish) miqdoriy hisoblash imkonini beradi.
 
-**Geostatistika.** Nuqtaviy o'lchovlardan uzluksiz yuzaga o'tish usullari G.Matheron va D.G.Krige ishlaridan boshlangan \[63, 74\] va keyinchalik A.G.Journel, E.H.Isaaks, N.Cressie, P.Goovaerts, R.Webster va M.A.Oliver tomonidan rivojlantirilgan \[29, 44, 54, 58, 111\]. Krigingning boshqa interpolyatsiya usullaridan asosiy afzalligi shundaki, u baho bilan birga uning noaniqligini ham beradi \[26, 80, 81\]. Interpolyatsiya usullarining qiyosiy tahlili \[65\] da umumlashtirilgan. Fazoviy avtokorrelyatsiyani o'lchash uchun Moran va Geary ko'rsatkichlari hamda ularning mahalliy shakllari qo'llaniladi \[16, 39, 40, 78\].
+GATda ma’lumotlar ikki asosiy modelda saqlanadi. Vektor modelida obyektlar nuqta (kuzatuv qudug’i), chiziq (kollektor, kanal) va poligon (massiv, kontur) ko’rinishida ifodalanadi va har biriga atributlar jadvali biriktiriladi. Rastr modelida hudud bir xil o’lchamdagi kataklarga bo’linadi va har bir katakka qiymat (sizot sathi, balandlik, sho’rlanish darajasi) beriladi. Meliorativ tahlilda ikkala model birga ishlatiladi: tarmoq va quduqlar vektor shaklida, uzluksiz yuzalar esa rastr shaklida saqlanadi \[23, 107\].
 
-**Vaqt qatorlari tahlili.** Gidrologik qatorlarda tendensiyani aniqlash uchun Mann–Kendall mezoni va Sen qiyaligi standart vosita hisoblanadi \[59, 73, 97\]; ularning suv resurslari ma'lumotlariga qo'llanilishi \[47, 49\] da, avtokorrelyatsiyali qatorlar uchun tuzatish esa \[46\] da berilgan.
+Fazoviy ma’lumotlarning sifati alohida muammo hisoblanadi. Uni tavsiflash uchun to’liqlik, mantiqiy izchillik, joylashuv aniqligi, vaqt bo’yicha sifat va atribut aniqligi tushunchalari qo’llaniladi; bu tamoyillar S.C.Guptill va J.L.Morrison tahriridagi to’plamda ishlab chiqilgan va xalqaro standartda mustahkamlangan \[7, 45\]. J.Zhang va M.F.Goodchild fazoviy ma’lumotlardagi noaniqlikning manbalarini va uning tahlil natijalariga ta’sirini batafsil ko’rib chiqqan \[113\]. Qog’oz xaritalarni raqamli shaklga o’tkazishda joylashuv aniqligi xaritani koordinatalar tizimiga bog’lash (georeferensiya) sifati bilan belgilanadi; bog’lash ma’lum koordinatali tayanch nuqtalar yordamida bajariladi va uning aniqligi tayanch nuqtalardagi qoldiqlar bilan baholanadi \[23, 66\].
 
-**Markaziy Osiyodagi tadqiqotlar.** Mintaqada GAT va geostatistika asosan sizot suvlari sathi, minerallashuvi va tuproq sho'rlanishini xaritalash uchun qo'llanilgan. M.Ibrakhimov va hammualliflari Xorazm viloyatida sizot suvlari sathi va minerallashuvining fazoviy-vaqtli taqsimotini hamda ularning tuproq sho'rlanishiga ta'sirini o'rgangan \[53\]. Sh.Kenjabayev va hammualliflari Xorazmdagi Qulovot kanali hududida yerlarning meliorativ holatini GAT usullari bilan baholagan \[60, 61\]. A.Akramxonov va hammualliflari tuproq sho'rlanishi xavfini fazoviy baholagan \[12, 13\]. A.Pulatov va hammualliflari Sirdaryo viloyatining Mirzaobod tumanida sho'rlanishni turli interpolyatsiya usullarida xaritalagan \[84\]. I.Forkutsa va hammualliflari sayoz sizot suvlari sharoitida g'o'za sug'orishni modellashtirgan \[37\]. Sho'rlanishni masofadan zondlash orqali baholash imkoniyatlari va cheklovlari \[14, 28, 76\] da tahlil qilingan. \[yangi manba kerak: 2018–2025-yillarda Farg'ona vodiysi va Markaziy Osiyo bo'yicha chop etilgan ishlar\]
+**Geostatistik modellashtirish.** Monitoring tarmog’i alohida nuqtalarda o’lchov beradi, boshqaruv qarorlari esa butun hudud uchun kerak. Nuqtaviy o’lchovlardan uzluksiz yuzaga o’tish masalasi geostatistika usullari bilan hal etiladi. Bu usullarning asoslari D.G.Krige va G.Matheron ishlarida yaratilgan \[63, 74\] va keyinchalik A.G.Journel va C.J.Huijbregts, E.H.Isaaks va R.M.Srivastava, N.Cressie, P.Goovaerts, J.-P.Chilès va P.Delfiner, R.Webster va M.A.Oliver tomonidan rivojlantirilgan \[26, 29, 44, 54, 58, 111\].
 
-**Mavjud ishlarning umumiy xususiyatlari.** Ko'rib chiqilgan tadqiqotlardan uchta xulosa kelib chiqadi.
+Geostatistikaning markaziy tushunchasi — variogramma. U bir-biridan h masofadagi nuqtalar qiymatlari qanchalik farq qilishini ko’rsatadi:
 
-Birinchidan, baholash obyekti deyarli doim rejim ko'rsatkichlari — sath, minerallashuv, sho'rlanish. Drenaj tarmog'ining o'zi (joylashuvi, zichligi, holati) fazoviy tahlilga kamdan-kam kiritiladi.
+$$\gamma(h) = \frac{1}{2N(h)} \sum_{i=1}^{N(h)} \left[ z(x_i) - z(x_i + h) \right]^2$$
 
-Ikkinchidan, monitoring ma'lumotlari odatda tayyor holda qabul qilinadi; ularning sifati tekshirilgani haqida ma'lumot kam uchraydi \[aniq sharhlar asosida tasdiqlanadi\].
+bu yerda z(x) — x nuqtadagi qiymat; N(h) — bir-biridan h masofadagi nuqtalar juftlari soni. Eksperimental variogrammaga nazariy model (sferik, eksponensial, Gauss va boshqalar) moslashtiriladi; modelning uchta parametri — nagget (kichik masofadagi tasodifiy o’zgaruvchanlik), plato (umumiy dispersiya) va ta’sir radiusi (bog’lanish saqlanadigan masofa) — o’rganilayotgan kattalikning fazoviy tuzilishini tavsiflaydi \[80, 111\]. Nagget va plato nisbati fazoviy bog’lanish kuchini ko’rsatadi; C.A.Cambardella va hammualliflari bu nisbat 25 foizdan kichik bo’lsa bog’lanishni kuchli, 75 foizdan katta bo’lsa kuchsiz deb tasniflashni taklif etgan \[25\].
 
-Uchinchidan, tadqiqotlarning aksariyati bir vaqtdagi fazoviy taqsimotni tavsiflaydi. Tarmoqdagi o'zgarish (qurilish, ta'mir) rejimda qanday aks etganini vaqt bo'yicha kuzatish ishlari kam.
+Oddiy kriging usulida o’lchanmagan x₀ nuqtadagi qiymat qo’shni o’lchovlarning tortilgan yig’indisi sifatida baholanadi:
 
-Bundan tashqari, ko'p tumanlarda drenaj tarmog'ining raqamli qatlamlari mavjud emas: tarmoq qog'oz xarita va jadvallarda yuritiladi. Bunday sharoitda mavjud xaritalardan geoma'lumotlar bazasini tiklash usuli amaliy ahamiyatga ega \[yangi manba kerak: xaritalarni vektorlash usullari\].
+$$\hat{z}(x_0) = \sum_{i=1}^{n} \lambda_i \, z(x_i), \qquad \sum_{i=1}^{n} \lambda_i = 1$$
+
+Vaznlar λᵢ baho siljimagan va xato dispersiyasi eng kichik bo’lishi shartidan variogramma asosida aniqlanadi. Krigingning boshqa interpolyatsiya usullaridan, masalan teskari masofa usulidan \[99\], asosiy afzalligi shundaki, u har bir nuqtada baho bilan birga uning xato dispersiyasini ham beradi \[44, 81\]. Interpolyatsiya usullarining qiyosiy tahlili J.Li va A.D.Heap sharhida umumlashtirilgan: ko’p hollarda kriging boshqa usullardan aniqroq, lekin bu ustunlik ma’lumotlar zichligi va fazoviy tuzilishiga bog’liq \[65\]. Model sifati kross-validatsiya bilan tekshiriladi: har bir o’lchov navbat bilan chiqarib tashlanadi, qolganlari bo’yicha baholanadi va xato hisoblanadi \[44, 48\].
+
+Geostatistik tahlilning amaliy cheklovi kuzatuv tarmog’ining zichligi bilan bog’liq. Agar quduqlar orasidagi masofa sathning o’zgaruvchanlik masofasidan katta bo’lsa, kriging o’lchovlar orasidagi qiymatni ishonchli tiklay olmaydi va baho hududiy o’rtachaga yaqinlashadi. Shu sababli kriging natijasini xarita sifatida berishdan oldin kross-validatsiya xatosini ma’lumotning o’z tarqoqligi bilan solishtirish zarur.
+
+**Kuzatuv tarmog’ini loyihalash.** Kriging dispersiyasidan kuzatuv tarmog’ini loyihalashda ham foydalaniladi. H.A.Loáiciga va hammualliflari sharhida tarmoqni loyihalash usullari gidrogeologik va statistik guruhlarga ajratilgan va fazoviy miqyos, kuzatuv maqsadi, ma’lumotlarga talab hamda qo’llanish sohasi bo’yicha baholangan \[145\]. Statistik yondashuvda yangi quduq kriging dispersiyasi eng katta bo’lgan joyga, ya’ni noaniqlik eng yuqori bo’lgan joyga qo’yiladi; ortiqcha quduq esa uni olib tashlaganda xarita va dispersiya deyarli o’zgarmasligi bilan aniqlanadi. Bu yerda muhim cheklov bor: kriging dispersiyasi asosan quduqlarning joylashuviga bog’liq va o’lchangan qiymatlarga kam bog’liq, shuning uchun u noaniqlikning to’liq emas, nisbiy o’lchovi hisoblanadi.
+
+**Vaqt qatorlari tahlili.** Ko’p yillik monitoring qatorlarida tendensiyani aniqlash uchun parametrik bo’lmagan Mann–Kendall mezoni standart vosita hisoblanadi \[59, 73\]. Mezon statistikasi
+
+$$S = \sum_{k=1}^{n-1} \sum_{j=k+1}^{n} \operatorname{sgn}(x_j - x_k)$$
+
+ko’rinishida hisoblanadi; S ning normallashtirilgan qiymati orqali tendensiyaning statistik ahamiyati tekshiriladi. Tendensiya kattaligi P.K.Sen qiyaligi bilan baholanadi: u barcha juft nuqtalar orasidagi qiyaliklarning medianasiga teng \[97\]. Usulning gidrologik qatorlarga qo’llanilishi D.R.Helsel va R.M.Hirsch, R.M.Hirsch va hammualliflari ishlarida, avtokorrelyatsiyali qatorlar uchun tuzatish K.H.Hamed va A.R.Rao tomonidan berilgan \[46, 47, 49\]. Mann–Kendall mezonining afzalligi — u taqsimot shakliga bog’liq emas va chetki qiymatlarga chidamli. Biroq u qatorning bir jinsli ekanini, ya’ni barcha yillarda bir xil usul va bir xil quduqlar bilan o’lchanganini oldindan qabul qiladi. Agar kuzatuv tarmog’i tarkibi o’zgargan bo’lsa, mezon tarmoq o’zgarishini tendensiya sifatida qayd etadi.
+
+**Masofadan zondlash.** Tuproq sho’rlanishini va ekinlar holatini katta hududlarda kuzatish uchun sun’iy yo’ldosh tasvirlari qo’llaniladi. O’simlik indekslari, jumladan J.W.Rouse va hammualliflari taklif etgan normallashtirilgan o’simlik indeksi (NDVI), hamda maxsus sho’rlanish indekslari spektral kanallar nisbati asosida hisoblanadi \[56, 91\]. Sho’rlanishni masofadan baholashning imkoniyatlari va cheklovlari G.I.Metternicht va J.A.Zinck, J.Farifteh va hammualliflari, A.Allbed va L.Kumar, D.L.Corwin va E.Scudiero sharhlarida tahlil qilingan \[14, 28, 35, 76\]. Ularning umumiy xulosasi: spektral indekslarning o’zi yetarli emas, ishonchli baho uchun sun’iy yo’ldosh ma’lumotlarini yer usti o’lchovlari bilan birga ishlatish zarur.
+
+**Ko’p mezonli baholash.** GATda ko’p mezonli qaror qabul qilish usullari, ayniqsa T.L.Saatining analitik iyerarxiya jarayoni, keng qo’llaniladi; ularning GAT bilan integratsiyasi J.Malczewski ishlarida tizimlashtirilgan \[70–72, 92–95\]. Bu usullarda bir nechta ko’rsatkich ekspertlar bergan vaznlar bilan yagona indeksga birlashtiriladi. Usulning kuchli tomoni — shaffofligi va qaror qabul qiluvchilar fikrini hisobga olishi. Cheklovi — natija ekspert vaznlariga bog’liq va ko’rsatkichlar orasidagi sabab-oqibat bog’lanishini aniqlamaydi; shuning uchun sezgirlik tahlili majburiy hisoblanadi \[79, 96\].
+
+**Markaziy Osiyodagi tadqiqotlar.** Mintaqada GAT va geostatistika asosan sizot suvlari rejimi va tuproq sho’rlanishini o’rganish uchun qo’llanilgan. Asosiy ishlar 1.3-jadvalda umumlashtirilgan.
+
+
+::: {custom-style="Sarlavha-jadval"}
+1.3-jadval. Markaziy Osiyoda sizot suvlari rejimi va sho’rlanishni GAT va geostatistika yordamida o’rganish bo’yicha tadqiqotlar
+:::
+
+| Mualliflar, yil | Hudud | Ma’lumotlar | Usul | Asosiy natija |
+| --- | --- | --- | --- | --- |
+| M.Ibrakhimov va boshq., 2007 \[53\] | Xorazm viloyati | 1990–2000-yillar, 1 972 ta kuzatuv qudug’i | Kriging | Vegetatsiya davrida hududning taxminan uchdan ikki qismida sizot sathi 1,5 m kritik chuqurlikdan sayoz |
+| I.Forkutsa va boshq., 2009 \[37\] | Xorazm viloyati | Dala tajribasi | Modellashtirish | Sayoz sizot suvi sharoitida g’o’zaning suv iste’moli baholangan |
+| A.Akramkhanov, P.L.G.Vlek, 2012 \[13\] | Xorazm viloyati | Tuproq o’lchovlari va atrof-muhit ko’rsatkichlari | Neyron tarmog’i | Tuproq sho’rlanishi xavfining fazoviy taqsimoti |
+| A.Hamidov va boshq., 2020 \[146\] | Xorazm viloyati | 1991–2017-yillar | Mann–Kendall mezoni, regressiya | 2100-yilgacha sath 1,72–1,79 m, minerallashuv 1,85–2,1 g/l bo’lishi prognoz qilingan |
+| Sh.Kenjabayev va boshq. \[60, 61\] | Xorazm, Qulovot | Monitoring va atrof-muhit ko’rsatkichlari | GAT tahlili | Yerlarning meliorativ holati baholangan |
+| A.Pulatov va boshq. \[84\] | Sirdaryo, Mirzaobod | Tuproq namunalari | Interpolyatsiya usullari qiyosi | Sho’rlanish xaritalari, usullar aniqligi solishtirilgan |
+| Sh.Kholdorov va boshq., 2023 \[147\] | Markaziy Farg’ona | Landsat 8, Sentinel-2, 2019-yil tuproq namunalari | Spektral indekslar | Landsat 8 bo’yicha NDSI va SI12 indekslari eng yaxshi natija bergan |
+
+Jadvaldan ko’rinadiki, tadqiqotlarning aksariyati Quyi Amudaryo hududiga, ayniqsa Xorazm viloyatiga to’g’ri keladi. Farg’ona vodiysi bo’yicha, xususan Andijon viloyati uchun, kuzatuv quduqlari ma’lumotlariga asoslangan fazoviy-vaqtli tahlil ishlari kam uchraydi.
+
+Xorijiy tadqiqotlarda ham sizot suvlari sathining sug’orish va drenaj tarmog’i bilan bog’liqligi GAT yordamida o’rganilgan. Masalan, J.Wang va hammualliflari Avstraliyaning sug’oriladigan hududida kuzatuv quduqlari ma’lumotlarini GAT ma’lumotlar bazasiga yig’ib, toshqin va yog’inning sizot suvlarini to’yintirishga ta’sirini va uning fazoviy ko’lamini miqdoriy baholagan \[148\].
+
+**Mavjud ishlarning umumiy xususiyatlari.** Ko’rib chiqilgan tadqiqotlardan uchta xulosa kelib chiqadi.
+
+Birinchidan, baholash obyekti deyarli doim rejim ko’rsatkichlari — sizot sathi, minerallashuv, tuproq sho’rlanishi. Drenaj tarmog’ining o’zi — uning joylashuvi, zichligi va holati — fazoviy tahlilga kamdan-kam kiritiladi; tarmoq odatda xaritada fon sifatida ko’rsatiladi, lekin uning ko’rsatkichlari sizot rejimi bilan miqdoriy bog’lanmaydi.
+
+Ikkinchidan, monitoring ma’lumotlari odatda tayyor holda qabul qilinadi. Ko’rib chiqilgan ishlarda ma’lumotlarning o’zi — yillararo bir jinsliligi, kuzatuv tarmog’i tarkibining barqarorligi, qiymatlarning fizik jihatdan mumkinligi — tekshirilgani haqida ma’lumot deyarli uchramaydi.
+
+Uchinchidan, tadqiqotlarning aksariyati bir vaqtdagi fazoviy taqsimotni yoki hududiy o’rtacha tendensiyani tavsiflaydi. Tarmoqdagi o’zgarish — yangi qurilish yoki ta’mir — sizot rejimida qanday aks etganini alohida quduqlar darajasida vaqt bo’yicha kuzatish ishlari uchramadi.
+
+Bundan tashqari, ko’p tumanlarda drenaj tarmog’ining raqamli qatlamlari mavjud emas: tarmoq qog’oz xarita va jadvallarda yuritiladi. Bunday sharoitda mavjud xaritalardan geoma’lumotlar bazasini tiklash va uning aniqligini baholash usuli amaliy ahamiyatga ega. Ushbu masalalar mazkur dissertatsiyaning II va III boblarida hal etiladi.
 
 ## 1.4-§. Monitoring ma'lumotlarining sifati masalasi va tadqiqot vazifalari
 
@@ -1187,7 +1234,11 @@ Samarani so'mda ifodalash uchun ta'mir turlarining haqiqiy meliorativ natijasi m
 138. Мирцхулава Ц.Е. Надёжность гидромелиоративных сооружений. – М.: Колос, 1974. – 424 с.
 139. Мирцхулава Ц.Е. О надёжности крупных каналов. – М.: Колос, 1981. – 318 с.
 140. Bos M.G., Burton M.A., Molden D.J. Irrigation and Drainage Performance Assessment: Practical Guidelines. – Wallingford: CABI Publishing, 2005. – 176 p.
-141. Vincent B., Vlotman W.F., Zimmer D., Hornbuckle J.W. Performance Assessment and Potential Indicators for Drainage Systems. – Canberra: CSIRO Land and Water / ICID, 2007. – 98 p.
+141. Vincent B., Vlotman W.F., Zimmer D., Hornbuckle J.W. Performance Assessment and Potential Indicators for Drainage Systems. – ICID Working Group on Drainage, 2007. – 98 p.
 142. Tilekeyev K., Kirbasheva D. Rehabilitating the Irrigation Canals in Southern Kyrgyzstan: An Impact Evaluation Study. Working Paper No. 69. – Bishkek: University of Central Asia, 2022.
 143. Angrist J.D., Pischke J.-S. Mostly Harmless Econometrics: An Empiricist's Companion. – Princeton: Princeton University Press, 2009. – 373 p.
 144. ГОСТ 27.002-2015. Надёжность в технике. Термины и определения. – М.: Стандартинформ, 2016.
+145. Loáiciga H.A., Charbeneau R.J., Everett L.G., Fogg G.E., Hobbs B.F., Rouhani S. Review of ground-water quality monitoring network design // Journal of Hydraulic Engineering. – 1992. – Vol. 118, No. 1. – P. 11–37.
+146. Hamidov A., Khamidov M., Ishchanov J. Impact of climate change on groundwater management in the northwestern part of Uzbekistan // Agronomy. – 2020. – Vol. 10, No. 8. – Art. 1173. – https://doi.org/10.3390/agronomy10081173
+147. Kholdorov Sh., Lakshmi G., Jabbarov Z., Yamaguchi T., Yamashita M., Samatov N., Katsura K. Analysis of irrigated salt-affected soils in the Central Fergana Valley, Uzbekistan, using Landsat 8 and Sentinel-2 satellite images, laboratory studies, and spectral index-based approaches // Eurasian Soil Science. – 2023. – Vol. 56, No. 8. – P. 1178–1189.
+148. Wang J., Khan S., O'Connell N. Quantifying rainfall and flooding impacts on groundwater levels in irrigation areas: GIS approach // Journal of Irrigation and Drainage Engineering. – 2007. – Vol. 133, No. 4. – P. 359–367.
