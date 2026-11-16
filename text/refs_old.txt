@@ -146,3 +146,7 @@
 146. Hamidov A., Khamidov M., Ishchanov J. Impact of climate change on groundwater management in the northwestern part of Uzbekistan // Agronomy. – 2020. – Vol. 10, No. 8. – Art. 1173. – https://doi.org/10.3390/agronomy10081173
 147. Kholdorov Sh., Lakshmi G., Jabbarov Z., Yamaguchi T., Yamashita M., Samatov N., Katsura K. Analysis of irrigated salt-affected soils in the Central Fergana Valley, Uzbekistan, using Landsat 8 and Sentinel-2 satellite images, laboratory studies, and spectral index-based approaches // Eurasian Soil Science. – 2023. – Vol. 56, No. 8. – P. 1178–1189.
 148. Wang J., Khan S., O'Connell N. Quantifying rainfall and flooding impacts on groundwater levels in irrigation areas: GIS approach // Journal of Irrigation and Drainage Engineering. – 2007. – Vol. 133, No. 4. – P. 359–367.
+149. World Meteorological Organization. Guide to Hydrological Practices. Vol. I: Hydrology – From Measurement to Hydrological Information. WMO-No. 168. – 6th ed. – Geneva: WMO, 2008.
+150. Pettitt A.N. A non-parametric approach to the change-point problem // Journal of the Royal Statistical Society. Series C (Applied Statistics). – 1979. – Vol. 28, No. 2. – P. 126–135.
+151. Alexandersson H. A homogeneity test applied to precipitation data // Journal of Climatology. – 1986. – Vol. 6, No. 6. – P. 661–675.
+152. Helsel D.R. Nondetects and Data Analysis: Statistics for Censored Environmental Data. – Hoboken: John Wiley & Sons, 2005. – 250 p.

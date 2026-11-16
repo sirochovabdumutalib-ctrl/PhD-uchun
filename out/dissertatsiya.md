@@ -403,42 +403,79 @@ Uchinchidan, tadqiqotlarning aksariyati bir vaqtdagi fazoviy taqsimotni yoki hud
 
 Bundan tashqari, ko’p tumanlarda drenaj tarmog’ining raqamli qatlamlari mavjud emas: tarmoq qog’oz xarita va jadvallarda yuritiladi. Bunday sharoitda mavjud xaritalardan geoma’lumotlar bazasini tiklash va uning aniqligini baholash usuli amaliy ahamiyatga ega. Ushbu masalalar mazkur dissertatsiyaning II va III boblarida hal etiladi.
 
-## 1.4-§. Monitoring ma'lumotlarining sifati masalasi va tadqiqot vazifalari
+## 1.4-§. Monitoring ma’lumotlarining sifati masalasi va tadqiqot vazifalari
 
-Meliorativ monitoring ma'lumotlari boshqaruv qarorlarining asosi hisoblanadi: yerlarning meliorativ holati toifalari, ta'mir rejalari va davlat dasturlari natijalari shu ma'lumotlar bo'yicha baholanadi. Shuning uchun ma'lumot sifati alohida ilmiy masala sifatida qaralishi kerak.
+**Ma’lumot sifatining boshqaruvdagi o’rni.** Meliorativ monitoring ma’lumotlari boshqaruv qarorlarining asosi hisoblanadi: yerlarning meliorativ holati toifalari, ta’mir va rekonstruksiya rejalari, davlat dasturlarining natijalari shu ma’lumotlar bo’yicha baholanadi \[2, 123, 135\]. 1.2-§ da ko’rsatilganidek, rejim ko’rsatkichlari bo’yicha baholash ham, ishonchlilik hisobi ham, geostatistik xaritalash ham kirish ma’lumotlarining to’g’riligini oldindan qabul qiladi. Agar ma’lumotda tizimli nuqson bo’lsa, u barcha keyingi hisoblarga o’tadi: tendensiya noto’g’ri baholanadi, xarita haqiqiy holatni emas, o’lchash tartibini aks ettiradi, dastur maqsadlariga erishilgani yoki erishilmagani noto’g’ri qayd etiladi. Shu sababli ma’lumot sifati alohida ilmiy masala sifatida qaralishi kerak.
 
-Fazoviy ma'lumotlar sifatining umumiy tamoyillari — to'liqlik, mantiqiy izchillik, joylashuv va atribut aniqligi, vaqt bo'yicha sifat — \[7, 45, 113\] da belgilangan. Gidrologik qatorlar uchun bir jinslilikni tekshirish va tendensiyani to'g'ri baholash masalalari \[47, 49\] da ko'rib chiqilgan. Biroq bu ishlar asosan o'lchov xatolari va tasodifiy nuqsonlarga qaratilgan. Hisobot yuritish amaliyotidan kelib chiqadigan tizimli nuqsonlar — o'lchanmagan qiymat o'rniga shartli son yozish, kuzatuv tarmog'i o'zgarishini qayd etmaslik — meliorativ monitoring adabiyotida deyarli yoritilmagan \[yangi manba kerak: gidrologik ma'lumotlar sifatini nazorat qilish\].
+**Gidrologik kuzatuvlarda xato turlari.** Gidrologik va gidrogeologik o’lchovlardagi xatolar odatda uch guruhga ajratiladi \[47, 149\].
 
-Meliorativ monitoringning mahalliy uslubiy asosida \[123\] kuzatuvlarni o'tkazish va hisobotlarni tuzish tartibi belgilangan, ammo tayyor qatorlarni rasmiy qoidalar bo'yicha tekshirish tartibi berilmagan \[manba matni bo'yicha tasdiqlanadi\].
+Birinchi guruh — tasodifiy o’lchov xatolari. Ular asbob aniqligi, o’lchovchi mahorati va o’lchash sharoiti bilan bog’liq; qiymatni ikki tomonga teng ehtimol bilan og’diradi va ko’p o’lchovlarni o’rtachalashda kamayadi.
 
-**Aniqlangan bo'shliqlar.** Adabiyotlar tahlili to'rtta bo'shliqni ko'rsatadi.
+Ikkinchi guruh — tizimli xatolar. Ular barcha yoki ko’p o’lchovlarni bir tomonga siljitadi: noto’g’ri sozlangan asbob, quduq og’zi balandligining o’zgarishi, o’lchash usulining almashinishi. Tizimli xato o’rtachalashda kamaymaydi va tendensiya sifatida namoyon bo’lishi mumkin.
 
-1. Ko'p yillik meliorativ monitoring qatorlarining ishonchliligini baholashning rasmiy qoidalari va miqdoriy ko'rsatkichi ishlab chiqilmagan.
-2. Drenaj tarmog'ining raqamli qatlamlari bo'lmagan hududlar uchun geoma'lumotlar bazasini mavjud xaritalardan tiklash usuli va uning aniqligi baholanmagan.
-3. Sizot rejimining drenaj tarmog'i bilan bog'liqligi alohida quduq darajasida, tarmoqning fazoviy ko'rsatkichlari bilan birga o'rganilmagan; baholar odatda massiv yoki tuman o'rtachalariga tayanadi.
-4. Kollektorlarni ta'mirlashning meliorativ samarasi monitoring ma'lumotlari asosida o'lchanmagan; samara bajarilgan ish hajmi bilan almashtiriladi.
+Uchinchi guruh — qayta ishlash va hisobot xatolari. Ular o’lchovdan keyin, ma’lumotni yozish, ko’chirish va jamlash bosqichida yuzaga keladi: birlikning almashtirilishi (metr o’rniga santimetr), raqamlarning o’rin almashishi, o’lchanmagan holatda shartli qiymat yozilishi. Bu xatolar ko’pincha katta va oson aniqlanadi, lekin faqat ma’lumot maxsus tekshirilganda.
 
-**Tadqiqotning maqsadi.** GAT texnologiyalari asosida meliorativ monitoring ma'lumotlarining ishonchliligini baholash, sizot rejimining drenaj tarmog'i bilan bog'liqligini aniqlash hamda kollektorlarni ta'mirlash samaradorligini baholash usulini ishlab chiqish.
+Jahon meteorologiya tashkilotining gidrologik amaliyot bo’yicha qo’llanmasida kuzatuv ma’lumotlarini dastlabki tekshirish majburiy bosqich sifatida belgilangan: qiymatlarning fizik jihatdan mumkin bo’lgan oraliqda ekani, vaqt bo’yicha izchilligi va qo’shni nuqtalar bilan muvofiqligi tekshiriladi \[149\].
+
+**Qatorlarning bir jinsliligi.** Ko’p yillik qator bir jinsli deb hisoblanadi, agar undagi o’zgarishlar faqat o’rganilayotgan jarayon bilan bog’liq bo’lsa, o’lchash sharoitining o’zgarishi bilan emas. Kuzatuv nuqtasining ko’chirilishi, asbobning almashtirilishi, kuzatuvchining o’zgarishi qatorda sun’iy sakrash hosil qiladi. Bunday sakrashlarni aniqlash uchun A.N.Pettitt taklif etgan parametrik bo’lmagan o’zgarish nuqtasi testi \[150\] va H.Alexandersson taklif etgan standart normal bir jinslilik testi \[151\] keng qo’llaniladi. Iqlim va gidrologiya qatorlari uchun bu testlar standart amaliyotga aylangan, ammo meliorativ monitoring qatorlariga ularni qo’llash ishlari kam uchraydi.
+
+Meliorativ monitoringda bir jinslilik masalasi ayniqsa dolzarb, chunki bu yerda o’lchov nuqtasi — kuzatuv qudug’i — vaqt o’tishi bilan o’zgaradi: quduqlar ishdan chiqadi, yangilari quriladi, eskilari chuqurlashtiriladi. Agar tarmoq tarkibi o’zgargan bo’lsa, barcha quduqlar bo’yicha o’rtacha sath yildan-yilga nafaqat sizot rejimi, balki quduqlar to’plami o’zgargani uchun ham o’zgaradi. Bu holda Mann–Kendall mezoni (1.3-§) tarmoq o’zgarishini sathning tendensiyasi sifatida qayd etadi.
+
+**Kesilgan ma’lumotlar muammosi.** Kuzatuv qudug’i ma’lum chuqurlikka ega. Sizot suvi quduq tubidan pastga tushsa, quduq quriydi va haqiqiy sathni o’lchab bo’lmaydi: ma’lum bo’ladigan narsa faqat sathning quduq chuqurligidan pastda ekanidir. Statistikada bunday qiymatlar kesilgan (senzuralangan) ma’lumotlar deyiladi; ularni oddiy son sifatida o’rtachaga kiritish bahoni bir tomonga siljitadi \[152\]. Agar quruq quduq uchun quduq chuqurligi yoki shartli qiymat yozilsa, o’rtacha sath haqiqatdagidan sayozroq chiqadi; agar bunday quduqlar tahlildan butunlay chiqarilsa, chuqur sathli hududlar e’tibordan chetda qoladi. Ikki holda ham baho siljigan bo’ladi. Sayoz quduqlardan iborat tarmoqda bu muammo, ayniqsa, sath chuqurlashayotgan davrda kuchayadi.
+
+**Mahalliy amaliyot.** O’zbekistonda meliorativ monitoringni o’tkazish, kuzatuv quduqlarini jihozlash va hisobotlarni tuzish tartibi R.Q.Ikromov va hammualliflari qo’llanmasida bayon etilgan \[123\]; monitoring natijalari meliorativ kadastrga kiritiladi. Biroq ko’p yillik qatorlarni yig’ma bazaga kiritishdan oldin rasmiy qoidalar bo’yicha tekshirish tartibi va ma’lumotlar ishonchliligining miqdoriy ko’rsatkichi belgilanmagan \[manba matni bo’yicha tasdiqlanadi\]. Kuzatuv tarmog’idagi o’zgarishlarni — yangi quduq qurish, chuqurlashtirish, ko’chirish — sanasi bilan qayd etish ham monitoring qatorlari bilan birga yuritilmaydi.
+
+**Aniqlangan bo’shliqlar.** 1.1–1.4-§ dagi tahlil quyidagi to’rtta hal etilmagan masalani ko’rsatadi (1.4-jadval).
+
+
+::: {custom-style="Sarlavha-jadval"}
+1.4-jadval. Adabiyotlar tahlili asosida aniqlangan hal etilmagan masalalar
+:::
+
+| № | Hal etilmagan masala | Qayerda ko’rsatilgan | Dissertatsiyada hal etiladi |
+| --- | --- | --- | --- |
+| 1 | Ko’p yillik meliorativ monitoring qatorlarining ishonchliligini baholashning rasmiy qoidalari va miqdoriy ko’rsatkichi ishlab chiqilmagan | 1.2, 1.4-§ | 2.4, 3.1-§ |
+| 2 | Drenaj tarmog’ining raqamli qatlamlari bo’lmagan hududlar uchun geoma’lumotlar bazasini mavjud xaritalardan tiklash usuli va uning aniqligi baholanmagan | 1.3-§ | 2.3-§ |
+| 3 | Sizot rejimining drenaj tarmog’i bilan bog’liqligi alohida quduq darajasida, tarmoqning fazoviy ko’rsatkichlari bilan birga o’rganilmagan | 1.3-§ | 3.3, 3.4-§ |
+| 4 | Kollektorlarni ta’mirlashning meliorativ samarasi monitoring ma’lumotlari asosida o’lchanmagan | 1.2-§ | 4.3, 4.5-§ |
+
+**Tadqiqotning maqsadi** GAT texnologiyalari asosida meliorativ monitoring ma’lumotlarining ishonchliligini baholash, sizot rejimining drenaj tarmog’i bilan bog’liqligini aniqlash hamda kollektor-drenaj tizimlarini ta’mirlash samaradorligini baholash usulini ishlab chiqishdan iborat.
 
 **Tadqiqotning vazifalari:**
 
-- meliorativ tizimlar ishonchliligi va samaradorligini baholashning mavjud usullarini tahlil qilish va bo'shliqlarni aniqlash;
-- mavjud xaritalar va kadastr asosida Marhamat tumani meliorativ tizimining geoma'lumotlar bazasini shakllantirish va uning aniqligini baholash;
-- monitoring ma'lumotlarini tekshirish qoidalarini ishlab chiqish va 2009–2024-yillar qatorlarining ishonchliligini baholash;
-- tozalangan qatorlar asosida sizot suvlari sathining ko'p yillik, mavsumiy va fazoviy qonuniyatlarini aniqlash;
-- sizot rejimining drenaj tarmog'i, kanallar va relyef bilan bog'liqligini quduq darajasida baholash;
-- tizim elementlarining yoshi va ta'mir tarixi bo'yicha ishonchlilik ko'rsatkichlarini aniqlash, ta'mirning sizot sathiga ta'siri va haqiqiy narxini baholash;
-- monitoring tizimini takomillashtirish bo'yicha ilmiy asoslangan tavsiyalar ishlab chiqish.
+meliorativ tizimlar ishonchliligi va samaradorligini baholashning mavjud usullarini tahlil qilish va hal etilmagan masalalarni aniqlash;
 
-## I bob bo'yicha xulosalar
+mavjud xaritalar va meliorativ kadastr asosida Marhamat tumani meliorativ tizimining geoma’lumotlar bazasini shakllantirish va uning aniqligini baholash;
 
-1. Drenaj nazariyasi tizimni loyihalash masalasini to'liq hal qiladi, ammo qurilgan tizimning haqiqatda qanday ishlayotganini baholash masalasi kam ishlangan.
-2. Meliorativ tizimni baholashning uch yondashuvi — loyihaviy-gidravlik, rejim ko'rsatkichlari bo'yicha va ishonchlilik nazariyasi — ko'rib chiqildi. Uchalasi ham kirish ma'lumotlarining to'g'riligini oldindan qabul qiladi.
-3. Ishonchlilik nazariyasining klassik ko'rsatkichlarini qo'llash uchun nosozlik va ta'mirlarning to'liq hisobi zarur; amaldagi kadastrda bunday hisob yo'q.
-4. Markaziy Osiyoda GAT va geostatistika asosan rejim ko'rsatkichlarini xaritalash uchun qo'llanilgan; drenaj tarmog'ining o'zi fazoviy tahlilga kamdan-kam kiritilgan.
-5. Ta'mirning meliorativ samarasi odatda bajarilgan ish hajmi bilan almashtiriladi; uni rejimdagi o'zgarish orqali o'lchash usuli ishlab chiqilmagan.
-6. Monitoring ma'lumotlarining tizimli nuqsonlarini aniqlash masalasi meliorativ adabiyotda deyarli yoritilmagan.
-7. To'rtta bo'shliq aniqlanib, tadqiqotning maqsadi va yettita vazifasi belgilandi.
+monitoring ma’lumotlarini tekshirish qoidalarini ishlab chiqish va 2009–2024-yillar kuzatuv qatorlarining ishonchliligini baholash;
+
+tekshirilgan qatorlar asosida sizot suvlari sathining ko’p yillik, mavsumiy va fazoviy qonuniyatlarini aniqlash;
+
+sizot rejimining drenaj tarmog’i, sug’orish kanallari va relyef bilan bog’liqligini quduq darajasida baholash;
+
+tizim elementlarining yoshi va ta’mir tarixi bo’yicha ishonchlilik ko’rsatkichlarini aniqlash, ta’mirning sizot sathiga ta’siri va haqiqiy narxini baholash;
+
+monitoring tizimini takomillashtirish va ta’mir samaradorligini o’lchash bo’yicha ilmiy asoslangan tavsiyalar ishlab chiqish.
+
+**Tadqiqot bosqichlari.** Vazifalar to’rt bosqichda bajariladi va har bir bosqich oldingisining natijasiga tayanadi.
+
+1. Ma’lumotlarni yig’ish va geoma’lumotlar bazasini shakllantirish: monitoring jadvallari, kadastr, xaritalar yagona koordinatalar tizimida birlashtiriladi (II bob).
+2. Ma’lumotlarni tekshirish: monitoring qatorlari rasmiy qoidalar bo’yicha tekshiriladi, ishonchsiz qiymatlar ajratiladi, ishonchlilik ko’rsatkichi hisoblanadi (II–III boblar).
+3. Sizot rejimini tahlil qilish: tekshirilgan qatorlar asosida ko’p yillik, mavsumiy va fazoviy qonuniyatlar hamda drenaj tarmog’i bilan bog’liqlik aniqlanadi (III bob).
+4. Tizim ishonchliligi va ta’mir samaradorligini baholash: kadastr bo’yicha ishonchlilik ko’rsatkichlari, ta’mirning sizot sathiga ta’siri va narxi baholanadi, tavsiyalar ishlab chiqiladi (IV bob).
+
+Bosqichlarning bu tartibi tadqiqotning asosiy uslubiy pozitsiyasini aks ettiradi: tizim ishonchliligini baholashdan oldin ma’lumotlarning ishonchliligi baholanishi kerak.
+
+## I bob bo’yicha xulosalar
+
+1. Sug’oriladigan yerlarda ikkilamchi sho’rlanish va zax bosishga qarshi asosiy muhandislik chorasi kollektor-drenaj tizimlaridir. O’zbekistonda 142,9 ming km kollektor-drenaj tarmog’i ishlatiladi; Andijon viloyatida ochiq tarmoq 7 616,3 km, shundan Marhamat tumanida 621,1 km. Tarmoqning asosiy qismi o’tgan asrning o’rtalarida qurilgan va muntazam ta’mir talab qiladi.
+2. Kollektor-drenaj tizimlarining muammolari to’rt guruhga ajratildi: jismoniy eskirish, mas’uliyatning bo’linishi, axborot ta’minotining yetishmasligi va natijani o’lchashning yo’qligi. Oxirgi ikki guruh ilmiy-uslubiy masala bo’lib, ular mazkur tadqiqotning obyekti hisoblanadi.
+3. Meliorativ tizimni baholashning uch yondashuvi — loyihaviy-gidravlik, rejim ko’rsatkichlari bo’yicha va ishonchlilik nazariyasi — tahlil qilindi. Loyihaviy yondashuv haqiqiy holatni, rejim bo’yicha baholash sabab-oqibatni ko’rsatmaydi; ishonchlilik nazariyasini qo’llash uchun zarur bo’lgan nosozliklar hisobi amalda yuritilmaydi.
+4. Drenaj tizimlari ishini baholash usullari sug’orish tizimlarinikiga qaraganda ancha kam ishlangan; xalqaro adabiyotda ham bu sohada yaxlit usul yo’qligi qayd etilgan.
+5. Ta’mir samarasi amalda bajarilgan ish hajmi bilan o’lchanadi. Uni sizot rejimidagi o’zgarish orqali o’lchash uchun tadbir o’tkazilgan va o’tkazilmagan obyektlarni solishtirish usuli mavjud, ammo u drenaj tizimlariga kuzatuv quduqlari ma’lumotlari asosida qo’llanilmagan.
+6. Meliorativ monitoringda GAT va geostatistika asosan rejim ko’rsatkichlarini xaritalash uchun qo’llanilgan. Drenaj tarmog’ining o’zi fazoviy tahlilga kamdan-kam kiritiladi; Markaziy Osiyodagi tadqiqotlar asosan Xorazm viloyatiga tegishli, Farg’ona vodiysi bo’yicha bunday ishlar kam.
+7. Ko’rib chiqilgan barcha yondashuvlar kirish ma’lumotlarining to’g’riligini oldindan qabul qiladi. Monitoring qatorlarining bir jinsliligi, kuzatuv tarmog’i tarkibining barqarorligi va quruq quduqlar bilan bog’liq kesilgan ma’lumotlar muammosi meliorativ adabiyotda deyarli yoritilmagan.
+8. To’rtta hal etilmagan masala aniqlanib, tadqiqotning maqsadi, yettita vazifasi va to’rt bosqichli tartibi belgilandi. Tadqiqotning asosiy uslubiy pozitsiyasi: tizim ishonchliligini baholashdan oldin ma’lumotlarning ishonchliligi baholanishi kerak.
 
 
 
@@ -1242,3 +1279,7 @@ Samarani so'mda ifodalash uchun ta'mir turlarining haqiqiy meliorativ natijasi m
 146. Hamidov A., Khamidov M., Ishchanov J. Impact of climate change on groundwater management in the northwestern part of Uzbekistan // Agronomy. – 2020. – Vol. 10, No. 8. – Art. 1173. – https://doi.org/10.3390/agronomy10081173
 147. Kholdorov Sh., Lakshmi G., Jabbarov Z., Yamaguchi T., Yamashita M., Samatov N., Katsura K. Analysis of irrigated salt-affected soils in the Central Fergana Valley, Uzbekistan, using Landsat 8 and Sentinel-2 satellite images, laboratory studies, and spectral index-based approaches // Eurasian Soil Science. – 2023. – Vol. 56, No. 8. – P. 1178–1189.
 148. Wang J., Khan S., O'Connell N. Quantifying rainfall and flooding impacts on groundwater levels in irrigation areas: GIS approach // Journal of Irrigation and Drainage Engineering. – 2007. – Vol. 133, No. 4. – P. 359–367.
+149. World Meteorological Organization. Guide to Hydrological Practices. Vol. I: Hydrology – From Measurement to Hydrological Information. WMO-No. 168. – 6th ed. – Geneva: WMO, 2008.
+150. Pettitt A.N. A non-parametric approach to the change-point problem // Journal of the Royal Statistical Society. Series C (Applied Statistics). – 1979. – Vol. 28, No. 2. – P. 126–135.
+151. Alexandersson H. A homogeneity test applied to precipitation data // Journal of Climatology. – 1986. – Vol. 6, No. 6. – P. 661–675.
+152. Helsel D.R. Nondetects and Data Analysis: Statistics for Censored Environmental Data. – Hoboken: John Wiley & Sons, 2005. – 250 p.
