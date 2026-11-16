@@ -150,3 +150,5 @@
 150. Pettitt A.N. A non-parametric approach to the change-point problem // Journal of the Royal Statistical Society. Series C (Applied Statistics). – 1979. – Vol. 28, No. 2. – P. 126–135.
 151. Alexandersson H. A homogeneity test applied to precipitation data // Journal of Climatology. – 1986. – Vol. 6, No. 6. – P. 661–675.
 152. Helsel D.R. Nondetects and Data Analysis: Statistics for Censored Environmental Data. – Hoboken: John Wiley & Sons, 2005. – 250 p.
+153. Marhamat District // Wikipedia. [Elektron resurs]. – URL: https://en.wikipedia.org/wiki/Marhamat_District (murojaat sanasi: 16.11.2026); Мархаматский район // Википедия. – URL: https://ru.wikipedia.org/wiki/Мархаматский_район
+154. Андижан: климат (данные 1961–1990 гг.) // Метео-ТВ. [Elektron resurs]. – URL: https://meteo-tv.ru/uzbekistan/andizhan/weather/climate/ (murojaat sanasi: 16.11.2026)
