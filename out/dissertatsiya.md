@@ -1730,29 +1730,95 @@ Bu baho III bob natijalari bilan solishtirilganda muhim manzara hosil bo'ladi. Z
 
 ## 4.2-§. Gidravlik hisob: drenaj moduli va kollektorlarning o'tkazish qobiliyati
 
-*Bu paragraf to'liq emas: talab etiladigan drenaj moduli va o'tkazish qobiliyati hisobi uchun qo'shimcha ma'lumot kerak (paragraf oxirida ko'rsatilgan).*
+Drenaj tizimining vazifaviy ishonchliligi uning sug'oriladigan maydondan ortiqcha suvni talab etilgan miqdorda olib chiqa olishi bilan belgilanadi. Bu xossa ikki ko'rsatkich bilan tavsiflanadi: drenaj moduli (birlik maydondan olib chiqiladigan suv sarfi) va kollektorning o'tkazish qobiliyati \[89; 103\]. Ushbu paragrafda kadastrdagi haqiqiy ko'rsatkichlar suv balansi asosida hisoblangan talab etiladigan modul bilan solishtiriladi, natija sizot suvi sathining kuzatilgan mavsumiy ko'tarilishi bilan tekshiriladi va kollektor holatining o'tkazish qobiliyatiga ta'siri baholanadi.
 
 **Kadastr bo'yicha haqiqiy ko'rsatkichlar.** Kadastrda har bir kollektor uchun oxiridagi suv sarfi va xizmat ko'rsatish maydoni berilgan. Ularning nisbati kollektor bo'yicha solishtirma sarfni (drenaj moduli ko'rsatkichini) beradi:
 
 $$q = \frac{1000 \, Q}{F}$$
 
-bu yerda q — solishtirma sarf, l/s·ga; Q — kollektor oxiridagi sarf, m³/s; F — xizmat ko'rsatish maydoni, ga.
+bu yerda q — solishtirma sarf, l/(s·ga); Q — kollektor oxiridagi sarf, m³/s; F — xizmat ko'rsatish maydoni, ga.
 
-90 ta kollektor bo'yicha solishtirma sarfning medianasi 0,53 l/s·ga, o'rta yarmi 0,19–1,35 l/s·ga oralig'ida. Chetki qiymatlar orasidagi farq juda katta: 0,03 dan 50 l/s·ga gacha. 13 ta kollektorda ko'rsatkich 0,1 l/s·ga dan kichik, 5 tasida 5 l/s·ga dan katta.
+90 ta kollektor bo'yicha solishtirma sarfning medianasi 0,53 l/(s·ga), o'rta yarmi 0,19–1,35 l/(s·ga) oralig'ida. Chetki qiymatlar orasidagi farq juda katta: 0,03 dan 50 l/(s·ga) gacha. 13 ta kollektorda ko'rsatkich 0,1 l/(s·ga) dan kichik, 5 tasida 5 l/(s·ga) dan katta. Barcha kollektorlar oxiridagi sarflar yig'indisi 18,27 m³/s, bu xizmat maydoniga (11 079 ga) nisbatan 1,65 l/(s·ga) ni tashkil etadi.
 
-Bunday tarqoqlikning ikki sababi bor. Birinchidan, yirik kollektorlar (G'arbiy Qoraqo'rg'on, O'qchi, Polvontosh) o'z maydonidan tashqari yuqoridan keladigan tranzit va tashlama suvlarni ham o'tkazadi, shuning uchun ulardagi sarfni xizmat maydoniga bo'lish drenaj modulini bermaydi. Ikkinchidan, kadastr yozuvlarining o'zida nomuvofiqliklar bor: masalan, Jo'ga kollektorining uzunligi 5,0 km, xizmat maydoni esa 4 ga deb ko'rsatilgan.
+Bunday tarqoqlikning ikki sababi bor. Birinchidan, yirik kollektorlar o'z maydonidan tashqari yuqoridan keladigan tranzit va tashlama suvlarni ham o'tkazadi. Eng katta sarfli beshta kollektorda (G'arbiy Qoraqo'rg'on — 4,6 m³/s, O'qchi — 2,2 m³/s, G'arbiy — 2,0 m³/s, Markaziy — 1,5 m³/s, Nayman — 1,2 m³/s) solishtirma sarf 2,5–10,2 l/(s·ga) ga yetadi; ulardagi sarfni xizmat maydoniga bo'lish drenaj modulini bermaydi. Bu beshta kollektor chiqarilganda qolgan 85 tasi bo'yicha mediana 0,50 l/(s·ga), kvartillar 0,18 va 1,14 l/(s·ga). Ikkinchidan, kadastr yozuvlarining o'zida nomuvofiqliklar bor: masalan, Jo'ga kollektorining uzunligi 5,0 km, xizmat maydoni esa 4 ga deb ko'rsatilgan. Bundan tashqari kadastrdagi sarf loyihaviy yoki bir martalik o'lchov qiymati bo'lib, uning qachon va qanday sharoitda aniqlangani ko'rsatilmagan.
 
-**Tarmoq zichligi.** Kollektorlarning solishtirma uzunligi medianasi 33 m/ga. Kollektorlar va ichki zovurlar birgalikda (636,5 km) kadastrdagi xizmat maydoniga (11 079 ga) nisbatan 57,5 m/ga ni tashkil etadi.
+**Tarmoq zichligi va hudud nishabligi.** Kollektorlarning solishtirma uzunligi medianasi 33 m/ga. Kollektorlar va ichki zovurlar birgalikda (636,5 km) kadastrdagi xizmat maydoniga (11 079 ga) nisbatan 57,5 m/ga ni tashkil etadi. Hudud nishabligi kuzatuv quduqlarining mutlaq balandliklari (173 ta quduq, 528–686 m) bo'yicha tekislik tenglamasi orqali baholandi: yer yuzasi shimolga qarab o'rtacha 2,4 m/km (i = 0,0024) nishablikda pasayadi. Bu kollektorlar tubi uchun 0,0005–0,002 oralig'idagi nishablikni ta'minlashga imkon beradi, ya'ni hudud tabiiy oqim sharoiti bo'yicha drenaj uchun qulay.
 
-**Talab etiladigan drenaj moduli.** Uni suv balansi tenglamasidan aniqlash rejalashtirilgan:
+**Talab etiladigan drenaj moduli.** Talab etiladigan modul vegetatsiya davridagi suv balansidan aniqlandi. Drenaj olib chiqishi kerak bo'lgan suv — bu sug'orish suvining dalada va xo'jalik ichki kanallarida yo'qolib, sizot suviga qo'shiladigan qismi \[89; 103\]:
 
-$$D = O + P + F_k - ET - \Delta W, \qquad q_t = \frac{D}{8{,}64 \, T}$$
+$$D = \beta \left[ \frac{N}{E_a} - N + \frac{N}{E_a E_c} - \frac{N}{E_a} \right], \qquad q_t = \frac{D}{8{,}64 \, T}$$
 
-bu yerda D — hisobiy davrda drenaj orqali chiqarilishi kerak bo'lgan suv qatlami, mm; O — sug'orish suvi, P — yog'in, F\_k — kanallardan filtratsiya, ET — umumiy bug'lanish, ΔW — tuproq namligi zaxirasining o'zgarishi (hammasi mm); T — hisobiy davr, sutka; q\_t — talab etiladigan drenaj moduli, l/s·ga.
+bu yerda N — sof sug'orish talabi, mm; Eₐ — dalada sug'orish samaradorligi; E\_c — xo'jalik ichki tarmog'ining foydali ish koeffitsiyenti; β — yo'qotishlarning sizot suviga yetib boradigan ulushi (0,7 qabul qilindi); D — drenaj yuklamasi, mm; T — hisobiy davr, sutka; q\_t — talab etiladigan drenaj moduli, l/(s·ga).
 
-Hisobni bajarish uchun quyidagilar kerak: \[sug'orish me'yorlari va suv olish hajmlari, eng yaqin meteostansiya bo'yicha yog'in va bug'lanish, kanallarning foydali ish koeffitsiyenti\]. Talab etiladigan modul aniqlangach, u kadastrdagi haqiqiy ko'rsatkich bilan solishtiriladi.
+Sof sug'orish talabi FAO-56 usulida hisoblandi \[15\]: oylik etalon bug'lanuvchanlik (2.1-§) ekin koeffitsiyentlariga ko'paytirildi va undan samarali yog'in ayirildi. Ekinlar tarkibi meliorativ kadastrning kontur jadvalidan olindi: 25 405 ga maydonning 36,6 foizi g'o'za, 42,5 foizi g'alla, 20,9 foizi boshqa ekinlar (bog', sabzavot, yem-xashak). Ekin koeffitsiyentlari FAO-56 tavsiyalari bo'yicha oylar kesimida berildi \[15\], samarali yog'in USDA SCS usulida aniqlandi. Hisob natijalari 4.5-jadval va 4.3-rasmda keltirilgan.
 
-**O'tkazish qobiliyati.** Kollektorlarning o'tkazish qobiliyatini Shezi formulasi bo'yicha tekshirish uchun \[ko'ndalang kesim o'lchamlari, tub qiyaligi va g'adir-budurlik koeffitsiyenti\] zarur. Bu ma'lumotlar kadastrda yo'q; loyiha hujjatlari olinsa, loyihaviy va loyqalangan kesim uchun sarf solishtiriladi.
+
+::: {custom-style="Sarlavha-jadval"}
+4.5-jadval. Marhamat tumani bo'yicha oylik suv balansi tarkibiy qismlari, mm
+:::
+
+| Oy | Etalon bug'lanuvchanlik ET₀ | O'rtacha ekin koeffitsiyenti | Ekinlar bug'lanishi ETc | Yog'in | Samarali yog'in | Sof sug'orish talabi |
+| --- | --- | --- | --- | --- | --- | --- |
+| Mart | 62 | 0,42 | 26 | 45 | 42 | 0 |
+| Aprel | 110 | 0,74 | 82 | 46 | 43 | 39 |
+| May | 159 | 0,83 | 132 | 38 | 36 | 96 |
+| Iyun | 193 | 0,72 | 139 | 17 | 17 | 123 |
+| Iyul | 194 | 0,62 | 120 | 12 | 12 | 108 |
+| Avgust | 170 | 0,62 | 105 | 6 | 6 | 99 |
+| Sentabr | 123 | 0,47 | 58 | 7 | 7 | 51 |
+| Oktabr | 70 | 0,54 | 38 | 32 | 30 | 7 |
+| Yil bo'yicha | 1 185 | — | 719 | 323 | 306 | 524 |
+
+Asosiy hisobda g'alladan keyingi maydonlar iyul–sentabrda bo'sh deb qabul qilingan, shuning uchun iyul–avgustda o'rtacha ekin koeffitsiyenti 0,62 ga tushadi. Amalda g'alladan keyin takroriy ekinlar ekiladi; ular hisobga olinganda yillik ekinlar bug'lanishi 891 mm ga, sof sug'orish talabi 696 mm ga, iyuldagi talab esa 178 mm ga oshadi. Shu sababli hisob ikki variantda — takroriy ekinlarsiz va takroriy ekinlar bilan — hamda sug'orish samaradorligining uch stsenariysi bo'yicha bajarildi (4.6-jadval).
+
+
+::: {custom-style="Sarlavha-jadval"}
+4.6-jadval. Sug'orish samaradorligi stsenariylari bo'yicha drenaj yuklamasi va talab etiladigan drenaj moduli
+:::
+
+| Stsenariy | Dalada samaradorlik Eₐ | Ichki tarmoq FIK E\_c | Yalpi sug'orish, mm | Yillik drenaj yuklamasi, mm | Iyuldagi talab etiladigan modul, l/(s·ga) |
+| --- | --- | --- | --- | --- | --- |
+| Yuqori samaradorlik | 0,75 | 0,85 | 822 / 1 091 | 209 / 277 | 0,16 / 0,27 |
+| O'rta samaradorlik | 0,65 | 0,80 | 1 008 / 1 338 | 339 / 450 | 0,26 / 0,43 |
+| Past samaradorlik | 0,55 | 0,75 | 1 270 / 1 687 | 522 / 694 | 0,40 / 0,66 |
+
+Izoh: birinchi qiymat — takroriy ekinlarsiz, ikkinchisi — takroriy ekinlar bilan.
+
+Yalpi sug'orish hajmi stsenariylar bo'yicha 8,2–16,9 ming m³/ga ni tashkil etadi; o'rta stsenariy (10,1–13,4 ming m³/ga) Farg'ona vodiysi uchun xos bo'lgan suv olish hajmlariga mos keladi \[136\]. Iyuldagi talab etiladigan drenaj moduli 0,16–0,66 l/(s·ga), o'rta stsenariyda 0,26–0,43 l/(s·ga). Bu qiymatlar adabiyotda sug'oriladigan quruq hududlar uchun tavsiya etilgan loyihaviy drenaj sarfi oralig'iga (1–3 mm/sut, ya'ni 0,12–0,35 l/(s·ga)) to'g'ri keladi yoki undan biroz yuqori \[89; 103\]. Muhim xulosa shuki, drenajga tushadigan yuklama sug'orish samaradorligiga juda sezgir: samaradorlik pastdan yuqoriga oshirilganda talab etiladigan modul 2,5 baravar kamayadi. Demak drenaj muammosini faqat drenaj tarmog'ini kengaytirish bilan emas, sug'orish samaradorligini oshirish bilan ham hal etish mumkin.
+
+**Haqiqiy va talab etiladigan modul qiyosi.** Kadastrdagi solishtirma sarf talab etiladigan modul bilan solishtirildi (4.3-rasm, b). O'rta stsenariy bo'yicha (0,26 l/(s·ga)) 90 ta kollektordan 27 tasining solishtirma sarfi talabdan past; ular 60,2 km uzunlikka va 2 863 ga xizmat maydoniga ega. Takroriy ekinlar hisobga olinganda (0,43 l/(s·ga)) talabdan past kollektorlar soni 38 taga (4 501 ga) yetadi, past samaradorlik stsenariysida esa 48 taga (5 845 ga, xizmat maydonining 53 foizi). Shunday qilib, kadastr ko'rsatkichlari bo'yicha kollektorlarning uchdan biridan yarmigacha qismi sug'orish mavsumining eng og'ir oyida talab etilgan sarfni o'tkazmaydi. Biroq bu xulosa kadastrdagi sarf qiymatining ishonchliligiga bog'liq; uni tasdiqlash uchun kollektorlarda sarfni o'lchash zarur (4.5-§).
+
+
+![](figures/ch4_hydraulic.png){width=16cm}
+
+
+::: {custom-style="Sarlavha-jadval"}
+4.3-rasm. a — oylik ekinlar bug'lanishi, samarali yog'in va sof sug'orish talabi; b — kollektorlarning kadastr bo'yicha solishtirma sarfi va iyuldagi talab etiladigan drenaj moduli (takroriy ekinlarsiz variant)
+:::
+
+**Sizot suvi rejimi bo'yicha tekshiruv.** Suv balansi bo'yicha hisob bilvosita ma'lumotlarga tayanadi, shuning uchun u kuzatilgan sizot rejimi bilan tekshirildi. 3.2-§ ga ko'ra sath mart oxiridan iyul oxirigacha, taxminan 120 sutka davomida, o'rtacha 0,48 m ga ko'tariladi. Sathning ko'tarilishi sizot suviga tushayotgan suv drenaj orqali chiqayotgan suvdan ko'pligini bildiradi. Bu ortiqcha qatlam suv beruvchanlik koeffitsiyenti μ orqali baholanadi: qumoq tuproqlar uchun μ = 0,05–0,15 qabul qilinganda u 24–72 mm ni yoki 0,02–0,07 l/(s·ga) ni tashkil etadi. Bu qiymat talab etiladigan drenaj modulining 5–45 foiziga teng. Demak mavjud tarmoq sug'orish mavsumida sizot suviga tushayotgan suvning asosiy qismini olib chiqadi, lekin to'liq emas: drenaj quvvatidagi taqchillik tuman o'rtachasida talabning 5–45 foizini tashkil etadi. Bu baho yuqoridagi kadastr qiyosidan ko'ra yumshoqroq, chunki u butun tuman bo'yicha o'rtacha holatni aks ettiradi; massivlar bo'yicha esa mavsumiy ko'tarilish 0,32–0,85 m oralig'ida (3.2-§), ya'ni taqchillik U.Qoraboyev massivida o'rtachadan qariyb ikki baravar, Paxtakor massivida 1,4 baravar katta.
+
+**O'tkazish qobiliyati.** Kollektorning o'tkazish qobiliyati Manning formulasi bo'yicha aniqlanadi \[68; 103\]:
+
+$$Q = \frac{1}{n} \, \omega \, R^{2/3} \, i^{1/2}$$
+
+bu yerda ω — jonli kesim yuzasi, m²; R — gidravlik radius, m; i — tub nishabligi; n — g'adir-budurlik koeffitsiyenti. Kadastrda kollektorlarning ko'ndalang kesim o'lchamlari va tub nishabligi berilmagan, shuning uchun aniq kollektorlar bo'yicha hisob bajarib bo'lmaydi. Buning o'rniga namunaviy trapetsiya kesim (tub kengligi 1,0 m, qiyalik koeffitsiyenti 1,5, chuqurligi 1,2 m) uchun o'zan holatining o'tkazish qobiliyatiga ta'siri baholandi (4.7-jadval).
+
+
+::: {custom-style="Sarlavha-jadval"}
+4.7-jadval. Namunaviy kollektor kesimining o'zan holatiga qarab o'tkazish qobiliyati
+:::
+
+| O'zan holati | g'adir-budurlik n | Loyqa qatlami, m | Q (i = 0,0005), m³/s | Q (i = 0,001), m³/s | Toza o'zanga nisbatan, % |
+| --- | --- | --- | --- | --- | --- |
+| Toza o'zan | 0,025 | 0 | 2,21 | 3,13 | 100 |
+| O'simlik bilan qoplangan | 0,035 | 0 | 1,58 | 2,23 | 71 |
+| O'simlik va loyqa | 0,035 | 0,3 | 1,28 | 1,81 | 58 |
+| Kuchli o'simlik va loyqa | 0,040 | 0,5 | 0,87 | 1,23 | 39 |
+
+O'zanni o'simlik qoplashi o'tkazish qobiliyatini 29 foizga, o'simlik bilan birga 0,3 m loyqa qatlami 42 foizga, kuchli o'simlik va 0,5 m loyqa esa 61 foizga kamaytiradi. Ya'ni texnik xizmat ko'rsatilmagan kollektor toza holatdagi sarfning faqat 40–70 foizini o'tkazadi. Bu natija 4.1-§ dagi xulosa bilan bevosita bog'liq: ta'mir kollektor holatiga qarab rejalashtirilmagani sababli, ta'mirlar orasidagi 10 yil atrofidagi davrda kollektorlarning bir qismi loyihaviy o'tkazish qobiliyatining ancha qismini yo'qotishi mumkin. Shuning uchun kollektorlarning texnik holatini (o'simlik bilan qoplanish, loyqa qatlami qalinligi) muntazam qayd etish va uni ta'mir navbatini aniqlash mezoni sifatida qo'llash taklif etiladi (4.5-§).
+
+**Cheklovlar.** Hisob uchta taxminga tayanadi: ekinlar tarkibi kadastr kontur jadvali bo'yicha olingan; sug'orish samaradorligi va yo'qotishlarning sizot suviga yetib borish ulushi stsenariy sifatida berilgan; suv beruvchanlik koeffitsiyenti adabiyotdagi oraliqdan olingan. Ushbu taxminlar natijani 2–3 baravar oralig'ida o'zgartiradi, lekin asosiy xulosalarni — kadastrdagi sarflar tarqoqligi, tarmoqning bir qismi talabni qoplamasligi va o'zan holatining o'tkazish qobiliyatiga kuchli ta'siri — o'zgartirmaydi. Hisobni aniqlashtirish uchun kanallardan suv olish hajmlari, kollektorlardagi o'lchangan sarflar va kollektorlar kesimining o'lchamlari kerak.
 
 ## 4.3-§. Kollektor ta'mirining sizot sathiga ta'sirini baholash
 
@@ -1764,11 +1830,11 @@ $$h_{it} = \alpha_i + \gamma_t + \beta \, D_{it} + \varepsilon_{it}$$
 
 bu yerda h — i-quduqning t-yildagi o'rtacha sathi, m; α — quduqning doimiy xususiyati; γ — yilning umumiy ta'siri; D — ta'mirdan keyingi yillar uchun 1 ga, boshqa hollarda 0 ga teng ko'rsatkich; β — ta'mir ta'siri. Musbat β sathning chuqurlashganini bildiradi. Standart xatolar quduqlar bo'yicha klasterlangan.
 
-**Natija.** Model olti variantda baholandi (4.5-jadval).
+**Natija.** Model olti variantda baholandi (4.8-jadval).
 
 
 ::: {custom-style="Sarlavha-jadval"}
-4.5-jadval. Kollektor ta'mirining sizot sathiga ta'siri bahosi
+4.8-jadval. Kollektor ta'mirining sizot sathiga ta'siri bahosi
 :::
 
 | Variant | β, m | 95 % ishonch oralig'i | p | Quduq-yillar |
@@ -1797,7 +1863,7 @@ Kadastrda 53 ta kollektor bo'yicha 2017–2020-yillardagi ta'mir xarajati va ta'
 
 
 ::: {custom-style="Sarlavha-jadval"}
-4.6-jadval. Kollektorlarni ta'mirlash xarajatlari yillar bo'yicha
+4.9-jadval. Kollektorlarni ta'mirlash xarajatlari yillar bo'yicha
 :::
 
 | Yil | Kollektorlar soni | Ta'mirlangan uzunlik, km | Xarajat, mln so'm | O'rtacha narx, mln so'm/km |
@@ -1818,11 +1884,11 @@ Ikki amaliy xulosa kelib chiqadi. Birinchidan, 1 km ta'mirning haqiqiy narxi (me
 
 ## 4.5-§. Monitoring tizimini takomillashtirish va amaliy tavsiyalar
 
-III bob va 4.1–4.4-§ natijalari bitta umumiy xulosaga olib keladi: meliorativ tizim samaradorligini ta'minlashning birinchi sharti uni o'lchay olishdir. Quyidagi tavsiyalar shu maqsadga qaratilgan; har biri tadqiqotning aniq natijasiga tayanadi (4.7-jadval).
+III bob va 4.1–4.4-§ natijalari bitta umumiy xulosaga olib keladi: meliorativ tizim samaradorligini ta'minlashning birinchi sharti uni o'lchay olishdir. Quyidagi tavsiyalar shu maqsadga qaratilgan; har biri tadqiqotning aniq natijasiga tayanadi (4.10-jadval).
 
 
 ::: {custom-style="Sarlavha-jadval"}
-4.7-jadval. Amaliy tavsiyalar va ularning asosi
+4.10-jadval. Amaliy tavsiyalar va ularning asosi
 :::
 
 | № | Tavsiya | Asos |
@@ -1837,11 +1903,11 @@ III bob va 4.1–4.4-§ natijalari bitta umumiy xulosaga olib keladi: meliorativ
 | T-8 | Drenaj ishini yillik o'rtacha bo'yicha emas, yozgi eng sayoz sath bo'yicha baholash | Mavsumiy amplituda 0,48 m (3.2-§) |
 | T-9 | Xo'jalik ichki zovurlarini inventarizatsiya qilish va ta'mir rejasiga kiritish | 64,7 foizida ta'mir qayd etilmagan (4.1-§) |
 
-**Ta'mir samarasini aniqlash uchun zarur quduqlar soni.** 4.3-§ dagi modelning standart xatosi 0,105 m, ta'sir guruhida 36 ta quduq. 5 foizlik ahamiyat darajasi va 80 foizlik quvvat uchun aniqlanadigan eng kichik ta'sir standart xatoning 2,8 baravariga teng, ya'ni hozir 0,29 m. Standart xato quduqlar sonining kvadrat ildiziga teskari mutanosib deb olinsa, zarur quduqlar soni quyidagicha (4.8-jadval).
+**Ta'mir samarasini aniqlash uchun zarur quduqlar soni.** 4.3-§ dagi modelning standart xatosi 0,105 m, ta'sir guruhida 36 ta quduq. 5 foizlik ahamiyat darajasi va 80 foizlik quvvat uchun aniqlanadigan eng kichik ta'sir standart xatoning 2,8 baravariga teng, ya'ni hozir 0,29 m. Standart xato quduqlar sonining kvadrat ildiziga teskari mutanosib deb olinsa, zarur quduqlar soni quyidagicha (4.11-jadval).
 
 
 ::: {custom-style="Sarlavha-jadval"}
-4.8-jadval. Ta'mir ta'sirini aniqlash uchun ta'sir guruhida zarur quduqlar soni
+4.11-jadval. Ta'mir ta'sirini aniqlash uchun ta'sir guruhida zarur quduqlar soni
 :::
 
 | Aniqlanishi kerak bo'lgan ta'sir, m | Zarur quduqlar soni | Hozirgiga nisbatan |
