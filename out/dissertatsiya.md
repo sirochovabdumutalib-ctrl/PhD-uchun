@@ -1325,27 +1325,31 @@ Bundan ikki amaliy xulosa kelib chiqadi. Birinchidan, kuzatuv tarmog'ini xarita 
 
 ## 3.4-§. Sizot rejimining drenaj tarmog'i, kanallar va relyef bilan bog'liqligi
 
-Geoma'lumotlar bazasi har bir quduq uchun tarmoq ko'rsatkichlarini hisoblash imkonini berdi: eng yaqin kollektorgacha masofa, eng yaqin kanalgacha masofa va quduq atrofidagi 1 km radiusda joylashgan kollektorlar uzunligi (tarmoq zichligi). Relyef ko'rsatkichi sifatida quduqning mutlaq balandligi olindi. Tahlil 2019–2024-yillardagi o'rtacha sathi ma'lum bo'lgan 168 ta quduq bo'yicha bajarildi.
+Drenaj nazariyasiga ko'ra kollektor va zovurlar sizot suvi sathini o'z tubi atrofidagi chuqurlikda ushlab turadi, ularning ta'siri esa masofa ortishi bilan susayadi \[51; 62; 89\]. Shu sababli to'g'ri ishlayotgan tarmoqda sath kollektorga yaqin joyda chuqurroq, oraliqlarda esa sayozroq bo'lishi kutiladi \[103\]. Ushbu paragrafda bu kutilma kuzatuv ma'lumotlari bilan tekshiriladi. 2.3-§ da tuzilgan geoma'lumotlar bazasi har bir quduq uchun quyidagi ko'rsatkichlarni hisoblash imkonini berdi: eng yaqin kollektorgacha masofa, eng yaqin kanalgacha masofa, quduq atrofidagi 1 km radiusda joylashgan kollektorlar uzunligi (tarmoq zichligi) va quduqning mutlaq balandligi. Bundan tashqari, kadastr bilan bog'langan kollektorlar uchun eng yaqin kollektorning ishga tushirilgan yili, drenaj moduli (kollektor oxiridagi sarfning xizmat maydoniga nisbati) va solishtirma uzunligi olindi. Tahlil 2019–2024-yillardagi o'rtacha sathi ma'lum bo'lgan 168 ta quduq bo'yicha bajarildi.
 
-**Kollektorgacha masofa.** Sath kollektorga yaqinlashgan sari sayozlashadi (3.12-jadval). Kollektordan 150 m gacha bo'lgan quduqlarda o'rtacha sath 1,98 m, 800 m dan uzoqdagilarda 3,10 m. Sathi 1,5 m dan sayoz quduqlar ulushi mos ravishda 26 foiz va 0 foiz. Spearman korrelyatsiyasi ρ = +0,40 (p < 0,0001).
+**Kollektorgacha masofa.** Sath kollektorga yaqinlashgan sari sayozlashadi (3.12-jadval). Kollektordan 150 m gacha bo'lgan quduqlarda o'rtacha sath 1,98 m, 800 m dan uzoqdagilarda 3,10 m. Spearman korrelyatsiyasi ρ = +0,40 (p < 0,0001). Bog'lanish yilning ikkala davrida ham saqlanadi: yanvar–fevraldagi sath uchun ρ = +0,38, iyul–avgustdagi sath uchun ρ = +0,36 (ikkalasida p < 0,0001). Yozda sathi 1,5 m dan sayoz quduqlar ulushi kollektorga eng yaqin guruhda 34 foiz, eng uzoq guruhda esa nolga teng.
 
 
 ::: {custom-style="Sarlavha-jadval"}
-3.12-jadval. Sizot suvi sathining kollektorgacha masofaga bog'liqligi
+3.12-jadval. Sizot suvi sathi, uning mavsumiy o'zgarishi va tendensiyasining kollektorgacha masofaga bog'liqligi
 :::
 
-| Kollektorgacha masofa | Quduqlar soni | O'rtacha sath, m | 1,5 m dan sayoz quduqlar ulushi |
-| --- | --- | --- | --- |
-| 0–150 m | 47 | 1,98 | 26 % |
-| 150–400 m | 57 | 2,30 | 23 % |
-| 400–800 m | 33 | 2,48 | 9 % |
-| 800 m dan uzoq | 31 | 3,10 | 0 % |
+| Kollektorgacha masofa | Quduqlar soni | Yillik o'rtacha sath, m | Yanvar–fevral sathi, m | Iyul–avgust sathi, m | Mavsumiy ko'tarilish, m | Yozda 1,5 m dan sayoz quduqlar, % | Sen qiyaligi medianasi, sm/yil |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 0–150 m | 47 | 1,98 | 2,21 | 1,82 | 0,39 | 34 | +1,7 |
+| 150–400 m | 57 | 2,30 | 2,53 | 2,08 | 0,45 | 28 | +2,2 |
+| 400–800 m | 33 | 2,48 | 2,79 | 2,22 | 0,57 | 15 | +2,2 |
+| 800 m dan uzoq | 31 | 3,10 | 3,36 | 2,71 | 0,65 | 0 | +6,3 |
 
-**Tarmoq zichligi.** Bog'lanish zichlik bilan yanada kuchliroq: ρ = −0,47 (p < 0,0001). Regressiya bo'yicha quduq atrofidagi 1 km radiusda kollektor uzunligi har 1 km ga ortganda sath o'rtacha 0,18 m ga sayozroq bo'ladi.
+Izoh: mavsumiy ko'rsatkichlar 2019–2024-yillar bo'yicha (oxirgi guruhda 30 ta quduq); Sen qiyaligi kamida 8 yil ma'lumotli 112 ta quduq bo'yicha.
 
-**Kanallar va relyef.** Kanalgacha masofa bilan bog'lanish kuchsiz (ρ = −0,18; p = 0,02) va boshqa omillar hisobga olinganda ahamiyatini yo'qotadi. Mutlaq balandlik bilan juft korrelyatsiya ham kuchsiz (ρ = +0,23; p = 0,003); balandlikning o'zi sath o'zgaruvchanligining atigi 2 foizini tushuntiradi.
+**Tarmoq zichligi.** Bog'lanish zichlik bilan yanada kuchliroq: ρ = −0,47 (p < 0,0001). Regressiya bo'yicha quduq atrofidagi 1 km radiusda kollektor uzunligi har 1 km ga ortganda sath o'rtacha 0,18 m ga sayozroq bo'ladi. Zichlik yozgi sath bilan ham xuddi shunday bog'langan (ρ = −0,45).
 
-**Ko'p omilli model.** Uch omil birgalikda kiritilganda (3.13-jadval) faqat tarmoq ko'rsatkichi statistik ahamiyatli bo'lib qoladi. Model sath o'zgaruvchanligining 15–20 foizini tushuntiradi.
+**Bog'lanish shakli.** Sath va kollektorgacha masofa orasidagi bog'lanish chiziqli emas (3.9-rasm, a). Bo'linma regressiya bilan eng yaxshi uzilish nuqtasi 850 m da topildi: shu masofagacha sath har 100 m da o'rtacha 0,12 m ga chuqurlashadi, undan keyin esa deyarli o'zgarmaydi (har 100 m da 0,02 m). Bo'linma model oddiy chiziqli modeldan statistik ahamiyatli yaxshiroq (F = 4,12; p = 0,018). Biroq uzilish nuqtasining bootstrap usulidagi 90 foizlik ishonch oralig'i keng — 100 m dan 1 075 m gacha, chunki 800 m dan uzoqda quduqlar kam (31 ta). Shuning uchun 850 m qiymati kollektor bilan bog'liq hududning taxminiy kengligi sifatida qaraladi, aniq parametr sifatida emas.
+
+**Kanallar va relyef.** Kanalgacha masofa bilan bog'lanish kuchsiz (ρ = −0,18; p = 0,02) va boshqa omillar hisobga olinganda ahamiyatini yo'qotadi. Mutlaq balandlik bilan juft korrelyatsiya ham kuchsiz (ρ = +0,23; p = 0,003); balandlikning o'zi sath o'zgaruvchanligining atigi 2 foizini tushuntiradi. Bu natija tekis vodiy sharoitida mahalliy relyef farqlari sizot oqimining yo'nalishini belgilasa ham, sath chuqurligini belgilamasligini ko'rsatadi.
+
+**Ko'p omilli model.** Uch omil birgalikda kiritilganda (3.13-jadval) faqat tarmoq ko'rsatkichi statistik ahamiyatli bo'lib qoladi. Model sath o'zgaruvchanligining 15–20 foizini tushuntiradi. Koeffitsiyentlarning standart xatolari geteroskedastiklikka chidamli usulda hisoblandi.
 
 
 ::: {custom-style="Sarlavha-jadval"}
@@ -1360,19 +1364,70 @@ Geoma'lumotlar bazasi har bir quduq uchun tarmoq ko'rsatkichlarini hisoblash imk
 | Mutlaq balandlik, m | +0,001 | 0,76 | +0,002 | 0,66 |
 | R² | 0,15 |  | 0,20 |  |
 
-**Natijaning talqini.** Topilgan bog'lanish drenajning kutilgan ta'siriga teskari yo'nalishda: drenaj sathni pasaytirishi kerak, kuzatuvda esa tarmoq zich joyda sath sayoz. Buni «kollektor sathni ko'taradi» deb talqin qilish noto'g'ri. Eng asosli izoh — teskari sabab-oqibat: kollektorlar sizot suvi tabiatan sayoz bo'lgan, zax bosish xavfi yuqori joylarga qurilgan. Tarmoq joylashuvi rejimning sababi emas, uning oqibati.
-
-Bundan ikki xulosa kelib chiqadi. Birinchidan, bir vaqtdagi fazoviy taqqoslash asosida drenaj tarmog'ining samarasini baholab bo'lmaydi: tarmog'i zich hududda sath sayoz bo'lishi tarmoq yomon ishlayotganini bildirmaydi. Massivlar o'rtachasini solishtirishga tayangan baholar shu sababli noto'g'ri xulosaga olib kelishi mumkin. Ikkinchidan, drenaj ta'sirini aniqlash uchun vaqt bo'yicha taqqoslash zarur: bir xil quduqda tarmoq holati o'zgarishidan oldingi va keyingi sath. Bunday tahlil 4.3-§ da bajariladi.
-
-Model sath o'zgaruvchanligining 80 foizini tushuntirmaydi. Bu 3.3-§ dagi xulosa bilan mos: sath qisqa masofada mahalliy omillar — sug'orish rejimi, tuproqning suv o'tkazuvchanligi, ichki zovurlar holati — ta'sirida o'zgaradi va bu omillar bo'yicha quduq darajasidagi ma'lumot mavjud emas.
-
-## 3.5-§. Sizot suvlari minerallashuvining dinamikasi
-
-Minerallashuv bo'yicha ikki manba mavjud: 1999–2015-yillar uchun yiliga uch marta (1-aprel, 1-iyul, 1-oktabr holatiga) o'lchangan qiymatlar jadvali (123 ta quduq, 4 961 ta qiymat) va 2009–2024-yillar uchun yillik qiymatlar. Har ikkisi 3.1-§ dagi qoidalar bo'yicha tekshirildi. Natijalar 3.14-jadvalda keltirilgan.
+**Massivlar ichidagi bog'lanish.** Topilgan bog'lanish massivlar orasidagi farqning natijasi bo'lishi mumkin edi: masalan, Y.Oxunboboyev massivida quduqlar kollektordan o'rtacha 3,2 km uzoqda va sath ham eng chuqur. Bu ehtimolni tekshirish uchun modelga massiv qat'iy effektlari kiritildi \[143\]; bunda bog'lanish faqat bir massiv ichidagi quduqlarni solishtirish orqali baholanadi (3.14-jadval).
 
 
 ::: {custom-style="Sarlavha-jadval"}
-3.14-jadval. Minerallashuv qatorlarining tekshiruvi
+3.14-jadval. Sath va tarmoq ko'rsatkichlari bog'lanishining massiv omilini hisobga olgan holda bahosi (n = 168)
+:::
+
+| Model | Koeffitsiyent | p | R² |
+| --- | --- | --- | --- |
+| Faqat massiv omili | — | — | 0,20 |
+| Kollektor uzunligi (1 km radiusda), km | −0,185 | < 0,001 | 0,20 |
+| Kollektor uzunligi + massiv qat'iy effektlari | −0,169 | < 0,001 | 0,33 |
+| Kollektorgacha masofa, lg(m) | +0,78 | < 0,001 | 0,15 |
+| Kollektorgacha masofa + massiv qat'iy effektlari | +0,71 | < 0,001 | 0,29 |
+
+Massiv omili kiritilganda koeffitsiyentlar atigi 9–10 foizga kamayadi va ahamiyatli bo'lib qoladi. Demak bog'lanish massivlar orasidagi farq bilan emas, massiv ichidagi farq bilan belgilanadi. Massivlar bo'yicha alohida hisoblanganda kollektorgacha masofa bilan bog'lanish to'rtta massivda statistik ahamiyatli: U.Qoraboyev (ρ = +0,60; p = 0,003), M.To'jiboyev (ρ = +0,50; p = 0,007), Istiqlol (ρ = +0,40; p = 0,045) va Z.M.Bobur (ρ = +0,39; p = 0,048). T.Mirzaev massivida yo'nalish xuddi shunday, lekin quduqlar kam (ρ = +0,42; p = 0,13). Mash'al va Paxtakor massivlarida esa bog'lanish yo'q (ρ = −0,22 va −0,08). Mash'al massivida sath 3.2-§ va 3.3-§ ga ko'ra tumandagi eng sayozlar qatorida va quduqlar kollektorga yaqin joylashgan (o'rtacha 284 m), Paxtakor esa eng kichik massiv (19 ta quduq). Demak bu massivlarda sathni kollektorlar joylashuvidan ko'ra boshqa mahalliy omillar belgilaydi.
+
+**Mavsumiy ko'tarilish.** Agar kollektor sathning yozgi ko'tarilishini cheklasa, kollektorga yaqin quduqlarda mavsumiy ko'tarilish kichikroq bo'lishi kerak. Ma'lumotlarda shunday manzara kuzatiladi: kollektorgacha 150 m bo'lgan quduqlarda sath yanvar–fevraldan iyul–avgustgacha o'rtacha 0,39 m ga, 800 m dan uzoqdagilarda 0,65 m ga ko'tariladi (3.12-jadval va 3.9-rasm, b). Biroq bu farqni kollektor ta'siri deb talqin qilib bo'lmaydi. Mavsumiy ko'tarilish birinchi navbatda qishki sathga bog'liq: sathi chuqur quduqda ko'tarilish uchun joy ko'p. Qishki sath va masofa birgalikda kiritilganda qishki sath har 1 m chuqurlashganda ko'tarilish 0,23 m ga ortadi (p < 0,001), masofaning ta'siri esa yo'qoladi (p = 0,86). Bundan tashqari, kollektordan uzoqdagi quduqlarda kesilgan o'lchovlar ulushi ancha yuqori (9,9 foizga qarshi 29,7 foiz), ya'ni u yerda qishki sath haqiqatda yanada chuqurroq va mavsumiy ko'tarilish kam baholangan. Shunday qilib, mavjud ma'lumotlar kollektorlarning sath ko'tarilishini cheklash ta'sirini alohida ajratib ko'rsatishga imkon bermaydi.
+
+**Kollektorlarning kadastr ko'rsatkichlari.** 87 ta quduq kadastrda nomi bilan aniqlangan 41 ta kollektordan 500 m gacha masofada joylashgan. Bu kollektorlar 1948–1985-yillarda ishga tushirilgan: yoshining medianasi 68 yil, kvartillari 59 va 76 yil. Loyiha drenaj moduli 0,40–1,54 l/(s·ga) oralig'ida (kvartillar), medianasi 0,83 l/(s·ga). Ushbu ko'rsatkichlarning hech biri quduqdagi sath bilan bog'lanmagan: kollektor yoshi bilan ρ = +0,03 (p = 0,80), drenaj moduli bilan ρ = +0,11 (p = 0,30), solishtirma uzunlik bilan ρ = +0,04 (p = 0,75). Guruhlar bo'yicha o'rtachalar ham bir tomonlama o'zgarmaydi (3.15-jadval).
+
+
+::: {custom-style="Sarlavha-jadval"}
+3.15-jadval. Kollektordan 500 m gacha masofadagi quduqlarda sizot suvi sathi kollektorning kadastr ko'rsatkichlari bo'yicha
+:::
+
+| Guruh | Quduqlar soni | Kollektorlar soni | Yillik o'rtacha sath, m | Iyul–avgust sathi, m |
+| --- | --- | --- | --- | --- |
+| Kollektor yoshi 55 yildan kam | 12 | 8 | 2,05 | 1,86 |
+| Kollektor yoshi 55–65 yil | 16 | 7 | 1,94 | 1,80 |
+| Kollektor yoshi 65 yildan ortiq | 59 | 26 | 2,31 | 2,10 |
+| Drenaj moduli past (0,04–0,69 l/(s·ga)) | 30 | — | 1,94 | 1,69 |
+| Drenaj moduli o'rta (0,71–1,43 l/(s·ga)) | 28 | — | 2,42 | 2,26 |
+| Drenaj moduli yuqori (1,48–10,2 l/(s·ga)) | 29 | — | 2,26 | 2,10 |
+
+Masofa, drenaj moduli va yosh birgalikda kiritilgan modelda ham faqat kollektorgacha masofa ahamiyatli (koeffitsiyent +0,58; p = 0,017), model esa sath o'zgaruvchanligining atigi 5 foizini tushuntiradi. Bu natija kadastr ko'rsatkichlari kollektorning hozirgi ish holatini aks ettirmasligini ko'rsatadi: drenaj moduli loyihaviy qiymat bo'lib, kollektorning loyqa bosishi, o'simlik bilan qoplanishi va chiqish qismidagi suv sathi hisobga olinmagan. Kollektorning haqiqiy holatini baholash uchun gidrometrik o'lchovlar (oqim sarfi, suv sathi) va texnik ko'rik ma'lumotlari zarur \[140; 141\]. Bu ko'rsatkichlarni monitoring tizimiga kiritish taklifi 4.5-§ da beriladi.
+
+**Tendensiya va tarmoq.** Eng muhim natija sath tendensiyasining kollektorgacha masofaga bog'liqligida olindi (3.12-jadval va 3.9-rasm, c). Kollektordan 150 m gacha bo'lgan quduqlarda Sen qiyaligining medianasi yiliga 1,7 sm, 800 m dan uzoqdagilarda esa yiliga 6,3 sm: uzoqdagi quduqlarda sath qariyb to'rt baravar tez chuqurlashgan. Bog'lanish statistik ahamiyatli (masofa bilan ρ = +0,25; p = 0,008; tarmoq zichligi bilan ρ = −0,34; p < 0,001) va massiv qat'iy effektlari kiritilganda ham saqlanadi (masofa logarifmi bo'yicha koeffitsiyent yiliga +0,032 m; p < 0,001).
+
+Bu natija 3.2-§ da aniqlangan chuqurlashishning sababini aniqlashga yordam beradi. Agar chuqurlashish asosan 2016–2018-yillardagi kollektorlar ta'mirining natijasi bo'lganida, u kollektorlarga yaqin joylarda eng kuchli bo'lishi kerak edi. Kuzatuvda esa aksincha: chuqurlashish kollektordan uzoqda eng kuchli. Bunga ikki izoh bor. Birinchisi — chuqurlashishni tuman miqyosidagi omil, masalan sug'orish suvi hajmi yoki sug'orish rejimining o'zgarishi belgilaydi va bu omil drenaj ta'siridagi joylarda kamroq seziladi. Ikkinchisi — kollektor yaqinida sath kollektor tubining chuqurligi bilan cheklangan va u yerda sath kam o'zgaradi, kollektordan uzoqda esa sath erkinroq o'zgaradi. Ikkala izoh ham bir xulosaga olib keladi: tumandagi sath chuqurlashishini to'g'ridan-to'g'ri drenaj tarmog'i ta'miriga bog'lab bo'lmaydi. Ta'mir samarasi 4.3-§ da alohida, nazorat guruhli usul bilan baholanadi.
+
+
+![](figures/ch3_network.png){width=16cm}
+
+
+::: {custom-style="Sarlavha-jadval"}
+3.9-rasm. Sizot suvi sathining kollektorgacha masofaga bog'liqligi: a — o'rtacha sath va bo'linma regressiya chizig'i; b — qishki va yozgi sath (A — mavsumiy ko'tarilish); c — quduqlar bo'yicha Sen qiyaligining medianasi
+:::
+
+**Natijaning talqini.** Sath va tarmoq orasidagi fazoviy bog'lanish drenajning kutilgan ta'siriga teskari yo'nalishda: drenaj sathni pasaytirishi kerak, kuzatuvda esa tarmoq zich joyda sath sayoz. Buni «kollektor sathni ko'taradi» deb talqin qilish noto'g'ri. Eng asosli izoh — teskari sabab-oqibat: kollektorlar sizot suvi tabiatan sayoz bo'lgan, zax bosish xavfi yuqori joylarga qurilgan \[103; 136\]. Massiv qat'iy effektlari bilan olingan natija bu izohni rad etmaydi: kollektorlar massiv ichida ham eng past va eng zax joylar bo'ylab o'tkazilgan. Tarmoq joylashuvi rejimning sababi emas, uning oqibati.
+
+Bundan uchta xulosa kelib chiqadi. Birinchidan, bir vaqtdagi fazoviy taqqoslash asosida drenaj tarmog'ining samarasini baholab bo'lmaydi: tarmog'i zich hududda sath sayoz bo'lishi tarmoq yomon ishlayotganini bildirmaydi. Massivlar o'rtachasini solishtirishga tayangan baholar shu sababli noto'g'ri xulosaga olib kelishi mumkin. Ikkinchidan, kadastrdagi loyihaviy ko'rsatkichlar (yosh, drenaj moduli) kollektorning hozirgi samaradorligini baholash uchun yaroqsiz. Uchinchidan, drenaj ta'sirini aniqlash uchun vaqt bo'yicha taqqoslash zarur: bir xil quduqda tarmoq holati o'zgarishidan oldingi va keyingi sath. Bunday tahlil 4.3-§ da bajariladi.
+
+Modellar sath o'zgaruvchanligining 67–85 foizini tushuntirmaydi. Bu 3.3-§ dagi xulosa bilan mos: sath qisqa masofada mahalliy omillar — sug'orish rejimi, tuproqning suv o'tkazuvchanligi, ichki zovurlar holati — ta'sirida o'zgaradi va bu omillar bo'yicha quduq darajasidagi ma'lumot mavjud emas.
+
+**Paragraf bo'yicha umumlashma.** Sizot suvi sathi kollektorga yaqin va tarmoq zich joylarda sayozroq; bog'lanish taxminan 850 m masofagacha kuzatiladi, yilning ikkala davrida va massivlar ichida ham saqlanadi. Bu bog'lanish drenaj ta'sirining emas, kollektorlarning zax joylarga qurilganining aksidir. Kanal, relyef va kollektorlarning kadastr ko'rsatkichlari sath bilan bog'lanmagan. Sath kollektordan uzoqdagi quduqlarda kollektor yaqinidagiga qaraganda qariyb to'rt baravar tez chuqurlashgan; bu tumandagi chuqurlashishni drenaj tarmog'i ta'mirining natijasi deb hisoblashga asos bermaydi.
+
+## 3.5-§. Sizot suvlari minerallashuvining dinamikasi
+
+Minerallashuv bo'yicha ikki manba mavjud: 1999–2015-yillar uchun yiliga uch marta (1-aprel, 1-iyul, 1-oktabr holatiga) o'lchangan qiymatlar jadvali (123 ta quduq, 4 961 ta qiymat) va 2009–2024-yillar uchun yillik qiymatlar. Har ikkisi 3.1-§ dagi qoidalar bo'yicha tekshirildi. Natijalar 3.16-jadvalda keltirilgan.
+
+
+::: {custom-style="Sarlavha-jadval"}
+3.16-jadval. Minerallashuv qatorlarining tekshiruvi
 :::
 
 | Davr | Holat | Baho |
@@ -1389,11 +1444,11 @@ Shunday qilib 26 yillik minerallashuv qatoridan faqat 2004–2010-yillar (7 yil,
 
 Tuman bo'yicha minerallashuv medianasi 1,02–1,45 g/l oralig'ida o'zgargan va aniq yo'nalishga ega emas. Mavsumlar orasidagi farq kichik: aprelda 1,27, iyulda 1,25, oktabrda 1,32 g/l. Qiymatlarning 8,2 foizi 3 g/l dan yuqori.
 
-Massivlar orasidagi farq esa katta (3.15-jadval): Mash'al massivida mediana 2,35 g/l, U.Qoraboyev va T.Mirzaev massivlarida 0,80–0,83 g/l. Ya'ni minerallashuv bo'yicha eng og'ir massiv bilan eng yengili orasida uch baravar farq bor.
+Massivlar orasidagi farq esa katta (3.17-jadval): Mash'al massivida mediana 2,35 g/l, U.Qoraboyev va T.Mirzaev massivlarida 0,80–0,83 g/l. Ya'ni minerallashuv bo'yicha eng og'ir massiv bilan eng yengili orasida uch baravar farq bor.
 
 
 ::: {custom-style="Sarlavha-jadval"}
-3.15-jadval. Sizot suvlari minerallashuvining massivlar bo'yicha medianasi, 2004–2010-yillar
+3.17-jadval. Sizot suvlari minerallashuvining massivlar bo'yicha medianasi, 2004–2010-yillar
 :::
 
 | Massiv | Mediana, g/l | Qiymatlar soni |
