@@ -153,3 +153,5 @@
 153. Marhamat District // Wikipedia. [Elektron resurs]. – URL: https://en.wikipedia.org/wiki/Marhamat_District (murojaat sanasi: 16.11.2026); Мархаматский район // Википедия. – URL: https://ru.wikipedia.org/wiki/Мархаматский_район
 154. Андижан: климат (данные 1961–1990 гг.) // Метео-ТВ. [Elektron resurs]. – URL: https://meteo-tv.ru/uzbekistan/andizhan/weather/climate/ (murojaat sanasi: 16.11.2026)
 155. Marhamat tumani meliorativ tizimi: interaktiv xarita // GIS Cloud. [Elektron resurs]. – URL: https://editor.giscloud.com/map/3370958 (yaratilgan sana: 16.11.2026)
+156. Goodman-Bacon A. Difference-in-differences with variation in treatment timing // Journal of Econometrics. – 2021. – Vol. 225, No. 2. – P. 254–277.
+157. Roth J., Sant'Anna P.H.C., Bilinski A., Poe J. What's trending in difference-in-differences? A synthesis of the recent econometrics literature // Journal of Econometrics. – 2023. – Vol. 235, No. 2. – P. 2218–2244.

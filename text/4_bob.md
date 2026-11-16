@@ -175,9 +175,9 @@ O'zanni o'simlik qoplashi o'tkazish qobiliyatini 29 foizga, o'simlik bilan birga
 
 ## 4.3-§. Kollektor ta'mirining sizot sathiga ta'sirini baholash
 
-3.4-§ da ko'rsatilganidek, drenaj ta'sirini bir vaqtdagi fazoviy taqqoslash orqali aniqlab bo'lmaydi. Shuning uchun ta'mir samarasi vaqt bo'yicha taqqoslash orqali baholandi: bir xil quduqda ta'mirdan oldingi va keyingi sath solishtirildi, umumiy yillik o'zgarishlar esa nazorat quduqlari yordamida chiqarib tashlandi.
+3.4-§ da ko'rsatilganidek, drenaj ta'sirini bir vaqtdagi fazoviy taqqoslash orqali aniqlab bo'lmaydi: kollektorlar sath tabiatan sayoz joylarga qurilgan. Shuning uchun ta'mir samarasi vaqt bo'yicha taqqoslash orqali baholandi: bir xil quduqda ta'mirdan oldingi va keyingi sath solishtirildi, barcha quduqlarga xos umumiy yillik o'zgarishlar esa nazorat quduqlari yordamida chiqarib tashlandi. Bu yondashuv «farqlar farqi» usuli deb ataladi va kuzatuv ma'lumotlari asosida tadbir ta'sirini baholashda keng qo'llanadi \[143\].
 
-**Usul.** Xaritadagi kollektor chiziqlariga kadastrdagi nom va ta'mir yili biriktirildi; bu 60 ta kollektor uchun bajarildi. Quduqlar ikki guruhga ajratildi. Ta'sir guruhi: nomi va ta'mir yili ma'lum kollektordan 300 m gacha masofadagi quduqlar (36 ta, 28 ta kollektor yonida). Nazorat guruhi: har qanday kollektordan 600 m dan uzoqdagi quduqlar (49 ta). Jami 819 ta quduq-yil kuzatuvi. Model quyidagicha:
+**Usul.** Xaritadagi kollektor chiziqlariga kadastrdagi nom va ta'mir yili biriktirildi; bu 60 ta kollektor uchun bajarildi (2.3-§). Quduqlar ikki guruhga ajratildi. Ta'sir guruhi: nomi va ta'mir yili ma'lum kollektordan 300 m gacha masofadagi quduqlar (36 ta, 28 ta kollektor yonida). Nazorat guruhi: har qanday kollektordan 600 m dan uzoqdagi quduqlar (49 ta). 300–600 m oralig'idagi quduqlar ikki guruhning aralashuvini oldini olish uchun tahlilga kiritilmadi. Jami 819 ta quduq-yil kuzatuvi; o'zgarmas qatorli quduq-yillar va mustaqil ma'lumoti bo'lmagan yillar 3.1-§ dagi tartibda chiqarildi. Model quyidagicha:
 
 ```latex
 h_{it} = \alpha_i + \gamma_t + \beta \, D_{it} + \varepsilon_{it}
@@ -185,7 +185,9 @@ h_{it} = \alpha_i + \gamma_t + \beta \, D_{it} + \varepsilon_{it}
 
 bu yerda h — i-quduqning t-yildagi o'rtacha sathi, m; α — quduqning doimiy xususiyati; γ — yilning umumiy ta'siri; D — ta'mirdan keyingi yillar uchun 1 ga, boshqa hollarda 0 ga teng ko'rsatkich; β — ta'mir ta'siri. Musbat β sathning chuqurlashganini bildiradi. Standart xatolar quduqlar bo'yicha klasterlangan.
 
-**Natija.** Model olti variantda baholandi (4.8-jadval).
+Usulning asosiy sharti — parallel tendensiyalar: ta'mir bo'lmaganida ta'sir va nazorat guruhlaridagi sath bir xil yo'nalishda o'zgargan bo'lishi kerak \[143; 157\]. Bu shart to'g'ridan-to'g'ri tekshirilmaydi, lekin ta'mirdan oldingi yillarda guruhlar farqi o'zgarmaganini ko'rsatish orqali bilvosita tasdiqlanadi. Ta'mir yillari kollektorlar bo'yicha turlicha (2010–2020-yillar) bo'lgani uchun, oldin ta'mirlangan quduqlar keyin ta'mirlanganlar uchun noto'g'ri nazorat bo'lib qolishi mumkin \[156\]. Buning oldini olish uchun dinamik bahoda faqat hech qachon ta'mir ta'siriga tushmagan uzoq quduqlar nazorat sifatida qo'llanildi.
+
+**Asosiy natija va mustahkamlik tekshiruvlari.** Model asosiy variantda va bir qator tekshiruvlarda baholandi (4.8-jadval).
 
 *4.8-jadval. Kollektor ta'mirining sizot sathiga ta'siri bahosi*
 
@@ -193,21 +195,35 @@ bu yerda h — i-quduqning t-yildagi o'rtacha sathi, m; α — quduqning doimiy 
 | --- | --- | --- | --- | --- |
 | Asosiy model, yillik o'rtacha sath | −0,12 | −0,33 … +0,09 | 0,26 | 819 |
 | Yozgi sath (iyul–avgust) | −0,07 | −0,27 … +0,13 | 0,50 | 803 |
+| Mavsumiy ko'tarilish (qishki sath − yozgi sath) | −0,05 | −0,20 … +0,11 | 0,56 | 803 |
 | Faqat hech qachon o'zgarmas qator bermagan quduqlar | −0,20 | −0,39 … −0,02 | 0,04 | 618 |
 | Faqat 2009–2016-yillar | −0,03 | −0,14 … +0,08 | 0,61 | 289 |
 | Faqat 2018–2024-yillar | −0,16 | −0,44 … +0,12 | 0,27 | 530 |
 | Faqat ta'mirlangan kollektor yonidagi quduqlar | +0,08 | −0,08 … +0,25 | 0,33 | 424 |
+| Kollektordan 150 m gacha (17 ta quduq) | −0,09 | −0,33 … +0,14 | 0,44 | 819 |
+| Kollektordan 150–300 m (19 ta quduq) | −0,15 | −0,45 … +0,15 | 0,33 | 819 |
+| Plasebo: ta'mir yili 3 yil oldinga surilgan | +0,04 | −0,08 … +0,16 | 0,51 | 543 |
 
-Hech bir variantda ta'mirdan keyin sath chuqurlashgani aniqlanmadi. Asosiy model bo'yicha baho −0,12 m, ishonch oralig'i nolni o'z ichiga oladi. Oraliqning yuqori chegarasi +0,09 m: ya'ni ta'mirlangan kollektor yonidagi quduqlarda nazorat quduqlariga nisbatan 0,09 m dan ortiq chuqurlashish bo'lgani ehtimoldan uzoq. Variantlar orasida ishora o'zgaradi, bu barqaror ta'sir yo'qligini bildiradi. Bitta variantdagi manfiy va ahamiyatli baho (−0,20 m) nazorat guruhining 2018-yildan keyin kuchliroq chuqurlashgani bilan bog'liq va ta'mir ta'siri sifatida talqin qilinmaydi.
+Hech bir variantda ta'mirdan keyin sath chuqurlashgani aniqlanmadi. Asosiy model bo'yicha baho −0,12 m, ishonch oralig'i nolni o'z ichiga oladi. Oraliqning yuqori chegarasi +0,09 m: ya'ni ta'mirlangan kollektor yonidagi quduqlarda nazorat quduqlariga nisbatan 0,09 m dan ortiq chuqurlashish bo'lgani ehtimoldan uzoq. Yozgi sath va mavsumiy ko'tarilish bo'yicha ham ta'sir yo'q: agar ta'mir kollektorning o'tkazish qobiliyatini tiklagan bo'lsa (4.2-§), u eng avvalo yozgi ko'tarilishni kamaytirishi kerak edi, lekin mavsumiy ko'tarilish o'zgarmagan (−0,05 m; p = 0,56). Kollektorga yaqinroq quduqlarda (150 m gacha) ta'sir uzoqroqdagilardan katta emas, ya'ni masofa bo'yicha kutilgan ta'sir gradienti ham kuzatilmaydi.
+
+Variantlar orasida ishora o'zgaradi, bu barqaror ta'sir yo'qligini bildiradi. Bitta variantdagi manfiy va ahamiyatli baho (−0,20 m) nazorat guruhining 2018-yildan keyin kuchliroq chuqurlashgani bilan bog'liq va ta'mir ta'siri sifatida talqin qilinmaydi; bu natija 3.4-§ dagi «kollektordan uzoqda sath tezroq chuqurlashgan» degan xulosa bilan mos keladi. Plasebo testida (ta'mir yili sun'iy ravishda 3 yil oldinga surilib, faqat haqiqiy ta'mirdan oldingi yillar olinganda) ta'sir nolga yaqin (+0,04 m; p = 0,51), ya'ni model yolg'on ta'sir ko'rsatmaydi.
+
+**Dinamik baho.** Ta'mir ta'siri vaqt o'tishi bilan namoyon bo'lishi mumkin, shuning uchun ta'mir yiliga nisbatan har bir yil uchun alohida koeffitsiyent baholandi (4.4-rasm). Ta'mirdan oldingi yillarda ta'sir va nazorat guruhlari farqi statistik jihatdan nolga teng (−4, −3 va −2-yillar koeffitsiyentlari birgalikda: F = 1,67; p = 0,18). Bu parallel tendensiyalar shartini qo'llab-quvvatlaydi. Ta'mir yili va undan keyingi uch yilda koeffitsiyentlar −0,07 … −0,10 m oralig'ida va ahamiyatsiz. Faqat ta'mirdan 4 va undan ko'p yil o'tgan kuzatuvlarda koeffitsiyent −0,25 m (p = 0,04), ya'ni sath nazoratga nisbatan biroz sayozlashgan. Bu baho asosan 2010–2015-yillarda ta'mirlangan oz sonli kollektorlar yonidagi quduqlarga tayanadi va sakkizta koeffitsiyentdan bittasining tasodifan ahamiyatli chiqishi kutiladigan holat; shuning uchun u ta'mir ta'siri sifatida talqin qilinmaydi.
+
+&#91;image: Ta'mir ta'sirining dinamik bahosi\]
+
+*4.4-rasm. Kollektor ta'mirining sizot sathiga dinamik ta'siri: ta'mir yiliga nisbatan har bir yil uchun nazorat guruhiga nisbatan sath farqi va 95 % ishonch oralig'i (asos — ta'mirdan bir yil oldin)*
+
+Ta'mirlangan kollektorlar ta'mir yili bo'yicha ham ajratildi. 2017-yilgacha ta'mirlangan kollektorlar yonidagi 28 ta quduq bo'yicha ta'sir −0,06 m (p = 0,59), 2018–2020-yillarda ta'mirlanganlar yonidagi 8 ta quduq bo'yicha −0,26 m (p = 0,11). Hech bir guruhda chuqurlashish yo'q.
 
 **Talqin va cheklovlar.** Natija «ta'mir samarasiz» degan xulosani bermaydi. U faqat mavjud ma'lumotda mahalliy ta'sir ko'rinmasligini bildiradi. Buning to'rt sababi bo'lishi mumkin.
 
 - Namuna kichik. Ta'sir guruhida 36 ta quduq bor; bunday namuna bilan 0,29 m dan kichik ta'sirni ishonchli aniqlab bo'lmaydi (4.5-§).
-- Ta'mir ta'siri mahalliy emas, hududiy bo'lishi mumkin. Kollektorlar yagona tarmoq bo'lib ishlaydi; 2016–2018-yillarda 55 ta kollektor birdaniga ta'mirlangan. Bunday holda nazorat quduqlari ham ta'sir ostida qoladi va farq yo'qoladi. 3.2-§ da aniqlangan 0,30 m lik umumiy pog'ona aynan shu davrga to'g'ri keladi.
-- 2018-yilda kuzatuv tarmog'i o'zgargan, bu ta'mirlar bilan bir vaqtga to'g'ri kelib, ikki ta'sirni ajratishni imkonsiz qiladi.
-- Kadastrda faqat oxirgi ta'mir yili bor; ilgarigi ta'mirlar hisobga olinmagan, ta'mir hajmi va turi esa ko'pchilik kollektorlar uchun ko'rsatilmagan.
+- Ta'mir ta'siri mahalliy emas, hududiy bo'lishi mumkin. Kollektorlar yagona tarmoq bo'lib ishlaydi; 2016–2018-yillarda 55 ta kollektor birdaniga ta'mirlangan. Bunday holda nazorat quduqlari ham ta'sir ostida qoladi va farq yo'qoladi. Biroq bu izohga ikki natija qarshi turadi: sath chuqurlashishi kollektordan uzoqdagi quduqlarda kuchliroq (3.4-§) va u viloyatning 14 ta tumanidan 12 tasida ham kuzatiladi (3.6-§).
+- 2018-yilda kuzatuv tarmog'i o'zgargan, bu ta'mirlar bilan bir vaqtga to'g'ri kelib, ikki ta'sirni ajratishni qiyinlashtiradi.
+- Kadastrda faqat oxirgi ta'mir yili bor; ilgarigi ta'mirlar hisobga olinmagan, ta'mir hajmi va turi esa ko'pchilik kollektorlar uchun ko'rsatilmagan. Ta'mir kollektorning qaysi qismida bajarilgani ham noma'lum, shuning uchun ta'sir guruhidagi ba'zi quduqlar ta'mirlanmagan qism yonida bo'lishi mumkin.
 
-Asosiy xulosa: tumanda 2017–2020-yillarda ta'mirga 21,3 mlrd so'm sarflangan (4.4-§), ammo mavjud monitoring tizimi bu ishlarning meliorativ natijasini o'lchashga imkon bermaydi.
+Asosiy xulosa: tumanda 2017–2020-yillarda ta'mirga 21,3 mlrd so'm sarflangan (4.4-§), ammo mavjud monitoring tizimi bu ishlarning meliorativ natijasini o'lchashga imkon bermaydi. Mavjud ma'lumotlar doirasida ta'mirdan keyin kollektor yonidagi sath nazorat quduqlariga nisbatan chuqurlashmagan, 2016–2018-yillardagi tuman bo'yicha pog'onali chuqurlashish esa ta'mirdan ko'ra hududiy omillar bilan yaxshiroq tushuntiriladi. Ta'mir samarasini ishonchli o'lchash uchun monitoring tarmog'ini ta'mir rejalari bilan muvofiqlashtirish zarur; buning talablari 4.5-§ da keltirilgan.
 
 ## 4.4-§. Ta'mir xarajatlari tahlili
 
