@@ -95,7 +95,7 @@ Meliorativ ekspeditsiyaning 2024-yil 1-aprel holatiga tuzilgan xaritasi bo’yic
 
 Aprel boshida, ya’ni sug’orish mavsumi oldidan, quduqlarning 19,2 foizida sath 1,5 m dan sayoz bo’lgan; medianasi 2,34 m. Bu ko’rsatkich yillik eng sayoz holat emas: ko’p yillik ma’lumotlarga ko’ra iyul–avgustda sath aprel boshiga nisbatan o’rtacha yana 0,2 m ko’tariladi (3.2-§).
 
-Sizot suvlarining minerallashuvi 2004–2010-yillar ma’lumotlari bo’yicha tuman bo’yicha medianasi 1,02–1,45 g/l oralig’ida bo’lib, massivlar orasida sezilarli farq qiladi: Mash’al massivida 2,35 g/l, U.Qoraboyev va T.Mirzaev massivlarida 0,80–0,83 g/l (3.5-§).
+Sizot suvlarining minerallashuvi 2004–2010-yillar ma’lumotlari bo’yicha tuman bo’yicha medianasi 1,02–1,45 g/l oralig’ida bo’lib, massivlar orasida sezilarli farq qiladi: quduqlar bo’yicha medianasi Mash’al massivida 2,47 g/l, U.Qoraboyev va T.Mirzaev massivlarida 0,80–0,84 g/l (3.5-§).
 
 **Tuproqlar.** Andijon viloyatining sug’oriladigan tuproqlari asosan och tusli bo’z tuproqlar va o’tloqi-bo’z tuproqlardan iborat \[tuman tuproq xaritasi bo’yicha aniqlashtiriladi\]. Tuproq sifatining umumlashgan ko’rsatkichi — bonitet balli tuman bo’yicha o’rtacha 59,7 ni tashkil etadi; konturlarning 10 foizida ball 40 dan past, 16 foizida 70 dan yuqori. Eng past ball Y.Oxunboboyev massivida (41,3), eng yuqori ball Z.M.Bobur massivida (67,9) qayd etilgan (2.2-jadval).
 
