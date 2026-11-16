@@ -209,7 +209,7 @@ Meliorativ monitoringda bir jinslilik masalasi ayniqsa dolzarb, chunki bu yerda 
 | 3 | Sizot rejimining drenaj tarmog’i bilan bog’liqligi alohida quduq darajasida, tarmoqning fazoviy ko’rsatkichlari bilan birga o’rganilmagan | 1.3-§ | 3.3, 3.4-§ |
 | 4 | Kollektorlarni ta’mirlashning meliorativ samarasi monitoring ma’lumotlari asosida o’lchanmagan | 1.2-§ | 4.3, 4.5-§ |
 
-**Tadqiqotning maqsadi** GAT texnologiyalari asosida meliorativ monitoring ma’lumotlarining ishonchliligini baholash, sizot rejimining drenaj tarmog’i bilan bog’liqligini aniqlash hamda kollektor-drenaj tizimlarini ta’mirlash samaradorligini baholash usulini ishlab chiqishdan iborat.
+**Tadqiqotning maqsadi** GAT texnologiyalari asosida meliorativ monitoring ma’lumotlarining ishonchliligini baholash, sizot suvlari rejimining fazoviy-vaqtli qonuniyatlari va drenaj tarmog’i bilan bog’liqligini aniqlash, kollektor-drenaj tizimi elementlarining ishonchliligi va ta’mir samaradorligini baholash hamda shu asosda meliorativ tizimlar samaradorligi va ishonchliligini ta’minlash bo’yicha tavsiyalar ishlab chiqishdan iborat.
 
 **Tadqiqotning vazifalari:**
 
@@ -217,15 +217,17 @@ meliorativ tizimlar ishonchliligi va samaradorligini baholashning mavjud usullar
 
 mavjud xaritalar va meliorativ kadastr asosida Marhamat tumani meliorativ tizimining geoma’lumotlar bazasini shakllantirish va uning aniqligini baholash;
 
-monitoring ma’lumotlarini tekshirish qoidalarini ishlab chiqish va 2009–2024-yillar kuzatuv qatorlarining ishonchliligini baholash;
+monitoring ma’lumotlarini tekshirish tartibini ishlab chiqish, 2009–2024-yillar kuzatuv qatorlarining ishonchliligini baholash va natijalarni Andijon viloyatining boshqa tumanlari bilan qiyoslash;
 
-tekshirilgan qatorlar asosida sizot suvlari sathining ko’p yillik, mavsumiy va fazoviy qonuniyatlarini aniqlash;
+tekshirilgan qatorlar asosida sizot suvlari sathining ko’p yillik, mavsumiy va fazoviy qonuniyatlarini massivlar va quduqlar darajasida aniqlash, sayoz sath va sho’rlanish xavfi yuqori hududlarni ajratish;
 
 sizot rejimining drenaj tarmog’i, sug’orish kanallari va relyef bilan bog’liqligini quduq darajasida baholash;
 
-tizim elementlarining yoshi va ta’mir tarixi bo’yicha ishonchlilik ko’rsatkichlarini aniqlash, ta’mirning sizot sathiga ta’siri va haqiqiy narxini baholash;
+tizim elementlarining ishonchlilik ko’rsatkichlarini aniqlash, talab etiladigan drenaj modulini suv balansi asosida hisoblash va uni kadastrdagi ko’rsatkichlar bilan solishtirish;
 
-monitoring tizimini takomillashtirish va ta’mir samaradorligini o’lchash bo’yicha ilmiy asoslangan tavsiyalar ishlab chiqish.
+kollektor ta’mirining sizot sathiga ta’sirini, ta’mirning haqiqiy narxini va xarajatlarning massivlar bo’yicha taqsimotini baholash;
+
+monitoring tizimini takomillashtirish, ta’mir samaradorligini o’lchash va mablag’larni ustuvor yo’naltirish bo’yicha ilmiy asoslangan tavsiyalar ishlab chiqish.
 
 **Tadqiqot bosqichlari.** Vazifalar to’rt bosqichda bajariladi va har bir bosqich oldingisining natijasiga tayanadi.
 
@@ -245,4 +247,4 @@ Bosqichlarning bu tartibi tadqiqotning asosiy uslubiy pozitsiyasini aks ettiradi
 5. Ta’mir samarasi amalda bajarilgan ish hajmi bilan o’lchanadi. Uni sizot rejimidagi o’zgarish orqali o’lchash uchun tadbir o’tkazilgan va o’tkazilmagan obyektlarni solishtirish usuli mavjud, ammo u drenaj tizimlariga kuzatuv quduqlari ma’lumotlari asosida qo’llanilmagan.
 6. Meliorativ monitoringda GAT va geostatistika asosan rejim ko’rsatkichlarini xaritalash uchun qo’llanilgan. Drenaj tarmog’ining o’zi fazoviy tahlilga kamdan-kam kiritiladi; Markaziy Osiyodagi tadqiqotlar asosan Xorazm viloyatiga tegishli, Farg’ona vodiysi bo’yicha bunday ishlar kam.
 7. Ko’rib chiqilgan barcha yondashuvlar kirish ma’lumotlarining to’g’riligini oldindan qabul qiladi. Monitoring qatorlarining bir jinsliligi, kuzatuv tarmog’i tarkibining barqarorligi va quruq quduqlar bilan bog’liq kesilgan ma’lumotlar muammosi meliorativ adabiyotda deyarli yoritilmagan.
-8. To’rtta hal etilmagan masala aniqlanib, tadqiqotning maqsadi, yettita vazifasi va to’rt bosqichli tartibi belgilandi. Tadqiqotning asosiy uslubiy pozitsiyasi: tizim ishonchliligini baholashdan oldin ma’lumotlarning ishonchliligi baholanishi kerak.
+8. To’rtta hal etilmagan masala aniqlanib, tadqiqotning maqsadi, sakkizta vazifasi va to’rt bosqichli tartibi belgilandi. Tadqiqotning asosiy uslubiy pozitsiyasi: tizim ishonchliligini baholashdan oldin ma’lumotlarning ishonchliligi baholanishi kerak.
