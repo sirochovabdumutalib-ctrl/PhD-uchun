@@ -1,63 +1,93 @@
 # KIRISH
 
-*Izoh: bu birinchi qoralama. Kvadrat qavsdagi joylar sizning ma'lumotlaringiz bilan to'ldiriladi. Raqamlar II–IV boblar qoralamasidan olingan va yakuniy hisobdan keyin aniqlashtiriladi.*
+**Dissertatsiya mavzusining dolzarbligi va zarurati.** Jahonda oziq-ovqat xavfsizligini ta’minlashda sug’oriladigan yerlar hal qiluvchi o’rin tutadi, biroq aynan shu yerlar ikkilamchi sho’rlanish va zax bosish xavfi ostida turadi. Birlashgan Millatlar Tashkilotining Oziq-ovqat va qishloq xo’jaligi tashkiloti (FAO) ma’lumotlariga ko’ra, dunyoda sho’rlangan tuproqlar maydoni 1 381 mln gektarni, ya’ni quruqlikning 10,7 foizini tashkil etadi; sug’oriladigan ekin maydonlarining taxminan 10 foizi sho’rlanishdan zarar ko’rgan \[133\]. Bu jarayonga qarshi asosiy muhandislik chorasi kollektor-drenaj tizimlari hisoblanadi: ular ildiz qatlamidan ortiqcha suv va tuzni chiqarib, sizot suvlari sathini xavfsiz chuqurlikda ushlab turadi. Tizimlarning ko’pchiligi o’tgan asrning o’rtalarida qurilgan bo’lib, ularni ishchi holatda saqlash har yili katta mablag’ talab qiladi. Shu sababli tizimlarning haqiqiy holatini, ularning sizot rejimiga ta’sirini va ta’mir-tiklash ishlarining natijasini ishonchli ma’lumotlar asosida baholash muhim ilmiy-amaliy vazifa hisoblanadi.
 
-**Dissertatsiya mavzusining dolzarbligi va zarurati.** Jahonda sug'oriladigan yerlarning sezilarli qismi ikkilamchi sho'rlanish va zax bosishdan zarar ko'radi; bu jarayonlarga qarshi asosiy muhandislik chorasi kollektor-drenaj tizimlaridir \[41, 86, 98\]. Tizimlarning aksariyati o'tgan asrning o'rtalarida qurilgan bo'lib, ularni ishchi holatda saqlash katta mablag' talab qiladi. Shu sababli tizimlarning haqiqiy holatini va ta'mir ishlarining natijasini ishonchli ma'lumotlar asosida baholash, buning uchun geoaxborot texnologiyalaridan foydalanish muhim ilmiy-amaliy vazifa hisoblanadi.
+Jahonda meliorativ tizimlar holatini baholash va boshqarishda geoaxborot texnologiyalari (GAT), masofadan zondlash va geostatistik modellashtirish usullaridan foydalanish bo’yicha keng ko’lamli ilmiy tadqiqotlar olib borilmoqda. Bu borada sizot suvlari sathi va minerallashuvining fazoviy-vaqtli o’zgarishini xaritalash, tuproq sho’rlanishini masofadan baholash, drenaj tizimlari ishini modellashtirish hamda ko’p mezonli tahlil asosida qaror qabul qilishni qo’llab-quvvatlash yo’nalishlariga alohida e’tibor qaratilmoqda. Shu bilan birga, bunday tadqiqotlarning barchasi kuzatuv ma’lumotlariga tayanadi; ma’lumotlarning o’zi qanchalik ishonchli ekanini baholash, drenaj tarmog’ining fazoviy joylashuvini sizot rejimi bilan bog’lash va ta’mir ishlarining meliorativ samarasini o’lchash masalalari hali yetarlicha ishlab chiqilmagan.
 
-O'zbekistonda sug'oriladigan yerlarning meliorativ holatini yaxshilash davlat siyosatining ustuvor yo'nalishi sifatida belgilangan. Suv xo'jaligini rivojlantirish konsepsiyasida respublikada 142,9 ming km kollektor-drenaj tarmog'i ishlatilishi, suv xo'jaligi obyektlarining aksariyati 50–60 yildan ortiq xizmat qilgani qayd etilgan \[1\] \[hujjat matni bo'yicha tekshiriladi\]. Meliorativ holat to'g'risidagi qarorlar meliorativ monitoring ma'lumotlariga tayanadi. Biroq bu ma'lumotlarning o'zi qanchalik ishonchli ekani, drenaj tarmog'i sizot rejimi bilan qanday bog'langani va ta'mirga sarflangan mablag' qanday meliorativ natija bergani amalda tekshirilmaydi.
+Respublikamizda sug’oriladigan yerlarning meliorativ holatini yaxshilash, suv xo’jaligi obyektlarini modernizatsiya qilish va sohaga raqamli texnologiyalarni joriy etish bo’yicha keng qamrovli chora-tadbirlar amalga oshirilmoqda. O’zbekiston Respublikasi suv xo’jaligini rivojlantirishning 2020–2030-yillarga mo’ljallangan konsepsiyasida yerlarning meliorativ holatini yaxshilash uchun umumiy uzunligi 142,9 ming km bo’lgan kollektor-drenaj tarmog’idan foydalanilayotgani qayd etilgan, shuningdek sug’orish tizimlarining foydali ish koeffitsiyentini 0,63 dan 0,73 ga yetkazish, suv xo’jaligi obyektlarida suvni hisobga olish va boshqarish jarayonlarini raqamlashtirish vazifalari belgilangan \[1\]. Ushbu vazifalarni bajarish meliorativ tizimlar va sizot suvlari rejimi to’g’risidagi ma’lumotlarni yagona raqamli asosga o’tkazishni, ularning sifatini nazorat qilishni hamda ajratilayotgan mablag’larning natijasini o’lchash usullarini ishlab chiqishni taqozo etadi.
 
-Andijon viloyati Marhamat tumani misolida bu muammo aniq ko'rinadi: kollektorlarning uzunlik bo'yicha 90 foizi 50 yildan eski, 2017–2020-yillarda ularni ta'mirlashga 21,3 mlrd so'm sarflangan, monitoring o'lchovlarining esa 12 foizi ishonchsiz. Shu sababli monitoring ma'lumotlarining ishonchliligini baholash va ta'mir samaradorligini o'lchash usullarini ishlab chiqish dolzarb hisoblanadi.
+Andijon viloyati Marhamat tumani misolida bu masalaning amaliy ahamiyati yaqqol ko’rinadi. Tumandagi davlat hisobidagi 90 ta kollektorning uzunlik bo’yicha 90 foizi 50 yildan ortiq xizmat qilgan; xo’jalik ichki zovurlarining uchdan ikki qismida ta’mir qayd etilmagan; 2017–2020-yillarda kollektorlarni ta’mirlashga 21,3 mlrd so’m sarflangan. Ayni paytda meliorativ monitoring ma’lumotlarining 12 foizi tekshiruvdan o’tmaydi, kuzatuv quduqlarining chuqurligi sizot suvi chuqur joylashgan hududlarda haqiqiy sathni o’lchashga yetarli emas, drenaj tarmog’ining raqamli xaritasi esa mavjud emas. Bunday sharoitda tizim samaradorligi va ishonchliligini ta’minlash bo’yicha har qanday qaror ishonchli axborot asosiga ega bo’lmaydi.
 
-**Tadqiqotning respublika fan va texnologiyalari rivojlanishining ustuvor yo'nalishlariga mosligi.** Tadqiqot O'zbekiston Respublikasi Prezidentining PF-6024-son Farmoni bilan tasdiqlangan suv xo'jaligini rivojlantirish konsepsiyasi \[1\], PQ-3405-son qarori \[2\] va PF-5853-son Farmoni \[3\] vazifalarini bajarishga xizmat qiladi. \[Ustuvor yo'nalishning rasmiy raqami va nomi kiritiladi.\]
+O’zbekiston Respublikasi Prezidentining 2020-yil 10-iyuldagi PF-6024-son «O’zbekiston Respublikasi suv xo’jaligini rivojlantirishning 2020–2030-yillarga mo’ljallangan konsepsiyasini tasdiqlash to’g’risida»gi Farmoni \[1\], 2019-yil 23-oktabrdagi PF-5853-son «O’zbekiston Respublikasi qishloq xo’jaligini rivojlantirishning 2020–2030-yillarga mo’ljallangan strategiyasini tasdiqlash to’g’risida»gi Farmoni \[3\], 2017-yil 27-noyabrdagi PQ-3405-son «2018–2019-yillarda irrigatsiyani rivojlantirish va sug’oriladigan yerlarning meliorativ holatini yaxshilash Davlat dasturi to’g’risida»gi qarori \[2\], 2023-yil 11-sentabrdagi PF-158-son «O’zbekiston — 2030» strategiyasi to’g’risida»gi Farmoni \[134\] hamda mazkur faoliyatga tegishli boshqa me’yoriy-huquqiy hujjatlarda belgilangan vazifalarni amalga oshirishga ushbu dissertatsiya tadqiqoti muayyan darajada xizmat qiladi.
 
-**Muammoning o'rganilganlik darajasi.** Drenaj nazariyasi va hisob usullari A.N.Kostyakov, S.F.Averyanov, I.P.Aydarov, A.I.Golovanov, xorijda S.B.Hooghoudt, L.F.Ernst, H.P.Ritzema, L.K.Smedema ishlarida ishlab chiqilgan. Sizot suvlari harakati nazariyasi P.Ya.Polubarinova-Kochina va V.M.Shestakov tomonidan asoslangan. Tuproq sho'rlanishi V.A.Kovda, N.G.Minashina, Ye.I.Pankova, L.A.Richards, I.Szabolcs tomonidan o'rganilgan. O'zbekistonda zax qochirish melioratsiyasi X.A.Ahmedov, meliorativ monitoring va kadastr R.Q.Ikromov, F.A.Barayev, G'.U.Yusupov va N.M.Karimova ishlarida bayon etilgan. Geostatistika usullari G.Matheron, A.G.Journel, P.Goovaerts, R.Webster va M.A.Oliver tomonidan rivojlantirilgan. Markaziy Osiyoda sizot rejimi va sho'rlanishni GAT yordamida baholash M.Ibrakhimov, A.Akramxonov, Sh.Kenjabayev, A.Pulatov tadqiqotlarida amalga oshirilgan.
+**Tadqiqotning respublika fan va texnologiyalari rivojlanishining ustuvor yo’nalishlariga mosligi.** Mazkur tadqiqot respublika fan va texnologiyalar rivojlanishining V. «Qishloq xo’jaligi, biotexnologiya, ekologiya va atrof-muhit muhofazasi» ustuvor yo’nalishi doirasida bajarilgan.
 
-Shu bilan birga ko'p yillik monitoring qatorlarining ishonchliligini baholash, sizot rejimining drenaj tarmog'i bilan bog'liqligini quduq darajasida aniqlash va ta'mirning meliorativ samarasini monitoring ma'lumotlari asosida o'lchash masalalari yetarlicha o'rganilmagan.
+**Muammoning o’rganilganlik darajasi.** Sug’oriladigan yerlarni drenajlash nazariyasi va hisob usullari A.N.Kostyakov, S.F.Averyanov, I.P.Aydarov, A.I.Golovanov, B.S.Maslov ishlarida ishlab chiqilgan \[115–117, 120, 127, 128\]. Xorijda drenajlar orasidagi masofani hisoblash va drenaj tizimlarini loyihalash masalalari S.B.Hooghoudt, L.F.Ernst, D.Kirkham, J.N.Luthin, J. van Schilfgaarde, H.P.Ritzema, L.K.Smedema, W.F.Vlotman, R.W.Skaggs va R.J.Oosterbaan tomonidan o’rganilgan \[34, 51, 62, 68, 82, 89, 101–103, 108, 109\]. Sizot suvlari harakatining nazariy asoslari P.Ya.Polubarinova-Kochina, V.M.Shestakov, J.Bear, R.A.Freeze va J.A.Cherry ishlarida berilgan \[18, 19, 38, 131, 132\]; sug’orishning sizot suvlari rejimiga ta’siri D.M.Kats va S.F.Averyanov tomonidan ko’rsatilgan \[116, 124\].
 
-**Tadqiqotning dissertatsiya bajarilgan oliy ta'lim muassasasining ilmiy-tadqiqot ishlari rejalari bilan bog'liqligi.** \[Ilmiy-tadqiqot loyihasining nomi, raqami va bajarilish muddati.\]
+Tuproqlarning sho’rlanishi, uning tasnifi va sho’rlangan yerlarni yaxshilash masalalari V.A.Kovda, V.V.Yegorov, N.G.Minashina, Ye.I.Pankova, L.A.Richards, I.Szabolcs, J.D.Rhoades, D.L.Corwin, G.I.Metternicht va J.A.Zinck tadqiqotlarida yoritilgan \[27, 28, 76, 87, 88, 105, 122, 125, 126, 129, 130\]. O’zbekiston sharoitida zax qochirish melioratsiyasi X.A.Ahmedov \[114\], meliorativ monitoring va kadastrni yuritish R.Q.Ikromov, F.A.Barayev, G’.U.Yusupov va N.M.Karimova \[123\], suv va yer resurslarini boshqarish V.A.Duxovniy, V.I.Sokolov va R.Kulmatov \[64, 121\] ishlarida bayon etilgan.
 
-**Tadqiqotning maqsadi** GAT texnologiyalari asosida meliorativ monitoring ma'lumotlarining ishonchliligini baholash, sizot rejimining drenaj tarmog'i bilan bog'liqligini aniqlash hamda kollektorlarni ta'mirlash samaradorligini baholash usulini ishlab chiqishdan iborat.
+Geoaxborot tizimlarining nazariy asoslari P.A.Burrough, R.A.McDonnell, M.F.Goodchild va P.A.Longley \[23, 24, 43, 66\], geostatistik modellashtirish usullari G.Matheron, D.G.Krige, A.G.Journel, E.H.Isaaks, N.Cressie, P.Goovaerts, R.Webster va M.A.Oliver \[29, 44, 54, 58, 63, 74, 80, 111\], vaqt qatorlarida tendensiyani aniqlash usullari H.B.Mann, M.G.Kendall, P.K.Sen va R.M.Hirsch \[47, 49, 59, 73, 97\] tomonidan ishlab chiqilgan. Markaziy Osiyo sharoitida sizot suvlari rejimi va tuproq sho’rlanishini GAT yordamida baholash M.Ibrakhimov, I.Forkutsa, A.Akramxonov, Sh.Kenjabayev va A.Pulatov tadqiqotlarida amalga oshirilgan \[13, 37, 53, 60, 61, 84\].
+
+Mazkur tadqiqotlar tahlili shuni ko’rsatadiki, meliorativ tizimlarni loyihalash nazariyasi va rejim ko’rsatkichlarini xaritalash usullari chuqur ishlangan. Biroq ko’p yillik meliorativ monitoring qatorlarining ishonchliligini baholash, drenaj tarmog’ining raqamli qatlamlari mavjud bo’lmagan hududlar uchun geoma’lumotlar bazasini tiklash, sizot rejimining drenaj tarmog’i bilan bog’liqligini alohida quduq darajasida aniqlash hamda kollektorlarni ta’mirlashning meliorativ samarasini monitoring ma’lumotlari asosida o’lchash masalalari yetarlicha o’rganilmagan.
+
+**Tadqiqotning dissertatsiya bajarilgan oliy ta’lim muassasasining ilmiy-tadqiqot ishlari rejalari bilan bog’liqligi.** Dissertatsiya tadqiqoti Andijon qishloq xo’jaligi va agrotexnologiyalar institutining ilmiy-tadqiqot ishlari rejasiga muvofiq bajarilgan \[mavzu yoki loyihaning nomi, raqami va bajarilish muddati kiritiladi\].
+
+**Tadqiqotning maqsadi** GAT texnologiyalari asosida meliorativ monitoring ma’lumotlarining ishonchliligini baholash, sizot rejimining drenaj tarmog’i bilan bog’liqligini aniqlash hamda kollektor-drenaj tizimlarini ta’mirlash samaradorligini baholash usulini ishlab chiqishdan iborat.
 
 **Tadqiqotning vazifalari:**
 
-- meliorativ tizimlar ishonchliligi va samaradorligini baholashning mavjud usullarini tahlil qilish va bo'shliqlarni aniqlash;
-- mavjud xaritalar va kadastr asosida Marhamat tumani meliorativ tizimining geoma'lumotlar bazasini shakllantirish va uning aniqligini baholash;
-- monitoring ma'lumotlarini tekshirish qoidalarini ishlab chiqish va 2009–2024-yillar qatorlarining ishonchliligini baholash;
-- tozalangan qatorlar asosida sizot suvlari sathining ko'p yillik, mavsumiy va fazoviy qonuniyatlarini aniqlash;
-- sizot rejimining drenaj tarmog'i, kanallar va relyef bilan bog'liqligini quduq darajasida baholash;
-- tizim elementlarining yoshi va ta'mir tarixi bo'yicha ishonchlilik ko'rsatkichlarini aniqlash, ta'mirning sizot sathiga ta'siri va haqiqiy narxini baholash;
-- monitoring tizimini takomillashtirish bo'yicha ilmiy asoslangan tavsiyalar ishlab chiqish.
+meliorativ tizimlar ishonchliligi va samaradorligini baholashning mavjud usullarini tahlil qilish va hal etilmagan masalalarni aniqlash;
 
-**Tadqiqotning obyekti** sifatida Andijon viloyati Marhamat tumanining sug'oriladigan yerlaridagi meliorativ tizim olingan: 90 ta kollektor (265,8 km), 332 ta xo'jalik ichki zovuri (370,7 km) va 196 ta kuzatuv qudug'i.
+mavjud xaritalar va meliorativ kadastr asosida Marhamat tumani meliorativ tizimining geoma’lumotlar bazasini shakllantirish va uning aniqligini baholash;
 
-**Tadqiqotning predmeti** meliorativ monitoring ma'lumotlarining ishonchlilik ko'rsatkichlari, sizot suvlari sathining fazoviy-vaqtli qonuniyatlari, uning drenaj tarmog'i bilan bog'liqligi hamda tizim elementlarining ishonchliligi va ta'mir samaradorligi ko'rsatkichlaridan iborat.
+monitoring ma’lumotlarini tekshirish qoidalarini ishlab chiqish va 2009–2024-yillar kuzatuv qatorlarining ishonchliligini baholash;
 
-**Tadqiqotning usullari.** Tadqiqotda geoaxborot tahlili (xaritalarni joyiga bog'lash, tarmoqni vektorlash, fazoviy ko'rsatkichlarni hisoblash), geostatistik modellashtirish (variogramma tahlili, oddiy kriging, kross-validatsiya), matematik statistika (Mann–Kendall mezoni, Sen qiyaligi, Spearman korrelyatsiyasi, ko'p omilli regressiya), quduq va yil qat'iy effektli panel modeli qo'llanildi. \[Gidravlik va suv balansi hisoblari 4.2-§ to'ldirilgach qo'shiladi.\]
+tekshirilgan qatorlar asosida sizot suvlari sathining ko’p yillik, mavsumiy va fazoviy qonuniyatlarini aniqlash;
 
-**Tadqiqotning ilmiy yangiligi quyidagilardan iborat:**
+sizot rejimining drenaj tarmog’i, sug’orish kanallari va relyef bilan bog’liqligini quduq darajasida baholash;
 
-- ko'p yillik meliorativ monitoring qatorlarining ishonchliligini baholashning uch qoidasi va miqdoriy ko'rsatkichi ishlab chiqilgan; Marhamat tumani qatorlarida o'lchovlarning 12,1 foizi ishonchsizligi aniqlangan;
-- sizot suvi sathining ko'p yillik o'zgarishi kuzatuv tarmog'i tarkibining o'zgarishidan tozalangan holda baholangan: barqaror panel bo'yicha yiliga 0,032 m, tekshiruvsiz hisobda esa 0,045 m;
-- mavjud xaritalardan drenaj tarmog'ining geoma'lumotlar bazasini tiklash usuli asoslangan: kuzatuv quduqlari tayanch nuqta sifatida ishlatilgan, bog'lash qoldig'ining medianasi 1,9 m;
-- sizot suvi sathining kollektorgacha masofa va tarmoq zichligi bilan bog'liqligi quduq darajasida miqdoriy aniqlangan va bu bog'lanish tarmoqning tabiatan sayoz sathli joylarga qurilgani bilan izohlangan;
-- kollektor ta'mirining sizot sathiga ta'sirini monitoring ma'lumotlari asosida baholash usuli taklif etilgan, uning qo'llanish chegaralari va ta'sirni aniqlash uchun zarur kuzatuvlar soni asoslangan.
+tizim elementlarining yoshi va ta’mir tarixi bo’yicha ishonchlilik ko’rsatkichlarini aniqlash, ta’mirning sizot sathiga ta’siri va haqiqiy narxini baholash;
 
-**Tadqiqotning amaliy natijalari quyidagilardan iborat:**
+monitoring tizimini takomillashtirish va ta’mir samaradorligini o’lchash bo’yicha ilmiy asoslangan tavsiyalar ishlab chiqish.
 
-- Marhamat tumani meliorativ tizimining geoma'lumotlar bazasi shakllantirilgan: quduqlar, kollektorlar va kanallar qatlamlari, kadastr atributlari bilan;
-- 2009–2024-yillar monitoring ma'lumotlarining tozalangan bazasi va tekshiruv dasturi yaratilgan;
-- sizot suvi sathi va bahoning noaniqligi xaritalari tuzilgan;
-- kollektorlarni ta'mirlashning haqiqiy narxi aniqlangan: medianasi 146 mln so'm/km;
-- monitoring tizimini takomillashtirish bo'yicha to'qqizta tavsiya ishlab chiqilgan.
+**Tadqiqotning obyekti** sifatida Andijon viloyati Marhamat tumanining sug’oriladigan yerlaridagi meliorativ tizim olingan: umumiy uzunligi 265,8 km bo’lgan 90 ta kollektor, 370,7 km uzunlikdagi 332 ta xo’jalik ichki zovuri hamda sakkizta massivda joylashgan 196 ta meliorativ kuzatuv qudug’i.
 
-**Tadqiqot natijalarining ishonchliligi** rasmiy monitoring va kadastr ma'lumotlaridan foydalanilgani, ma'lumotlar oldindan tekshiruvdan o'tkazilgani, geostatistik model kross-validatsiya bilan baholangani, statistik xulosalar ishonch oraliqlari bilan berilgani hamda barcha hisoblar dasturiy ravishda takrorlanishi bilan ta'minlangan. Tadqiqotning cheklovlari ochiq ko'rsatilgan: dala o'lchovlari o'tkazilmagan, minerallashuv qatorlarining faqat 2004–2010-yillardagi qismi ishonchli, kadastrda faqat oxirgi ta'mir yili qayd etilgan.
+**Tadqiqotning predmeti** meliorativ monitoring ma’lumotlarining ishonchlilik ko’rsatkichlari, sizot suvlari sathining fazoviy-vaqtli qonuniyatlari, uning drenaj tarmog’i ko’rsatkichlari bilan bog’liqligi hamda tizim elementlarining ishonchliligi va ta’mir samaradorligini baholash usullaridan iborat.
 
-**Tadqiqot natijalarining ilmiy va amaliy ahamiyati.** Ilmiy ahamiyati meliorativ tizimlarni baholashda ma'lumotlar ishonchliligini mustaqil bosqich sifatida asoslash hamda drenaj samarasini fazoviy taqqoslash emas, vaqt bo'yicha taqqoslash orqali baholash zarurligini ko'rsatishdan iborat. Amaliy ahamiyati suv xo'jaligi tashkilotlariga monitoring ma'lumotlarini tekshirish vositasi, tarmoqning raqamli bazasi va ta'mir samarasini o'lchash uchun kuzatuv tarmog'iga qo'yiladigan talablarni berishdadir.
+**Tadqiqotning usullari.** Tadqiqot jarayonida geoaxborot tahlili (xaritalarni koordinatalar tizimiga bog’lash, tarmoqni vektorlash, fazoviy ko’rsatkichlarni hisoblash), geostatistik modellashtirish (variogramma tahlili, oddiy kriging, kross-validatsiya), matematik statistika (Mann–Kendall mezoni, Sen qiyaligi, Spearman rang korrelyatsiyasi, ko’p omilli regressiya), quduq va yil qat’iy effektli panel modeli, gidravlik va suv balansi hisoblari hamda qiyosiy tahlil usullaridan foydalanilgan.
 
-**Tadqiqot natijalarining joriy qilinishi.** \[Joriy etgan tashkilot nomi, dalolatnoma raqami va sanasi.\]
+**Tadqiqotning ilmiy yangiligi** quyidagilardan iborat:
 
-**Tadqiqot natijalarining aprobatsiyasi.** \[Xalqaro va respublika anjumanlarining nomi, joyi va sanasi.\]
+ko’p yillik meliorativ monitoring qatorlarining ishonchliligini baholash usuli ishlab chiqilgan: yil ichidagi o’zgarmaslik, o’lchov birligi va kuzatuv tarmog’i tarkibi bo’yicha tekshiruv qoidalari hamda ishonchlilikning miqdoriy ko’rsatkichi asoslangan;
 
-**Tadqiqot natijalarining e'lon qilinganligi.** \[Chop etilgan ishlar soni va ro'yxati.\]
+sizot suvi sathining ko’p yillik o’zgarishini kuzatuv tarmog’i tarkibining o’zgarishidan tozalangan holda baholash tartibi (barqaror panel) asoslangan va tekshiruvsiz hisob tendensiyani 1,4 baravar oshirib ko’rsatishi aniqlangan;
 
-**Dissertatsiyaning tuzilishi va hajmi.** Dissertatsiya kirish, to'rt bob, umumiy xulosalar, foydalanilgan adabiyotlar ro'yxati va ilovalardan iborat. \[Betlar, jadvallar, rasmlar va manbalar soni yakuniy tahrirda kiritiladi.\]
+mavjud xaritalardan drenaj tarmog’ining geoma’lumotlar bazasini tiklash usuli ishlab chiqilgan: kuzatuv quduqlari tayanch nuqta sifatida qo’llanilgan, massiv chegaralari chegara chiziqlari bo’laklari va quduqlar mansubligi asosida tiklangan, bog’lash aniqligi baholangan;
+
+sizot suvi sathining kollektorgacha masofa va tarmoq zichligi bilan bog’liqligi quduq darajasida miqdoriy aniqlangan hamda bir vaqtdagi fazoviy taqqoslash drenaj samarasini baholash uchun yaroqsiz ekani asoslangan;
+
+kollektor ta’mirining sizot sathiga ta’sirini monitoring ma’lumotlari asosida baholash usuli taklif etilgan, uning qo’llanish chegaralari va berilgan ta’sirni aniqlash uchun zarur kuzatuv quduqlari soni asoslangan.
+
+**Tadqiqotning amaliy natijalari** quyidagilardan iborat:
+
+Marhamat tumani meliorativ tizimining geoma’lumotlar bazasi shakllantirilgan: kuzatuv quduqlari, kollektorlar, kanallar va massiv chegaralari qatlamlari kadastr ma’lumotlari bilan birga;
+
+2009–2024-yillar monitoring ma’lumotlarining tekshirilgan bazasi va tekshiruv dasturi yaratilgan;
+
+sizot suvi sathi xaritasi va bahoning noaniqlik xaritasi tuzilgan, kuzatuv tarmog’ini to’ldirish joylari aniqlangan;
+
+kollektorlarni ta’mirlashning haqiqiy narxi aniqlangan (medianasi 146 mln so’m/km) va ta’mir turlari orasidagi narx farqi ko’rsatilgan;
+
+monitoring tizimini takomillashtirish bo’yicha to’qqizta tavsiya ishlab chiqilgan.
+
+**Tadqiqot natijalarining ishonchliligi.** Tadqiqot natijalarining ishonchliligi rasmiy meliorativ monitoring va kadastr ma’lumotlaridan foydalanilgani, ma’lumotlarning oldindan tekshiruvdan o’tkazilgani, xaritani bog’lash aniqligi 181 ta tayanch nuqta bo’yicha baholangani, geostatistik modelning kross-validatsiya qilingani, statistik xulosalarning ahamiyatlilik darajasi va ishonch oraliqlari bilan berilgani hamda barcha hisoblarning dasturiy ravishda takrorlanishi bilan izohlanadi. Tadqiqotning cheklovlari ochiq ko’rsatilgan: dala o’lchovlari o’tkazilmagan, minerallashuv bo’yicha faqat 2004–2010-yillar ma’lumotlari tahlil uchun yaroqli deb topilgan, kadastrda har bir kollektor uchun faqat oxirgi ta’mir yili qayd etilgan.
+
+**Tadqiqot natijalarining ilmiy va amaliy ahamiyati.** Tadqiqot natijalarining ilmiy ahamiyati meliorativ tizimlarni baholashda monitoring ma’lumotlarining ishonchliligini mustaqil bosqich sifatida asoslash, sizot rejimi va drenaj tarmog’i o’rtasidagi bog’lanishni quduq darajasida aniqlash hamda drenaj samarasini fazoviy taqqoslash orqali emas, vaqt bo’yicha taqqoslash orqali baholash zarurligini ko’rsatish bilan izohlanadi.
+
+Tadqiqot natijalarining amaliy ahamiyati suv xo’jaligi tashkilotlariga monitoring ma’lumotlarini tekshirish vositasi, drenaj tarmog’ining raqamli bazasini tiklash usuli, ta’mir ishlarining haqiqiy narxi to’g’risidagi ma’lumot hamda ta’mir samarasini o’lchash uchun kuzatuv tarmog’iga qo’yiladigan talablarni berish bilan izohlanadi.
+
+**Tadqiqot natijalarining joriy qilinishi.** \[Natijalar joriy etilgan tashkilot nomi, dalolatnoma raqami va sanasi kiritiladi.\]
+
+**Tadqiqot natijalarining aprobatsiyasi.** Tadqiqot natijalari \[soni\] ta xalqaro va \[soni\] ta respublika ilmiy-amaliy anjumanlarida muhokamadan o’tkazilgan \[anjumanlar nomi, joyi va sanasi kiritiladi\].
+
+**Tadqiqot natijalarining e’lon qilinganligi.** Dissertatsiya mavzusi bo’yicha jami \[soni\] ta ilmiy ish chop etilgan, shulardan O’zbekiston Respublikasi Oliy attestatsiya komissiyasining dissertatsiyalar asosiy ilmiy natijalarini chop etish tavsiya etilgan ilmiy nashrlarida \[soni\] ta maqola, jumladan \[soni\] tasi respublika va \[soni\] tasi xorijiy jurnallarda nashr etilgan.
+
+**Dissertatsiyaning tuzilishi va hajmi.** Dissertatsiya kirish, to’rtta bob, umumiy xulosalar, foydalanilgan adabiyotlar ro’yxati va ilovalardan iborat. Dissertatsiyaning hajmi \[soni\] betni tashkil etadi.
+
+Birinchi bobda meliorativ tizimlar ishonchliligi va samaradorligini baholashning mavjud usullari, meliorativ monitoringda GAT va geostatistik usullarning qo’llanilishi tahlil qilingan, hal etilmagan masalalar aniqlangan hamda tadqiqotning maqsad va vazifalari belgilangan.
+
+Ikkinchi bobda tadqiqot obyektining tabiiy-meliorativ sharoiti, meliorativ tizimning tarkibi, geoma’lumotlar bazasini shakllantirish tartibi, monitoring ma’lumotlarini tekshirish qoidalari va qo’llanilgan tahlil usullari bayon etilgan.
+
+Uchinchi bobda monitoring ma’lumotlarining ishonchliligi baholangan, sizot suvlari sathining ko’p yillik va mavsumiy dinamikasi, fazoviy taqsimoti hamda drenaj tarmog’i, kanallar va relyef bilan bog’liqligi aniqlangan, minerallashuv ma’lumotlari tahlil qilingan.
+
+To’rtinchi bobda tizim elementlarining ishonchlilik ko’rsatkichlari, kollektorlarning gidravlik ko’rsatkichlari, ta’mirning sizot sathiga ta’siri va narxi baholangan, monitoring tizimini takomillashtirish bo’yicha tavsiyalar hamda ularning iqtisodiy asosi keltirilgan.
