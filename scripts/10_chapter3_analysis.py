@@ -36,7 +36,7 @@ vy = [y for y in yrs if y not in COPY]
 ever_const = set(const.well)
 panel = [w for w in ann.index if ann.loc[w, vy].notna().all() and w not in ever_const]
 ser = ann.loc[panel, vy].mean(); t = mk.original_test(ser.values); sl = stats.linregress(vy, ser.values)
-naive = L.groupby('year')['level'].mean(); tn = stats.linregress(naive.index, naive.values)
+naive = L[~L.year.isin(COPY)].groupby('year')['level'].mean(); tn = stats.linregress(naive.index, naive.values)
 R['trend'] = dict(panel_wells=len(panel), years=[int(y) for y in vy], series={int(y): round(float(v), 3) for y, v in ser.items()},
                   sen_slope=round(float(t.slope), 4), mk_tau=round(float(t.Tau), 3), mk_p=round(float(t.p), 4),
                   ols_slope=round(float(sl.slope), 4), ols_r2=round(float(sl.rvalue ** 2), 3),
