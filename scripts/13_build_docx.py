@@ -19,7 +19,7 @@ FIX = [  # hujjatda keyin kiritilgan tuzatishlar (eksportdan keyingi)
  ("ular umumiy ochiq tarmoq uzunligining 58 foizini", "ular ro'yxatdagi ochiq tarmoq uzunligining 58 foizini"),
  ("mediana 146,0 mln so'm/km.", "mediana 146,0 mln so'm/km. Yillar bo'yicha taqsimot 4.4-jadvalda keltirilgan."),
 ]
-IMG = {"Andijon meteostansiyasi bo’yicha yog’in, bug’lanuvchanlik va haroratning yillik yo’li": 'figures/ch2_climate.png', "Andijon meteostansiyasi bo'yicha yog'in, bug'lanuvchanlik va haroratning yillik yo'li": 'figures/ch2_climate.png', "Sizot suvi sathining ko'p yillik va mavsumiy dinamikasi": 'figures/ch3_dynamics.png', "Sizot suvi sathi va bahoning standart xatosi xaritalari": 'figures/ch3_kriging.png',
+IMG = {"Xaritani joyiga bog’lash qoldiqlarining taqsimoti": 'figures/ch2_georef_residuals.png', "Marhamat tumani meliorativ tizimining geoma’lumotlar bazasi": 'figures/ch2_gis_layers.png', "Andijon meteostansiyasi bo’yicha yog’in, bug’lanuvchanlik va haroratning yillik yo’li": 'figures/ch2_climate.png', "Andijon meteostansiyasi bo'yicha yog'in, bug'lanuvchanlik va haroratning yillik yo'li": 'figures/ch2_climate.png', "Sizot suvi sathining ko'p yillik va mavsumiy dinamikasi": 'figures/ch3_dynamics.png', "Sizot suvi sathi va bahoning standart xatosi xaritalari": 'figures/ch3_kriging.png',
        "Kollektorlarning yoshi, ta'mir yillari va ta'mir narxi": 'figures/ch4_reliability_costs.png'}
 PB = '\n```{=openxml}\n<w:p><w:r><w:br w:type="page"/></w:r></w:p>\n```\n'
 TOC = ('\n```{=openxml}\n<w:p><w:r><w:fldChar w:fldCharType="begin" w:dirty="true"/></w:r><w:r><w:instrText xml:space="preserve"> TOC \\o "1-2" \\h \\z \\u </w:instrText></w:r>'
