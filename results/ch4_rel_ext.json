@@ -1,0 +1,228 @@
+{
+ "rho_repair_age": [
+  -0.062,
+  0.559
+ ],
+ "rho_repair_len": [
+  0.174,
+  0.102
+ ],
+ "rho_repair_q": [
+  0.066,
+  0.536
+ ],
+ "age_campaign": {
+  "n_in": 68,
+  "n_out": 22,
+  "med_in": 60.5,
+  "med_out": 61.0,
+  "p": 0.492
+ },
+ "old_vs_young": {
+  "<55": {
+   "n": 26,
+   "since_med": 4.0,
+   "share_last5": 0.77
+  },
+  "55-65": {
+   "n": 41,
+   "since_med": 4.0,
+   "share_last5": 0.8
+  },
+  ">65": {
+   "n": 23,
+   "since_med": 4.0,
+   "share_last5": 0.78
+  }
+ },
+ "km_per_year_2010_2020": 24.2,
+ "cycle_years": 11.0,
+ "peak_share": 0.713,
+ "gini_years": 0.261,
+ "inner_by_decade": {
+  "1920": {
+   "n": 3,
+   "km": 1.8,
+   "norep": 0.67
+  },
+  "1930": {
+   "n": 27,
+   "km": 30.6,
+   "norep": 0.7
+  },
+  "1940": {
+   "n": 21,
+   "km": 26.3,
+   "norep": 0.67
+  },
+  "1950": {
+   "n": 112,
+   "km": 127.3,
+   "norep": 0.64
+  },
+  "1960": {
+   "n": 76,
+   "km": 69.4,
+   "norep": 0.58
+  },
+  "1970": {
+   "n": 25,
+   "km": 34.8,
+   "norep": 0.72
+  },
+  "1980": {
+   "n": 61,
+   "km": 72.3,
+   "norep": 0.69
+  },
+  "1990": {
+   "n": 4,
+   "km": 5.2,
+   "norep": 0.75
+  },
+  "2010": {
+   "n": 3,
+   "km": 3.0,
+   "norep": 1.0
+  }
+ },
+ "inner_rep": {
+  "y2017": 87,
+  "y2018": 28,
+  "km2017": 110.2,
+  "km2018": 20.8
+ },
+ "inner_age_rep": {
+  "med_rep": 61.0,
+  "med_norep": 61.0,
+  "p": 0.948
+ },
+ "inner_len": {
+  "rep": 1.0,
+  "norep": 0.9
+ },
+ "massif": [
+  {
+   "massif": "З.М.Бобур",
+   "irr_ha": 3610,
+   "coll_km": 39.3,
+   "named_share": 0.53,
+   "coll_m_ha": 10.9,
+   "coll_age": 67.0,
+   "coll_since": 4.9,
+   "inner_km": 35.2,
+   "inner_m_ha": 9.8,
+   "inner_norep": 0.82,
+   "inner_age": 66.5,
+   "open_m_ha": 20.6
+  },
+  {
+   "massif": "Истиқлол",
+   "irr_ha": 2146,
+   "coll_km": 34.1,
+   "named_share": 0.35,
+   "coll_m_ha": 15.9,
+   "coll_age": 75.0,
+   "coll_since": 5.8,
+   "inner_km": 70.2,
+   "inner_m_ha": 32.7,
+   "inner_norep": 0.74,
+   "inner_age": 64.0,
+   "open_m_ha": 48.6
+  },
+  {
+   "massif": "Й.Охунбобоев",
+   "irr_ha": 1191,
+   "coll_km": 0.0,
+   "named_share": 0.0,
+   "coll_m_ha": 0.0,
+   "coll_age": NaN,
+   "coll_since": NaN,
+   "inner_km": 20.2,
+   "inner_m_ha": 16.9,
+   "inner_norep": 1.0,
+   "inner_age": 58.0,
+   "open_m_ha": 16.9
+  },
+  {
+   "massif": "М.Тожибоев",
+   "irr_ha": 2532,
+   "coll_km": 17.3,
+   "named_share": 0.59,
+   "coll_m_ha": 6.8,
+   "coll_age": 66.0,
+   "coll_since": 5.8,
+   "inner_km": 0.0,
+   "inner_m_ha": 0.0,
+   "inner_norep": NaN,
+   "inner_age": NaN,
+   "open_m_ha": 6.8
+  },
+  {
+   "massif": "Машъал",
+   "irr_ha": 3790,
+   "coll_km": 54.8,
+   "named_share": 0.52,
+   "coll_m_ha": 14.5,
+   "coll_age": 63.0,
+   "coll_since": 3.9,
+   "inner_km": 92.0,
+   "inner_m_ha": 24.3,
+   "inner_norep": 0.21,
+   "inner_age": 58.0,
+   "open_m_ha": 38.7
+  },
+  {
+   "massif": "Пахтакор",
+   "irr_ha": 1601,
+   "coll_km": 12.9,
+   "named_share": 0.43,
+   "coll_m_ha": 8.0,
+   "coll_age": 72.0,
+   "coll_since": 5.0,
+   "inner_km": 41.9,
+   "inner_m_ha": 26.2,
+   "inner_norep": 0.74,
+   "inner_age": 63.0,
+   "open_m_ha": 34.2
+  },
+  {
+   "massif": "Т.Мирзаев",
+   "irr_ha": 3371,
+   "coll_km": 24.0,
+   "named_share": 0.9,
+   "coll_m_ha": 7.1,
+   "coll_age": 62.0,
+   "coll_since": 4.6,
+   "inner_km": 30.4,
+   "inner_m_ha": 9.0,
+   "inner_norep": 0.47,
+   "inner_age": 61.0,
+   "open_m_ha": 16.1
+  },
+  {
+   "massif": "У.Қорабоев",
+   "irr_ha": 2420,
+   "coll_km": 32.2,
+   "named_share": 0.51,
+   "coll_m_ha": 13.3,
+   "coll_age": 64.0,
+   "coll_since": 4.2,
+   "inner_km": 21.9,
+   "inner_m_ha": 9.1,
+   "inner_norep": 0.72,
+   "inner_age": 51.0,
+   "open_m_ha": 22.4
+  }
+ ],
+ "composite_rank": {
+  "Й.Охунбобоев": 6.5,
+  "М.Тожибоев": 6.17,
+  "З.М.Бобур": 5.0,
+  "Истиқлол": 4.75,
+  "Пахтакор": 4.62,
+  "Т.Мирзаев": 3.25,
+  "У.Қорабоев": 3.0,
+  "Машъал": 1.5
+ }
+}

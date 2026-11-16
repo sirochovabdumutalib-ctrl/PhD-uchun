@@ -1622,16 +1622,30 @@ Uchinchidan, Marhamat tumani yozgi sathning medianasi bo'yicha viloyatda o'rtach
 
 Ushbu bobda meliorativ tizim elementlarining ishonchliligi kadastr ma'lumotlari asosida baholanadi, kollektorlarning gidravlik ko'rsatkichlari tahlil qilinadi, ta'mirning sizot sathiga ta'siri va narxi o'rganiladi hamda monitoring tizimini takomillashtirish bo'yicha tavsiyalar beriladi.
 
-
 ## 4.1-§. Kollektor va zovurlarning yoshi, ta'mir tarixi va ishonchlilik ko'rsatkichlari
 
-Tizim elementlarining ishonchliligi 2021-yil 1-yanvar holatidagi meliorativ kadastr ma'lumotlari asosida baholandi. Kadastrda har bir kollektor va ichki zovur uchun uzunligi, foydalanishga topshirilgan yili va oxirgi ta'mir yili qayd etilgan. Shu uch ko'rsatkichdan ikkita ishonchlilik ko'rsatkichi hisoblandi: elementning yoshi va oxirgi ta'mirdan beri o'tgan muddat.
-
-**Kollektorlar.** Tumanda davlat hisobidagi 90 ta kollektor bor, umumiy uzunligi 265,8 km. Ularning yoshi 36 yildan 103 yilgacha, medianasi 61 yil. Kollektorlarning 82 foizi (uzunlik bo'yicha 90 foizi) 50 yildan eski (4.1-jadval). Eng ko'p qurilish 1950–1960-yillarga to'g'ri keladi: shu ikki o'n yillikda 61 ta kollektor (159,3 km) foydalanishga topshirilgan.
+Texnik obyektning ishonchliligi uning belgilangan vazifalarni berilgan sharoitda va talab etilgan muddat davomida bajarish xossasi sifatida ta'riflanadi \[144\]. Gidromeliorativ inshootlar uchun bu xossa to'rt tarkibiy qismga ajratiladi: buzilmaslik, uzoq muddatlilik, ta'mirboplik va saqlanuvchanlik \[138; 139\]. Har bir tarkibiy qism o'z miqdoriy ko'rsatkichlari bilan baholanadi, ularni hisoblash esa muayyan dastlabki ma'lumotlarni talab qiladi. Shuning uchun tadqiqotda avval mavjud ma'lumotlar qaysi ko'rsatkichlarni hisoblashga imkon berishi aniqlandi (4.1-jadval).
 
 
 ::: {custom-style="Sarlavha-jadval"}
-4.1-jadval. Kollektorlarning foydalanishga topshirilgan davri bo'yicha taqsimoti
+4.1-jadval. Drenaj tarmog'i ishonchliligi ko'rsatkichlari va ularni hisoblash uchun ma'lumotlarning mavjudligi
+:::
+
+| Ishonchlilik xossasi | Ko'rsatkich | Talab etiladigan ma'lumot | Meliorativ kadastrda mavjudligi |
+| --- | --- | --- | --- |
+| Buzilmaslik | Buzilmasdan ishlash ehtimoli, nosozliklar oqimi parametri | Nosozliklar (loyqa bosish, qirg'oq o'pirilishi, inshoot buzilishi) sanasi va turi | Mavjud emas |
+| Uzoq muddatlilik | Xizmat muddati, chegaraviy holatgacha resurs | Foydalanishga topshirilgan yil, chegaraviy holat mezoni | Qisman: faqat foydalanishga topshirilgan yil |
+| Ta'mirboplik | Ta'mirlararo muddat, ta'mir narxi | Barcha ta'mirlar sanasi, hajmi va narxi | Qisman: faqat oxirgi ta'mir yili, 53 ta kollektor uchun narx |
+| Saqlanuvchanlik | — | — | Ochiq kollektorlar uchun qo'llanilmaydi |
+| Vazifaviy samaradorlik | Sizot suvi sathining me'yoriy chuqurlikda ushlanishi | Sath monitoringi | Mavjud (III bob) |
+
+Jadvaldan ko'rinib turibdiki, kadastr ma'lumotlari ishonchlilik nazariyasining klassik ko'rsatkichlarini (buzilmasdan ishlash ehtimoli, nosozliklar oqimi) hisoblashga imkon bermaydi. Shu sababli ushbu paragrafda ikki bilvosita ko'rsatkich qo'llanildi: elementning yoshi (uzoq muddatlilik bahosi) va oxirgi ta'mirdan beri o'tgan muddat (ta'mirboplik va xizmat ko'rsatish holati bahosi). Vazifaviy samaradorlik III bobda sath monitoringi bo'yicha baholangan. Barcha hisoblar 2021-yil 1-yanvar holatidagi meliorativ kadastr ma'lumotlari asosida bajarildi.
+
+**Kollektorlar.** Tumanda davlat hisobidagi 90 ta kollektor bor, umumiy uzunligi 265,8 km, xizmat ko'rsatadigan maydoni 11 079 ga. Ularning barchasi Meliorativ ekspeditsiya balansida. Kollektorlarning yoshi 36 yildan 103 yilgacha, medianasi 61 yil. Kollektorlarning 82 foizi (uzunlik bo'yicha 90 foizi) 50 yildan eski (4.2-jadval). Eng ko'p qurilish 1950–1960-yillarga to'g'ri keladi: shu ikki o'n yillikda 61 ta kollektor (159,3 km) foydalanishga topshirilgan. 1980-yillardan keyin tumanda yangi kollektor qurilmagan.
+
+
+::: {custom-style="Sarlavha-jadval"}
+4.2-jadval. Kollektorlarning foydalanishga topshirilgan davri bo'yicha taqsimoti
 :::
 
 | Davr | Kollektorlar soni | Uzunligi, km |
@@ -1643,7 +1657,7 @@ Tizim elementlarining ishonchliligi 2021-yil 1-yanvar holatidagi meliorativ kada
 | 1970-yillar | 15 | 22,5 |
 | 1980-yillar | 3 | 6,0 |
 
-Shu bilan birga kollektorlarning barchasi 2010–2020-yillar oralig'ida kamida bir marta ta'mirlangan. Oxirgi ta'mirdan beri o'tgan muddatning medianasi 4 yil; uzunlikning 79,5 foizi so'nggi besh yilda ta'mirlangan. Ta'mirlar vaqt bo'yicha notekis: 55 ta kollektor (124,7 km) 2016–2018-yillarda, yana 13 tasi (65,0 km) 2019-yilda ta'mirlangan. Demak kollektorlar eski bo'lsa ham, ularga yaqinda xizmat ko'rsatilgan (4.1-rasm).
+Shu bilan birga kollektorlarning barchasi 2010–2020-yillar oralig'ida kamida bir marta ta'mirlangan. Oxirgi ta'mirdan beri o'tgan muddatning medianasi 4 yil; uzunlikning 79,5 foizi so'nggi besh yilda ta'mirlangan. Ta'mirlar vaqt bo'yicha notekis: 55 ta kollektor (124,7 km) 2016–2018-yillarda, yana 13 tasi (65,0 km) 2019-yilda ta'mirlangan; 2016–2019-yillarga umumiy uzunlikning 71 foizi to'g'ri keladi (4.1-rasm). Demak kollektorlar eski bo'lsa ham, ularga yaqinda xizmat ko'rsatilgan (4.1-rasm).
 
 
 ![](figures/ch4_reliability_costs.png){width=16cm}
@@ -1653,13 +1667,17 @@ Shu bilan birga kollektorlarning barchasi 2010–2020-yillar oralig'ida kamida b
 4.1-rasm. Kollektorlar uzunligining foydalanishga topshirilgan davr bo'yicha (chapda) va oxirgi ta'mir yili bo'yicha (o'rtada) taqsimoti; 1 km ta'mir narxining taqsimoti (o'ngda)
 :::
 
-**Ichki zovurlar.** Xo'jalik ichki tarmog'ida vaziyat boshqacha. 332 ta zovurning (370,7 km) yoshi kollektorlarniki bilan bir xil, medianasi 61 yil. Biroq ularning 217 tasida (239,7 km, uzunlikning 64,7 foizi) ta'mir umuman qayd etilmagan. Qolgan 115 tasi faqat 2017–2018-yillarda ta'mirlangan.
+**Ta'mir tartibi.** Ishonchlilik nazariyasiga ko'ra profilaktik ta'mir elementning holatiga yoki yoshiga qarab rejalashtirilishi kerak: eski va eskirish belgilari ko'p elementlar birinchi navbatda ta'mirlanadi \[138; 141\]. Kadastr ma'lumotlarida bunday tartib kuzatilmaydi. Oxirgi ta'mir yili kollektorning yoshi bilan bog'lanmagan (Spearman ρ = −0,06; p = 0,56), uzunligi (ρ = +0,17; p = 0,10) va oxiridagi sarfi (ρ = +0,07; p = 0,54) bilan ham bog'lanmagan. 2016–2019-yillardagi ta'mirga kiritilgan 68 ta kollektorning yoshi medianasi 60,5 yil, qolgan 22 tasiniki 61 yil (Mann–Uitni mezoni, p = 0,49). Yosh guruhlari bo'yicha ham manzara bir xil: 55 yoshgacha, 55–65 yoshli va 65 yoshdan katta kollektorlarda oxirgi ta'mirdan beri o'tgan muddatning medianasi 4 yil, so'nggi besh yilda ta'mirlanganlar ulushi 77–80 foiz.
 
-Ta'mirsiz qolgan zovurlar ulushi tizimlar bo'yicha keskin farq qiladi (4.2-jadval): Mash'al massivida 21 foiz, Markaziy zovur tizimi va Y.Oxunboboyev massivida 100 foiz.
+Bu natija ta'mirlar kollektorning holatiga emas, ta'mir dasturlariga bog'liq holda o'tkazilganini ko'rsatadi: ma'lum yillarda tarmoqning katta qismi bir vaqtda ta'mirlangan. Bunday tartibning ikki oqibati bor. Birinchidan, ta'mir resurslari eng ko'p ehtiyoj bo'lgan joyga yo'naltirilganini tasdiqlash imkoni yo'q. Ikkinchidan, ta'mirlar bir vaqtga to'plangani sababli keyingi yillarda tarmoqning katta qismi bir vaqtda eskiradi va ta'mirga muhtoj bo'ladi. Kadastrdagi ma'lumotlar bo'yicha 2010–2020-yillarda yiliga o'rtacha 24,2 km kollektor ta'mirlangan, bu butun tarmoqni taxminan 11 yilda bir marta ta'mirlashga mos keladi. Bu ta'mir chastotasining pastki bahosi, chunki kadastrda faqat oxirgi ta'mir yili qayd etilgan.
+
+**Ichki zovurlar.** Xo'jalik ichki tarmog'ida vaziyat boshqacha. 332 ta zovur (370,7 km) 1929–2012-yillarda qurilgan, yoshining medianasi kollektorlarniki bilan bir xil — 61 yil; ularning 112 tasi (127,3 km) 1950-yillarda qurilgan. Zovurlarning 217 tasida (239,7 km, uzunlikning 64,7 foizi) ta'mir umuman qayd etilmagan. Qolgan 115 tasi faqat ikki yilda ta'mirlangan: 2017-yilda 87 ta (110,2 km) va 2018-yilda 28 ta (20,8 km). Ta'mirlangan va ta'mirlanmagan zovurlarning yoshi bir xil (medianasi 61 yil; p = 0,95), uzunligi ham deyarli farq qilmaydi (medianasi 1,0 va 0,9 km). Demak ichki zovurlarni ta'mirga tanlashda ham yosh yoki holat mezoni qo'llanilmagan.
+
+Ta'mirsiz qolgan zovurlar ulushi tizimlar bo'yicha keskin farq qiladi (4.3-jadval): Mash'al massivida 21 foiz, Markaziy zovur tizimi va Y.Oxunboboyev massivida 100 foiz.
 
 
 ::: {custom-style="Sarlavha-jadval"}
-4.2-jadval. Ichki zovurlarning tizimlar bo'yicha holati
+4.3-jadval. Ichki zovurlarning tizimlar bo'yicha holati
 :::
 
 | Tizim | Zovurlar soni | Uzunligi, km | Ta'mir qayd etilmagan uzunlik ulushi |
@@ -1674,9 +1692,41 @@ Ta'mirsiz qolgan zovurlar ulushi tizimlar bo'yicha keskin farq qiladi (4.2-jadva
 | Y.Oxunboboyev massivi | 12 | 20,1 | 100 % |
 | Xo'jaliklararo bo'rdoqichilik bazasi | 7 | 6,1 | 100 % |
 
-Shunday qilib tizimning ishonchliligi bo'yicha eng zaif bo'g'in kollektorlar emas, xo'jalik ichki zovurlaridir: ular ro'yxatdagi ochiq tarmoq uzunligining 58 foizini tashkil etadi, uchdan ikki qismida esa ta'mir qayd etilmagan.
+Shunday qilib tizimning ishonchliligi bo'yicha eng zaif bo'g'in kollektorlar emas, xo'jalik ichki zovurlaridir: ular kadastrdagi ochiq tarmoq uzunligining 58 foizini tashkil etadi, uchdan ikki qismida esa ta'mir qayd etilmagan.
 
-**Cheklov.** Kadastrda faqat oxirgi ta'mir yili yozilgan; undan oldingi ta'mirlar va nosozliklar hisobi yo'q. Shuning uchun ishonchlilik nazariyasining klassik ko'rsatkichlarini (nosozliklar oqimi, nosozliklar orasidagi o'rtacha muddat) hisoblab bo'lmaydi. «Ta'mir qayd etilmagan» degan yozuv ta'mir bo'lmaganini ham, hisobga olinmaganini ham bildirishi mumkin.
+**Massivlar bo'yicha ishonchlilik ko'rsatkichlari.** Kadastr kollektorlarni massivlarga bog'lamaydi, shuning uchun bu bog'lanish geoma'lumotlar bazasi orqali tiklandi: xaritadan raqamlashtirilgan kollektor bo'laklari massiv chegaralari bilan kesishtirildi va kadastrda nomi aniqlangan bo'laklarga kollektorning yoshi va ta'mir yili biriktirildi (2.3-§). Massivlarning sug'oriladigan maydoni bilan birga bu ma'lumotlar har bir massiv uchun drenaj tarmog'ining solishtirma uzunligini va holatini baholash imkonini berdi (4.4-jadval va 4.2-rasm).
+
+
+::: {custom-style="Sarlavha-jadval"}
+4.4-jadval. Massivlar bo'yicha drenaj tarmog'ining ishonchlilik ko'rsatkichlari
+:::
+
+| Massiv | Sug'oriladigan maydon, ga | Kollektorlar, km | Kollektorlar, m/ga | Kollektorlarning o'rtacha yoshi, yil\* | Oxirgi ta'mirdan beri, yil\* | Ichki zovurlar, km | Ichki zovurlar, m/ga | Ta'mirsiz ichki zovurlar, % |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Mash'al | 3 790 | 54,8 | 14,5 | 63 | 3,9 | 92,0 | 24,3 | 21 |
+| Istiqlol | 2 146 | 34,1 | 15,9 | 75 | 5,8 | 70,2 | 32,7 | 74 |
+| U.Qoraboyev | 2 420 | 32,2 | 13,3 | 64 | 4,2 | 21,9 | 9,1 | 72 |
+| Z.M.Bobur | 3 610 | 39,3 | 10,9 | 67 | 4,9 | 35,2 | 9,8 | 82 |
+| Paxtakor | 1 601 | 12,9 | 8,0 | 72 | 5,0 | 41,9 | 26,2 | 74 |
+| T.Mirzaev | 3 371 | 24,0 | 7,1 | 62 | 4,6 | 30,4 | 9,0 | 47 |
+| M.To'jiboyev | 2 532 | 17,3 | 6,8 | 66 | 5,8 | — | — | — |
+| Y.Oxunboboyev | 1 191 | 0,0 | 0,0 | — | — | 20,1 | 16,9 | 100 |
+
+Izoh: \* — kadastrda nomi aniqlangan kollektor bo'laklari bo'yicha uzunlik bilan vaznlangan o'rtacha (massivdagi kollektorlar uzunligining 35–90 foizi). Markaziy zovur tizimi (52,8 km) va bo'rdoqichilik bazasi zovurlari (6,1 km) kadastrda massivlarga bog'lanmagan.
+
+
+![](figures/ch4_massif_reliability.png){width=16cm}
+
+
+::: {custom-style="Sarlavha-jadval"}
+4.2-rasm. Massivlar bo'yicha: a — kollektorlar va ichki zovurlarning solishtirma uzunligi; b — ta'mir qayd etilmagan ichki zovurlar ulushi (qizil — 70 foizdan ortiq)
+:::
+
+Massivlar drenaj tarmog'ining ta'minlanganligi va holati bo'yicha keskin farq qiladi. Ochiq tarmoqning umumiy solishtirma uzunligi (kollektorlar va ichki zovurlar) Istiqlol massivida 48,6 m/ga, Mash'al massivida 38,7 m/ga, M.To'jiboyev massivida esa atigi 6,8 m/ga. Ichki zovurlar holati bo'yicha Mash'al massivi boshqalardan ajralib turadi: u yerda zovurlarning 79 foizi ta'mirlangan, qolgan massivlarda esa 0–53 foizi. To'rtta ko'rsatkich (tarmoq zichligi, ta'mirsiz ichki zovurlar ulushi, kollektorlar yoshi va oxirgi ta'mirdan beri o'tgan muddat) bo'yicha massivlarning o'rtacha o'rni hisoblanganda eng zaif tarmoq Y.Oxunboboyev, M.To'jiboyev va Z.M.Bobur massivlarida, eng yaxshisi Mash'al massivida ekani aniqlandi.
+
+Bu baho III bob natijalari bilan solishtirilganda muhim manzara hosil bo'ladi. Z.M.Bobur massivi tarmog'i zaif massivlar qatorida (umumiy solishtirma uzunlik 20,6 m/ga, ichki zovurlarning 82 foizi ta'mirsiz) va aynan shu massivda sizot suvi sathi ko'tarilmoqda (3.2-§), sho'rlanish xavfi ostidagi quduqlar soni esa eng ko'p (3.5-§). Istiqlol massivida tarmoq zich, lekin ichki zovurlarning 74 foizi ta'mirsiz va kollektorlar tumandagi eng eskilari (o'rtacha 75 yil). Mash'al massivida esa tarmoq eng yaxshi holatda bo'lsa ham, sath sayoz va minerallashuv yuqori; bu massivdagi holatni tarmoq holati emas, tabiiy gidrogeologik sharoit belgilaydi. Y.Oxunboboyev va M.To'jiboyev massivlarida tarmoq siyrak, lekin sath chuqur, shuning uchun bu yerda drenajga ehtiyoj ham kam. Shunday qilib, tarmoq holati va meliorativ holat birgalikda qaralganda Z.M.Bobur va Istiqlol massivlari birinchi navbatdagi e'tibor hududi sifatida ajraladi; bu xulosa 4.5-§ dagi tavsiyalarga asos bo'ladi.
+
+**Cheklov.** Kadastrda faqat oxirgi ta'mir yili yozilgan; undan oldingi ta'mirlar va nosozliklar hisobi yo'q. Shuning uchun ishonchlilik nazariyasining klassik ko'rsatkichlarini (nosozliklar oqimi, nosozliklar orasidagi o'rtacha muddat) hisoblab bo'lmaydi. «Ta'mir qayd etilmagan» degan yozuv ta'mir bo'lmaganini ham, hisobga olinmaganini ham bildirishi mumkin. Kollektorlarni massivlarga bog'lash xaritadagi nomlangan bo'laklarga tayanadi, shuning uchun massivlar bo'yicha yosh va ta'mir ko'rsatkichlari taxminiy. Bu kamchiliklarni bartaraf etish uchun kadastrga nosozliklar va barcha ta'mirlar jurnalini kiritish taklif etiladi (4.5-§).
 
 ## 4.2-§. Gidravlik hisob: drenaj moduli va kollektorlarning o'tkazish qobiliyati
 
@@ -1714,11 +1764,11 @@ $$h_{it} = \alpha_i + \gamma_t + \beta \, D_{it} + \varepsilon_{it}$$
 
 bu yerda h — i-quduqning t-yildagi o'rtacha sathi, m; α — quduqning doimiy xususiyati; γ — yilning umumiy ta'siri; D — ta'mirdan keyingi yillar uchun 1 ga, boshqa hollarda 0 ga teng ko'rsatkich; β — ta'mir ta'siri. Musbat β sathning chuqurlashganini bildiradi. Standart xatolar quduqlar bo'yicha klasterlangan.
 
-**Natija.** Model olti variantda baholandi (4.3-jadval).
+**Natija.** Model olti variantda baholandi (4.5-jadval).
 
 
 ::: {custom-style="Sarlavha-jadval"}
-4.3-jadval. Kollektor ta'mirining sizot sathiga ta'siri bahosi
+4.5-jadval. Kollektor ta'mirining sizot sathiga ta'siri bahosi
 :::
 
 | Variant | β, m | 95 % ishonch oralig'i | p | Quduq-yillar |
@@ -1743,11 +1793,11 @@ Asosiy xulosa: tumanda 2017–2020-yillarda ta'mirga 21,3 mlrd so'm sarflangan (
 
 ## 4.4-§. Ta'mir xarajatlari tahlili
 
-Kadastrda 53 ta kollektor bo'yicha 2017–2020-yillardagi ta'mir xarajati va ta'mirlangan uchastka (piketlar) ko'rsatilgan. Jami 163,3 km uchastkaga 21 314 mln so'm sarflangan. Uzunlik bo'yicha tortilgan o'rtacha narx 130,5 mln so'm/km, mediana 146,0 mln so'm/km. Yillar bo'yicha taqsimot 4.4-jadvalda keltirilgan.
+Kadastrda 53 ta kollektor bo'yicha 2017–2020-yillardagi ta'mir xarajati va ta'mirlangan uchastka (piketlar) ko'rsatilgan. Jami 163,3 km uchastkaga 21 314 mln so'm sarflangan. Uzunlik bo'yicha tortilgan o'rtacha narx 130,5 mln so'm/km, mediana 146,0 mln so'm/km. Yillar bo'yicha taqsimot 4.4-jadvalda keltirilgan. Yillar bo'yicha taqsimot 4.4-jadvalda keltirilgan.
 
 
 ::: {custom-style="Sarlavha-jadval"}
-4.4-jadval. Kollektorlarni ta'mirlash xarajatlari yillar bo'yicha
+4.6-jadval. Kollektorlarni ta'mirlash xarajatlari yillar bo'yicha
 :::
 
 | Yil | Kollektorlar soni | Ta'mirlangan uzunlik, km | Xarajat, mln so'm | O'rtacha narx, mln so'm/km |
@@ -1768,11 +1818,11 @@ Ikki amaliy xulosa kelib chiqadi. Birinchidan, 1 km ta'mirning haqiqiy narxi (me
 
 ## 4.5-§. Monitoring tizimini takomillashtirish va amaliy tavsiyalar
 
-III bob va 4.1–4.4-§ natijalari bitta umumiy xulosaga olib keladi: meliorativ tizim samaradorligini ta'minlashning birinchi sharti uni o'lchay olishdir. Quyidagi tavsiyalar shu maqsadga qaratilgan; har biri tadqiqotning aniq natijasiga tayanadi (4.5-jadval).
+III bob va 4.1–4.4-§ natijalari bitta umumiy xulosaga olib keladi: meliorativ tizim samaradorligini ta'minlashning birinchi sharti uni o'lchay olishdir. Quyidagi tavsiyalar shu maqsadga qaratilgan; har biri tadqiqotning aniq natijasiga tayanadi (4.7-jadval).
 
 
 ::: {custom-style="Sarlavha-jadval"}
-4.5-jadval. Amaliy tavsiyalar va ularning asosi
+4.7-jadval. Amaliy tavsiyalar va ularning asosi
 :::
 
 | № | Tavsiya | Asos |
@@ -1787,11 +1837,11 @@ III bob va 4.1–4.4-§ natijalari bitta umumiy xulosaga olib keladi: meliorativ
 | T-8 | Drenaj ishini yillik o'rtacha bo'yicha emas, yozgi eng sayoz sath bo'yicha baholash | Mavsumiy amplituda 0,48 m (3.2-§) |
 | T-9 | Xo'jalik ichki zovurlarini inventarizatsiya qilish va ta'mir rejasiga kiritish | 64,7 foizida ta'mir qayd etilmagan (4.1-§) |
 
-**Ta'mir samarasini aniqlash uchun zarur quduqlar soni.** 4.3-§ dagi modelning standart xatosi 0,105 m, ta'sir guruhida 36 ta quduq. 5 foizlik ahamiyat darajasi va 80 foizlik quvvat uchun aniqlanadigan eng kichik ta'sir standart xatoning 2,8 baravariga teng, ya'ni hozir 0,29 m. Standart xato quduqlar sonining kvadrat ildiziga teskari mutanosib deb olinsa, zarur quduqlar soni quyidagicha (4.6-jadval).
+**Ta'mir samarasini aniqlash uchun zarur quduqlar soni.** 4.3-§ dagi modelning standart xatosi 0,105 m, ta'sir guruhida 36 ta quduq. 5 foizlik ahamiyat darajasi va 80 foizlik quvvat uchun aniqlanadigan eng kichik ta'sir standart xatoning 2,8 baravariga teng, ya'ni hozir 0,29 m. Standart xato quduqlar sonining kvadrat ildiziga teskari mutanosib deb olinsa, zarur quduqlar soni quyidagicha (4.8-jadval).
 
 
 ::: {custom-style="Sarlavha-jadval"}
-4.6-jadval. Ta'mir ta'sirini aniqlash uchun ta'sir guruhida zarur quduqlar soni
+4.8-jadval. Ta'mir ta'sirini aniqlash uchun ta'sir guruhida zarur quduqlar soni
 :::
 
 | Aniqlanishi kerak bo'lgan ta'sir, m | Zarur quduqlar soni | Hozirgiga nisbatan |
