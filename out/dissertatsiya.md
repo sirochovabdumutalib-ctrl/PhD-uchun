@@ -1519,6 +1519,83 @@ Bu bahoning cheklovi shundaki, sath va minerallashuv turli davrlarga tegishli. 2
 
 **Paragraf bo'yicha umumlashma.** Minerallashuv qatorining 26 yilidan faqat 2004–2010-yillar ishonchli. Bu davrda tuman bo'yicha minerallashuv medianasi 1,0–1,5 g/l, qiymatlarning 60 foizi 1–3 g/l oralig'ida bo'lgan va statistik ahamiyatli tendensiya hamda mavsumiy o'zgarish aniqlanmagan. Massivlar orasidagi farq uch baravarga yetadi: minerallashgan suv g'arbiy va shimoliy massivlarda (Mash'al, Z.M.Bobur), chuchuk suv sharqiy va janubiy massivlarda tarqalgan. Minerallashuv drenaj tarmog'i bilan bog'lanmagan. Yozgi sath va minerallashuv birgalikda baholanganda quduqlarning yarmi sho'rlanish xavfi ostida, ularning 82 foizi Mash'al, Z.M.Bobur va Istiqlol massivlarida joylashgan.
 
+## 3.6-§. Marhamat tumani natijalarining Andijon viloyati tumanlari bilan qiyosi
+
+Oldingi paragraflarda olingan natijalar bitta tuman ma'lumotlariga asoslangan. Ularni umumlashtirish uchun ikki savolga javob berish kerak: Marhamat tumanidagi monitoring ma'lumotlarining sifati viloyat uchun odatiymi yoki istisnomi, va 3.1-§ da aniqlangan «chuqur sathli hududlarda ma'lumot ishonchliligi past» degan qonuniyat boshqa tumanlarda ham kuzatiladimi. Buning uchun meliorativ ekspeditsiyaning Andijon viloyatidagi 14 ta tuman bo'yicha 2009–2023-yillardagi kuzatuv jadvallari tahlil qilindi. Jadvallar Marhamat tumani jadvallari bilan bir xil shaklda: har bir quduq uchun yiliga 36 ta o'n kunlik o'lchov. Jami 2 052 ta quduq va 866 844 ta o'lchov mavjud.
+
+Barcha tumanlarga 3.1-§ dagi tekshiruv qoidalari bir xil tartibda qo'llanildi. Har bir tumanda 1–3 yil bo'yicha mustaqil kuzatuv ma'lumotlari mavjud emas, bu yillar tahlildan chiqarildi. Qolgan yillar bo'yicha yil ichidagi o'zgarmas qatorlar (7 tadan ortiq o'lchovi bo'lgan va barcha o'lchovlari bir xil qiymatga ega quduq-yillar) va o'lchov birligi xatolari aniqlandi. Qo'shimcha ko'rsatkich sifatida bir xonali yaxlit qiymatlar (masalan, 2,0; 2,5; 3,0 m) ulushi hisoblandi: santimetr aniqligida o'lchanadigan ko'rsatkichda bunday qiymatlarning ko'pligi o'lchov taxminiy yozilganini bildirishi mumkin. Natijalar 3.20-jadvalda keltirilgan. Marhamat tumani bo'yicha bu yerda olingan ko'rsatkichlar 3.1-§ dagilar bilan mos keladi (yaroqli o'lchovlar ulushi 88,3 va 87,9 foiz), farq faqat davr chegarasi (2024-yil viloyat jadvalida yo'q) bilan bog'liq.
+
+
+::: {custom-style="Sarlavha-jadval"}
+3.20-jadval. Andijon viloyati tumanlarida monitoring ma'lumotlarining ishonchlilik ko'rsatkichlari, 2009–2023-yillar
+:::
+
+| Tuman | Quduqlar soni | Mustaqil ma'lumoti yo'q yillar | O'zgarmas qatorlar, quduq-yillarning %i | Yaroqli o'lchovlar, % | Yaxlit qiymatlar, % |
+| --- | --- | --- | --- | --- | --- |
+| Oltinko'l | 130 | 2 | 0,0 | 100,0 | 18,1 |
+| Bo'ston | 157 | 1 | 0,2 | 99,8 | 11,8 |
+| Shahrixon | 174 | 2 | 2,7 | 97,6 | 16,9 |
+| Ulug'nor | 186 | 2 | 2,5 | 97,3 | 19,9 |
+| Buloqboshi | 159 | 2 | 4,2 | 96,6 | 20,6 |
+| Baliqchi | 222 | 2 | 3,8 | 96,4 | 19,1 |
+| Xo'jaobod | 66 | 2 | 9,3 | 91,2 | 35,6 |
+| Izboskan | 152 | 2 | 11,5 | 89,5 | 26,5 |
+| Marhamat | 196 | 3 | 12,4 | 88,3 | 28,8 |
+| Andijon | 128 | 2 | 18,7 | 82,6 | 28,4 |
+| Jalaquduq | 141 | 3 | 22,4 | 79,6 | 25,5 |
+| Qo'rg'ontepa | 108 | 2 | 26,3 | 74,4 | 42,7 |
+| Paxtaobod | 95 | 2 | 27,5 | 72,5 | 18,8 |
+| Asaka | 138 | 2 | 29,4 | 71,1 | 32,6 |
+| Mediana | — | 2 | 10,4 | 90,4 | — |
+
+Izoh: Bo'ston va Paxtaobod tumanlari bo'yicha 14 yillik, Buloqboshi tumani bo'yicha 13 yillik jadvallar mavjud.
+
+**Ma'lumotlar sifatining tumanlar orasidagi farqi.** Tumanlar ma'lumotlar sifati bo'yicha keskin farq qiladi. Oltinko'l, Bo'ston, Shahrixon, Ulug'nor, Buloqboshi va Baliqchi tumanlarida o'zgarmas qatorlar 5 foizdan kam, yaroqli o'lchovlar 96–100 foiz. Asaka, Paxtaobod, Qo'rg'ontepa va Jalaquduq tumanlarida esa quduq-yillarning 22–29 foizi o'zgarmas qator, ya'ni har to'rtinchi-beshinchi quduqda yil davomida bitta qiymat yozilgan. Marhamat tumani 14 ta tuman ichida 9-o'rinda, viloyat medianasidan (10,4 foiz o'zgarmas qator) biroz yomonroq. Demak Marhamat tumanidagi ma'lumot nuqsonlari istisno emas: viloyatning to'rtdan bir qismidan ko'prog'ida ular yanada jiddiyroq. Yaxlit qiymatlar ulushi o'zgarmas qatorlar ulushi bilan bog'langan (ρ = +0,65; p = 0,011): ma'lumotlar sifati past tumanlarda o'lchovlar ham taxminiyroq yozilgan.
+
+**Ishonchlilik va sath chuqurligi.** 3.1-§ da Marhamat tumani massivlari bo'yicha aniqlangan qonuniyat viloyat miqyosida ham to'liq tasdiqlanadi. O'zgarmas qatorlar ulushi tumandagi sathning medianasi bilan kuchli bog'langan (ρ = +0,85; p < 0,001), yaroqli o'lchovlar ulushi esa unga teskari bog'langan (ρ = −0,82; p < 0,001). Sathi sayoz tumanlarda (Bo'ston, Oltinko'l, Baliqchi — 2019–2023-yillardagi mediana 1,6–1,8 m) ma'lumotlar deyarli nuqsonsiz, sathi chuqur tumanlarda (Asaka, Paxtaobod — 2,7–2,95 m) esa eng ko'p nuqsonli. Bu natija 3.1-§ dagi izohni kuchaytiradi: o'zgarmas qatorlarning asosiy manbai — sath quduq tubidan pastga tushganda quduqning qurib qolishi va kuzatuvchining haqiqiy sath o'rniga shartli qiymat yozishi. Kuzatuv quduqlarining chuqurligi sath chuqur hududlar uchun yetarli emas va bu muammo bitta tuman emas, butun viloyat monitoring tarmog'iga xos.
+
+Bu qonuniyatning amaliy oqibati muhim. Ma'lumotlar nuqsoni tasodifiy emas, tizimli: u aynan sath chuqur bo'lgan joylarda va yillarda to'planadi. Shuning uchun nuqsonli qiymatlarni oddiygina chiqarib tashlash sathni sayozroq ko'rsatadi, ularni tekshiruvsiz qoldirish esa shartli qiymatlarni haqiqiy o'lchov sifatida qabul qilishga olib keladi. Ikkala holda ham xato bir tomonga yo'nalgan. Bu muammoni faqat quduqlarni chuqurlashtirish yoki kesilgan qiymatlarni maxsus usullar bilan hisobga olish orqali hal etish mumkin \[152\].
+
+**Sizot rejimi ko'rsatkichlari.** Har bir tuman uchun 3.2-§ dagi tartibda barqaror panel tuzildi va ko'p yillik tendensiya, 2019–2023-yillardagi yozgi sath va mavsumiy amplituda hisoblandi (3.21-jadval va 3.11-rasm).
+
+
+::: {custom-style="Sarlavha-jadval"}
+3.21-jadval. Andijon viloyati tumanlarida sizot suvi rejimining asosiy ko'rsatkichlari
+:::
+
+| Tuman | Barqaror panel, quduq | Sen qiyaligi, sm/yil | p | Iyul–avgust sathi medianasi, m | Yozda 1,5 m dan sayoz quduqlar, % | Yozda 2,0 m dan sayoz quduqlar, % | Mavsumiy amplituda, m |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Oltinko'l | 128 | +1,2 | 0,10 | 1,68 | 11,5 | 93,8 | 0,11 |
+| Bo'ston | 141 | +0,8 | 0,08 | 1,58 | 27,4 | 98,7 | 0,21 |
+| Shahrixon | 111 | +1,8 | 0,001 | 1,82 | 6,9 | 73,0 | 0,43 |
+| Ulug'nor | 54 | +0,7 | 0,024 | 1,82 | 5,6 | 87,0 | 0,07 |
+| Buloqboshi | 34 | +3,5 | 0,003 | 2,06 | 14,5 | 43,5 | 0,24 |
+| Baliqchi | 100 | +3,5 | 0,001 | 1,74 | 12,4 | 79,8 | 0,18 |
+| Xo'jaobod | 26 | +4,3 | 0,006 | 2,13 | 10,0 | 38,3 | 0,58 |
+| Izboskan | 41 | +2,7 | 0,006 | 2,06 | 12,2 | 46,3 | 0,35 |
+| Marhamat | 87 | +3,3 | 0,001 | 1,95 | 21,9 | 53,5 | 0,48 |
+| Andijon | 39 | +3,3 | 0,012 | 1,87 | 15,1 | 60,4 | 0,10 |
+| Jalaquduq | 57 | +5,7 | < 0,001 | 2,16 | 9,9 | 45,5 | 0,37 |
+| Qo'rg'ontepa | 24 | +3,2 | 0,012 | 2,14 | 13,3 | 40,0 | 0,21 |
+| Paxtaobod | 32 | +10,6 | < 0,001 | 2,65 | 4,2 | 17,9 | 0,44 |
+| Asaka | 31 | +6,4 | < 0,001 | 2,75 | 0,0 | 14,9 | 0,33 |
+
+
+![](figures/ch3_region.png){width=16cm}
+
+
+::: {custom-style="Sarlavha-jadval"}
+3.11-rasm. Andijon viloyati tumanlarida: a — yaroqli o'lchovlar ulushi; b — yozgi sath medianasi va barqaror panel bo'yicha sath tendensiyasi (qizil — Marhamat tumani)
+:::
+
+Uchta natija ajralib turadi. Birinchidan, sath chuqurlashishi viloyat miqyosidagi hodisa: 14 ta tumanning 12 tasida barqaror panel bo'yicha statistik ahamiyatli chuqurlashish aniqlandi, qolgan ikkitasida (Oltinko'l, Bo'ston) ham yo'nalish shu, lekin ahamiyatli emas. Hech bir tumanda sath ko'tarilmagan. Tumanlar bo'yicha chuqurlashish tezligining medianasi yiliga 3,3 sm; Marhamat tumani (yiliga 3,3 sm) aynan viloyat medianasida turadi. Bu 3.2-§ va 3.4-§ dagi xulosani kuchaytiradi: Marhamat tumanidagi chuqurlashish tumanning o'z drenaj tarmog'idagi o'zgarishlardan ko'ra viloyat miqyosidagi omillar — suv ta'minoti va sug'orish rejimi bilan bog'liq bo'lishi ehtimoli yuqori. Biroq bu qiyos ta'mir ta'sirini to'liq istisno etmaydi, chunki boshqa tumanlarda ham shu yillarda kollektorlar ta'miri olib borilgan bo'lishi mumkin va bu haqda viloyat bo'yicha ma'lumot tahlil qilinmadi; ta'mir samarasi 4.3-§ da alohida baholanadi.
+
+Ikkinchidan, chuqurlashish tezligi tumandagi sath chuqurligi bilan bog'langan (ρ = +0,76; p = 0,002): sathi allaqachon chuqur bo'lgan Paxtaobod (yiliga 10,6 sm) va Asaka (6,4 sm) tumanlarida sath eng tez chuqurlashmoqda, sathi sayoz Bo'ston, Oltinko'l va Ulug'nor tumanlarida esa deyarli o'zgarmaydi. Bu 3.2-§ da quduqlar darajasida olingan natija bilan bir xil (chuqur quduqlarda chuqurlashish tezroq). Shu bilan birga chuqurlashish tezligi ma'lumotlar sifati bilan ham bog'langan (yaroqli o'lchovlar ulushi bilan ρ = −0,74; p = 0,002). Ya'ni eng tez chuqurlashayotgan tumanlarning tendensiyasi eng kichik va eng ishonchsiz panellarga (24–57 ta quduq) tayanadi. Bu tumanlar bo'yicha tendensiyani ehtiyotkorlik bilan talqin qilish kerak.
+
+Uchinchidan, Marhamat tumani yozgi sathning medianasi bo'yicha viloyatda o'rtacha o'rinda (1,95 m; 7-o'rin), lekin sathi 1,5 m dan sayoz quduqlar ulushi bo'yicha Bo'ston tumanidan keyin ikkinchi (21,9 foiz). Mavsumiy amplituda bo'yicha ham Marhamat Xo'jaobod tumanidan keyin ikkinchi o'rinda (0,48 m). Demak Marhamat tumanining o'ziga xosligi o'rtacha sathda emas, uning fazoviy va mavsumiy o'zgaruvchanligida: tumanda bir vaqtning o'zida sathi chuqur va sayoz hududlar mavjud, yozda esa sath boshqa tumanlarga qaraganda ko'proq ko'tariladi. Bu 3.2–3.3-§ larda massivlar bo'yicha aniqlangan farqlar bilan mos va tadqiqotda massivlar darajasidagi yondashuv tanlanganini asoslaydi.
+
+**Paragraf bo'yicha umumlashma.** Viloyatning 14 ta tumani bo'yicha qiyos Marhamat tumanida olingan natijalarning umumiyligini ko'rsatdi. Monitoring ma'lumotlaridagi nuqsonlar viloyatning barcha tumanlarida uchraydi, ularning ko'lami tumanlar orasida 0 dan 29 foizgacha o'zgaradi va sath chuqurligi bilan kuchli bog'langan (ρ = +0,85): kuzatuv quduqlarining chuqurligi sath chuqur hududlar uchun yetarli emas. Sizot suvi sathi 14 ta tumanning 12 tasida statistik ahamiyatli chuqurlashgan, Marhamat tumanidagi chuqurlashish tezligi (yiliga 3,3 sm) viloyat medianasiga teng. Marhamat tumanini boshqa tumanlardan sathning katta fazoviy va mavsumiy o'zgaruvchanligi ajratib turadi. Shunday qilib, dissertatsiyada taklif etilgan ma'lumotlar tekshiruvi tartibi va kuzatuv tarmog'ini takomillashtirish bo'yicha tavsiyalar (IV bob) viloyatning boshqa tumanlariga ham taalluqli.
+
 ## III bob bo'yicha xulosalar
 
 1. Marhamat tumani bo'yicha 2009–2024-yillar oralig'idagi 13 yillik sizot suvi sathi kuzatuvlari (196 ta quduq, 75 200 ta o'lchov) uch qoida bo'yicha tekshirildi. 270 ta quduq-yilda yil bo'yi bitta qiymat yozilgani va 2018-yilda kuzatuv tarmog'i o'zgargani aniqlandi. O'lchovlarning 87,9 foizi tahlil uchun yaroqli deb topildi.
