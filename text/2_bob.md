@@ -312,49 +312,142 @@ Massivlar va kuzatuv quduqlari qatlamlari GIS Cloud geoaxborot platformasiga yuk
 
 Shunga qaramay, usulning amaliy qimmati shundaki, u drenaj tarmog’ining raqamli xaritasi bo’lmagan har qanday tumanda mavjud qog’oz xarita va quduqlar koordinatalari jadvali asosida bir necha soat ichida takrorlanishi mumkin.
 
-## 2.4-§. Monitoring ma'lumotlarining ishonchliligini baholash usuli
+## 2.4-§. Monitoring ma’lumotlarining ishonchliligini baholash usuli
 
-Monitoring qatorlari uchta rasmiy qoida bo'yicha tekshiriladi. Qoidalar ma'lumotning fizik ma'nosiga tayanadi va hech qanday qo'shimcha o'lchov talab qilmaydi (2.13-jadval).
+**Usulning maqsadi va tamoyillari.** 1.4-§ da ko’rsatilganidek, meliorativ monitoring qatorlarida tasodifiy o’lchov xatolari bilan bir qatorda tizimli nuqsonlar ham uchraydi: o’lchanmagan holatda shartli qiymat yozilishi, birlikning almashtirilishi, kuzatuv tarmog’i tarkibining o’zgarishi. Taklif etilgan usulning maqsadi — ko’p yillik qatorlarni tahlil qilishdan oldin bunday nuqsonlarni rasmiy qoidalar bo’yicha aniqlash va ma’lumotlar ishonchliligini miqdoriy baholash. Usul uchta tamoyilga tayanadi.
 
-*2.13-jadval. Monitoring ma'lumotlarini tekshirish qoidalari*
+Birinchidan, qoidalar ma’lumotning fizik ma’nosidan kelib chiqadi va qo’shimcha o’lchov talab qilmaydi. Masalan, sug’oriladigan hududda sizot sathi yil davomida o’zgarmay qolishi mumkin emas; bu holat statistik test emas, fizik dalil hisoblanadi.
+
+Ikkinchidan, nuqsonli qiymatlar tuzatilmaydi va taxminiy qiymat bilan to’ldirilmaydi, balki tahlildan chiqariladi. Istisno faqat o’lchov birligi xatosi: uning tuzatilishi bir ma’noli.
+
+Uchinchidan, har bir qoida natijasi alohida qayd etiladi, shuning uchun tekshiruvni boshqa tadqiqotchi takrorlashi va natijasini tekshirishi mumkin.
+
+**Tekshiruv qoidalari.** Sath qatorlari uchun uchta qoida qo’llaniladi (2.13-jadval).
+
+*2.13-jadval. Monitoring ma’lumotlarini tekshirish qoidalari*
 
 | Qoida | Mezon | Asos | Chora |
 | --- | --- | --- | --- |
-| 1. Yil ichidagi o'zgarmaslik | Quduqning bir yildagi barcha o'lchovlari (6 tadan ko'p) bir xil | Sath mavsumiy tebranadi; o'zgarmas qator quduq quriganini yoki o'lchov o'tkazilmaganini bildiradi | Quduq-yil chiqariladi |
-| 2. Birlik xatosi | Qiymat 20 m dan katta | Quduqlar chuqurligi 6 m dan oshmaydi | Qiymat 100 ga bo'linadi |
-| 3. Tarmoq tarkibi | Yillar orasida quduqlar soni yoki qiymatlar oralig'i keskin o'zgargan | Tarkib o'zgarsa, o'rtachalar solishtirib bo'lmaydigan bo'ladi | Ko'p yillik tahlil faqat barqaror panel bo'yicha |
+| 1. Yil ichidagi o’zgarmaslik | Quduqning bir yildagi barcha o’lchovlari (6 tadan ko’p) bir xil | Sath mavsumiy tebranadi; o’zgarmas qator quduq quriganini yoki o’lchov o’tkazilmaganini bildiradi | Quduq-yil chiqariladi |
+| 2. O’lchov birligi | Qiymat 20 m dan katta | Quduqlar chuqurligi 6 m dan oshmaydi | Qiymat 100 ga bo’linadi |
+| 3. Tarmoq tarkibi | Yillar orasida quduqlar soni yoki qiymatlar oralig’i keskin o’zgargan | Tarkib o’zgarsa, o’rtachalar solishtirib bo’lmaydigan bo’ladi | Ko’p yillik tahlil faqat barqaror panel bo’yicha |
 
-**Ishonchlilik ko'rsatkichi.** Ma'lumotlar ishonchliligining umumiy bahosi sifatida tekshiruvdan o'tgan o'lchovlar ulushi olinadi:
+Birinchi qoida rasmiy ko’rinishda quyidagicha yoziladi: i-quduqning t-yildagi o’lchovlari to’plami {hᵢₜₖ}, k = 1, …, nᵢₜ bo’lsa, quduq-yil yaroqsiz deb topiladi, agar
+
+```latex
+n_{it} > 6 \quad \text{va} \quad \max_k h_{itk} - \min_k h_{itk} = 0
+```
+
+O’lchovlar soni bo’yicha chegara (6 dan ko’p) bir necha o’lchov tasodifan bir xil chiqqan hollarni qoida ostiga tushirmaslik uchun qo’yilgan.
+
+Uchinchi qoida bo’yicha tarmoq tarkibining o’zgarishi ikki ko’rsatkich bilan kuzatiladi: har yili kuzatilgan quduqlar soni va qiymatlarning yuqori chegarasi (masalan, 5 m dan chuqur o’lchovlar ulushi). Ulardan birining keskin o’zgarishi tarmoqqa yangi quduqlar qo’shilgani yoki o’lchash sharoiti o’zgarganini bildiradi. Bunday holatda barcha quduqlar bo’yicha yillik o’rtachalarni solishtirish noto’g’ri natija beradi.
+
+**Kesilgan qiymatlarni hisobga olish.** 1.4-§ da ko’rsatilganidek, quruq quduq haqiqiy sathni emas, faqat «sath quduq tubidan chuqur» degan ma’lumotni beradi. Birinchi qoida bunday holatlarning bir qismini — yil bo’yi bir xil shartli qiymat yozilgan qatorlarni — aniqlaydi. Qolgan holatlarni aniqlash uchun o’lchangan sath quduq pasportidagi chuqurlik bilan solishtiriladi: sath quduq chuqurligiga 0,1 m dan yaqin bo’lsa, o’lchov kesilgan deb belgilanadi. Bunday o’lchovlar ko’p yillik o’rtachani hisoblashda alohida ko’rib chiqiladi.
+
+**Ishonchlilik ko’rsatkichi.** Ma’lumotlar ishonchliligining umumiy bahosi sifatida tekshiruvdan o’tgan o’lchovlar ulushi olinadi:
 
 ```latex
 K_i = \frac{N_y}{N} \cdot 100\,\%
 ```
 
-bu yerda N — o'lchovlarning umumiy soni; N\_y — uch qoida bo'yicha yaroqli deb topilgan o'lchovlar soni.
+bu yerda N — tahlilga kiritilgan davrdagi o’lchovlar soni; N\_y — uch qoida bo’yicha yaroqli deb topilgan o’lchovlar soni. Ko’rsatkich yillar, massivlar va quduqlar kesimida ham hisoblanadi; bu nuqsonlar qayerda to’planganini ko’rsatadi va monitoring tizimini takomillashtirish uchun manzilli ma’lumot beradi.
 
-**Barqaror panel.** Ko'p yillik tahlil uchun tahlilga kiritilgan yillarning barchasida kuzatilgan va hech bir yilda o'zgarmas qator bermagan quduqlar tanlanadi. Bu tanlov tarmoq tarkibi o'zgarishining va qurigan quduqlarning ta'sirini istisno etadi. Uning kamchiligi ham bor: panelga sathi sayozroq quduqlar ko'proq tushadi, chunki chuqur sathli quduqlar ko'proq quriydi. Shuning uchun panel bo'yicha o'rtacha sath tuman o'rtachasidan sayozroq bo'ladi; panel sathning darajasini emas, o'zgarishini baholash uchun ishlatiladi.
+**Barqaror panel.** Ko’p yillik tahlil uchun tahlilga kiritilgan yillarning barchasida kuzatilgan va hech bir yilda o’zgarmas qator bermagan quduqlar tanlanadi. Bunday tanlov ikki ta’sirni istisno etadi: tarmoq tarkibi o’zgarishining va qurigan quduqlarning ta’sirini. Panel bo’yicha yillik o’rtacha sath
+
+```latex
+\bar{h}_t = \frac{1}{|P|} \sum_{i \in P} \bar{h}_{it}
+```
+
+formula bilan hisoblanadi, bu yerda P — panel quduqlari to’plami; h̄ᵢₜ — i-quduqning t-yildagi o’rtacha sathi.
+
+Panel usulining ham kamchiligi bor: unga sathi sayozroq quduqlar ko’proq tushadi, chunki chuqur sathli quduqlar ko’proq quriydi va paneldan chiqib qoladi. Shuning uchun panel bo’yicha o’rtacha sath tuman o’rtachasidan sayozroq bo’ladi. Panel sathning mutlaq darajasini emas, uning vaqt bo’yicha o’zgarishini baholash uchun ishlatiladi.
+
+**Tekshiruv tartibi.** Ma’lumotlar quyidagi ketma-ketlikda qayta ishlanadi.
+
+1. Monitoring jadvallaridan tuman quduqlari ajratiladi va yagona uzun jadvalga keltiriladi: yil, quduq, o’n kunlik, sath.
+2. Quduq raqamlari yagona yozuvga keltiriladi (masalan, «104А» va «104а» bir quduq deb olinadi).
+3. Ikkinchi qoida bo’yicha birlik xatolari tuzatiladi.
+4. Birinchi qoida bo’yicha o’zgarmas quduq-yillar belgilanadi va chiqariladi.
+5. Uchinchi qoida bo’yicha tarmoq tarkibi tahlil qilinadi va barqaror panel tuziladi.
+6. Ishonchlilik ko’rsatkichi hisoblanadi.
+
+Tekshiruv dasturiy ravishda bajariladi va bir tuman ma’lumotini bir necha daqiqada qayta ishlaydi. Natijalari 3.1-§ da keltiriladi.
 
 ## 2.5-§. Statistik va geostatistik tahlil usullari
 
-**Ko'p yillik tendensiya.** Tendensiyaning mavjudligi parametrik bo'lmagan Mann–Kendall mezoni bilan tekshiriladi, kattaligi esa Sen qiyaligi va chiziqli regressiya bilan baholanadi. Mann–Kendall mezoni taqsimot shakliga bog'liq emas va chetki qiymatlarga chidamli, shuning uchun gidrologik qatorlar uchun keng qo'llaniladi \[manba\].
+Tekshirilgan ma’lumotlar beshta guruh usullari bilan tahlil qilindi. Har bir usul qaysi masala uchun va qaysi paragrafda qo’llanilgani 2.14-jadvalda ko’rsatilgan.
 
-**Mavsumiy dinamika.** Barqaror panel bo'yicha har bir o'n kunlik uchun ko'p yillik o'rtacha sath hisoblanadi; amplituda eng chuqur va eng sayoz o'n kunliklar farqi sifatida olinadi.
+*2.14-jadval. Qo’llanilgan tahlil usullari*
 
-**Fazoviy modellashtirish.** Sath yuzasi oddiy kriging usulida tiklanadi. Eksperimental variogrammaga uch nazariy model (sferik, eksponensial, Gauss) moslashtiriladi. Model sifati bittadan chiqarib tashlash usulidagi kross-validatsiya bilan baholanadi: o'rtacha xato (siljish), o'rtacha kvadratik xato (aniqlik) va standartlashtirilgan o'rtacha kvadratik xato (model o'z noaniqligini to'g'ri baholashi; ideal qiymati 1). Kriging bahoning dispersiyasini ham beradi; undan noaniqlik xaritasi tuziladi.
+| Masala | Usul | Paragraf |
+| --- | --- | --- |
+| Ko’p yillik tendensiya | Mann–Kendall mezoni, Sen qiyaligi, chiziqli regressiya | 3.2 |
+| Mavsumiy dinamika | O’n kunliklar bo’yicha ko’p yillik o’rtacha | 3.2 |
+| Fazoviy taqsimot | Variogramma tahlili, oddiy kriging, kross-validatsiya | 3.3 |
+| Tarmoq bilan bog’liqlik | Spearman korrelyatsiyasi, ko’p omilli regressiya | 3.4 |
+| Ta’mir ta’siri | Quduq va yil qat’iy effektli panel modeli | 4.3 |
+| Zarur kuzatuvlar soni | Statistik quvvat hisobi | 4.5 |
 
-**Bog'liqlik tahlili.** Sathning tarmoq ko'rsatkichlari, kanalgacha masofa va balandlik bilan bog'liqligi Spearman rang korrelyatsiyasi va ko'p omilli chiziqli regressiya bilan baholanadi. Masofalar logarifmlangan holda kiritiladi. Standart xatolar geteroskedastiklikka chidamli usulda hisoblanadi.
+**Ko’p yillik tendensiya.** Tendensiyaning mavjudligi parametrik bo’lmagan Mann–Kendall mezoni bilan tekshirildi \[59, 73\]. Mezon statistikasi S (1.3-§) tendensiya bo’lmaganda nolga yaqin bo’ladi; uning dispersiyasi
 
-**Ta'mir ta'sirini baholash.** Quduq va yil qat'iy effektlari kiritilgan panel modeli qo'llaniladi (4.3-§ dagi formula). Model ta'mirlangan kollektor yonidagi quduqlarda ta'mirdan keyingi o'zgarishni kollektorlardan uzoq quduqlardagi o'zgarish bilan solishtiradi. Standart xatolar quduqlar bo'yicha klasterlanadi. Modelning asosiy farazi: ta'mir bo'lmaganida ikki guruhda sath bir xil yo'nalishda o'zgargan bo'lar edi.
+```latex
+\operatorname{Var}(S) = \frac{n(n-1)(2n+5)}{18}
+```
 
-**Zarur kuzatuvlar soni.** Berilgan ta'sirni 5 foizlik ahamiyat darajasi va 80 foizlik quvvat bilan aniqlash uchun zarur quduqlar soni mavjud modelning standart xatosidan kelib chiqib hisoblanadi (4.5-§).
+va normallashtirilgan qiymati
 
-**Dasturiy ta'minot.** Barcha hisoblar Python tilida bajarildi (pandas, statsmodels, pymannkendall, pykrige, shapely, pyproj kutubxonalari). Hisob skriptlari va tozalangan ma'lumotlar dissertatsiya ilovasida keltiriladi; bu natijalarni mustaqil tekshirish imkonini beradi.
+```latex
+Z = \frac{S - \operatorname{sgn}(S)}{\sqrt{\operatorname{Var}(S)}}
+```
 
-## II bob bo'yicha xulosalar
+orqali tendensiyaning statistik ahamiyati baholanadi; bu yerda n — qatordagi yillar soni. Mezon bilan birga Kendall koeffitsiyenti τ = S / \[n(n − 1)/2\] hisoblandi. Tendensiya kattaligi Sen qiyaligi bilan baholandi:
 
-1. Tadqiqot obyekti — Marhamat tumanining sakkizta massivdan iborat sug'oriladigan yerlari. Kadastrga ko'ra tumanda 621,1 km ochiq va 91,7 km yopiq drenaj tarmog'i, 188 ta pasportlashtirilgan kuzatuv qudug'i bor.
-2. Kuzatuv tarmog'i 2013–2016-yillarda deyarli yangilangan: quduqlarning 64 foizi shu yillarda qurilgan. Quduqlar chuqurligi medianasi 3,2 m bo'lib, bu sath chuqur joylarda o'lchov chegarasini hosil qiladi.
-3. Qog'oz xaritalar va quduqlar koordinatalari asosida geoma'lumotlar bazasini tiklash usuli ishlab chiqildi. Xarita 181 ta quduq orqali joyiga bog'landi; qoldiq medianasi 1,9 m.
-4. Xaritadan 214,6 km kollektor va 170,9 km kanal vektorlandi; 60 ta kollektorga kadastrdagi nom va ta'mir yili biriktirildi. Xo'jalik ichki zovurlari xaritada yo'q, shuning uchun ularning fazoviy tahlili bajarilmadi.
-5. Monitoring ma'lumotlarini tekshirishning uch qoidasi va ishonchlilik ko'rsatkichi taklif etildi. Qoidalar qo'shimcha o'lchov talab qilmaydi va har qanday tuman ma'lumotiga qo'llanilishi mumkin.
-6. Ko'p yillik tahlil uchun barqaror panel usuli, fazoviy tahlil uchun oddiy kriging va kross-validatsiya, ta'mir ta'sirini baholash uchun quduq va yil qat'iy effektli panel modeli tanlandi.
+```latex
+\beta = \operatorname{mediana} \left( \frac{x_j - x_k}{t_j - t_k} \right), \quad j > k
+```
+
+Sen qiyaligi chetki qiymatlarga chidamli \[97\]. Taqqoslash uchun eng kichik kvadratlar usulidagi chiziqli regressiya qiyaligi va determinatsiya koeffitsiyenti ham hisoblandi.
+
+Qatorda pog’onali o’zgarish borligini tekshirish uchun qator ikki davrga ajratildi va har bir davr ichidagi tendensiya alohida baholandi. Agar tendensiya davrlar ichida ahamiyatsiz bo’lib, davrlar orasidagi farq katta bo’lsa, o’zgarish bir tekis emas, pog’onali deb talqin qilinadi.
+
+**Mavsumiy dinamika.** Barqaror panel bo’yicha har bir o’n kunlik uchun ko’p yillik o’rtacha sath hisoblandi. Mavsumiy amplituda eng chuqur va eng sayoz o’n kunliklar o’rtachalari farqi sifatida aniqlandi.
+
+**Fazoviy modellashtirish.** Sath yuzasi oddiy kriging usulida tiklandi (1.3-§). Eksperimental variogrammaga uchta nazariy model — sferik, eksponensial va Gauss — moslashtirildi. Model sifati bittadan chiqarib tashlash usulidagi kross-validatsiya bilan baholandi: har bir quduq navbat bilan chiqarib tashlanadi, qolgan quduqlar bo’yicha uning sathi baholanadi va xato eᵢ = ẑᵢ − zᵢ hisoblanadi. Uchta ko’rsatkich qo’llanildi:
+
+```latex
+ME = \frac{1}{n}\sum e_i, \qquad RMSE = \sqrt{\frac{1}{n}\sum e_i^2}, \qquad RMSSE = \sqrt{\frac{1}{n}\sum \left(\frac{e_i}{\sigma_i}\right)^2}
+```
+
+bu yerda σᵢ — krigingning i-nuqtadagi standart xatosi. O’rtacha xato (ME) bahoning siljiganligini, o’rtacha kvadratik xato (RMSE) aniqligini ko’rsatadi; standartlashtirilgan xato (RMSSE) birga yaqin bo’lsa, model o’z noaniqligini to’g’ri baholaydi \[44, 48\]. Modelning foydasini baholash uchun RMSE ma’lumotning standart og’ishi bilan solishtirildi. Xaritalar faqat eng yaqin quduqqacha masofa 1,5 km dan oshmaydigan hudud uchun tuzildi.
+
+**Bog’liqlik tahlili.** Sathning tarmoq ko’rsatkichlari, kanalgacha masofa va mutlaq balandlik bilan bog’liqligi avval Spearman rang korrelyatsiyasi bilan baholandi. Rang korrelyatsiyasi bog’lanish chiziqli bo’lishini talab qilmaydi va chetki qiymatlarga chidamli. So’ng omillarning birgalikdagi ta’sirini ajratish uchun ko’p omilli chiziqli regressiya tuzildi:
+
+```latex
+h_i = b_0 + b_1 \lg(d_i + 10) + b_2 \lg(c_i + 10) + b_3 z_i + \varepsilon_i
+```
+
+bu yerda hᵢ — i-quduqning ko’p yillik o’rtacha sathi, m; dᵢ — eng yaqin kollektorgacha masofa, m; cᵢ — eng yaqin kanalgacha masofa, m; zᵢ — mutlaq balandlik, m. Masofalar logarifmlandi, chunki ularning ta’siri yaqin masofada kuchli va uzoqlashgan sari susayadi. Muqobil modelda masofa o’rniga 1 km radiusdagi kollektorlar uzunligi kiritildi. Standart xatolar geteroskedastiklikka chidamli usulda hisoblandi.
+
+**Ta’mir ta’sirini baholash.** Ta’mir ta’siri quduq va yil qat’iy effektlari kiritilgan panel modeli bilan baholandi \[143\]. Model formulasi va talqini 4.3-§ da keltirilgan. Model ta’mirlangan kollektor yonidagi quduqlarda (300 m gacha) ta’mirdan keyingi o’zgarishni kollektorlardan uzoq quduqlardagi (600 m dan ortiq) o’zgarish bilan solishtiradi. Quduqning doimiy xususiyatlari (relyef, tuproq, chuqurlik) quduq effekti bilan, barcha quduqlarga bir xil ta’sir qilgan omillar (ob-havo, suv ta’minoti) yil effekti bilan chiqarib tashlanadi. Bir quduqning turli yillardagi o’lchovlari bir-biriga bog’liq bo’lgani uchun standart xatolar quduqlar bo’yicha klasterlangan.
+
+Modelning asosiy farazi — parallel yo’nalish: ta’mir bo’lmaganida ta’sir va nazorat guruhlarida sath bir xil yo’nalishda o’zgargan bo’lar edi. Bu faraz ta’mirdan oldingi yillardagi o’zgarishlarni solishtirish orqali tekshiriladi.
+
+**Zarur kuzatuvlar soni.** Berilgan Δ ta’sirni 5 foizlik ahamiyat darajasi va 80 foizlik quvvat bilan aniqlash uchun bahoning standart xatosi Δ / 2,8 dan oshmasligi kerak. Standart xato ta’sir guruhidagi quduqlar sonining kvadrat ildiziga teskari mutanosib deb olinsa, zarur quduqlar soni
+
+```latex
+n_{zarur} = n_0 \left( \frac{2{,}8 \, SE_0}{\Delta} \right)^2
+```
+
+formula bilan baholanadi, bu yerda n₀ va SE₀ — mavjud ta’sir guruhidagi quduqlar soni va modelning standart xatosi.
+
+**Dasturiy ta’minot.** Barcha hisoblar Python tilida bajarildi: jadvallar bilan ishlash uchun pandas, statistik modellar uchun statsmodels, tendensiya testlari uchun pymannkendall, kriging uchun pykrige, fazoviy amallar uchun shapely va pyproj, tasvirlarni qayta ishlash uchun scikit-image kutubxonalari ishlatildi. Interaktiv xarita GIS Cloud platformasida shakllantirildi \[155\]. Hisob skriptlari va tekshirilgan ma’lumotlar dissertatsiya ilovasida keltiriladi; bu natijalarni mustaqil takrorlash imkonini beradi.
+
+## II bob bo’yicha xulosalar
+
+1. Tadqiqot obyekti — Marhamat tumanining sakkizta massivdan iborat sug’oriladigan yerlari. Tuman qurg’oqchil iqlimga ega: Andijon meteostansiyasi ma’lumotlari bo’yicha yillik yog’in 323 mm, hisoblangan etalon bug’lanuvchanlik 1 185 mm, vegetatsiya davridagi namlik tanqisligi sug’orish bilan qoplanadi.
+2. Sizot suvlarining asosiy to’yinish manbai sug’orish: sath yog’in eng ko’p bo’lgan bahorda emas, sug’orish eng jadal bo’lgan iyul–avgustda eng sayoz holatga keladi. 2024-yil 1-aprel holatiga quduqlarning 19 foizida sath 1,5 m dan sayoz.
+3. Kadastrga ko’ra tumanda 621,1 km ochiq va 91,7 km yopiq drenaj tarmog’i, 455 ta gidrotexnik inshoot bor. 14 ta magistral kollektor davlatlararo bo’lib, ularning asosiy qismi Qirg’iziston hududidan o’tadi. Tarmoqda atigi 6 ta suv o’lchash inshooti bo’lgani uchun tarmoq ishini sizot rejimi orqali baholash amalda yagona imkoniyat hisoblanadi.
+4. Kuzatuv tarmog’i 2013–2016-yillarda deyarli yangilangan: quduqlarning 64 foizi shu yillarda qurilgan. Quduqlar chuqurligi medianasi 3,2 m bo’lib, sath chuqur joylarda o’lchov chegarasini hosil qiladi.
+5. Mavjud xaritalar va quduqlar koordinatalari asosida geoma’lumotlar bazasini tiklash usuli ishlab chiqildi. Xarita 181 ta quduq orqali joyiga bog’landi (qoldiq medianasi 1,9 m, nuqtalarning 91 foizida 5 m dan kichik); 214,6 km kollektor va 170,9 km kanal vektorlandi, 60 ta kollektorga kadastr ma’lumotlari biriktirildi, sakkizta massiv chegarasi tiklandi.
+6. Monitoring ma’lumotlarini tekshirishning uch qoidasi, kesilgan qiymatlarni aniqlash tartibi va ishonchlilik ko’rsatkichi taklif etildi. Qoidalar qo’shimcha o’lchov talab qilmaydi va har qanday tuman ma’lumotiga qo’llanilishi mumkin.
+7. Ko’p yillik tahlil uchun barqaror panel va Mann–Kendall mezoni, fazoviy tahlil uchun oddiy kriging va kross-validatsiya, tarmoq bilan bog’liqlik uchun ko’p omilli regressiya, ta’mir ta’sirini baholash uchun quduq va yil qat’iy effektli panel modeli tanlandi.
