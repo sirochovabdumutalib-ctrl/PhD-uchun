@@ -1,6 +1,13 @@
 {
   "version": 2,
   "skills": {
+    "deslop": {
+      "source": "stephenturner/skill-deslop",
+      "commit": "a906154bef375d9d49ed2ad7da13b2db16f0d3d2",
+      "sourceType": "github",
+      "skillPath": "SKILL.md",
+      "computedHash": "3636f2f8b9554a94da143508d9816db041aa267a32c2ffdd39d73780b6eedeee"
+    },
     "find-skills": {
       "source": "vercel-labs/skills",
       "sourceType": "github",
