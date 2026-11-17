@@ -155,3 +155,5 @@
 155. Marhamat tumani meliorativ tizimi: interaktiv xarita // GIS Cloud. [Elektron resurs]. – URL: https://editor.giscloud.com/map/3370958 (yaratilgan sana: 16.11.2026)
 156. Goodman-Bacon A. Difference-in-differences with variation in treatment timing // Journal of Econometrics. – 2021. – Vol. 225, No. 2. – P. 254–277.
 157. Roth J., Sant'Anna P.H.C., Bilinski A., Poe J. What's trending in difference-in-differences? A synthesis of the recent econometrics literature // Journal of Econometrics. – 2023. – Vol. 235, No. 2. – P. 2218–2244.
+158. Copernicus DEM – Global and European Digital Elevation Model (COP-DEM), GLO-30 // European Space Agency. [Elektron resurs]. – URL: https://doi.org/10.5270/ESA-c5d3d65 (murojaat sanasi: 17.11.2026).
+159. Runfola D., Anderson A., Baier H. et al. geoBoundaries: A global database of political administrative boundaries // PLoS ONE. – 2020. – Vol. 15, No. 4. – e0231866.

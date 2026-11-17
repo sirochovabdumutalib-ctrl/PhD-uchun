@@ -4,9 +4,13 @@ Ushbu bobda tadqiqot obyekti tavsiflanadi, ishlatilgan ma'lumot manbalari va geo
 
 ## 2.1-§. Marhamat tumanining tabiiy-meliorativ sharoiti
 
-**Geografik o’rni va ma’muriy tuzilishi.** Marhamat tumani Andijon viloyatining janubiy qismida, Farg’ona vodiysining sharqiy chekkasida joylashgan. Tumanning maydoni 321 km², aholisi 2025-yil holatiga 197,8 ming kishi; tuman tarkibida Marhamat shahri, o’nta shaharcha va beshta qishloq fuqarolar yig’ini bor \[153\]. Andijon viloyati sharq va janubdan Qirg’iziston Respublikasining Jalolobod va O’sh viloyatlari bilan chegaradosh \[153\]. Tadqiqotda qamrab olingan kuzatuv quduqlari 72°12′ dan 72°24′ gacha sharqiy uzunlik va 40°27′ dan 40°37′ gacha shimoliy kenglik oralig’ida joylashgan.
+**Geografik o’rni va ma’muriy tuzilishi.** Marhamat tumani Andijon viloyatining janubiy qismida, Farg’ona vodiysining sharqiy chekkasida joylashgan. Tumanning maydoni 321 km², aholisi 2025-yil holatiga 197,8 ming kishi; tuman tarkibida Marhamat shahri, o’nta shaharcha va beshta qishloq fuqarolar yig’ini bor \[153\]. Andijon viloyati sharq va janubdan Qirg’iziston Respublikasining Jalolobod va O’sh viloyatlari bilan chegaradosh \[153\]. Tadqiqotda qamrab olingan kuzatuv quduqlari 72°12′ dan 72°24′ gacha sharqiy uzunlik va 40°27′ dan 40°37′ gacha shimoliy kenglik oralig’ida joylashgan. Tumanning viloyatdagi o’rni, relyefi va meliorativ tizimning asosiy elementlari 2.1-rasmda ko’rsatilgan; xarita tiklangan geoma’lumotlar bazasi (2.3-§), Copernicus GLO-30 raqamli relyef modeli \[158\] va geoBoundaries ma’muriy chegaralari \[159\] asosida tuzildi.
 
 Sug’oriladigan yerlar ma’muriy-xo’jalik jihatdan sakkizta massivga bo’lingan: Z.M.Bobur, Mash’al, Istiqlol, Paxtakor, M.Tojiboyev, T.Mirzaev, U.Qoraboyev va Y.Oxunboboyev. Meliorativ monitoring, kadastr va ekin joylashtirish ma’lumotlari shu massivlar kesimida yuritiladi. Massivlarning asosiy tavsifi 2.1-jadvalda, ularning xarita bo’yicha maydoni va chegaralari 2.3-§ da keltirilgan.
+
+&#91;image: Marhamat tumanining joylashuvi, relyefi va meliorativ tizimi\]
+
+*2.1-rasm. Tadqiqot hududining joylashuvi: a — Markaziy Osiyo; b — Andijon viloyati tumanlari; c — Marhamat tumani relyefi, massivlari, kollektor-drenaj tarmog’i, sug’orish kanallari va kuzatuv quduqlari*
 
 **Iqlim.** Tuman iqlimi keskin kontinental, qurg’oqchil: qishi nisbatan sovuq, yozi issiq va quruq. Tumanda meteostansiya yo’q, shuning uchun iqlim tavsifi eng yaqin Andijon meteostansiyasining 1961–1990-yillardagi ko’p yillik o’rtacha ko’rsatkichlari bo’yicha berildi \[154\]. Marhamat Andijondan taxminan 30 km janubda va undan balandroqda joylashgani uchun haroratda biroz farq bo’lishi mumkin.
 
@@ -26,15 +30,15 @@ Yog’in va bug’lanuvchanlik mavsumlar bo’yicha qarama-qarshi taqsimlangan. 
 
 Faqat dekabr–fevralda yog’in bug’lanuvchanlikdan biroz oshadi. Bu davrda tuproqda tabiiy yuvilish sharoiti yuzaga keladi, lekin uning hajmi kichik (yiliga taxminan 24 mm). Yil davomida tuproqdagi tuz balansi musbat, ya’ni tuz to’planishiga moyillik mavjud; uni faqat sug’orish suvi bilan yuvish va drenaj orqali chiqarish kompensatsiya qiladi \[105, 126\].
 
-Iqlim ko’rsatkichlarining yillik yo’li 2.1-rasmda ko’rsatilgan.
+Iqlim ko’rsatkichlarining yillik yo’li 2.2-rasmda ko’rsatilgan.
 
 &#91;image: Andijon meteostansiyasi bo’yicha yog’in, bug’lanuvchanlik va haroratning yillik yo’li\]
 
-*2.1-rasm. Andijon meteostansiyasi bo’yicha oylik yog’in, hisoblangan etalon bug’lanuvchanlik va o’rtacha haroratning yillik yo’li (1961–1990)*
+*2.2-rasm. Andijon meteostansiyasi bo’yicha oylik yog’in, hisoblangan etalon bug’lanuvchanlik va o’rtacha haroratning yillik yo’li (1961–1990)*
 
 Turli manbalarda Andijon uchun keltirilgan iqlim ko’rsatkichlari o’rtacha hisoblash davri va usuliga qarab farq qiladi: yillik yog’in 232 mm dan 384 mm gacha, o’rtacha yillik harorat 13,6–14,9 °C oralig’ida keltiriladi \[154\]. Yuqorida bitta manbaning bir xil davr uchun izchil ma’lumotlari ishlatildi. Hargreaves–Samani usuli to’liq Penman–Monteith tenglamasiga nisbatan taxminiy natija beradi; aniq hisob uchun namlik, shamol va quyosh radiatsiyasi ma’lumotlari kerak \[15\].
 
-**Relyef.** Tuman hududi janubdan shimolga qiyalangan. Kuzatuv quduqlarining mutlaq balandligi 528 m dan 839 m gacha o’zgaradi, quduqlarning yarmi 585–611 m oralig’ida joylashgan, medianasi 597 m. Massivlar bo’yicha median balandlik shimoldagi Z.M.Bobur massivida 565 m, janubdagi Y.Oxunboboyev massivida 641 m (2.1-jadval). Janubiy chekkadagi balandroq yerlar tog’ oldi tekisligiga tegishli.
+**Relyef.** Tuman hududi janubdan shimolga qiyalangan (2.1-rasm, c). Copernicus GLO-30 raqamli relyef modeli (30 m) bo’yicha tuman hududining mutlaq balandligi 504 m dan 1 276 m gacha o’zgaradi, medianasi 607 m; maydonning 43,5 foizi 600 m dan past, 22 foizi 700 m dan baland joylashgan \[158\]. Eng baland qism janubdagi Y.Oxunboboyev massivi (median balandlik 810 m) bo’lib, u tog’ oldi tekisligiga tegishli; shimoldagi Z.M.Bobur massivining median balandligi 559 m. Paxtakor, U.Qoraboyev, Mash’al va Z.M.Bobur massivlari tekis: median balandlik 559–598 m, nishablik medianasi 1,3–1,6 foiz. Istiqlol massivining g’arbiy qismi qiya (nishablik medianasi 5,4 foiz), Y.Oxunboboyev massivida esa nishablik medianasi 15,6 foizga yetadi. Kuzatuv quduqlarining pasportdagi mutlaq belgilari 528 m dan 839 m gacha, medianasi 597 m (2.1-jadval); ular relyef modeli bilan yaxshi mos keladi: 172 ta quduq bo’yicha farq medianasi −1,1 m.
 
 Relyefning meliorativ ahamiyati shundaki, u sizot suvlarining umumiy oqim yo’nalishini va kollektorlarning qiyaligini belgilaydi: kollektorlar janubdan shimolga, past joylar tomon yo’nalgan. Biroq massivlar orasidagi balandlik farqi sizot suvi sathidagi farqni to’liq tushuntirmaydi; bu masala 3.4-§ da miqdoriy tahlil qilinadi.
 
@@ -209,7 +213,7 @@ Natija mustaqil belgi bilan tekshirildi: xaritadagi sakkizta massiv nomi yozuvin
 
 Sug’oriladigan maydon xaritada sizot sathi darajalari bilan bo’yalgan hudud bo’yicha hisoblandi; aholi punktlari va sug’orilmaydigan yerlar unga kirmaydi. Bu maydon (20 662 ga) quduqlarga biriktirilgan maydon yig’indisidan (15 985 ga) katta, chunki quduqlarga biriktirilgan maydon faqat kuzatuv quduqlari xizmat ko’rsatadigan hududni qamraydi. Kollektor zichligi faqat xaritada tasvirlangan kollektorlar bo’yicha berilgan, xo’jalik ichki zovurlari hisobga olinmagan. Y.Oxunboboyev massivi hududida xaritada kollektor ko’rsatilmagan.
 
-**Geoma’lumotlar bazasining tuzilishi.** Yuqoridagi bosqichlar natijasida beshta qatlamdan iborat geoma’lumotlar bazasi shakllandi (2.2-rasm). Barcha qatlamlar ochiq GeoJSON formatida, WGS 84 geografik koordinatalarida saqlangan; hisoblar UTM 43N proyeksiyasida bajariladi.
+**Geoma’lumotlar bazasining tuzilishi.** Yuqoridagi bosqichlar natijasida beshta qatlamdan iborat geoma’lumotlar bazasi shakllandi (2.3-rasm). Barcha qatlamlar ochiq GeoJSON formatida, WGS 84 geografik koordinatalarida saqlangan; hisoblar UTM 43N proyeksiyasida bajariladi.
 
 - Kuzatuv quduqlari (202 nuqta): quduq raqami, 2024-yil 1-aprel holatiga sath va minerallashuv, pasport ma’lumotlari, eng yaqin kollektor va kanalgacha masofa, 1 km radiusdagi kollektorlar uzunligi, 2009–2024-yillardagi tekshirilgan o’rtacha sath.
 - Kollektorlar (332 bo’lak, 214,6 km): bo’lak uzunligi, kadastrdagi nomi, foydalanishga topshirilgan va oxirgi ta’mir yili.
@@ -219,7 +223,7 @@ Sug’oriladigan maydon xaritada sizot sathi darajalari bilan bo’yalgan hudud 
 
 &#91;image: Marhamat tumani meliorativ tizimining geoma’lumotlar bazasi\]
 
-*2.2-rasm. Marhamat tumani meliorativ tizimining tiklangan geoma’lumotlar bazasi: massiv chegaralari, kollektorlar, sug’orish kanallari va kuzatuv quduqlari*
+*2.3-rasm. Marhamat tumani meliorativ tizimining tiklangan geoma’lumotlar bazasi: massiv chegaralari, kollektorlar, sug’orish kanallari va kuzatuv quduqlari*
 
 Massivlar va kuzatuv quduqlari qatlamlari GIS Cloud geoaxborot platformasiga yuklanib, interaktiv xarita shakllantirildi \[155\]; xaritani suv xo’jaligi tashkilotlari mutaxassislari bilan ulashish va yangi o’lchovlar bilan to’ldirish mumkin. Monitoring va kadastr jadvallari quduq raqami va kollektor nomi orqali qatlamlarga bog’lanadi.
 

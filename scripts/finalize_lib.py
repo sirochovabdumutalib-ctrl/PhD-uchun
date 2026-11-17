@@ -29,7 +29,7 @@ def _compress(nums):
         while j + 1 < len(nums) and nums[j + 1] == nums[j] + 1: j += 1
         out.append(f'{nums[i]}–{nums[j]}' if j - i >= 2 else ', '.join(str(x) for x in nums[i:j + 1])); i = j + 1
     return ', '.join(out)
-NORM_LAW = [134, 1, 3, 135, 2]; NORM_STD = [4, 7, 144]; WEB = [153, 154, 155]; UZ_REFS = {1, 2, 3, 4, 5, 134, 135, 155}
+NORM_LAW = [134, 1, 3, 135, 2]; NORM_STD = [4, 7, 144]; WEB = [153, 154, 155, 158]; UZ_REFS = {1, 2, 3, 4, 5, 134, 135, 155}
 def refs_build(texts, refs):
     """texts: list of chapter strings; refs: list (old order, 1-based). Returns new texts, refs markdown."""
     used = set()
