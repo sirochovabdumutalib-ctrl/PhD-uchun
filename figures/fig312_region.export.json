@@ -1,0 +1,52 @@
+{
+  "notice": "Export completed with explicit settings. This report does not establish visual, accessibility, scientific-integrity, or journal-submission compliance.",
+  "outputs": [
+    {
+      "format": "pdf",
+      "kind": "vector-container",
+      "path": "/home/user/PhD-uchun/figures/fig312_region.pdf",
+      "size_bytes": 440126
+    },
+    {
+      "format": "png",
+      "kind": "raster",
+      "path": "/home/user/PhD-uchun/figures/fig312_region.png",
+      "size_bytes": 1712410
+    }
+  ],
+  "provenance": {
+    "note": "bar chart with truncated axis replaced by choropleth maps",
+    "raw_data": [
+      "results/ch3_region.json (script 22)",
+      "gis/admin/UZB_ADM2.geojson, UZB_ADM1.geojson, KGZ_ADM0.geojson (geoBoundaries)"
+    ],
+    "transformations": [
+      "district names matched to geoBoundaries ADM2 (Boz = Bo'ston)",
+      "classes: valid share {<75,75-85,85-95,>=95}; Sen {<1,1-2,2-4,4-6,>=6} cm/yr",
+      "p>=0.05 hatched"
+    ]
+  },
+  "schema_version": "1.0",
+  "settings": {
+    "bbox_inches": null,
+    "dpi": 600.0,
+    "facecolor": "white",
+    "figure_size_inches": [
+      6.299212598425196,
+      7.797920443450962
+    ],
+    "font_mode": "truetype",
+    "formats": [
+      "pdf",
+      "png"
+    ],
+    "pad_inches": 0.1,
+    "tiff_rgb": false,
+    "transparent": false
+  },
+  "versions": {
+    "matplotlib": "3.11.2",
+    "pillow": "12.3.0"
+  },
+  "warnings": []
+}

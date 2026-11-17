@@ -347,9 +347,9 @@ Ma'lumotlar nuqsoni tasodifiy emas, tizimli: u aynan sath chuqur bo'lgan joylard
 
 **Sizot rejimi ko'rsatkichlari.** Har bir tuman uchun 3.2-§ dagi tartibda barqaror panel tuzildi va ko'p yillik tendensiya, 2019–2023-yillardagi yozgi sath va mavsumiy amplituda hisoblandi (23-ilova va 3.12-rasm).
 
-&#91;image: Andijon viloyati tumanlari bo'yicha ma'lumotlar ishonchliligi va sath tendensiyasi\]
+&#91;image: Andijon viloyati tumanlari xaritasi\]
 
-*3.12-rasm. Andijon viloyati tumanlarida: a — yaroqli o'lchovlar ulushi; b — yozgi sath medianasi va barqaror panel bo'yicha sath tendensiyasi (qizil — Marhamat tumani)*
+*3.12-rasm. Andijon viloyati tumanlari: a — monitoring ma'lumotlarining yaroqli o'lchovlar ulushi; b — barqaror panel bo'yicha sath tendensiyasi va yozgi sath medianasi (qalin chiziq — Marhamat tumani)*
 
 Sath chuqurlashishi viloyat miqyosidagi hodisa: 14 ta tumanning 12 tasida barqaror panel bo'yicha statistik ahamiyatli chuqurlashish aniqlandi, qolgan ikkitasida (Oltinko'l, Bo'ston) ham yo'nalish shu, lekin ahamiyatli emas. Hech bir tumanda sath ko'tarilmagan. Tumanlar bo'yicha chuqurlashish tezligining medianasi yiliga 3,3 sm; Marhamat tumani (yiliga 3,3 sm) aynan viloyat medianasida turadi. Bu 3.2-§ va 3.4-§ dagi xulosani kuchaytiradi: Marhamat tumanidagi chuqurlashish tumanning o'z drenaj tarmog'idagi o'zgarishlardan ko'ra viloyat miqyosidagi omillar, xususan suv ta'minoti va sug'orish rejimi bilan bog'liq bo'lishi ehtimoli yuqori. Biroq bu qiyos ta'mir ta'sirini to'liq istisno etmaydi, chunki boshqa tumanlarda ham shu yillarda kollektorlar ta'miri olib borilgan bo'lishi mumkin va bu haqda viloyat bo'yicha ma'lumot tahlil qilinmadi; ta'mir samarasi 4.3-§ da alohida baholanadi.
 
