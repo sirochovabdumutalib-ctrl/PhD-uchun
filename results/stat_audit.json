@@ -1,0 +1,245 @@
+{
+ "panel_trend": {
+  "n_years": 13,
+  "n_wells": 84,
+  "sen": 0.0328,
+  "sen_ci_years": [
+   0.0219,
+   0.046
+  ],
+  "sen_ci_wells_boot": [
+   0.0217,
+   0.0456
+  ],
+  "lag1_acf": 0.83,
+  "mk_p": 0.0005,
+  "hamed_rao_p": 0.0005,
+  "yue_wang_p": 0.0,
+  "prewhiten_p": 0.1148,
+  "step": {
+   "pre_mean": 1.626,
+   "post_mean": 1.922,
+   "diff": 0.296,
+   "welch_p": 1.3e-05,
+   "hedges_g": 3.87,
+   "mwu_p": 0.0012
+  }
+ },
+ "massif_trend_fdr": {
+  "З.М.Бобур": {
+   "n": 9,
+   "sen": -0.0312,
+   "p": 0.024,
+   "q": 0.024,
+   "sig": true
+  },
+  "Истиқлол": {
+   "n": 15,
+   "sen": 0.0468,
+   "p": 0.0028,
+   "q": 0.0033,
+   "sig": true
+  },
+  "М.Тожибоев": {
+   "n": 10,
+   "sen": 0.0395,
+   "p": 0.0019,
+   "q": 0.0033,
+   "sig": true
+  },
+  "Машъал": {
+   "n": 17,
+   "sen": 0.031,
+   "p": 0.0028,
+   "q": 0.0033,
+   "sig": true
+  },
+  "Пахтакор": {
+   "n": 9,
+   "sen": 0.0405,
+   "p": 0.0019,
+   "q": 0.0033,
+   "sig": true
+  },
+  "Т.Мирзаев": {
+   "n": 6,
+   "sen": 0.0512,
+   "p": 0.0002,
+   "q": 0.0014,
+   "sig": true
+  },
+  "У.Қорабоев": {
+   "n": 9,
+   "sen": 0.0533,
+   "p": 0.0008,
+   "q": 0.0028,
+   "sig": true
+  }
+ },
+ "region": {
+  "n": 14,
+  "const_vs_level": {
+   "rho": 0.85,
+   "p": 0.00014,
+   "ci_fisher": [
+    0.5,
+    0.96
+   ],
+   "ci_boot": [
+    0.47,
+    0.97
+   ]
+  },
+  "valid_vs_level": {
+   "rho": -0.82,
+   "p": 0.00038,
+   "ci_fisher": [
+    -0.95,
+    -0.43
+   ],
+   "ci_boot": [
+    -0.96,
+    -0.44
+   ]
+  },
+  "sen_vs_level": {
+   "rho": 0.78,
+   "p": 0.0011,
+   "ci_fisher": [
+    0.35,
+    0.94
+   ],
+   "ci_boot": [
+    0.32,
+    0.96
+   ]
+  },
+  "sen_vs_valid": {
+   "rho": -0.74,
+   "p": 0.0024,
+   "ci_fisher": [
+    -0.92,
+    -0.28
+   ],
+   "ci_boot": [
+    -0.92,
+    -0.26
+   ]
+  },
+  "partial_sen_level_given_valid": {
+   "r": 0.44,
+   "p": 0.114
+  }
+ },
+ "near_far_trend": {
+  "n_near": 39,
+  "n_far": 17,
+  "med_near_cm": 1.7,
+  "med_far_cm": 6.3,
+  "diff_cm": 4.7,
+  "diff_ci_cm": [
+   0.4,
+   7.8
+  ],
+  "mwu_p": 0.0064,
+  "rank_biserial": 0.46
+ },
+ "level_rho": {
+  "dist_collector_m": {
+   "rho": 0.4,
+   "ci": [
+    0.26,
+    0.53
+   ],
+   "n": 168
+  },
+  "collector_len_1km_m": {
+   "rho": -0.47,
+   "ci": [
+    -0.59,
+    -0.34
+   ],
+   "n": 168
+  },
+  "dist_canal_m": {
+   "rho": -0.18,
+   "ci": [
+    -0.32,
+    -0.03
+   ],
+   "n": 168
+  }
+ },
+ "regression": {
+  "m1": {
+   "n": 168,
+   "r2": 0.153,
+   "adj_r2": 0.138,
+   "coef": 0.733,
+   "ci_hc3": [
+    0.463,
+    1.003
+   ],
+   "p_hc3": 2.7e-07,
+   "shapiro_resid_p": 2.5e-08,
+   "skew_resid": 1.25,
+   "bp_p": 0.15,
+   "vif_max": 1.12,
+   "n_cook": 10,
+   "coef_wo_influential": 0.636,
+   "p_wo_influential": 3.4e-08
+  },
+  "m2": {
+   "n": 168,
+   "r2": 0.199,
+   "adj_r2": 0.185,
+   "coef": -0.178,
+   "ci_hc3": [
+    -0.233,
+    -0.122
+   ],
+   "p_hc3": 2.1e-09,
+   "shapiro_resid_p": 2.2e-07,
+   "skew_resid": 1.1,
+   "bp_p": 0.0085,
+   "vif_max": 1.12,
+   "n_cook": 8,
+   "coef_wo_influential": -0.146,
+   "p_wo_influential": 5.4e-09
+  },
+  "m1_log": {
+   "n": 168,
+   "r2": 0.17,
+   "adj_r2": 0.155,
+   "coef": 0.294,
+   "ci_hc3": [
+    0.19,
+    0.399
+   ],
+   "p_hc3": 1e-07,
+   "shapiro_resid_p": 0.22,
+   "skew_resid": 0.32,
+   "bp_p": 0.4,
+   "vif_max": 1.12,
+   "n_cook": 6,
+   "coef_wo_influential": 0.281,
+   "p_wo_influential": 3.9e-08
+  }
+ },
+ "miner_massif": {
+  "n": 113,
+  "k": 7,
+  "H": 75.62,
+  "p": 2.9e-14,
+  "epsilon2": 0.68,
+  "medians": {
+   "З.М.Бобур": 1.41,
+   "Истиқлол": 1.22,
+   "М.Тожибоев": 1.03,
+   "Машъал": 2.47,
+   "Пахтакор": 1.4,
+   "Т.Мирзаев": 0.8,
+   "У.Қорабоев": 0.84
+  }
+ }
+}

@@ -80,13 +80,11 @@ monitoring tizimini takomillashtirish, ta’mir navbatini aniqlash va ta’mir s
 
 Tadqiqot natijalarining amaliy ahamiyati suv xo’jaligi tashkilotlariga monitoring ma’lumotlarini tekshirish vositasi, drenaj tarmog’ining raqamli bazasini tiklash usuli, meliorativ xavf xaritalari va ustuvor massivlar ro’yxati, ta’mir ishlarining haqiqiy narxi to’g’risidagi ma’lumot hamda ta’mir samarasini o’lchash uchun kuzatuv tarmog’iga qo’yiladigan talablarni berish bilan izohlanadi.
 
-**Tadqiqot natijalarining joriy qilinishi.** \[Natijalar joriy etilgan tashkilot nomi, dalolatnoma raqami va sanasi kiritiladi.\]
-
 **Tadqiqot natijalarining aprobatsiyasi.** Tadqiqot natijalari \[soni\] ta xalqaro va \[soni\] ta respublika ilmiy-amaliy anjumanlarida muhokamadan o’tkazilgan \[anjumanlar nomi, joyi va sanasi kiritiladi\].
 
 **Tadqiqot natijalarining e’lon qilinganligi.** Dissertatsiya mavzusi bo’yicha jami \[soni\] ta ilmiy ish chop etilgan, shulardan O’zbekiston Respublikasi Oliy attestatsiya komissiyasining dissertatsiyalar asosiy ilmiy natijalarini chop etish tavsiya etilgan ilmiy nashrlarida \[soni\] ta maqola, jumladan \[soni\] tasi respublika va \[soni\] tasi xorijiy jurnallarda nashr etilgan.
 
-**Dissertatsiyaning tuzilishi va hajmi.** Dissertatsiya kirish, to’rtta bob, umumiy xulosalar, 125 nomdagi foydalanilgan adabiyotlar ro’yxati va ilovalardan iborat. Dissertatsiyaning asosiy matni 120 betni tashkil etadi, unda 12 ta jadval, 16 ta rasm (shundan 14 tasi GAT asosida tuzilgan xarita va sxema) va 21 ta formula keltirilgan; yordamchi jadval va rasmlar 50 ta ilovada berilgan.
+**Dissertatsiyaning tuzilishi va hajmi.** Dissertatsiya kirish, to’rtta bob, umumiy xulosalar, 125 nomdagi foydalanilgan adabiyotlar ro’yxati va ilovalardan iborat. Dissertatsiyaning asosiy matni 120 betni tashkil etadi, unda 11 ta jadval, 16 ta rasm (shundan 14 tasi GAT asosida tuzilgan xarita va sxema) va 21 ta formula keltirilgan; yordamchi jadval va rasmlar 51 ta ilovada berilgan.
 
 Birinchi bobda meliorativ tizimlar ishonchliligi va samaradorligini baholashning mavjud usullari, meliorativ monitoringda GAT va geostatistik usullarning qo’llanilishi tahlil qilingan, hal etilmagan masalalar aniqlangan hamda tadqiqotning maqsad va vazifalari belgilangan.
 
