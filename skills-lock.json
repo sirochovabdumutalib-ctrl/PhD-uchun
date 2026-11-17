@@ -13,6 +13,13 @@
       "sourceType": "github",
       "skillPath": "skills/find-skills/SKILL.md",
       "computedHash": "7bc223e2aafbdbf6e50ea243ba6ef67fe432bb069ab439fea0390795dac0bf7f"
+    },
+    "latex-document-skill": {
+      "source": "ndpvt-web/latex-document-skill",
+      "commit": "a4afcdaa9c6c7fc8f0898a06ab9b0f3dcdc86385",
+      "sourceType": "github",
+      "skillPath": "SKILL.md",
+      "computedHash": "abc11291418c1b51edeb2f73fe376fd02d38dabe28636dd3219c3e9533bb499a"
     }
   }
 }

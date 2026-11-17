@@ -18,27 +18,7 @@ O’zbekiston drenaj tizimining hozirgi holatini Y.Okuda va hammualliflari maxsu
 
 Meliorativ holatni yaxshilash ishlari davlat dasturlari asosida olib boriladi. 2018–2019-yillarga mo’ljallangan Davlat dasturi \[2\] kollektor-drenaj tarmoqlarini tozalash va ta’mirlashni nazarda tutgan. Marhamat tumani kadastri ma’lumotlariga ko’ra, tumandagi 90 ta kollektorning 55 tasi 2016–2018-yillarda, yana 16 tasi 2019–2020-yillarda ta’mirlangan (4.1-§). 2025-yilda qabul qilingan suv resurslarini boshqarish va irrigatsiya sektorini rivojlantirishning 2025–2028-yillarga mo’ljallangan dasturida meliorativ tadbirlar hisobiga sho’rlangan maydonlarni 1 898 ming gektardan 1 732 ming gektarga, shu jumladan o’rtacha va kuchli sho’rlangan yerlarni 578 ming gektardan 460 ming gektarga kamaytirish maqsad qilingan \[135\]. Bunday aniq maqsadli ko’rsatkichlarning qo’yilishi ularga erishilganini o’lchash, ya’ni meliorativ holat to’g’risidagi ma’lumotlarning ishonchliligi masalasini birinchi o’ringa chiqaradi.
 
-**Andijon viloyati va Marhamat tumani.** Viloyat meliorativ ekspeditsiyasining 2021-yil 1-yanvar holatidagi kadastriga ko’ra, Andijon viloyatida 7 616,3 km ochiq va 786,6 km yopiq-yotiq kollektor-drenaj tarmog’i mavjud (1.1-jadval). Ochiq tarmoqning 4 357,4 km qismi, ya’ni 57 foizi, suv iste’molchilari uyushmalari hisobidagi xo’jalik ichki zovurlaridir. Tarmoqda 6 076 ta gidrotexnik inshoot qayd etilgan.
-
-*1.1-jadval. Andijon viloyati kollektor-drenaj tarmog’ining tumanlar bo’yicha tarkibi (kadastr, 2021-yil 1-yanvar), km*
-
-| Tuman | Ochiq tarmoq, jami | Magistral | Tumanlararo | Xo’jaliklararo (davlat) | Xo’jalik ichki (uyushmalar) | Yopiq-yotiq drenaj | Inshootlar soni |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Ulug’nor | 1 259,3 | 39,0 | 55,9 | 259,9 | 904,5 | 3,1 | 580 |
-| Baliqchi | 873,9 | 33,0 | 71,0 | 355,4 | 414,6 | 62,8 | 844 |
-| Shahrixon | 675,3 | 7,6 | 164,3 | 184,0 | 319,4 | 65,7 | 473 |
-| Bo’ston | 622,1 | — | 60,7 | 234,6 | 326,8 | 10,4 | 376 |
-| Marhamat | 621,1 | 41,8 | 21,5 | 202,5 | 355,3 | 91,7 | 455 |
-| Oltinko’l | 606,1 | — | 115,1 | 199,7 | 291,4 | 25,1 | 652 |
-| Jalaquduq | 565,1 | 21,2 | 37,3 | 184,5 | 322,1 | 110,0 | 624 |
-| Izboskan | 531,9 | 26,0 | 52,1 | 201,3 | 252,6 | 33,4 | 405 |
-| Buloqboshi | 415,3 | 3,5 | 6,4 | 158,8 | 246,6 | 209,8 | 293 |
-| Andijon | 401,5 | — | 11,0 | 101,1 | 289,4 | 17,6 | 304 |
-| Qo’rg’ontepa | 337,0 | 7,4 | 23,0 | 59,1 | 247,5 | 66,7 | 342 |
-| Asaka | 299,1 | 7,1 | 63,0 | 71,1 | 157,8 | 7,7 | 261 |
-| Xo’jaobod | 241,0 | 2,8 | 3,1 | 79,9 | 155,1 | 62,3 | 334 |
-| Paxtaobod | 167,5 | 10,9 | 29,7 | 52,7 | 74,2 | 20,5 | 133 |
-| Viloyat bo’yicha | 7 616,3 | 200,4 | 714,0 | 2 344,6 | 4 357,4 | 786,6 | 6 076 |
+**Andijon viloyati va Marhamat tumani.** Viloyat meliorativ ekspeditsiyasining 2021-yil 1-yanvar holatidagi kadastriga ko’ra, Andijon viloyatida 7 616,3 km ochiq va 786,6 km yopiq-yotiq kollektor-drenaj tarmog’i mavjud (1-ilova). Ochiq tarmoqning 4 357,4 km qismi, ya’ni 57 foizi, suv iste’molchilari uyushmalari hisobidagi xo’jalik ichki zovurlaridir. Tarmoqda 6 076 ta gidrotexnik inshoot qayd etilgan.
 
 Marhamat tumani ochiq tarmoq uzunligi bo’yicha viloyatda beshinchi, magistral kollektorlar uzunligi bo’yicha birinchi, yopiq-yotiq drenaj bo’yicha uchinchi o’rinda turadi. Tumandagi tarmoq viloyat ochiq tarmog’ining 8,2 foizini, yopiq drenajining 11,7 foizini tashkil etadi. Shu jihatdan tuman viloyat uchun tipik va ayni paytda tarmog’i murakkab obyekt hisoblanadi: unda tarmoqning barcha turlari — magistral, tumanlararo va xo’jaliklararo kollektorlar, xo’jalik ichki zovurlari hamda yopiq drenaj — mavjud.
 
@@ -60,9 +40,9 @@ Dastlabki ikki guruh moliyaviy va tashkiliy masalalar bo’lib, ularni hal etish
 
 Ikki tushuncha o’zaro bog’liq, lekin bir xil emas. Ishonchliligi yuqori tizim ham samarasiz bo’lishi mumkin — masalan, drenajga ehtiyoj bo’lmagan joyda qurilgan bo’lsa. Ishonchliligi pasaygan tizim esa loyihaviy samarani bera olmaydi. Shuning uchun har ikkalasi alohida baholanishi kerak.
 
-Adabiyotda meliorativ tizimni baholashning uchta yondashuvi shakllangan. Ular baholash obyekti, zarur ma’lumot va cheklovlari bo’yicha farq qiladi (1.2-jadval).
+Adabiyotda meliorativ tizimni baholashning uchta yondashuvi shakllangan. Ular baholash obyekti, zarur ma’lumot va cheklovlari bo’yicha farq qiladi (1.1-jadval).
 
-*1.2-jadval. Meliorativ tizimni baholash yondashuvlarining qiyosi*
+*1.1-jadval. Meliorativ tizimni baholash yondashuvlarining qiyosi*
 
 | Yondashuv | Nimani baholaydi | Zarur ma’lumot | Asosiy cheklovi |
 | --- | --- | --- | --- |
@@ -146,9 +126,9 @@ ko’rinishida hisoblanadi; S ning normallashtirilgan qiymati orqali tendensiyan
 
 **Ko’p mezonli baholash.** GATda ko’p mezonli qaror qabul qilish usullari, ayniqsa T.L.Saatining analitik iyerarxiya jarayoni, keng qo’llaniladi; ularning GAT bilan integratsiyasi J.Malczewski ishlarida tizimlashtirilgan \[70–72, 92–95\]. Bu usullarda bir nechta ko’rsatkich ekspertlar bergan vaznlar bilan yagona indeksga birlashtiriladi. Usulning kuchli tomoni — shaffofligi va qaror qabul qiluvchilar fikrini hisobga olishi. Cheklovi — natija ekspert vaznlariga bog’liq va ko’rsatkichlar orasidagi sabab-oqibat bog’lanishini aniqlamaydi; shuning uchun sezgirlik tahlili majburiy hisoblanadi \[79, 96\].
 
-**Markaziy Osiyodagi tadqiqotlar.** Mintaqada GAT va geostatistika asosan sizot suvlari rejimi va tuproq sho’rlanishini o’rganish uchun qo’llanilgan. Asosiy ishlar 1.3-jadvalda umumlashtirilgan.
+**Markaziy Osiyodagi tadqiqotlar.** Mintaqada GAT va geostatistika asosan sizot suvlari rejimi va tuproq sho’rlanishini o’rganish uchun qo’llanilgan. Asosiy ishlar 1.2-jadvalda umumlashtirilgan.
 
-*1.3-jadval. Markaziy Osiyoda sizot suvlari rejimi va sho’rlanishni GAT va geostatistika yordamida o’rganish bo’yicha tadqiqotlar*
+*1.2-jadval. Markaziy Osiyoda sizot suvlari rejimi va sho’rlanishni GAT va geostatistika yordamida o’rganish bo’yicha tadqiqotlar*
 
 | Mualliflar, yil | Hudud | Ma’lumotlar | Usul | Asosiy natija |
 | --- | --- | --- | --- | --- |
@@ -194,9 +174,9 @@ Meliorativ monitoringda bir jinslilik masalasi ayniqsa dolzarb, chunki bu yerda 
 
 **Mahalliy amaliyot.** O’zbekistonda meliorativ monitoringni o’tkazish, kuzatuv quduqlarini jihozlash va hisobotlarni tuzish tartibi R.Q.Ikromov va hammualliflari qo’llanmasida bayon etilgan \[123\]; monitoring natijalari meliorativ kadastrga kiritiladi. Biroq ko’p yillik qatorlarni yig’ma bazaga kiritishdan oldin rasmiy qoidalar bo’yicha tekshirish tartibi va ma’lumotlar ishonchliligining miqdoriy ko’rsatkichi belgilanmagan. Kuzatuv tarmog’idagi o’zgarishlarni — yangi quduq qurish, chuqurlashtirish, ko’chirish — sanasi bilan qayd etish ham monitoring qatorlari bilan birga yuritilmaydi.
 
-**Aniqlangan bo’shliqlar.** 1.1–1.4-§ dagi tahlil quyidagi to’rtta hal etilmagan masalani ko’rsatadi (1.4-jadval).
+**Aniqlangan bo’shliqlar.** 1.1–1.4-§ dagi tahlil quyidagi to’rtta hal etilmagan masalani ko’rsatadi (1.3-jadval).
 
-*1.4-jadval. Adabiyotlar tahlili asosida aniqlangan hal etilmagan masalalar*
+*1.3-jadval. Adabiyotlar tahlili asosida aniqlangan hal etilmagan masalalar*
 
 | № | Hal etilmagan masala | Qayerda ko’rsatilgan | Dissertatsiyada hal etiladi |
 | --- | --- | --- | --- |

@@ -18,7 +18,7 @@ Texnik obyektning ishonchliligi uning belgilangan vazifalarni berilgan sharoitda
 
 Jadvaldan ko'rinib turibdiki, kadastr ma'lumotlari ishonchlilik nazariyasining klassik ko'rsatkichlarini (buzilmasdan ishlash ehtimoli, nosozliklar oqimi) hisoblashga imkon bermaydi. Shu sababli ushbu paragrafda ikki bilvosita ko'rsatkich qo'llanildi: elementning yoshi (uzoq muddatlilik bahosi) va oxirgi ta'mirdan beri o'tgan muddat (ta'mirboplik va xizmat ko'rsatish holati bahosi). Vazifaviy samaradorlik III bobda sath monitoringi bo'yicha baholangan. Barcha hisoblar 2021-yil 1-yanvar holatidagi meliorativ kadastr ma'lumotlari asosida bajarildi.
 
-**Kollektorlar.** Tumanda davlat hisobidagi 90 ta kollektor bor, umumiy uzunligi 265,8 km, xizmat ko'rsatadigan maydoni 11 079 ga. Ularning barchasi Meliorativ ekspeditsiya balansida. Kollektorlarning yoshi 36 yildan 103 yilgacha, medianasi 61 yil. Kollektorlarning 82 foizi (uzunlik bo'yicha 90 foizi) 50 yildan eski (19-ilova). Eng ko'p qurilish 1950–1960-yillarga to'g'ri keladi: shu ikki o'n yillikda 61 ta kollektor (159,3 km) foydalanishga topshirilgan. 1980-yillardan keyin tumanda yangi kollektor qurilmagan.
+**Kollektorlar.** Tumanda davlat hisobidagi 90 ta kollektor bor, umumiy uzunligi 265,8 km, xizmat ko'rsatadigan maydoni 11 079 ga. Ularning barchasi Meliorativ ekspeditsiya balansida. Kollektorlarning yoshi 36 yildan 103 yilgacha, medianasi 61 yil. Kollektorlarning 82 foizi (uzunlik bo'yicha 90 foizi) 50 yildan eski (24-ilova). Eng ko'p qurilish 1950–1960-yillarga to'g'ri keladi: shu ikki o'n yillikda 61 ta kollektor (159,3 km) foydalanishga topshirilgan. 1980-yillardan keyin tumanda yangi kollektor qurilmagan.
 
 Shu bilan birga kollektorlarning barchasi 2010–2020-yillar oralig'ida kamida bir marta ta'mirlangan. Oxirgi ta'mirdan beri o'tgan muddatning medianasi 4 yil; uzunlikning 79,5 foizi so'nggi besh yilda ta'mirlangan. Ta'mirlar vaqt bo'yicha notekis: 55 ta kollektor (124,7 km) 2016–2018-yillarda, yana 13 tasi (65,0 km) 2019-yilda ta'mirlangan; 2016–2019-yillarga umumiy uzunlikning 71 foizi to'g'ri keladi (4.1-rasm). Kollektorlar eski, lekin ularga yaqinda xizmat ko'rsatilgan.
 
@@ -32,7 +32,7 @@ Ta'mirlar kollektorning holatiga qarab emas, ta'mir dasturlari bo'yicha o'tkazil
 
 **Ichki zovurlar.** Xo'jalik ichki tarmog'ida vaziyat boshqacha. 332 ta zovur (370,7 km) 1929–2012-yillarda qurilgan, yoshining medianasi kollektorlarniki bilan bir xil (61 yil); ularning 112 tasi (127,3 km) 1950-yillarda qurilgan. Zovurlarning 217 tasida (239,7 km, uzunlikning 64,7 foizi) ta'mir umuman qayd etilmagan. Qolgan 115 tasi faqat ikki yilda ta'mirlangan: 2017-yilda 87 ta (110,2 km) va 2018-yilda 28 ta (20,8 km). Ta'mirlangan va ta'mirlanmagan zovurlarning yoshi bir xil (medianasi 61 yil; p = 0,95), uzunligi ham deyarli farq qilmaydi (medianasi 1,0 va 0,9 km). Ichki zovurlarni ta'mirga tanlashda ham yosh yoki holat mezoni qo'llanilmagan.
 
-Ta'mirsiz qolgan zovurlar ulushi tizimlar bo'yicha katta farq qiladi (20-ilova): Mash'al massivida 21 foiz, Markaziy zovur tizimi va Y.Oxunboboyev massivida 100 foiz.
+Ta'mirsiz qolgan zovurlar ulushi tizimlar bo'yicha katta farq qiladi (25-ilova): Mash'al massivida 21 foiz, Markaziy zovur tizimi va Y.Oxunboboyev massivida 100 foiz.
 
 Tizimning ishonchliligi bo'yicha eng zaif bo'g'in kollektorlar emas, xo'jalik ichki zovurlaridir: ular kadastrdagi ochiq tarmoq uzunligining 58 foizini tashkil etadi, uchdan ikki qismida esa ta'mir qayd etilmagan.
 
@@ -87,15 +87,15 @@ Tarqoqlikning bir sababi shundaki, yirik kollektorlar o'z maydonidan tashqari yu
 D = \beta \left[ \frac{N}{E_a} - N + \frac{N}{E_a E_c} - \frac{N}{E_a} \right], \qquad q_t = \frac{D}{8{,}64 \, T}
 ```
 
-bu yerda N — sof sug'orish talabi, mm; Eₐ — dalada sug'orish samaradorligi; E\_c — xo'jalik ichki tarmog'ining foydali ish koeffitsiyenti; β — yo'qotishlarning sizot suviga yetib boradigan ulushi (0,7 qabul qilindi); D — drenaj yuklamasi, mm; T — hisobiy davr, sutka; q\_t — talab etiladigan drenaj moduli, l/(s·ga).
+bu yerda N — sof sug'orish talabi, mm; Eₐ — dalada sug'orish samaradorligi; $E_{c}$ — xo'jalik ichki tarmog'ining foydali ish koeffitsiyenti; β — yo'qotishlarning sizot suviga yetib boradigan ulushi (0,7 qabul qilindi); D — drenaj yuklamasi, mm; T — hisobiy davr, sutka; $q_{t}$ — talab etiladigan drenaj moduli, l/(s·ga).
 
-Sof sug'orish talabi FAO-56 usulida hisoblandi \[15\]: oylik etalon bug'lanuvchanlik (2.1-§) ekin koeffitsiyentlariga ko'paytirildi va undan samarali yog'in ayirildi. Ekinlar tarkibi meliorativ kadastrning kontur jadvalidan olindi: 25 405 ga maydonning 36,6 foizi g'o'za, 42,5 foizi g'alla, 20,9 foizi boshqa ekinlar (bog', sabzavot, yem-xashak). Ekin koeffitsiyentlari FAO-56 tavsiyalari bo'yicha oylar kesimida berildi \[15\], samarali yog'in USDA SCS usulida aniqlandi. Hisob natijalari 21-ilova va 4.3-rasmda keltirilgan.
+Sof sug'orish talabi FAO-56 usulida hisoblandi \[15\]: oylik etalon bug'lanuvchanlik (2.1-§) ekin koeffitsiyentlariga ko'paytirildi va undan samarali yog'in ayirildi. Ekinlar tarkibi meliorativ kadastrning kontur jadvalidan olindi: 25 405 ga maydonning 36,6 foizi g'o'za, 42,5 foizi g'alla, 20,9 foizi boshqa ekinlar (bog', sabzavot, yem-xashak). Ekin koeffitsiyentlari FAO-56 tavsiyalari bo'yicha oylar kesimida berildi \[15\], samarali yog'in USDA SCS usulida aniqlandi. Hisob natijalari 26-ilova va 4.3-rasmda keltirilgan.
 
 Asosiy hisobda g'alladan keyingi maydonlar iyul–sentabrda bo'sh deb qabul qilingan, shuning uchun iyul–avgustda o'rtacha ekin koeffitsiyenti 0,62 ga tushadi. Amalda g'alladan keyin takroriy ekinlar ekiladi; ular hisobga olinganda yillik ekinlar bug'lanishi 891 mm ga, sof sug'orish talabi 696 mm ga, iyuldagi talab esa 178 mm ga oshadi. Shu sababli hisob ikki variantda (takroriy ekinlarsiz va takroriy ekinlar bilan) hamda sug'orish samaradorligining uch stsenariysi bo'yicha bajarildi (4.3-jadval).
 
 *4.3-jadval. Sug'orish samaradorligi stsenariylari bo'yicha drenaj yuklamasi va talab etiladigan drenaj moduli*
 
-| Stsenariy | Dalada samaradorlik Eₐ | Ichki tarmoq FIK E\_c | Yalpi sug'orish, mm | Yillik drenaj yuklamasi, mm | Iyuldagi talab etiladigan modul, l/(s·ga) |
+| Stsenariy | Dalada samaradorlik Eₐ | Ichki tarmoq FIK $E_{c}$ | Yalpi sug'orish, mm | Yillik drenaj yuklamasi, mm | Iyuldagi talab etiladigan modul, l/(s·ga) |
 | --- | --- | --- | --- | --- | --- |
 | Yuqori samaradorlik | 0,75 | 0,85 | 822 / 1 091 | 209 / 277 | 0,16 / 0,27 |
 | O'rta samaradorlik | 0,65 | 0,80 | 1 008 / 1 338 | 339 / 450 | 0,26 / 0,43 |
@@ -119,7 +119,7 @@ Yalpi sug'orish hajmi stsenariylar bo'yicha 8,2–16,9 ming m³/ga ni tashkil et
 Q = \frac{1}{n} \, \omega \, R^{2/3} \, i^{1/2}
 ```
 
-bu yerda ω — jonli kesim yuzasi, m²; R — gidravlik radius, m; i — tub nishabligi; n — g'adir-budurlik koeffitsiyenti. Kadastrda kollektorlarning ko'ndalang kesim o'lchamlari va tub nishabligi berilmagan, shuning uchun aniq kollektorlar bo'yicha hisob bajarib bo'lmaydi. Buning o'rniga namunaviy trapetsiya kesim (tub kengligi 1,0 m, qiyalik koeffitsiyenti 1,5, chuqurligi 1,2 m) uchun o'zan holatining o'tkazish qobiliyatiga ta'siri baholandi (22-ilova).
+bu yerda ω — jonli kesim yuzasi, m²; R — gidravlik radius, m; i — tub nishabligi; n — g'adir-budurlik koeffitsiyenti. Kadastrda kollektorlarning ko'ndalang kesim o'lchamlari va tub nishabligi berilmagan, shuning uchun aniq kollektorlar bo'yicha hisob bajarib bo'lmaydi. Buning o'rniga namunaviy trapetsiya kesim (tub kengligi 1,0 m, qiyalik koeffitsiyenti 1,5, chuqurligi 1,2 m) uchun o'zan holatining o'tkazish qobiliyatiga ta'siri baholandi (27-ilova).
 
 O'zanni o'simlik qoplashi o'tkazish qobiliyatini 29 foizga, o'simlik bilan birga 0,3 m loyqa qatlami 42 foizga, kuchli o'simlik va 0,5 m loyqa esa 61 foizga kamaytiradi. Ya'ni texnik xizmat ko'rsatilmagan kollektor toza holatdagi sarfning faqat 40–70 foizini o'tkazadi. 4.1-§ ga ko'ra ta'mir kollektor holatiga qarab rejalashtirilmaydi, shuning uchun ta'mirlar orasidagi 10 yil atrofidagi davrda kollektorlarning bir qismi loyihaviy o'tkazish qobiliyatining ancha qismini yo'qotishi mumkin. Shuning uchun kollektorlarning texnik holatini (o'simlik bilan qoplanish, loyqa qatlami qalinligi) muntazam qayd etish va uni ta'mir navbatini aniqlash mezoni sifatida qo'llash taklif etiladi (4.5-§).
 
@@ -181,7 +181,7 @@ Tumanda 2017–2020-yillarda ta'mirga 21,3 mlrd so'm sarflangan (4.4-§), ammo m
 
 Ta'mir xarajatlari meliorativ tizim samaradorligining iqtisodiy tomonini tavsiflaydi: qancha mablag' sarflangani, u tarmoqning qaysi qismiga yo'naltirilgani va sarflangan mablag' qanday natija bergani \[140; 141\]. Ushbu paragrafda kadastrdagi xarajat ma'lumotlari uch jihatdan tahlil qilinadi: 1 km ta'mir narxi va unga ta'sir etuvchi omillar, xarajatlarning balans qiymati va xizmat maydoniga nisbati hamda xarajatlarning massivlar bo'yicha taqsimoti va uning meliorativ ehtiyojga mosligi.
 
-**Umumiy ko'rsatkichlar.** Kadastrda 53 ta kollektor bo'yicha 2017–2020-yillardagi ta'mir xarajati va ta'mirlangan uchastka (piketlar) ko'rsatilgan. Jami 163,3 km uchastkaga 21 314 mln so'm sarflangan. Uzunlik bo'yicha tortilgan o'rtacha narx 130,5 mln so'm/km, mediana 146,0 mln so'm/km. Yillar bo'yicha taqsimot 23-ilovada keltirilgan.
+**Umumiy ko'rsatkichlar.** Kadastrda 53 ta kollektor bo'yicha 2017–2020-yillardagi ta'mir xarajati va ta'mirlangan uchastka (piketlar) ko'rsatilgan. Jami 163,3 km uchastkaga 21 314 mln so'm sarflangan. Uzunlik bo'yicha tortilgan o'rtacha narx 130,5 mln so'm/km, mediana 146,0 mln so'm/km. Yillar bo'yicha taqsimot 28-ilovada keltirilgan.
 
 **Narx tarkibi.** Narxlar ikki guruhga aniq ajraladi. 2019-yilda ta'mirlangan sakkizta kollektorda (Qushchi, Nayman, G'arbiy, ND-2-1, Sho'r qishloq, Ambarquloq, Marhamat, ND-7) narx 15–30 mln so'm/km; bu yengil tozalash ishlariga mos keladi. Qolgan 45 ta kollektorda narx asosan 95–270 mln so'm/km oralig'ida; bu mexanizmlar bilan chuqurlashtirish va tiklash ishlariga mos keladi. Ikki guruh orasidagi farq taxminan sakkiz baravar. Eng yuqori narx To'rtko'l kollektorida qayd etilgan: 671,5 mln so'm/km.
 
@@ -261,7 +261,7 @@ III bob va 4.1–4.4-§ natijalariga ko'ra meliorativ tizim samaradorligini ta'm
 
 Birinchi ustuvorlik guruhiga Z.M.Bobur va Istiqlol massivlari kiradi. Ularda meliorativ xavf yuqori, drenaj tarmog'i holati esa zaif yoki o'rta. Z.M.Bobur massivi alohida: bu tumandagi sath ko'tarilayotgan yagona massiv va unga ajratilgan ta'mir mablag'lari tuman o'rtachasidan past. Bu massivlarda birinchi navbatda kollektorlar va ichki zovurlarning texnik holatini tekshirish (T-10), sarfni o'lchash (T-9) va zarur bo'lsa ta'mir o'tkazish tavsiya etiladi. Ikkinchi guruhga Mash'al massivi kiradi: xavf yuqori, lekin tarmoq tumandagi eng yaxshi holatda. Bu yerda tarmoqni kengaytirish emas, sug'orish samaradorligini oshirish (T-15) va minerallashuv monitoringini tiklash (T-8) ustuvor. Uchinchi guruhdagi massivlarda sath chuqurlashmoqda va xavf past; ularda mavjud tizimni saqlash yetarli, U.Qoraboyev massivida esa yozgi ko'tarilish katta (0,85 m) bo'lgani uchun yozgi sathni alohida kuzatish kerak. Y.Oxunboboyev massivi bo'yicha ma'lumotlarning yarmi yaroqsiz, shuning uchun bu yerda avval kuzatuv quduqlarini chuqurlashtirish (T-5) kerak.
 
-**Ta'mir samarasini aniqlash uchun zarur quduqlar soni.** 4.3-§ dagi modelning standart xatosi 0,105 m, ta'sir guruhida 36 ta quduq. 5 foizlik ahamiyat darajasi va 80 foizlik quvvat uchun aniqlanadigan eng kichik ta'sir standart xatoning 2,8 baravariga teng va hozir 0,29 m ni tashkil etadi. Standart xato quduqlar sonining kvadrat ildiziga teskari mutanosib deb olinsa, zarur quduqlar soni quyidagicha (24-ilova).
+**Ta'mir samarasini aniqlash uchun zarur quduqlar soni.** 4.3-§ dagi modelning standart xatosi 0,105 m, ta'sir guruhida 36 ta quduq. 5 foizlik ahamiyat darajasi va 80 foizlik quvvat uchun aniqlanadigan eng kichik ta'sir standart xatoning 2,8 baravariga teng va hozir 0,29 m ni tashkil etadi. Standart xato quduqlar sonining kvadrat ildiziga teskari mutanosib deb olinsa, zarur quduqlar soni quyidagicha (29-ilova).
 
 Tumanda kollektorlardan 300 m gacha masofada 108 ta quduq bor, lekin ulardan faqat 36 tasi nomi va ta'mir yili aniqlangan kollektor yonida. 0,20 m lik ta'sirni aniqlash uchun yangi quduq qurish shart emas: barcha kollektorlar bo'yicha ta'mir daftarini yuritish (T-10) va xaritada kollektor nomlarini to'liq ko'rsatish yetarli bo'lishi mumkin. 0,10 m lik ta'sirni aniqlash esa mavjud tarmoq bilan imkonsiz.
 

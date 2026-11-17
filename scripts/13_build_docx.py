@@ -37,16 +37,28 @@ def finish(t):
     t = re.sub(r"^\*Izoh: bu birinchi qoralama\..*?\*\s*$", '', t, flags=re.M)
     t = re.sub(r"^&#91;image: (.+?)\\\]\s*$", lambda m: f"\n![]({IMG[m.group(1)]}){{width=16cm}}\n", t, flags=re.M)
     t = re.sub(r"```latex\n(.*?)\n```", lambda m: '$$' + m.group(1).strip() + '$$', t, flags=re.S)
-    t = re.sub(r"^\*\d+-ilova\.\s*(.*?)\*\s*$", lambda m: f'\n::: {{custom-style="Sarlavha-jadval"}}\n{m.group(1)}\n:::\n', t, flags=re.M)
-    t = re.sub(r"^\*(\d\.\d+-(?:jadval|rasm)\..*?)\*\s*$", lambda m: f'\n::: {{custom-style="Sarlavha-jadval"}}\n{m.group(1)}\n:::\n', t, flags=re.M)
+    t = re.sub(r"^\*\d+-ilova\.\s*(.*?)\*\s*$", lambda m: f'\n::: {{custom-style="Sarlavha-jadval"}}\n**{m.group(1)}**\n:::\n', t, flags=re.M)
+    t = re.sub(r"^\*(\d\.\d+-jadval)\.\s*(.*?)\*\s*$", lambda m: f'\n::: {{custom-style="Jadval-raqam"}}\n{m.group(1)}\n:::\n\n::: {{custom-style="Sarlavha-jadval"}}\n**{m.group(2)}**\n:::\n', t, flags=re.M)
+    t = re.sub(r"^\*(\d\.\d+-rasm\..*?)\*\s*$", lambda m: f'\n::: {{custom-style="Sarlavha-rasm"}}\n{m.group(1)}\n:::\n', t, flags=re.M)
     return FL.mark_placeholders(FL.typo(t))
+def eqnum(t):  # formulalarni bob ichida raqamlash: (2.1), (2.2) ...
+    ch, k = 0, 0
+    out = []
+    for line in t.split('\n'):
+        m = re.match(r'^# ([IV]+) BOB', line)
+        if m: ch = {'I': 1, 'II': 2, 'III': 3, 'IV': 4}[m.group(1)]; k = 0
+        elif line.startswith('# '): ch = 0
+        if line.startswith('$$') and line.endswith('$$') and ch:
+            k += 1; line = line[:-2] + r' \qquad\qquad (' + f'{ch}.{k}' + ')$$'
+        out.append(line)
+    return '\n'.join(out)
 body = [finish(t) for t in texts]
 has_app = files[-1].endswith('6_ilovalar.md')
 for t in (body[:-1] if has_app else body): parts += [PB, t]
 parts += [PB, refs_md]
 if has_app: parts += [PB, body[-1]]
 parts[0] = FL.typo(parts[0])
-open('out/dissertatsiya.md', 'w', encoding='utf-8').write('\n\n'.join(parts))
+open('out/dissertatsiya.md', 'w', encoding='utf-8').write(eqnum('\n\n'.join(parts)))
 # --- andoza (reference.docx)
 subprocess.run('pandoc -o out/ref.docx --print-default-data-file reference.docx', shell=True, check=True)
 d = Document('out/ref.docx')
@@ -71,8 +83,8 @@ for n in ('Normal', 'Body Text', 'First Paragraph', 'Compact'):
 para(st['Compact'], indent=0)
 setfont(st['Heading 1'], bold=True); para(st['Heading 1'], WD_ALIGN_PARAGRAPH.CENTER, 0, 0, 12); st['Heading 1'].paragraph_format.keep_with_next = True
 setfont(st['Heading 2'], bold=True); para(st['Heading 2'], WD_ALIGN_PARAGRAPH.CENTER, 0, 12, 6); st['Heading 2'].paragraph_format.keep_with_next = True
-for n, al in (('Markaz', WD_ALIGN_PARAGRAPH.CENTER), ('Sarlavha-jadval', WD_ALIGN_PARAGRAPH.CENTER)):
-    s = st.add_style(n, 1); s.base_style = st['Normal']; setfont(s, italic=(n != 'Markaz') or None); para(s, al, 0, 6 if n != 'Markaz' else 0, 3 if n != 'Markaz' else 0); s.paragraph_format.keep_with_next = (n != 'Markaz')
+for n, al, sp in (('Markaz', WD_ALIGN_PARAGRAPH.CENTER, 1.5), ('Sarlavha-jadval', WD_ALIGN_PARAGRAPH.CENTER, 1.0), ('Sarlavha-rasm', WD_ALIGN_PARAGRAPH.CENTER, 1.0), ('Jadval-raqam', WD_ALIGN_PARAGRAPH.RIGHT, 1.0)):
+    s = st.add_style(n, 1); s.base_style = st['Normal']; setfont(s, italic=False); para(s, al, 0, 0 if n in ('Markaz', 'Sarlavha-jadval') else 6, 0 if n in ('Markaz', 'Jadval-raqam') else 6, spacing=sp); s.paragraph_format.keep_with_next = n in ('Sarlavha-jadval', 'Jadval-raqam')
 for sec in d.sections:
     sec.page_width, sec.page_height = Mm(210), Mm(297); sec.left_margin, sec.right_margin, sec.top_margin, sec.bottom_margin = Mm(30), Mm(15), Mm(20), Mm(20)
 from docx.enum.style import WD_STYLE_TYPE
@@ -100,9 +112,9 @@ for t in d.tables:
 for p in d.paragraphs:
     if p._p.xpath('.//w:drawing'): p.paragraph_format.alignment = WD_ALIGN_PARAGRAPH.CENTER; p.paragraph_format.first_line_indent = Cm(0)
     if p._p.xpath('.//m:oMathPara') or p._p.xpath('.//m:oMath'): p.paragraph_format.first_line_indent = Cm(0)
-for sec in d.sections:                                    # sahifa raqami pastda, markazda
+for sec in d.sections:                                    # sahifa raqami pastki o'ng burchakda
     sec.different_first_page_header_footer = True
-    fp = sec.footer.paragraphs[0]; fp.alignment = WD_ALIGN_PARAGRAPH.CENTER; r = fp.add_run()
+    fp = sec.footer.paragraphs[0]; fp.alignment = WD_ALIGN_PARAGRAPH.RIGHT; r = fp.add_run()
     for typ, txt in (('begin', None), (None, 'PAGE'), ('end', None)):
         if typ: e = OxmlElement('w:fldChar'); e.set(qn('w:fldCharType'), typ)
         else: e = OxmlElement('w:instrText'); e.text = txt
