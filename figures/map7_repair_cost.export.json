@@ -1,0 +1,65 @@
+{
+  "notice": "Export completed with explicit settings. This report does not establish visual, accessibility, scientific-integrity, or journal-submission compliance.",
+  "outputs": [
+    {
+      "format": "pdf",
+      "kind": "vector-container",
+      "path": "/home/user/PhD-uchun/figures/map7_repair_cost.pdf",
+      "size_bytes": 2187636
+    },
+    {
+      "format": "png",
+      "kind": "raster",
+      "path": "/home/user/PhD-uchun/figures/map7_repair_cost.png",
+      "size_bytes": 2723717
+    }
+  ],
+  "provenance": {
+    "caveat": "current prices; 19% of cost not allocated to massifs",
+    "check_vs_table_4.5": {
+      "Istiqlol": 1576,
+      "M.Toʻjiboyev": 125,
+      "Mashʼal": 1069,
+      "Paxtakor": 614,
+      "T.Mirzayev": 851,
+      "U.Qoraboyev": 1214,
+      "Y.Oxunboboyev": 0,
+      "Z.M.Bobur": 776
+    },
+    "raw_data": [
+      "results/ch4_cost_ext.json (by_massif; table 4.5)",
+      "results/ch4_repair_costs.csv",
+      "gis/collectors_named.geojson",
+      "gis/massifs.geojson"
+    ],
+    "transformations": [
+      "cost per ha = allocated cost / irrigated ha (thousand UZS/ha)",
+      "repair type: cost_km < 50 mln UZS/km = light cleaning, else capital",
+      "circle area proportional to cost per ha (radius = 1700 m * sqrt(v/1500))",
+      "risk fill = p30 from 3.3-§"
+    ]
+  },
+  "schema_version": "1.0",
+  "settings": {
+    "bbox_inches": null,
+    "dpi": 600.0,
+    "facecolor": "white",
+    "figure_size_inches": [
+      6.299212598425196,
+      4.749500466001608
+    ],
+    "font_mode": "truetype",
+    "formats": [
+      "pdf",
+      "png"
+    ],
+    "pad_inches": 0.1,
+    "tiff_rgb": false,
+    "transparent": false
+  },
+  "versions": {
+    "matplotlib": "3.11.2",
+    "pillow": "12.3.0"
+  },
+  "warnings": []
+}
