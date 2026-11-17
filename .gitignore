@@ -1,3 +1,7 @@
 .agents/skills/latex-document-skill/
 .claude/skills/latex-document-skill
 gis/dem/cop_*_raw.tif
+.agents/skills/scientific-visualization/
+.agents/skills/scientific-schematics/
+.claude/skills/scientific-visualization
+.claude/skills/scientific-schematics

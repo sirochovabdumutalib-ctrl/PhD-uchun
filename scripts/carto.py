@@ -16,7 +16,7 @@ plt.rcParams.update({'font.family': 'Liberation Sans', 'font.size': 8, 'axes.lin
 
 MASSIF_LAT = {'З.М.Бобур': 'Z.M.Bobur', 'Истиқлол': 'Istiqlol', 'Й.Охунбобоев': 'Y.Oxunboboyev', 'М.Тожибоев': 'M.Toʻjiboyev',
               'Машъал': 'Mashʼal', 'Пахтакор': 'Paxtakor', 'Т.Мирзаев': 'T.Mirzayev', 'У.Қорабоев': 'U.Qoraboyev'}
-C = dict(collector='#1b7f5f', canal='#2c6fbb', boundary='#7a1f1f', massif='#5a5a5a', well='#111111',
+C = dict(collector='#00442a', canal='#3a7fcc', boundary='#7a1f1f', massif='#5a5a5a', well='#111111',
          water='#bcd9f0', land='#f4f1ea', text='#1a1a1a')
 
 
@@ -207,3 +207,18 @@ def load_cache(name):
 def nkey(s):
     import re
     return re.sub(r'[\s\.]+', '', str(s)).upper().replace('A', 'А').replace('B', 'Б').replace('ПЕЗ', 'ПЗ')
+
+
+def export(fig, stem, provenance, alt_text):
+    """scientific-visualization skill eksporti: PDF (vektor, TrueType) + PNG 600 dpi, provenance manifest; alt-matn alohida faylda."""
+    import sys as _s, os as _o, json as _j
+    sk = _o.path.abspath('.agents/skills/scientific-visualization/scripts')
+    if sk not in _s.path: _s.path.insert(0, sk)
+    from figure_export import export_figure
+    for ext in ('pdf', 'png', 'manifest.json', 'export.json'):
+        f = f'{stem}.{ext}'
+        if _o.path.exists(f): _o.remove(f)
+    rep = export_figure(fig, stem, formats=['pdf', 'png'], dpi=600, bbox_inches=None, provenance=provenance, write_manifest=True,
+                        metadata={'Title': _o.path.basename(stem), 'Author': 'Sirochov A.'})
+    open(f'{stem}.alt.txt', 'w', encoding='utf-8').write(alt_text.strip() + '\n')
+    return rep

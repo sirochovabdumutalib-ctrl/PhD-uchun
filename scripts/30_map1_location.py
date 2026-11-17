@@ -60,8 +60,9 @@ for _, r in a2.iterrows():
     n = UZ.get(r.shapeName)
     if n is None or n == 'Marhamat': continue
     p = r.geometry.representative_point()
-    if n == 'Xoʻjaobod': continue
-    label_halo(axb.text(p.x, p.y, n, ha='center', va='center', fontsize=4.3, color='#333', zorder=6), 1.1)
+    if n in ('Xoʻjaobod', 'Boʻz'): continue
+    dx, dy = {'Qoʻrgʻontepa': (-5500, 0), 'Shahrixon': (1500, -1200)}.get(n, (0, 0))
+    label_halo(axb.text(p.x + dx, p.y + dy, n, ha='center', va='center', fontsize=4.3, color='#333', zorder=6), 1.1)
 mp = a2[a2.shapeName == 'Markhamat'].geometry.iloc[0].representative_point()
 axb.annotate('Marhamat', (mp.x, mp.y), xytext=(mp.x - 30000, mp.y - 14000), fontsize=5.2, weight='bold', color='#7a1f1f', ha='center', va='center',
              arrowprops=dict(arrowstyle='-', lw=.5, color='#7a1f1f', shrinkA=1, shrinkB=0), zorder=7)
@@ -76,7 +77,7 @@ z, gx, gy, ext = dem()
 inside = contains_xy(dist.geometry.union_all(), gx, gy)
 hs = hillshade(z, 30, zf=2.5)
 levels = [500, 525, 550, 575, 600, 625, 650, 700, 800, 900, 1000, 1300]
-cols = ['#a9cf9a', '#c3dca4', '#dbe6b0', '#ece9b5', '#f0dca2', '#e9c992', '#ddb383', '#cfa07a', '#bf8e72', '#ad7d6c', '#9c7068']
+cols = ['#a9cf9a', '#c3dca4', '#dbe6b0', '#ece9b5', '#f0dca2', '#e9c992', '#ddb383', '#d4a982', '#c99c80', '#bf9283', '#b58a80']
 cmap = mcolors.ListedColormap(cols); norm = mcolors.BoundaryNorm(levels, cmap.N)
 rgb = cmap(norm(z))[..., :3]
 shade = rgb * (.55 + .45 * hs[..., None])
@@ -89,10 +90,12 @@ cs = axc.contour(gx, gy, np.where(inside, zs, np.nan), levels=[525, 550, 575, 60
 cl = axc.clabel(cs, fontsize=4.4, fmt='%d', inline=True, inline_spacing=1)
 for t in cl: t.set_color('#5e4430'); label_halo(t, 1.0)
 plot_lines(axc, massif_lines(M, dist), color='#3d3d3d', lw=.65, ls=(0, (5, 2.2)), zorder=4)
+can.plot(ax=axc, color='white', lw=1.35, alpha=.9, zorder=5)
 can.plot(ax=axc, color=C['canal'], lw=.7, zorder=5)
 named = col[col.cad_name.notna()]; other = col[col.cad_name.isna()]
 other.plot(ax=axc, color=C['collector'], lw=.5, alpha=.9, zorder=6); named.plot(ax=axc, color=C['collector'], lw=1.2, zorder=6)
 axc.scatter(W.geometry.x, W.geometry.y, s=6, marker='o', fc='white', ec=C['well'], lw=.5, zorder=8)
+dist.boundary.plot(ax=axc, color='white', lw=2.6, alpha=.85, zorder=9)
 dist.boundary.plot(ax=axc, color=C['boundary'], lw=1.5, zorder=9)
 frame(axc, (mx0, my0, mx1, my1))
 off = {'Y.Oxunboboyev': (0, 2500), 'M.Toʻjiboyev': (600, 0)}
@@ -125,7 +128,17 @@ legend_box(axl, h, title='Shartli belgilar', loc='upper left', bbox_to_anchor=(0
 cax = axl.inset_axes([.03, .02, .94, .05])
 cb = fig.colorbar(plt.cm.ScalarMappable(norm=norm, cmap=cmap), cax=cax, orientation='horizontal', ticks=[500, 550, 600, 650, 700, 900, 1300], spacing='uniform')
 cb.ax.set_title('Mutlaq balandlik, m', fontsize=5.8, pad=2); cb.ax.tick_params(labelsize=4.8, length=1.5, width=.4, pad=1); cb.outline.set_linewidth(.4)
-fig.text(.55 / FW, .1 / FH, 'Proyeksiya: WGS 84 / UTM 43N. Manbalar: tiklangan geomaʼlumotlar bazasi (2.3-§); relyef — Copernicus GLO-30 DEM (© ESA/DLR);\n'
+fig.text(.55 / FW, .1 / FH, 'Proyeksiya: WGS 84 / UTM 43N. Manbalar: tiklangan geomaʼlumotlar bazasi (2.3-§); relyef — Copernicus GLO-30 DEM (© ESA/DLR), soyasi vertikal 2,5 marta boʻrttirilgan;\n'
          'maʼmuriy chegaralar (a, b) — geoBoundaries (CC BY 4.0).', fontsize=5.2, color='#555', ha='left', va='bottom', linespacing=1.25)
-fig.savefig('figures/map1_location.png', dpi=300)
+rep = export(fig, 'figures/map1_location', provenance={
+    'raw_data': ['gis/district.geojson', 'gis/massifs.geojson', 'gis/collectors_named.geojson', 'gis/canals.geojson', 'gis/wells_2024.geojson',
+                 'gis/dem/marhamat_dem30_utm43.tif (Copernicus GLO-30, N40E072)', 'gis/admin/*.geojson (geoBoundaries gbOpen, simplified)'],
+    'transformations': ['WGS 84 -> UTM 43N (EPSG:32643)', 'DEM bilinear resampling to 30 m', 'hillshade az=315 alt=45, vertical exaggeration 2.5',
+                        'contours from DEM smoothed with Gaussian sigma=2 px', 'hypsometric classes 500-1300 m (BoundaryNorm)'],
+    'missing_data': 'none; DEM has no voids inside district', 'uncertainty': 'DEM vs well passport marks: median -1.1 m, MAD 5.6 m (n=172)'},
+    alt_text="""Uch panelli xarita. a — Markaziy Osiyo: Oʻzbekiston och sariq, Andijon viloyati qizil bilan ajratilgan. b — Andijon viloyati tumanlari, Marhamat tumani qizil.
+c — Marhamat tumani: relyef 504 m (shimol) dan 1276 m (janub) gacha, gipsometrik ranglar va relyef soyasi bilan; sakkizta massiv chegarasi va nomi,
+kollektorlar (toʻq yashil), sugʻorish kanallari (koʻk), 202 ta kuzatuv qudugʻi (oq doiralar), gorizontallar. Kollektor-drenaj tarmogʻi va quduqlar
+shimoliy va markaziy tekis qismda zich, janubdagi Y.Oxunboboyev massivi togʻ oldi qiyaligida joylashgan.""")
+print('export:', [f.get('path') for f in rep.get('files', [])] if isinstance(rep, dict) else rep)
 zi = z[inside]; print('DEM tuman ichida: min', round(float(np.nanmin(zi))), 'max', round(float(np.nanmax(zi))), 'median', round(float(np.nanmedian(zi))))

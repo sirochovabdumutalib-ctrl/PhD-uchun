@@ -20,6 +20,20 @@
       "sourceType": "github",
       "skillPath": "SKILL.md",
       "computedHash": "abc11291418c1b51edeb2f73fe376fd02d38dabe28636dd3219c3e9533bb499a"
+    },
+    "scientific-schematics": {
+      "source": "K-Dense-AI/claude-scientific-skills",
+      "commit": "ec59a29a03d5c40f73ab40878df04860bc00e876",
+      "sourceType": "github",
+      "skillPath": "skills/scientific-schematics/SKILL.md",
+      "computedHash": "cc3089c544cb3959c4520b3038c0d0fd00862caefd8b294c9209bee4b7c8a7b2"
+    },
+    "scientific-visualization": {
+      "source": "K-Dense-AI/claude-scientific-skills",
+      "commit": "ec59a29a03d5c40f73ab40878df04860bc00e876",
+      "sourceType": "github",
+      "skillPath": "skills/scientific-visualization/SKILL.md",
+      "computedHash": "a9ea119baafe77128193200a93acf35f56ce8c52038253a4bcef4f0da41e7e70"
     }
   }
 }

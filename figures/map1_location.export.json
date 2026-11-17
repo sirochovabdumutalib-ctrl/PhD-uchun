@@ -1,0 +1,60 @@
+{
+  "notice": "Export completed with explicit settings. This report does not establish visual, accessibility, scientific-integrity, or journal-submission compliance.",
+  "outputs": [
+    {
+      "format": "pdf",
+      "kind": "vector-container",
+      "path": "/home/user/PhD-uchun/figures/map1_location.pdf",
+      "size_bytes": 4268408
+    },
+    {
+      "format": "png",
+      "kind": "raster",
+      "path": "/home/user/PhD-uchun/figures/map1_location.png",
+      "size_bytes": 5539405
+    }
+  ],
+  "provenance": {
+    "missing_data": "none; DEM has no voids inside district",
+    "raw_data": [
+      "gis/district.geojson",
+      "gis/massifs.geojson",
+      "gis/collectors_named.geojson",
+      "gis/canals.geojson",
+      "gis/wells_2024.geojson",
+      "gis/dem/marhamat_dem30_utm43.tif (Copernicus GLO-30, N40E072)",
+      "gis/admin/*.geojson (geoBoundaries gbOpen, simplified)"
+    ],
+    "transformations": [
+      "WGS 84 -> UTM 43N (EPSG:32643)",
+      "DEM bilinear resampling to 30 m",
+      "hillshade az=315 alt=45, vertical exaggeration 2.5",
+      "contours from DEM smoothed with Gaussian sigma=2 px",
+      "hypsometric classes 500-1300 m (BoundaryNorm)"
+    ],
+    "uncertainty": "DEM vs well passport marks: median -1.1 m, MAD 5.6 m (n=172)"
+  },
+  "schema_version": "1.0",
+  "settings": {
+    "bbox_inches": null,
+    "dpi": 600.0,
+    "facecolor": "white",
+    "figure_size_inches": [
+      6.299212598425196,
+      5.179287471536227
+    ],
+    "font_mode": "truetype",
+    "formats": [
+      "pdf",
+      "png"
+    ],
+    "pad_inches": 0.1,
+    "tiff_rgb": false,
+    "transparent": false
+  },
+  "versions": {
+    "matplotlib": "3.11.2",
+    "pillow": "12.3.0"
+  },
+  "warnings": []
+}
