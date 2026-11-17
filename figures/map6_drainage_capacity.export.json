@@ -1,0 +1,67 @@
+{
+  "notice": "Export completed with explicit settings. This report does not establish visual, accessibility, scientific-integrity, or journal-submission compliance.",
+  "outputs": [
+    {
+      "format": "pdf",
+      "kind": "vector-container",
+      "path": "/home/user/PhD-uchun/figures/map6_drainage_capacity.pdf",
+      "size_bytes": 2157582
+    },
+    {
+      "format": "png",
+      "kind": "raster",
+      "path": "/home/user/PhD-uchun/figures/map6_drainage_capacity.png",
+      "size_bytes": 2999829
+    }
+  ],
+  "provenance": {
+    "caveat": "cadastre discharge reliability unknown (e.g. Jo'ga 5 km / 4 ha)",
+    "check_vs_text_4.2": {
+      "area": [
+        2863,
+        4501,
+        5845
+      ],
+      "below": [
+        27,
+        38,
+        48
+      ]
+    },
+    "raw_data": [
+      "data/collectors.csv (Q, F)",
+      "results/ch4_hydraulic.json (q_july scenarios, transit list)",
+      "gis/collectors_named.geojson",
+      "gis/massifs.geojson"
+    ],
+    "transformations": [
+      "q = 1000*Q/F l/(s*ha)",
+      "classes by required July modulus 0.26, 0.43, 0.66 (table 4.3)",
+      "5 transit collectors shown separately",
+      "massif share = length of named collectors with q<0.43 / named non-transit length (overlay with massif polygons)"
+    ]
+  },
+  "schema_version": "1.0",
+  "settings": {
+    "bbox_inches": null,
+    "dpi": 600.0,
+    "facecolor": "white",
+    "figure_size_inches": [
+      6.299212598425196,
+      4.808555584111844
+    ],
+    "font_mode": "truetype",
+    "formats": [
+      "pdf",
+      "png"
+    ],
+    "pad_inches": 0.1,
+    "tiff_rgb": false,
+    "transparent": false
+  },
+  "versions": {
+    "matplotlib": "3.11.2",
+    "pillow": "12.3.0"
+  },
+  "warnings": []
+}

@@ -119,6 +119,14 @@ Yalpi sug'orish hajmi stsenariylar bo'yicha 8,2–16,9 ming m³/ga ni tashkil et
 
 *4.4-rasm. a — oylik ekinlar bug'lanishi, samarali yog'in va sof sug'orish talabi; b — kollektorlarning kadastr bo'yicha solishtirma sarfi va iyuldagi talab etiladigan drenaj moduli (takroriy ekinlarsiz variant)*
 
+**Talabni qoplamaydigan kollektorlarning joylashuvi.** Kadastr nomi xaritadagi bo'laklarga biriktirilgan 60 ta kollektor solishtirma sarfi va talab etiladigan modul bo'yicha xaritaga tushirildi (4.5-rasm). Ulardan 10 tasining solishtirma sarfi o'rta stsenariy talabidan ham past, 9 tasi takroriy ekinlar hisobga olinganda, 8 tasi esa past samaradorlik stsenariysida talabni qoplamaydi. 28 tasi barcha stsenariylarda talabni qoplaydi, 5 tasi tranzit kollektorlardir.
+
+Talabdan past kollektorlar bitta massivda to'planmagan, tuman bo'ylab tarqoq joylashgan. Ularning nomi aniqlangan kollektorlar uzunligidagi ulushi Paxtakorda 0 foiz, T.Mirzayevda 15 foiz, U.Qoraboyevda esa 47 foiz. Massivlar bo'yicha ulush faqat kadastr nomi aniqlangan bo'laklarga tayanadi: Istiqlol, Paxtakor va M.To'jiboyev massivlarida u atigi 5–6 km kollektorni qamraydi, shuning uchun bu massivlar uchun baho taxminiy.
+
+&#91;image: Kollektorlarning solishtirma sarfi va talab etiladigan drenaj moduli xaritasi\]
+
+*4.5-rasm. Kollektorlarning kadastr bo'yicha solishtirma sarfi va iyuldagi talab etiladigan drenaj moduli (4.3-jadval): a — kollektorlar bo'yicha; b — massivlar bo'yicha talabdan (0,43 l/(s·ga)) past kollektorlar uzunligining ulushi*
+
 **Sizot suvi rejimi bo'yicha tekshiruv.** Suv balansi bo'yicha hisob bilvosita ma'lumotlarga tayanadi, shuning uchun u kuzatilgan sizot rejimi bilan tekshirildi. 3.2-§ ga ko'ra sath mart oxiridan iyul oxirigacha, taxminan 120 sutka davomida, o'rtacha 0,48 m ga ko'tariladi. Sathning ko'tarilishi sizot suviga tushayotgan suv drenaj orqali chiqayotgan suvdan ko'pligini bildiradi. Bu ortiqcha qatlam suv beruvchanlik koeffitsiyenti μ orqali baholanadi: qumoq tuproqlar uchun μ = 0,05–0,15 qabul qilinganda u 24–72 mm ni yoki 0,02–0,07 l/(s·ga) ni tashkil etadi. Bu qiymat talab etiladigan drenaj modulining 5–45 foiziga teng. Mavjud tarmoq sug'orish mavsumida sizot suviga tushayotgan suvning asosiy qismini olib chiqadi, lekin to'liq emas: drenaj quvvatidagi taqchillik tuman o'rtachasida talabning 5–45 foizini tashkil etadi. Bu baho yuqoridagi kadastr qiyosidan ko'ra yumshoqroq, chunki u butun tuman bo'yicha o'rtacha holatni aks ettiradi; massivlar bo'yicha esa mavsumiy ko'tarilish 0,32–0,85 m oralig'ida (3.2-§), shuning uchun taqchillik U.Qoraboyev massivida o'rtachadan qariyb ikki baravar, Paxtakor massivida 1,4 baravar katta.
 
 **O'tkazish qobiliyati.** Kollektorning o'tkazish qobiliyati Manning formulasi bo'yicha aniqlanadi \[68; 103\]:
@@ -168,11 +176,11 @@ Hech bir variantda ta'mirdan keyin sath chuqurlashgani aniqlanmadi. Asosiy model
 
 Variantlar orasida ishora o'zgaradi, bu barqaror ta'sir yo'qligini bildiradi. Bitta variantdagi manfiy va ahamiyatli baho (−0,20 m) nazorat guruhining 2018-yildan keyin kuchliroq chuqurlashgani bilan bog'liq va ta'mir ta'siri sifatida talqin qilinmaydi; bu natija 3.4-§ dagi «kollektordan uzoqda sath tezroq chuqurlashgan» degan xulosa bilan mos keladi. Plasebo testida (ta'mir yili sun'iy ravishda 3 yil oldinga surilib, faqat haqiqiy ta'mirdan oldingi yillar olinganda) ta'sir nolga yaqin (+0,04 m; p = 0,51) va model yolg'on ta'sir ko'rsatmaydi.
 
-**Dinamik baho.** Ta'mir ta'siri vaqt o'tishi bilan namoyon bo'lishi mumkin, shuning uchun ta'mir yiliga nisbatan har bir yil uchun alohida koeffitsiyent baholandi (4.5-rasm). Ta'mirdan oldingi yillarda ta'sir va nazorat guruhlari farqi statistik jihatdan nolga teng (−4, −3 va −2-yillar koeffitsiyentlari birgalikda: F = 1,67; p = 0,18). Bu parallel tendensiyalar shartini qo'llab-quvvatlaydi. Ta'mir yili va undan keyingi uch yilda koeffitsiyentlar −0,07 … −0,10 m oralig'ida va ahamiyatsiz. Faqat ta'mirdan 4 va undan ko'p yil o'tgan kuzatuvlarda koeffitsiyent −0,25 m (p = 0,04): sath nazoratga nisbatan biroz sayozlashgan. Bu baho asosan 2010–2015-yillarda ta'mirlangan oz sonli kollektorlar yonidagi quduqlarga tayanadi va sakkizta koeffitsiyentdan bittasining tasodifan ahamiyatli chiqishi kutiladigan holat; shuning uchun u ta'mir ta'siri sifatida talqin qilinmaydi.
+**Dinamik baho.** Ta'mir ta'siri vaqt o'tishi bilan namoyon bo'lishi mumkin, shuning uchun ta'mir yiliga nisbatan har bir yil uchun alohida koeffitsiyent baholandi (4.6-rasm). Ta'mirdan oldingi yillarda ta'sir va nazorat guruhlari farqi statistik jihatdan nolga teng (−4, −3 va −2-yillar koeffitsiyentlari birgalikda: F = 1,67; p = 0,18). Bu parallel tendensiyalar shartini qo'llab-quvvatlaydi. Ta'mir yili va undan keyingi uch yilda koeffitsiyentlar −0,07 … −0,10 m oralig'ida va ahamiyatsiz. Faqat ta'mirdan 4 va undan ko'p yil o'tgan kuzatuvlarda koeffitsiyent −0,25 m (p = 0,04): sath nazoratga nisbatan biroz sayozlashgan. Bu baho asosan 2010–2015-yillarda ta'mirlangan oz sonli kollektorlar yonidagi quduqlarga tayanadi va sakkizta koeffitsiyentdan bittasining tasodifan ahamiyatli chiqishi kutiladigan holat; shuning uchun u ta'mir ta'siri sifatida talqin qilinmaydi.
 
 &#91;image: Ta'mir ta'sirining dinamik bahosi\]
 
-*4.5-rasm. Kollektor ta'mirining sizot sathiga dinamik ta'siri: ta'mir yiliga nisbatan har bir yil uchun nazorat guruhiga nisbatan sath farqi va 95 foizlik ishonch oralig'i (asos — ta'mirdan bir yil oldin)*
+*4.6-rasm. Kollektor ta'mirining sizot sathiga dinamik ta'siri: ta'mir yiliga nisbatan har bir yil uchun nazorat guruhiga nisbatan sath farqi va 95 foizlik ishonch oralig'i (asos — ta'mirdan bir yil oldin)*
 
 Ta'mirlangan kollektorlar ta'mir yili bo'yicha ham ajratildi. 2017-yilgacha ta'mirlangan kollektorlar yonidagi 28 ta quduq bo'yicha ta'sir −0,06 m (p = 0,59), 2018–2020-yillarda ta'mirlanganlar yonidagi 8 ta quduq bo'yicha −0,26 m (p = 0,11). Hech bir guruhda chuqurlashish yo'q.
 
@@ -197,7 +205,7 @@ Narx kollektorning suv sarfi bilan bog'liq emas (logarifmik korrelyatsiya −0,2
 
 **Balans qiymati va xizmat maydoniga nisbat.** Ta'mirlangan kollektorlarda ta'mir xarajati kadastrdagi balans qiymatining medianasi bo'yicha 33 foizini (kvartillar 24 va 43 foiz) tashkil etadi. Ya'ni bitta ta'mir kollektor qiymatining uchdan bir qismiga teng; bunday nisbat ta'mirning ko'pchilik hollarda yengil tozalash emas, kapital tiklash xususiyatida bo'lganini tasdiqlaydi. Balans qiymati qayta baholanmagan bo'lishi mumkinligi sababli bu nisbat taxminiy. Xizmat maydoniga nisbatan ta'mir xarajati 53 ta kollektor bo'yicha (7 909 ga) o'rtacha 2,69 mln so'm/ga, kollektorlar bo'yicha mediana 3,69 mln so'm/ga.
 
-**Xarajatlarning massivlar bo'yicha taqsimoti.** Kadastr xarajatlarni massivlar bo'yicha ko'rsatmaydi, shuning uchun taqsimot geoma'lumotlar bazasi orqali tiklandi: har bir kollektorning xarajati uning xaritadagi bo'laklari massivlar bo'yicha uzunligiga mutanosib taqsimlandi (4.1-§). Bu usul 36 ta kollektor va umumiy xarajatning 81 foizi (17 339 mln so'm) uchun bajarildi. Natijalar 4.5-jadval va 4.6-rasmda III bobda aniqlangan meliorativ xavf ko'rsatkichlari bilan birga keltirilgan.
+**Xarajatlarning massivlar bo'yicha taqsimoti.** Kadastr xarajatlarni massivlar bo'yicha ko'rsatmaydi, shuning uchun taqsimot geoma'lumotlar bazasi orqali tiklandi: har bir kollektorning xarajati uning xaritadagi bo'laklari massivlar bo'yicha uzunligiga mutanosib taqsimlandi (4.1-§). Bu usul 36 ta kollektor va umumiy xarajatning 81 foizi (17 339 mln so'm) uchun bajarildi. Natijalar 4.5-jadval va 4.7-rasmda III bobda aniqlangan meliorativ xavf ko'rsatkichlari bilan birga keltirilgan.
 
 *4.5-jadval. Kollektorlar ta'mir xarajatlarining massivlar bo'yicha taqsimoti (2017–2020-yillar) va meliorativ xavf ko'rsatkichlari*
 
@@ -217,7 +225,7 @@ Izoh: \* — bir kollektor bir necha massivdan o'tishi mumkin, shuning uchun mas
 
 &#91;image: Ta'mir xarajatlari va meliorativ xavf massivlar bo'yicha\]
 
-*4.6-rasm. Massivlar bo'yicha 1 ga sug'oriladigan maydonga to'g'ri keladigan ta'mir xarajati (2017–2020-yillar) va yozda sath kritik chuqurlikdan sayoz bo'lish ehtimoli yuqori maydon ulushi (doira o'lchami — sug'oriladigan maydon)*
+*4.7-rasm. Massivlar bo'yicha 1 ga sug'oriladigan maydonga to'g'ri keladigan ta'mir xarajati (2017–2020-yillar) va yozda sath kritik chuqurlikdan sayoz bo'lish ehtimoli yuqori maydon ulushi (doira o'lchami — sug'oriladigan maydon)*
 
 Ta'mir xarajatlari massivlar orasida 12 baravardan ko'proq farq qiladi: 1 ga sug'oriladigan maydonga hisoblaganda Istiqlol massivida 1 576 ming so'm, M.To'jiboyev massivida 125 ming so'm; Y.Oxunboboyev massivida kollektor yo'q. Xarajat va meliorativ xavf o'rtasidagi bog'lanish kuchsiz va statistik ahamiyatsiz (Spearman ρ = +0,39; p = 0,38; yettita massiv). Z.M.Bobur massivi meliorativ xavf bo'yicha birinchi o'rinlarda (sayoz sath ehtimoli yuqori maydon 59 foiz, sho'rlanish xavfli quduqlar 17 ta, sath ko'tarilmoqda), lekin unga to'g'ri kelgan xarajat tuman o'rtachasidan past (776 ming so'm/ga). U.Qoraboyev massivida esa xavf past (19 foiz, 1 ta quduq), xarajat esa ikkinchi o'rinda (1 214 ming so'm/ga). 4.1-§ dagi kabi bu yerda ham ta'mir mablag'lari kollektorlarning holatiga ham, hududning meliorativ ehtiyojiga ham bog'liq holda taqsimlanmagan.
 
