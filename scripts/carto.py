@@ -173,7 +173,7 @@ def massif_lines(M, district=None):
 
 
 _DEM = None
-def basemap(ax, dist, M, pad=800, network=True, canals=False, labels=True, label_fs=5.6, hs_strength=.30, massif_text=None):
+def basemap(ax, dist, M, pad=800, network=True, canals=False, labels=True, label_fs=5.6, hs_strength=.30, massif_text=None, avoid_xy=None):
     """Mavzuli xaritalar uchun neytral asos: kulrang relyef soyasi, massivlar, tuman chegarasi, (ixtiyoriy) tarmoq."""
     global _DEM
     from shapely import contains_xy
@@ -193,9 +193,9 @@ def basemap(ax, dist, M, pad=800, network=True, canals=False, labels=True, label
     frame(ax, (x0, y0, x1, y1), pad=pad)
     if labels:
         for _, r in M.iterrows():
-            p = r.geometry.representative_point()
+            p = label_point(r.geometry, avoid_xy)
             t = r['name'] if massif_text is None else massif_text.get(r['name'], r['name'])
-            label_halo(ax.text(p.x, p.y, t, ha='center', va='center', fontsize=label_fs, weight='bold', color='#333', zorder=14, linespacing=1.05), 1.8)
+            label_halo(ax.text(p.x, p.y, t, ha='center', va='center', fontsize=label_fs, weight='bold', color='#222', zorder=25, linespacing=1.05), 2.0)
 
 
 _CACHE = {}
@@ -222,3 +222,24 @@ def export(fig, stem, provenance, alt_text):
                         metadata={'Title': _o.path.basename(stem), 'Author': 'Sirochov A.'})
     open(f'{stem}.alt.txt', 'w', encoding='utf-8').write(alt_text.strip() + '\n')
     return rep
+
+
+def label_point(geom, avoid_xy=None, step=150, inset=600):
+    """Massiv nomi uchun nuqta: poligon ichida (chetdan `inset` m), kuzatuv nuqtalaridan eng uzoq joy; teng holatda markazga yaqini."""
+    from shapely import contains_xy
+    p0 = geom.representative_point()
+    if avoid_xy is None or len(avoid_xy) == 0: return p0
+    g = geom.buffer(-inset)
+    if g.is_empty: g = geom.buffer(-inset / 3)
+    if g.is_empty: return p0
+    x0, y0, x1, y1 = g.bounds
+    gx, gy = np.meshgrid(np.arange(x0, x1, step), np.arange(y0, y1, step)); gx, gy = gx.ravel(), gy.ravel()
+    m = contains_xy(g, gx, gy); gx, gy = gx[m], gy[m]
+    if len(gx) == 0: return p0
+    from scipy.spatial import cKDTree
+    d, _ = cKDTree(np.asarray(avoid_xy)).query(np.c_[gx, gy])
+    c = geom.centroid; dc = np.hypot(gx - c.x, gy - c.y)
+    score = np.minimum(d, 900) - .15 * dc
+    i = int(np.argmax(score))
+    from shapely.geometry import Point
+    return Point(gx[i], gy[i])

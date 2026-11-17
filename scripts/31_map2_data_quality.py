@@ -44,38 +44,58 @@ ax1 = add_axes_cm(fig, .35, BM + LH, PW, PH, FW, FH); ax2 = add_axes_cm(fig, .35
 lg1 = add_axes_cm(fig, .35, BM, PW, LH - .35, FW, FH); lg2 = add_axes_cm(fig, .35 + PW + .5, BM, PW, LH - .35, FW, FH)
 for a in (lg1, lg2): a.axis('off')
 
+# Ranglar: ColorBrewer YlOrRd (5 sinf, teskari) — qizil = muammo; har bir sinf marker shakli bilan ham ajratiladi (rang yagona belgi emas).
+YOR = ['#bd0026', '#f03b20', '#fd8d3c', '#fecc5c', '#ffffb2']
+MK = ['v', 'D', 's', 'o', 'o']; SZ = [22, 15, 14, 12, 8]
+
+def classed(ax, x, y, k):
+    for i in sorted(set(k), reverse=True):
+        m = k == i
+        ax.scatter(x[m], y[m], s=SZ[i], marker=MK[i], c=YOR[i], ec='#1a1a1a', lw=.4, zorder=10 + (5 - i))
+
+def handles(labels):
+    return [Line2D([], [], marker=MK[i], ls='', mfc=YOR[i], mec='#1a1a1a', mew=.4, ms=np.sqrt(SZ[i]) * 1.15, label=l) for i, l in enumerate(labels)]
+
 # a) yaroqli o'lchovlar ulushi
-basemap(ax1, dist, M, pad=pad, massif_text={k: f'{k}\n{str(round(v)).replace(".", ",")} %' for k, v in vm.items()}, label_fs=5.3)
-b1 = [0, 50, 75, 90, 99.9, 100.01]; c1 = ['#b2182b', '#ef8a62', '#fddbc7', '#92c5de', '#2166ac']
-lab1 = ['< 50', '50–75', '75–90', '90–99,9', '100']
-cls = np.digitize(w.valid.values, b1[1:-1], right=False)
-cls = np.where(w.valid.values >= 99.9, 4, np.digitize(w.valid.values, [50, 75, 90]))
-order = np.argsort(-cls)
-ax1.scatter(w.x_utm43.values[order], w.y_utm43.values[order], s=13, c=[c1[i] for i in cls[order]], ec='#222', lw=.35, zorder=10)
+basemap(ax1, dist, M, pad=pad, massif_text={k: f'{k}\n{str(round(v)).replace(".", ",")} %' for k, v in vm.items()}, label_fs=5.3, avoid_xy=w[['x_utm43', 'y_utm43']].values)
+k1 = np.where(w.valid.values >= 99.95, 4, np.digitize(w.valid.values, [50, 75, 90]))
+classed(ax1, w.x_utm43.values, w.y_utm43.values, k1)
 dry = w[w.const_years >= 3]
-ax1.scatter(dry.x_utm43, dry.y_utm43, s=46, fc='none', ec='#111', lw=.7, zorder=11)
+ax1.scatter(dry.x_utm43, dry.y_utm43, s=48, fc='none', ec='#111', lw=.75, zorder=16)
 north_arrow(ax1, x=.92, y=.86, size=.07); scale_bar(ax1, 5, x=.05, y=.035, segs=5, fs=5.6)
 ax1.text(.03, .985, 'a', transform=ax1.transAxes, fontsize=10, weight='bold', va='top')
-h1 = [Line2D([], [], marker='o', ls='', mfc=c, mec='#222', mew=.35, ms=4.2, label=l) for c, l in zip(c1, lab1)]
-h1 += [Line2D([], [], marker='o', ls='', mfc='none', mec='#111', mew=.7, ms=7, label='≥ 3 yil oʻzgarmas qator')]
+h1 = handles(['< 50', '50–75', '75–90', '90–99,9', '100'])
+h1 += [Line2D([], [], marker='o', ls='', mfc='none', mec='#111', mew=.75, ms=7, label='≥ 3 yil oʻzgarmas\nqator')]
 legend_box(lg1, h1, title='Yaroqli oʻlchovlar ulushi, %', loc='upper left', bbox_to_anchor=(0, 1.0), ncol=2, fs=5.6, borderaxespad=0, columnspacing=1.0)
 
-# b) quduq chuqurligining zaxirasi
-basemap(ax2, dist, M, pad=pad, label_fs=5.3,
+# b) quduq tubigacha zaxira
+basemap(ax2, dist, M, pad=pad, label_fs=5.3, avoid_xy=w[['x_utm43', 'y_utm43']].values,
         massif_text={k: f'{k}\n{str(round(v, 1)).replace(".", ",")} m' for k, v in bym.margin.dropna().items()})
-b2 = [-10, .5, 1.0, 1.5, 2.0, 20]; c2 = ['#7f0000', '#d7301f', '#fc8d59', '#fdd49e', '#fff7ec'][::1]
-c2 = ['#99000d', '#e34a33', '#fdae6b', '#c7e9c0', '#41ab5d']
-lab2 = ['< 0,5', '0,5–1,0', '1,0–1,5', '1,5–2,0', '> 2,0']
-ww = w.dropna(subset=['margin']); k2 = np.digitize(ww.margin.values, b2[1:-1])
-o2 = np.argsort(-k2)
-ax2.scatter(ww.x_utm43.values[o2], ww.y_utm43.values[o2], s=13, c=[c2[i] for i in k2[o2]], ec='#222', lw=.35, zorder=10)
+ww = w.dropna(subset=['margin']); neg = ww[ww.margin < 0]; pos = ww[ww.margin >= 0]; nod = w[w.margin.isna()]
+k2 = np.digitize(pos.margin.values, [.5, 1.0, 1.5, 2.0])
+classed(ax2, pos.x_utm43.values, pos.y_utm43.values, k2)
+ax2.scatter(neg.x_utm43, neg.y_utm43, s=26, marker='X', c='#111', ec='white', lw=.4, zorder=17)
+ax2.scatter(nod.x_utm43, nod.y_utm43, s=9, marker='o', fc='white', ec='#777', lw=.5, zorder=9)
 north_arrow(ax2, x=.92, y=.86, size=.07); scale_bar(ax2, 5, x=.05, y=.035, segs=5, fs=5.6)
 ax2.text(.03, .985, 'b', transform=ax2.transAxes, fontsize=10, weight='bold', va='top')
-h2 = [Line2D([], [], marker='o', ls='', mfc=c, mec='#222', mew=.35, ms=4.2, label=l) for c, l in zip(c2, lab2)]
+h2 = handles(['0–0,5', '0,5–1,0', '1,0–1,5', '1,5–2,0', '> 2,0'])
+h2 += [Line2D([], [], marker='X', ls='', mfc='#111', mec='white', mew=.4, ms=5.5, label=f'< 0: pasport bilan\nnomuvofiq ({len(neg)})'),
+       Line2D([], [], marker='o', ls='', mfc='white', mec='#777', mew=.5, ms=3.2, label=f'Chuqurlik nomaʼlum ({len(nod)})')]
 legend_box(lg2, h2, title='Quduq tubigacha zaxira, m\n(chuqurlik − 2019–2024-yillar oʻrtacha sathi)', loc='upper left', bbox_to_anchor=(0, 1.0), ncol=2, fs=5.6, borderaxespad=0, columnspacing=1.0)
-fig.text(.35 / FW, .1 / FH, 'Proyeksiya: WGS 84 / UTM 43N. Massiv yozuvlarida: a — yaroqli oʻlchovlar ulushi (3.1-§), b — zaxira medianasi. '
-         '\nKuzatuv davri 2009–2024 (mustaqil kuzatuvsiz yillar chiqarilgan); koordinatasi aniqlangan 188 ta quduq. Asos: Copernicus GLO-30 relyef soyasi.', fontsize=5.0, color='#555', ha='left', va='bottom')
-fig.savefig('figures/map2_data_quality.png', dpi=300)
+fig.text(.35 / FW, .1 / FH, 'Proyeksiya: WGS 84 / UTM 43N. Massiv yozuvlarida: a — yaroqli oʻlchovlar ulushi (3.1-§, oʻlchovlar soni boʻyicha), b — zaxira medianasi. '
+         f'\nKuzatuv davri 2009–2024 (2010, 2013, 2017-yillar — mustaqil kuzatuvsiz, chiqarilgan); koordinatasi aniqlangan {len(w)} ta quduq. Asos: Copernicus GLO-30 relyef soyasi.',
+         fontsize=5.0, color='#555', ha='left', va='bottom')
+rep = export(fig, 'figures/map2_data_quality', provenance={
+    'raw_data': ['data/gw_levels_long.csv', 'data/wells_passport.csv', 'data/wells_metrics.csv', 'data/wells_coords.csv', 'results/ch3_audit_ext.json', 'gis/*.geojson', 'gis/dem/marhamat_dem30_utm43.tif'],
+    'transformations': ['years 2010, 2013, 2017 excluded (no independent observations)', 'values >20 divided by 100 (cm->m)',
+                        'well-year flagged invalid if all >6 decadal values identical', 'valid share = 1 - flagged/total per well',
+                        'margin = passport depth - mean valid level 2019-2024', 'classes: a {<50,50-75,75-90,90-99.9,100}; b {<0,0-0.5,0.5-1,1-1.5,1.5-2,>2}'],
+    'missing_data': f'{len(nod)} wells without passport depth shown as open grey circles; {len(neg)} negative margins shown as separate class',
+    'per_well_table': 'results/map2_wells.csv'},
+    alt_text=f"""Ikki panelli xarita, Marhamat tumani. a — {len(w)} ta kuzatuv qudugʻi yaroqli oʻlchovlar ulushi boʻyicha besh sinfda (rang va marker shakli bilan);
+qizil uchburchak va romblar (75 foizdan kam) asosan janubi-sharqdagi T.Mirzayev, Y.Oxunboboyev, M.Toʻjiboyev, U.Qoraboyev massivlarida; massivlar boʻyicha ulush
+Mashʼalda 98 foiz, Y.Oxunboboyevda 50 foiz. b — quduq tubigacha zaxira (pasportdagi chuqurlik minus 2019–2024-yillar oʻrtacha sathi): koʻp quduqlarda 1,5 m dan kam,
+{len(neg)} ta quduqda manfiy (pasport bilan nomuvofiq), {len(nod)} ta quduqda chuqurlik nomaʼlum.""")
 from scipy.stats import spearmanr
 m = w.dropna(subset=['margin'])
 print('quduqlar', len(w), 'zaxira bor', len(m), 'yaroqli<75%:', int((w.valid < 75).sum()), '≥3 yil o‘zgarmas:', len(dry))

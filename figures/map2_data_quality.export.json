@@ -1,0 +1,61 @@
+{
+  "notice": "Export completed with explicit settings. This report does not establish visual, accessibility, scientific-integrity, or journal-submission compliance.",
+  "outputs": [
+    {
+      "format": "pdf",
+      "kind": "vector-container",
+      "path": "/home/user/PhD-uchun/figures/map2_data_quality.pdf",
+      "size_bytes": 2202637
+    },
+    {
+      "format": "png",
+      "kind": "raster",
+      "path": "/home/user/PhD-uchun/figures/map2_data_quality.png",
+      "size_bytes": 3355617
+    }
+  ],
+  "provenance": {
+    "missing_data": "6 wells without passport depth shown as open grey circles; 5 negative margins shown as separate class",
+    "per_well_table": "results/map2_wells.csv",
+    "raw_data": [
+      "data/gw_levels_long.csv",
+      "data/wells_passport.csv",
+      "data/wells_metrics.csv",
+      "data/wells_coords.csv",
+      "results/ch3_audit_ext.json",
+      "gis/*.geojson",
+      "gis/dem/marhamat_dem30_utm43.tif"
+    ],
+    "transformations": [
+      "years 2010, 2013, 2017 excluded (no independent observations)",
+      "values >20 divided by 100 (cm->m)",
+      "well-year flagged invalid if all >6 decadal values identical",
+      "valid share = 1 - flagged/total per well",
+      "margin = passport depth - mean valid level 2019-2024",
+      "classes: a {<50,50-75,75-90,90-99.9,100}; b {<0,0-0.5,0.5-1,1-1.5,1.5-2,>2}"
+    ]
+  },
+  "schema_version": "1.0",
+  "settings": {
+    "bbox_inches": null,
+    "dpi": 600.0,
+    "facecolor": "white",
+    "figure_size_inches": [
+      6.299212598425196,
+      4.603831174663026
+    ],
+    "font_mode": "truetype",
+    "formats": [
+      "pdf",
+      "png"
+    ],
+    "pad_inches": 0.1,
+    "tiff_rgb": false,
+    "transparent": false
+  },
+  "versions": {
+    "matplotlib": "3.11.2",
+    "pillow": "12.3.0"
+  },
+  "warnings": []
+}
