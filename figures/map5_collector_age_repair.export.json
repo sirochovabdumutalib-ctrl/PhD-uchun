@@ -1,0 +1,59 @@
+{
+  "notice": "Export completed with explicit settings. This report does not establish visual, accessibility, scientific-integrity, or journal-submission compliance.",
+  "outputs": [
+    {
+      "format": "pdf",
+      "kind": "vector-container",
+      "path": "/home/user/PhD-uchun/figures/map5_collector_age_repair.pdf",
+      "size_bytes": 2229841
+    },
+    {
+      "format": "png",
+      "kind": "raster",
+      "path": "/home/user/PhD-uchun/figures/map5_collector_age_repair.png",
+      "size_bytes": 3400735
+    }
+  ],
+  "provenance": {
+    "check_geojson_vs_cadastre": [
+      1.0,
+      1.0
+    ],
+    "missing_data": "segments without cadastre name drawn grey dashed; inner drains not mapped",
+    "raw_data": [
+      "gis/collectors_named.geojson",
+      "data/collectors.csv (kadastr, 2021)",
+      "results/ch4_rel_ext.json (inner_norep)",
+      "gis/massifs.geojson",
+      "gis/district.geojson"
+    ],
+    "transformations": [
+      "join map segments to cadastre by cad_name",
+      "classes commissioned {<1950,1950-59,1960-69,>=1970}; last repair {2010-14,2015-16,2017-18,2019-20}",
+      "class km = sum of mapped segment lengths (not cadastre lengths)"
+    ]
+  },
+  "schema_version": "1.0",
+  "settings": {
+    "bbox_inches": null,
+    "dpi": 600.0,
+    "facecolor": "white",
+    "figure_size_inches": [
+      6.299212598425196,
+      4.710130387261451
+    ],
+    "font_mode": "truetype",
+    "formats": [
+      "pdf",
+      "png"
+    ],
+    "pad_inches": 0.1,
+    "tiff_rgb": false,
+    "transparent": false
+  },
+  "versions": {
+    "matplotlib": "3.11.2",
+    "pillow": "12.3.0"
+  },
+  "warnings": []
+}
