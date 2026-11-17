@@ -221,9 +221,11 @@ Sug’oriladigan maydon xaritada sizot sathi darajalari bilan bo’yalgan hudud 
 - Massivlar (8 poligon): nomi, umumiy va sug’oriladigan maydon.
 - Tuman chegarasi (1 poligon).
 
-&#91;image: Marhamat tumani meliorativ tizimining geoma’lumotlar bazasi\]
+Ularga qo’shimcha ravishda relyef qatlami sifatida Copernicus GLO-30 raqamli relyef modeli (30 m) UTM 43N proyeksiyasiga o’tkazilib qo’shildi \[158\]. Qatlamlarning tuzilishi va atributlari 2.3-rasmda ko’rsatilgan.
 
-*2.3-rasm. Marhamat tumani meliorativ tizimining tiklangan geoma’lumotlar bazasi: massiv chegaralari, kollektorlar, sug’orish kanallari va kuzatuv quduqlari*
+&#91;image: Geoma’lumotlar bazasining qatlamlari\]
+
+*2.3-rasm. Tiklangan geoma’lumotlar bazasining tuzilishi: qatlamlar, geometriya turi, obyektlar soni va asosiy atributlar (qatlamlar qiya proyeksiyada, masshtabsiz)*
 
 Massivlar va kuzatuv quduqlari qatlamlari GIS Cloud geoaxborot platformasiga yuklanib, interaktiv xarita shakllantirildi \[155\]; xaritani suv xo’jaligi tashkilotlari mutaxassislari bilan ulashish va yangi o’lchovlar bilan to’ldirish mumkin. Monitoring va kadastr jadvallari quduq raqami va kollektor nomi orqali qatlamlarga bog’lanadi.
 

@@ -1,0 +1,61 @@
+{
+  "notice": "Export completed with explicit settings. This report does not establish visual, accessibility, scientific-integrity, or journal-submission compliance.",
+  "outputs": [
+    {
+      "format": "pdf",
+      "kind": "vector-container",
+      "path": "/home/user/PhD-uchun/figures/fig23_gis_layers.pdf",
+      "size_bytes": 302924
+    },
+    {
+      "format": "png",
+      "kind": "raster",
+      "path": "/home/user/PhD-uchun/figures/fig23_gis_layers.png",
+      "size_bytes": 1108038
+    }
+  ],
+  "provenance": {
+    "counts": {
+      "canal_segments": 426,
+      "canals_km": 170.9,
+      "collector_segments": 332,
+      "collectors_km": 214.6,
+      "wells": 202
+    },
+    "raw_data": [
+      "gis/district.geojson",
+      "gis/massifs.geojson",
+      "gis/canals.geojson",
+      "gis/collectors_named.geojson",
+      "gis/wells_2024.geojson",
+      "gis/dem/marhamat_dem30_utm43.tif"
+    ],
+    "transformations": [
+      "UTM 43N, then schematic oblique transform x+0.55y, 0.42y per layer (no scale)",
+      "DEM subsampled every 6th cell for display"
+    ]
+  },
+  "schema_version": "1.0",
+  "settings": {
+    "bbox_inches": null,
+    "dpi": 600.0,
+    "facecolor": "white",
+    "figure_size_inches": [
+      6.299212598425196,
+      6.141732283464567
+    ],
+    "font_mode": "truetype",
+    "formats": [
+      "pdf",
+      "png"
+    ],
+    "pad_inches": 0.1,
+    "tiff_rgb": false,
+    "transparent": false
+  },
+  "versions": {
+    "matplotlib": "3.11.2",
+    "pillow": "12.3.0"
+  },
+  "warnings": []
+}

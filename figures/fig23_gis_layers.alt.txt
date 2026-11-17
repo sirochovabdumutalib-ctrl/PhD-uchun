@@ -1,0 +1,3 @@
+Geomaʼlumotlar bazasining tuzilishi: oltita qatlam bir-birining ustida qiya tekisliklarda koʻrsatilgan. Pastdan yuqoriga: relyef modeli (Copernicus GLO-30, 30 m),
+tuman chegarasi, sakkizta massiv, sugʻorish kanallari (426 boʻlak, 170,9 km), kollektorlar (332 boʻlak, 214,6 km; 60 tasiga kadastr nomi biriktirilgan) va
+202 ta kuzatuv qudugʻi. Har bir qatlam yonida geometriya turi, obyektlar soni va atributlari yozilgan.
