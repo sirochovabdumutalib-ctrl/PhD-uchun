@@ -1,6 +1,13 @@
 {
   "version": 2,
   "skills": {
+    "citation-management": {
+      "source": "K-Dense-AI/claude-scientific-skills",
+      "commit": "ec59a29a03d5c40f73ab40878df04860bc00e876",
+      "sourceType": "github",
+      "skillPath": "skills/citation-management/SKILL.md",
+      "computedHash": "3b3bb7b57f41f5e6fdab85f7f3081df0cceedf37b377e3125cd87c14552e8650"
+    },
     "deslop": {
       "source": "stephenturner/skill-deslop",
       "commit": "a906154bef375d9d49ed2ad7da13b2db16f0d3d2",
@@ -8,11 +15,25 @@
       "skillPath": "SKILL.md",
       "computedHash": "3636f2f8b9554a94da143508d9816db041aa267a32c2ffdd39d73780b6eedeee"
     },
+    "experimental-design": {
+      "source": "K-Dense-AI/claude-scientific-skills",
+      "commit": "ec59a29a03d5c40f73ab40878df04860bc00e876",
+      "sourceType": "github",
+      "skillPath": "skills/experimental-design/SKILL.md",
+      "computedHash": "6d55e9719ccbd50d642e1d49f6fe1683e9edaa31b88d1078a8ce36da1dfe71f9"
+    },
     "find-skills": {
       "source": "vercel-labs/skills",
       "sourceType": "github",
       "skillPath": "skills/find-skills/SKILL.md",
       "computedHash": "7bc223e2aafbdbf6e50ea243ba6ef67fe432bb069ab439fea0390795dac0bf7f"
+    },
+    "hypothesis-generation": {
+      "source": "K-Dense-AI/claude-scientific-skills",
+      "commit": "ec59a29a03d5c40f73ab40878df04860bc00e876",
+      "sourceType": "github",
+      "skillPath": "skills/hypothesis-generation/SKILL.md",
+      "computedHash": "f7175c0bcc5fbc820bc6e6e5b8e7260fcc688a99c848fed120e917784961af2c"
     },
     "latex-document-skill": {
       "source": "ndpvt-web/latex-document-skill",
@@ -21,6 +42,41 @@
       "skillPath": "SKILL.md",
       "computedHash": "abc11291418c1b51edeb2f73fe376fd02d38dabe28636dd3219c3e9533bb499a"
     },
+    "literature-review": {
+      "source": "K-Dense-AI/claude-scientific-skills",
+      "commit": "ec59a29a03d5c40f73ab40878df04860bc00e876",
+      "sourceType": "github",
+      "skillPath": "skills/literature-review/SKILL.md",
+      "computedHash": "0bb3bac7e11a08edf1b9deb29db7eca3e33c61b00b9394e0f9b383b9bc55b5c3"
+    },
+    "peer-review": {
+      "source": "K-Dense-AI/claude-scientific-skills",
+      "commit": "ec59a29a03d5c40f73ab40878df04860bc00e876",
+      "sourceType": "github",
+      "skillPath": "skills/peer-review/SKILL.md",
+      "computedHash": "b626fbbbb2de1eabc016c9426481a7abfb87d76753fd41fd5b143a26d8059ca1"
+    },
+    "pyzotero": {
+      "source": "K-Dense-AI/claude-scientific-skills",
+      "commit": "ec59a29a03d5c40f73ab40878df04860bc00e876",
+      "sourceType": "github",
+      "skillPath": "skills/pyzotero/SKILL.md",
+      "computedHash": "adc3da9818a2f899e06258e9686f3ffc88ec95c02b49e83e5b2349e139697db3"
+    },
+    "scientific-brainstorming": {
+      "source": "K-Dense-AI/claude-scientific-skills",
+      "commit": "ec59a29a03d5c40f73ab40878df04860bc00e876",
+      "sourceType": "github",
+      "skillPath": "skills/scientific-brainstorming/SKILL.md",
+      "computedHash": "9f93ff25f1d40696078583e466e4da84de108404de037b937a28d92edf464c36"
+    },
+    "scientific-critical-thinking": {
+      "source": "K-Dense-AI/claude-scientific-skills",
+      "commit": "ec59a29a03d5c40f73ab40878df04860bc00e876",
+      "sourceType": "github",
+      "skillPath": "skills/scientific-critical-thinking/SKILL.md",
+      "computedHash": "a79ae9c13bfd7fc39770c4500ee4b2ecf2808c1d77e4561071bee6f166efd1ec"
+    },
     "scientific-schematics": {
       "source": "K-Dense-AI/claude-scientific-skills",
       "commit": "ec59a29a03d5c40f73ab40878df04860bc00e876",
@@ -28,12 +84,40 @@
       "skillPath": "skills/scientific-schematics/SKILL.md",
       "computedHash": "cc3089c544cb3959c4520b3038c0d0fd00862caefd8b294c9209bee4b7c8a7b2"
     },
+    "scientific-slides": {
+      "source": "K-Dense-AI/claude-scientific-skills",
+      "commit": "ec59a29a03d5c40f73ab40878df04860bc00e876",
+      "sourceType": "github",
+      "skillPath": "skills/scientific-slides/SKILL.md",
+      "computedHash": "6acaa92260aab991ed7d0b59547aa32470e552cc8c911c365240c800d9688268"
+    },
     "scientific-visualization": {
       "source": "K-Dense-AI/claude-scientific-skills",
       "commit": "ec59a29a03d5c40f73ab40878df04860bc00e876",
       "sourceType": "github",
       "skillPath": "skills/scientific-visualization/SKILL.md",
       "computedHash": "a9ea119baafe77128193200a93acf35f56ce8c52038253a4bcef4f0da41e7e70"
+    },
+    "scientific-writing": {
+      "source": "K-Dense-AI/claude-scientific-skills",
+      "commit": "ec59a29a03d5c40f73ab40878df04860bc00e876",
+      "sourceType": "github",
+      "skillPath": "skills/scientific-writing/SKILL.md",
+      "computedHash": "2b98539c10a4a176bf98659a8437c0b6d195e8c18be79f19bbe4cd8395efd064"
+    },
+    "statistical-analysis": {
+      "source": "K-Dense-AI/claude-scientific-skills",
+      "commit": "ec59a29a03d5c40f73ab40878df04860bc00e876",
+      "sourceType": "github",
+      "skillPath": "skills/statistical-analysis/SKILL.md",
+      "computedHash": "7428d347cfe2f52324cba1aaf30031fc480d47a65dfb932879ec25ca5c7eac7f"
+    },
+    "statistical-power": {
+      "source": "K-Dense-AI/claude-scientific-skills",
+      "commit": "ec59a29a03d5c40f73ab40878df04860bc00e876",
+      "sourceType": "github",
+      "skillPath": "skills/statistical-power/SKILL.md",
+      "computedHash": "00ea894caf662fb80b00504f8e5a60e97e973812ef9e4fa36b95d531e245b5af"
     }
   }
 }
