@@ -1,0 +1,113 @@
+{
+  "notice": "Export completed with explicit settings. This report does not establish visual, accessibility, scientific-integrity, or journal-submission compliance.",
+  "outputs": [
+    {
+      "format": "pdf",
+      "kind": "vector-container",
+      "path": "/home/user/PhD-uchun/figures/fig36_summer_prob.pdf",
+      "size_bytes": 2271779
+    },
+    {
+      "format": "png",
+      "kind": "raster",
+      "path": "/home/user/PhD-uchun/figures/fig36_summer_prob.png",
+      "size_bytes": 3212659
+    }
+  ],
+  "provenance": {
+    "check_vs_results": {
+      "district": {
+        "cover": 0.824,
+        "p30": 0.403,
+        "p50": 0.013,
+        "sh15": 0.013,
+        "sh20": 0.485
+      },
+      "massifs": {
+        "Istiqlol": {
+          "p30": 0.552,
+          "p30_ref": 0.552,
+          "sh20": 0.607,
+          "sh20_ref": 0.607
+        },
+        "M.Toʻjiboyev": {
+          "p30": 0.167,
+          "p30_ref": 0.167,
+          "sh20": 0.203,
+          "sh20_ref": 0.203
+        },
+        "Mashʼal": {
+          "p30": 0.704,
+          "p30_ref": 0.704,
+          "sh20": 0.796,
+          "sh20_ref": 0.796
+        },
+        "Paxtakor": {
+          "p30": 0.205,
+          "p30_ref": 0.205,
+          "sh20": 0.411,
+          "sh20_ref": 0.411
+        },
+        "T.Mirzayev": {
+          "p30": 0.278,
+          "p30_ref": 0.278,
+          "sh20": 0.298,
+          "sh20_ref": 0.298
+        },
+        "U.Qoraboyev": {
+          "p30": 0.191,
+          "p30_ref": 0.191,
+          "sh20": 0.451,
+          "sh20_ref": 0.451
+        },
+        "Y.Oxunboboyev": {
+          "p30": 0.0,
+          "p30_ref": 0.0,
+          "sh20": 0.0,
+          "sh20_ref": 0.0
+        },
+        "Z.M.Bobur": {
+          "p30": 0.591,
+          "p30_ref": 0.591,
+          "sh20": 0.622,
+          "sh20_ref": 0.622
+        }
+      }
+    },
+    "raw_data": [
+      "data/wells_metrics.csv (level_summer_m)",
+      "gis/collectors.geojson",
+      "gis/district.geojson",
+      "gis/massifs.geojson"
+    ],
+    "transformations": [
+      "ordinary kriging as script 18",
+      "P = Phi((1.5 - z)/SE)",
+      "display: nearest well <=1.5 km and inside district",
+      "massif shares: inside massif & nearest well <=1.5 km (as script 18)"
+    ]
+  },
+  "schema_version": "1.0",
+  "settings": {
+    "bbox_inches": null,
+    "dpi": 600.0,
+    "facecolor": "white",
+    "figure_size_inches": [
+      6.299212598425196,
+      4.406980780962239
+    ],
+    "font_mode": "truetype",
+    "formats": [
+      "pdf",
+      "png"
+    ],
+    "pad_inches": 0.1,
+    "tiff_rgb": false,
+    "transparent": false
+  },
+  "versions": {
+    "matplotlib": "3.11.2",
+    "pillow": "12.3.0"
+  },
+  "warnings": []
+}

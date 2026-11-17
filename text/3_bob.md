@@ -173,9 +173,9 @@ P(z < z_{kr}) = \Phi\left(\frac{z_{kr} - \hat z}{\sigma_K}\right)
 
 bu yerda ẑ — kriging bahosi, $\sigma_{K}$ — bahoning standart xatosi, $z_{\mathrm{kr}}$ = 1,5 m, Φ — standart normal taqsimot funksiyasi. Taqsimotning asimmetriyasi tufayli bu ehtimollik sayoz sath tomonida biroz oshirib baholanadi, shuning uchun natija ehtiyotkor baho sifatida talqin qilinadi. Natijalar 3.6-rasm va 3.5-jadvalda keltirilgan.
 
-&#91;image: Yozgi sizot suvi sathi va sayoz sath ehtimoli xaritalari\]
+&#91;image: Yozgi sath va sayoz sath ehtimoli\]
 
-*3.6-rasm. Iyul–avgustdagi sizot suvi sathi (chapda) va sathning 1,5 m dan sayoz bo'lish ehtimoli (o'ngda), 2019–2024-yillar o'rtachasi. Kulrang chiziqlar — massivlar chegarasi, yashil chiziqlar — kollektorlar*
+*3.6-rasm. Iyul–avgustdagi sizot suvi sathi, 2019–2024-yillar o'rtachasi: a — kriging bahosi; b — sathning 1,5 m dan sayoz bo'lish ehtimoli (qora chiziq — 0,3; massiv yozuvlarida — ehtimollik 0,3 dan katta maydon ulushi)*
 
 *3.5-jadval. Yozgi sizot suvi sathining massivlar bo'yicha xarita ko'rsatkichlari*
 
