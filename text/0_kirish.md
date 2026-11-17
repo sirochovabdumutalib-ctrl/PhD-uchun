@@ -86,7 +86,7 @@ Tadqiqot natijalarining amaliy ahamiyati suv xo’jaligi tashkilotlariga monitor
 
 **Tadqiqot natijalarining e’lon qilinganligi.** Dissertatsiya mavzusi bo’yicha jami \[soni\] ta ilmiy ish chop etilgan, shulardan O’zbekiston Respublikasi Oliy attestatsiya komissiyasining dissertatsiyalar asosiy ilmiy natijalarini chop etish tavsiya etilgan ilmiy nashrlarida \[soni\] ta maqola, jumladan \[soni\] tasi respublika va \[soni\] tasi xorijiy jurnallarda nashr etilgan.
 
-**Dissertatsiyaning tuzilishi va hajmi.** Dissertatsiya kirish, to’rtta bob, umumiy xulosalar, 157 nomdagi foydalanilgan adabiyotlar ro’yxati va ilovalardan iborat. Dissertatsiyaning asosiy matni 134 betni tashkil etadi, unda 52 ta jadval va 19 ta rasm keltirilgan.
+**Dissertatsiyaning tuzilishi va hajmi.** Dissertatsiya kirish, to’rtta bob, umumiy xulosalar, 157 nomdagi foydalanilgan adabiyotlar ro’yxati va ilovalardan iborat. Dissertatsiyaning asosiy matni 123 betni tashkil etadi, unda 31 ta jadval va 16 ta rasm keltirilgan; yordamchi jadval va rasmlar 24 ta ilovada berilgan.
 
 Birinchi bobda meliorativ tizimlar ishonchliligi va samaradorligini baholashning mavjud usullari, meliorativ monitoringda GAT va geostatistik usullarning qo’llanilishi tahlil qilingan, hal etilmagan masalalar aniqlangan hamda tadqiqotning maqsad va vazifalari belgilangan.
 

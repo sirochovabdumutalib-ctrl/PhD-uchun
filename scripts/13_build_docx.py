@@ -30,6 +30,14 @@ parts = [center(["O'ZBEKISTON RESPUBLIKASI QISHLOQ XO'JALIGI VAZIRLIGI", "ANDIJO
                  '', '', "**SIROCHOV ABDUMUTALIB**", '', "**GAT TEXNOLOGIYALARI ASOSIDA MELIORATIV TIZIMLAR SAMARADORLIGI VA ISHONCHLILIGINI TA'MINLASH**", "**(Andijon viloyati Marhamat tumani misolida)**", '',
                  "05.09.06 — Gidrotexnika va melioratsiya qurilishi", "Texnika fanlari bo'yicha falsafa doktori (PhD) ilmiy darajasini olish uchun yozilgan", "**DISSERTATSIYA**", '', '',
                  "Ilmiy rahbar: t.f.n., dotsent A.Xakimov", '', '', '', '', '', '', "ANDIJON — 2026"]), PB, center(["**MUNDARIJA**"]), TOC]
+def prep(t):
+    for a, b in FIX:
+        if a in t: t = t.replace(a, b)
+    t = re.sub(r"^\*Izoh: bu birinchi qoralama\..*?\*\s*$", '', t, flags=re.M)
+    t = re.sub(r"^&#91;image: (.+?)\\\]\s*$", lambda m: f"\n![]({IMG[m.group(1)]}){{width=16cm}}\n", t, flags=re.M)
+    t = re.sub(r"```latex\n(.*?)\n```", lambda m: '$$' + m.group(1).strip() + '$$', t, flags=re.S)
+    t = re.sub(r"^\*(\d+-ilova\..*?)\*\s*$", lambda m: f'\n::: {{custom-style="Sarlavha-jadval"}}\n{m.group(1)}\n:::\n', t, flags=re.M)
+    return t
 for f in sorted(glob.glob('text/[0-5]_*.md')):
     t = open(f, encoding='utf-8').read()
     for a, b in FIX:
@@ -42,6 +50,8 @@ for f in sorted(glob.glob('text/[0-5]_*.md')):
 refs = [re.sub(r'^\d+\.\s*', '', l.strip()) for l in open('text/refs_old.txt', encoding='utf-8') if l.strip()]
 parts += [PB, "# FOYDALANILGAN ADABIYOTLAR RO'YXATI\n\n\\[Ro'yxat avvalgi variantdan olingan; manbalar qayta tekshirilishi, so'nggi yillardagi ishlar bilan to'ldirilishi va matndagi havolalar bo'yicha qayta raqamlanishi kerak.\\]\n\n"
           + '\n'.join(f'{i}. {r}' for i, r in enumerate(refs, 1))]
+import os
+if os.path.exists('text/6_ilovalar.md'): parts += [PB, prep(open('text/6_ilovalar.md', encoding='utf-8').read())]
 open('out/dissertatsiya.md', 'w', encoding='utf-8').write('\n\n'.join(parts))
 # --- andoza (reference.docx)
 subprocess.run('pandoc -o out/ref.docx --print-default-data-file reference.docx', shell=True, check=True)
