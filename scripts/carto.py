@@ -170,3 +170,40 @@ def massif_lines(M, district=None):
     u = line_merge(unary_union([set_precision(b, 5) for b in M.boundary]))
     if district is not None: u = u.difference(district.boundary.union_all().buffer(40))
     return list(getattr(u, 'geoms', [u]))
+
+
+_DEM = None
+def basemap(ax, dist, M, pad=800, network=True, canals=False, labels=True, label_fs=5.6, hs_strength=.30, massif_text=None):
+    """Mavzuli xaritalar uchun neytral asos: kulrang relyef soyasi, massivlar, tuman chegarasi, (ixtiyoriy) tarmoq."""
+    global _DEM
+    from shapely import contains_xy
+    if _DEM is None: _DEM = dem()
+    z, gx, gy, ext = _DEM
+    inside = contains_xy(dist.geometry.union_all(), gx, gy)
+    hs = hillshade(z, 30, zf=2.5)
+    v = np.where(inside, .975 - hs_strength * (1 - hs) * .6, .90 - .10 * (1 - hs))
+    ax.imshow(np.dstack([v, v, v]), extent=ext, origin='upper', interpolation='bilinear', zorder=0)
+    if network:
+        load_cache('collectors_named').plot(ax=ax, color='#7fae9a', lw=.45, zorder=2)
+    if canals:
+        load_cache('canals').plot(ax=ax, color='#8fb3d9', lw=.45, zorder=2)
+    plot_lines(ax, massif_lines(M, dist), color='#6b6b6b', lw=.55, ls=(0, (4, 2)), zorder=3)
+    dist.boundary.plot(ax=ax, color='#3a3a3a', lw=1.1, zorder=9)
+    x0, y0, x1, y1 = dist.total_bounds
+    frame(ax, (x0, y0, x1, y1), pad=pad)
+    if labels:
+        for _, r in M.iterrows():
+            p = r.geometry.representative_point()
+            t = r['name'] if massif_text is None else massif_text.get(r['name'], r['name'])
+            label_halo(ax.text(p.x, p.y, t, ha='center', va='center', fontsize=label_fs, weight='bold', color='#333', zorder=14, linespacing=1.05), 1.8)
+
+
+_CACHE = {}
+def load_cache(name):
+    if name not in _CACHE: _CACHE[name] = load(name)
+    return _CACHE[name]
+
+
+def nkey(s):
+    import re
+    return re.sub(r'[\s\.]+', '', str(s)).upper().replace('A', 'А').replace('B', 'Б').replace('ПЕЗ', 'ПЗ')
