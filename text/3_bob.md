@@ -323,6 +323,12 @@ Izoh: minerallashuv — 2004–2010-yillar, yozgi sath — 2019–2024-yillar (i
 
 Yozgi sath 2,0 m dan sayoz va minerallashuv 1 g/l dan yuqori bo'lgan quduqlar 56 ta (50 foiz); shundan 29 tasida (26 foiz) yozgi sath 1,5 m dan ham sayoz. Bu quduqlar sho'rlanish xavfi eng yuqori nuqtalar hisoblanadi. Ular massivlar bo'yicha notekis taqsimlangan (3.8-jadval): Mash'al va Z.M.Bobur massivlarida 17 tadan, Istiqlol massivida 12 ta, qolgan to'rtta massivda jami 10 ta; xavfli quduqlarning 82 foizi uchta massivga to'g'ri keladi. Bu taqsimot 3.3-§ dagi ehtimollik xaritasi bilan mos: o'sha uchta massiv yozda sath kritik chuqurlikdan sayoz bo'lish ehtimoli eng yuqori massivlar sifatida ajratilgan edi. Sath va minerallashuv bo'yicha mustaqil baholar bir xil ustuvor hududlarni ajratadi.
 
+Xavfli quduqlarning joylashuvi va massivlar bo'yicha ulushi 3.11-rasmda ko'rsatilgan. Xaritada sath va minerallashuv bitta ikki o'zgaruvchili rang shkalasida berilgan, xavf guruhi esa belgi shakli bilan ajratilgan. Xavfli quduqlar ulushi Mash'al massivida 81 foiz (21 tadan 17 tasi), Z.M.Bobur massivida 74 foiz, Istiqlolda 63 foiz, Paxtakor va M.To'jiboyev massivlarida 27–29 foiz, U.Qoraboyev va T.Mirzayev massivlarida esa 8–11 foiz. Y.Oxunboboyev massivi bo'yicha 2004–2010-yillarda minerallashuv o'lchanmagan.
+
+&#91;image: Sho'rlanish xavfi xaritasi\]
+
+*3.11-rasm. Sho'rlanish xavfi: a — quduqlar bo'yicha yozgi sath (2019–2024) va minerallashuv (2004–2010) birgalikda; b — massivlar bo'yicha xavfli quduqlar ulushi (yozgi sath < 2,0 m va minerallashuv ≥ 1 g/l)*
+
 Bu bahoning cheklovi shundaki, sath va minerallashuv turli davrlarga tegishli. 2010-yildan keyingi minerallashuv dinamikasi noma'lum va bu davrda minerallashuv o'zgargan bo'lishi mumkin. Shu sababli xavf bahosi minerallashuvning nisbiy darajasiga (massivlar orasidagi farqqa) tayanadi; massivlar orasidagi farq gidrogeologik sharoit bilan belgilangani uchun vaqt o'tishi bilan saqlanib qolgan bo'lishi ehtimoli yuqori.
 
 **Monitoring tizimi uchun xulosa.** 2010-yildan keyingi minerallashuv dinamikasi haqida ishonchli xulosa chiqarib bo'lmaydi. Bu tadqiqotning cheklovi sifatida qayd etiladi; ayni paytda u monitoring tizimining jiddiy kamchiligini ko'rsatadi: so'nggi 14 yil davomida tuman bo'yicha sizot suvlari minerallashuvining haqiqiy holati hujjatlashtirilmagan. Minerallashuvni o'lchashni tiklash uchun barcha quduqlarda o'lchash shart emas: bir quduq ichidagi mavsumiy farq ahamiyatsiz bo'lgani uchun yiliga bir marta o'lchash yetarli, xavfli deb ajratilgan 56 ta quduq esa birinchi navbatda qamrab olinishi kerak. Elektr o'tkazuvchanlikni dalada o'lchaydigan asboblar bu ishni arzonlashtiradi \[87\]. Bu takliflar 4.5-§ da monitoring tizimini takomillashtirish tavsiyalariga kiritiladi.
@@ -339,11 +345,11 @@ Barcha tumanlarga 3.1-§ dagi tekshiruv qoidalari bir xil tartibda qo'llanildi. 
 
 Ma'lumotlar nuqsoni tasodifiy emas, tizimli: u aynan sath chuqur bo'lgan joylarda va yillarda to'planadi. Shuning uchun nuqsonli qiymatlarni oddiygina chiqarib tashlash sathni sayozroq ko'rsatadi, ularni tekshiruvsiz qoldirish esa shartli qiymatlarni haqiqiy o'lchov sifatida qabul qilishga olib keladi. Ikkala holda ham xato bir tomonga yo'nalgan. Bu muammoni faqat quduqlarni chuqurlashtirish yoki kesilgan qiymatlarni maxsus usullar bilan hisobga olish orqali hal etish mumkin \[152\].
 
-**Sizot rejimi ko'rsatkichlari.** Har bir tuman uchun 3.2-§ dagi tartibda barqaror panel tuzildi va ko'p yillik tendensiya, 2019–2023-yillardagi yozgi sath va mavsumiy amplituda hisoblandi (23-ilova va 3.11-rasm).
+**Sizot rejimi ko'rsatkichlari.** Har bir tuman uchun 3.2-§ dagi tartibda barqaror panel tuzildi va ko'p yillik tendensiya, 2019–2023-yillardagi yozgi sath va mavsumiy amplituda hisoblandi (23-ilova va 3.12-rasm).
 
 &#91;image: Andijon viloyati tumanlari bo'yicha ma'lumotlar ishonchliligi va sath tendensiyasi\]
 
-*3.11-rasm. Andijon viloyati tumanlarida: a — yaroqli o'lchovlar ulushi; b — yozgi sath medianasi va barqaror panel bo'yicha sath tendensiyasi (qizil — Marhamat tumani)*
+*3.12-rasm. Andijon viloyati tumanlarida: a — yaroqli o'lchovlar ulushi; b — yozgi sath medianasi va barqaror panel bo'yicha sath tendensiyasi (qizil — Marhamat tumani)*
 
 Sath chuqurlashishi viloyat miqyosidagi hodisa: 14 ta tumanning 12 tasida barqaror panel bo'yicha statistik ahamiyatli chuqurlashish aniqlandi, qolgan ikkitasida (Oltinko'l, Bo'ston) ham yo'nalish shu, lekin ahamiyatli emas. Hech bir tumanda sath ko'tarilmagan. Tumanlar bo'yicha chuqurlashish tezligining medianasi yiliga 3,3 sm; Marhamat tumani (yiliga 3,3 sm) aynan viloyat medianasida turadi. Bu 3.2-§ va 3.4-§ dagi xulosani kuchaytiradi: Marhamat tumanidagi chuqurlashish tumanning o'z drenaj tarmog'idagi o'zgarishlardan ko'ra viloyat miqyosidagi omillar, xususan suv ta'minoti va sug'orish rejimi bilan bog'liq bo'lishi ehtimoli yuqori. Biroq bu qiyos ta'mir ta'sirini to'liq istisno etmaydi, chunki boshqa tumanlarda ham shu yillarda kollektorlar ta'miri olib borilgan bo'lishi mumkin va bu haqda viloyat bo'yicha ma'lumot tahlil qilinmadi; ta'mir samarasi 4.3-§ da alohida baholanadi.
 

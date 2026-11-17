@@ -1,0 +1,78 @@
+{
+  "notice": "Export completed with explicit settings. This report does not establish visual, accessibility, scientific-integrity, or journal-submission compliance.",
+  "outputs": [
+    {
+      "format": "pdf",
+      "kind": "vector-container",
+      "path": "/home/user/PhD-uchun/figures/map4_salinity_risk.pdf",
+      "size_bytes": 2111138
+    },
+    {
+      "format": "png",
+      "kind": "raster",
+      "path": "/home/user/PhD-uchun/figures/map4_salinity_risk.png",
+      "size_bytes": 2916593
+    }
+  ],
+  "provenance": {
+    "caveat": "level (2019-2024) and mineralization (2004-2010) refer to different periods",
+    "check_vs_table_3.9": {
+      "high_total": 56,
+      "matrix_rows_ge2_15to2_lt15_x_cols_lt1_1to3_ge3": [
+        [
+          9,
+          30,
+          0
+        ],
+        [
+          12,
+          24,
+          3
+        ],
+        [
+          6,
+          28,
+          1
+        ]
+      ],
+      "very_high": 29
+    },
+    "per_well_table": "results/map4_wells.csv",
+    "raw_data": [
+      "data/miner_1999_2015.csv (2004-2010)",
+      "data/wells_metrics.csv (level_summer_m)",
+      "gis/massifs.geojson",
+      "gis/district.geojson",
+      "gis/dem/marhamat_dem30_utm43.tif"
+    ],
+    "transformations": [
+      "well median mineralization 2004-2010",
+      "bivariate classes: summer level {>=2.0, 1.5-2.0, <1.5} m x mineralization {<1, 1-3, >=3} g/l",
+      "risk: very high = level<1.5 & >=1 g/l; high = 1.5<=level<2.0 & >=1 g/l",
+      "massif share = high+very high / wells with both values"
+    ]
+  },
+  "schema_version": "1.0",
+  "settings": {
+    "bbox_inches": null,
+    "dpi": 600.0,
+    "facecolor": "white",
+    "figure_size_inches": [
+      6.299212598425196,
+      4.9266658203323175
+    ],
+    "font_mode": "truetype",
+    "formats": [
+      "pdf",
+      "png"
+    ],
+    "pad_inches": 0.1,
+    "tiff_rgb": false,
+    "transparent": false
+  },
+  "versions": {
+    "matplotlib": "3.11.2",
+    "pillow": "12.3.0"
+  },
+  "warnings": []
+}
