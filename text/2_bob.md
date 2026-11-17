@@ -38,11 +38,11 @@ bu yerda T\_o’r, T\_max, T\_min — oylik o’rtacha, o’rtacha maksimal va o
 
 Jadvaldan uchta muhim xususiyat kelib chiqadi.
 
-Birinchidan, yillik yog’in (323 mm) etalon bug’lanuvchanlikdan (1 185 mm) 3,7 baravar kam; ularning nisbati 0,27 ga teng, bu qurg’oqchil iqlimga xos. Yillik namlik tanqisligi 862 mm ni tashkil etadi.
+Yillik yog’in (323 mm) etalon bug’lanuvchanlikdan (1 185 mm) 3,7 baravar kam; ularning nisbati 0,27 ga teng, bu qurg’oqchil iqlimga xos. Yillik namlik tanqisligi 862 mm ni tashkil etadi.
 
-Ikkinchidan, yog’in va bug’lanuvchanlik mavsumlar bo’yicha qarama-qarshi taqsimlangan. Yog’inning 65 foizi noyabr–aprelda yog’adi; aprel–sentabrdagi vegetatsiya davrida esa yog’in atigi 126 mm, bug’lanuvchanlik 949 mm. Iyun–avgustda yog’in oyiga 6–17 mm dan oshmaydi, bug’lanuvchanlik esa oyiga 170–194 mm. Demak vegetatsiya davrida ekinlarning suvga talabi deyarli butunlay sug’orish hisobiga qoplanadi.
+Yog’in va bug’lanuvchanlik mavsumlar bo’yicha qarama-qarshi taqsimlangan. Yog’inning 65 foizi noyabr–aprelda yog’adi; aprel–sentabrdagi vegetatsiya davrida esa yog’in atigi 126 mm, bug’lanuvchanlik 949 mm. Iyun–avgustda yog’in oyiga 6–17 mm dan oshmaydi, bug’lanuvchanlik esa oyiga 170–194 mm. Vegetatsiya davrida ekinlarning suvga talabi deyarli butunlay sug’orish hisobiga qoplanadi.
 
-Uchinchidan, faqat dekabr–fevralda yog’in bug’lanuvchanlikdan biroz oshadi. Bu davrda tuproqda tabiiy yuvilish sharoiti yuzaga keladi, lekin uning hajmi kichik (yiliga taxminan 24 mm). Yil davomida tuproqdagi tuz balansi musbat, ya’ni tuz to’planishiga moyillik mavjud; uni faqat sug’orish suvi bilan yuvish va drenaj orqali chiqarish kompensatsiya qiladi \[105, 126\].
+Faqat dekabr–fevralda yog’in bug’lanuvchanlikdan biroz oshadi. Bu davrda tuproqda tabiiy yuvilish sharoiti yuzaga keladi, lekin uning hajmi kichik (yiliga taxminan 24 mm). Yil davomida tuproqdagi tuz balansi musbat, ya’ni tuz to’planishiga moyillik mavjud; uni faqat sug’orish suvi bilan yuvish va drenaj orqali chiqarish kompensatsiya qiladi \[105, 126\].
 
 Iqlim ko’rsatkichlarining yillik yo’li 2.1-rasmda ko’rsatilgan.
 
@@ -156,7 +156,7 @@ Suv o’lchash inshootlari atigi oltita. Bu kollektorlardagi drenaj oqimini munt
 
 Quduqlar tarkibining ikki xususiyati keyingi tahlil uchun muhim.
 
-Birinchidan, kuzatuv tarmog’i asosan yangi. 188 ta quduqdan 120 tasi (64 foiz) 2013–2016-yillarda polietilen quvurdan qurilgan; 65 tasi 1971–1990-yillarda, 3 tasi 1991–2012-yillarda metall quvurdan qurilgan quduqlardir (2.6-jadval). Demak kuzatuv tarmog’i 2013–2016-yillarda deyarli yangilangan. Bu 3.1-§ da aniqlangan tarmoq tarkibi o’zgarishini izohlaydi.
+Kuzatuv tarmog’i asosan yangi. 188 ta quduqdan 120 tasi (64 foiz) 2013–2016-yillarda polietilen quvurdan qurilgan; 65 tasi 1971–1990-yillarda, 3 tasi 1991–2012-yillarda metall quvurdan qurilgan quduqlardir (2.6-jadval). Bu 3.1-§ da aniqlangan tarmoq tarkibi o’zgarishini izohlaydi.
 
 *2.6-jadval. Kuzatuv quduqlarining qurilish davri, materiali va chuqurligi*
 
@@ -167,11 +167,11 @@ Birinchidan, kuzatuv tarmog’i asosan yangi. 188 ta quduqdan 120 tasi (64 foiz)
 | 2013–2016 | 120 | Polietilen | 3,2 |
 | Jami | 188 |  | 3,2 |
 
-Ikkinchidan, quduqlar sayoz. Chuqurlik medianasi 3,2 m; 142 ta quduq (76 foiz) 2,5–3,5 m chuqurlikda, faqat 26 tasi (14 foiz) 4 m dan chuqur. Sizot suvi quduq tubidan pastga tushganda quduq quriydi va haqiqiy sathni o’lchab bo’lmaydi (1.4-§). 2024-yil 1-aprel holatiga quduqlarning 28 foizida sath 3 m dan chuqur bo’lgan (2.3-jadval), ya’ni ularning bir qismi o’lchov chegarasiga yaqin ishlaydi. Bu sath chuqur hududlarda monitoring sathni kamaytirib ko’rsatishi mumkinligini bildiradi; masala 3.1-§ da miqdoriy ko’rib chiqiladi.
+Quduqlar sayoz. Chuqurlik medianasi 3,2 m; 142 ta quduq (76 foiz) 2,5–3,5 m chuqurlikda, faqat 26 tasi (14 foiz) 4 m dan chuqur. Sizot suvi quduq tubidan pastga tushganda quduq quriydi va haqiqiy sathni o’lchab bo’lmaydi (1.4-§). 2024-yil 1-aprel holatiga quduqlarning 28 foizida sath 3 m dan chuqur bo’lgan (2.3-jadval), ya’ni ularning bir qismi o’lchov chegarasiga yaqin ishlaydi. Bu sath chuqur hududlarda monitoring sathni kamaytirib ko’rsatishi mumkinligini bildiradi; masala 3.1-§ da miqdoriy ko’rib chiqiladi.
 
 **Manbalar orasidagi farqlar.** Quduqlar soni manbalar bo’yicha farq qiladi: pasportda 188 ta, GAT eksportidagi koordinatalar jadvalida 205 ta, 2024-yilgi xaritada 202 ta, 2009–2024-yillar kuzatuv jadvallarida esa jami 196 ta quduq uchraydi. Farqlarning bir qismi nomlanishdagi tafovutlar bilan (masalan, «104А» va «104а»), bir qismi pasporti rasmiylashtirilmagan qo’shimcha quduqlar bilan izohlanadi. Keyingi boblarda har bir hisob qaysi manbaga tayanishi ko’rsatiladi.
 
-Shunday qilib, kadastr meliorativ tizimning tarkibi to’g’risida batafsil ma’lumot beradi, ammo bu ma’lumotlar jadval shaklida bo’lib, fazoviy joylashuvga ega emas. Kollektorlarni sizot suvlari rejimi bilan bog’lash uchun ularni geoma’lumotlar bazasiga o’tkazish zarur; bu 2.3-§ da bayon etiladi.
+Kadastr meliorativ tizimning tarkibi to’g’risida batafsil ma’lumot beradi, ammo bu ma’lumotlar jadval shaklida bo’lib, fazoviy joylashuvga ega emas. Kollektorlarni sizot suvlari rejimi bilan bog’lash uchun ularni geoma’lumotlar bazasiga o’tkazish zarur; bu 2.3-§ da bayon etiladi.
 
 ## 2.3-§. Geoma’lumotlar bazasini shakllantirish: xaritalarni joyiga bog’lash va tarmoqni vektorlash
 
@@ -255,19 +255,19 @@ Massivlar va kuzatuv quduqlari qatlamlari GIS Cloud geoaxborot platformasiga yuk
 
 **Hosil qilingan quduq ko’rsatkichlari.** Baza har bir quduq uchun tarmoq ko’rsatkichlarini hisoblash imkonini berdi: eng yaqin kollektorgacha masofa (medianasi 291 m, quduqlarning yarmi 130–600 m oralig’ida), eng yaqin kanalgacha masofa va quduq atrofidagi 1 km radiusda joylashgan kollektorlar uzunligi. Bu ko’rsatkichlar 3.4-§ da sizot suvi sathi bilan bog’liqlikni tahlil qilishda ishlatiladi.
 
-**Cheklovlar.** Tiklangan baza ikki cheklovga ega. Birinchidan, uning aniqligi boshlang’ich xarita aniqligidan yuqori bo’la olmaydi: 1:50 000 masshtabli xaritada chiziq qalinligi joyda 20–30 m ga teng, shuning uchun kollektorgacha masofa o’nlab metr aniqlikda baholanadi. Ikkinchidan, baza xaritada tasvirlangan obyektlar bilan cheklangan: xo’jalik ichki zovurlari va yopiq drenaj unga kirmagan.
+**Cheklovlar.** Tiklangan baza ikki cheklovga ega. Uning aniqligi boshlang’ich xarita aniqligidan yuqori bo’la olmaydi: 1:50 000 masshtabli xaritada chiziq qalinligi joyda 20–30 m ga teng, shuning uchun kollektorgacha masofa o’nlab metr aniqlikda baholanadi. Bundan tashqari, baza xaritada tasvirlangan obyektlar bilan cheklangan: xo’jalik ichki zovurlari va yopiq drenaj unga kirmagan.
 
 Shunga qaramay, usulning amaliy qimmati shundaki, u drenaj tarmog’ining raqamli xaritasi bo’lmagan har qanday tumanda mavjud qog’oz xarita va quduqlar koordinatalari jadvali asosida bir necha soat ichida takrorlanishi mumkin.
 
 ## 2.4-§. Monitoring ma’lumotlarining ishonchliligini baholash usuli
 
-**Usulning maqsadi va tamoyillari.** 1.4-§ da ko’rsatilganidek, meliorativ monitoring qatorlarida tasodifiy o’lchov xatolari bilan bir qatorda tizimli nuqsonlar ham uchraydi: o’lchanmagan holatda shartli qiymat yozilishi, birlikning almashtirilishi, kuzatuv tarmog’i tarkibining o’zgarishi. Taklif etilgan usulning maqsadi — ko’p yillik qatorlarni tahlil qilishdan oldin bunday nuqsonlarni rasmiy qoidalar bo’yicha aniqlash va ma’lumotlar ishonchliligini miqdoriy baholash. Usul uchta tamoyilga tayanadi.
+**Usulning maqsadi va tamoyillari.** 1.4-§ da ko’rsatilganidek, meliorativ monitoring qatorlarida tasodifiy o’lchov xatolari bilan bir qatorda tizimli nuqsonlar ham uchraydi: o’lchanmagan holatda shartli qiymat yozilishi, birlikning almashtirilishi, kuzatuv tarmog’i tarkibining o’zgarishi. Taklif etilgan usulning maqsadi — ko’p yillik qatorlarni tahlil qilishdan oldin bunday nuqsonlarni rasmiy qoidalar bo’yicha aniqlash va ma’lumotlar ishonchliligini miqdoriy baholash.
 
-Birinchidan, qoidalar ma’lumotning fizik ma’nosidan kelib chiqadi va qo’shimcha o’lchov talab qilmaydi. Masalan, sug’oriladigan hududda sizot sathi yil davomida o’zgarmay qolishi mumkin emas; bu holat statistik test emas, fizik dalil hisoblanadi.
+Qoidalar ma’lumotning fizik ma’nosidan kelib chiqadi va qo’shimcha o’lchov talab qilmaydi. Masalan, sug’oriladigan hududda sizot sathi yil davomida o’zgarmay qolishi mumkin emas; bu holat statistik test emas, fizik dalil hisoblanadi.
 
-Ikkinchidan, nuqsonli qiymatlar tuzatilmaydi va taxminiy qiymat bilan to’ldirilmaydi, balki tahlildan chiqariladi. Istisno faqat o’lchov birligi xatosi: uning tuzatilishi bir ma’noli.
+Nuqsonli qiymatlar tuzatilmaydi va taxminiy qiymat bilan to’ldirilmaydi, balki tahlildan chiqariladi. Istisno faqat o’lchov birligi xatosi: uning tuzatilishi bir ma’noli.
 
-Uchinchidan, har bir qoida natijasi alohida qayd etiladi, shuning uchun tekshiruvni boshqa tadqiqotchi takrorlashi va natijasini tekshirishi mumkin.
+Har bir qoida natijasi alohida qayd etiladi, shuning uchun tekshiruvni boshqa tadqiqotchi takrorlashi va natijasini tekshirishi mumkin.
 
 **Tekshiruv qoidalari.** Sath qatorlari uchun uchta qoida qo’llaniladi (2.9-jadval).
 
