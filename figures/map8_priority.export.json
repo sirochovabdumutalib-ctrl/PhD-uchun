@@ -1,0 +1,66 @@
+{
+  "notice": "Export completed with explicit settings. This report does not establish visual, accessibility, scientific-integrity, or journal-submission compliance.",
+  "outputs": [
+    {
+      "format": "pdf",
+      "kind": "vector-container",
+      "path": "/home/user/PhD-uchun/figures/map8_priority.pdf",
+      "size_bytes": 2175552
+    },
+    {
+      "format": "png",
+      "kind": "raster",
+      "path": "/home/user/PhD-uchun/figures/map8_priority.png",
+      "size_bytes": 3006161
+    }
+  ],
+  "provenance": {
+    "counts": {
+      "T14": [
+        "Z.M.Bobur",
+        "Istiqlol",
+        "Y.Oxunboboyev",
+        "Paxtakor",
+        "U.Qoraboyev"
+      ],
+      "T5": 31,
+      "T8": 56,
+      "T9_10": 19
+    },
+    "raw_data": [
+      "text/4_bob.md table 4.7 (priority, p30, risk wells, trend)",
+      "results/map4_wells.csv (risk>=1)",
+      "results/map2_wells.csv (margin<0.5)",
+      "data/collectors.csv + results/ch4_hydraulic.json (q<0.43, transit excluded)",
+      "results/ch4_rel_ext.json (inner_norep>=0.7)",
+      "gis/*.geojson"
+    ],
+    "transformations": [
+      "priority groups as in table 4.7",
+      "action layers derived from maps 2, 4, 6 and table 4.2 with stated thresholds"
+    ]
+  },
+  "schema_version": "1.0",
+  "settings": {
+    "bbox_inches": null,
+    "dpi": 600.0,
+    "facecolor": "white",
+    "figure_size_inches": [
+      6.299212598425196,
+      4.769185505371688
+    ],
+    "font_mode": "truetype",
+    "formats": [
+      "pdf",
+      "png"
+    ],
+    "pad_inches": 0.1,
+    "tiff_rgb": false,
+    "transparent": false
+  },
+  "versions": {
+    "matplotlib": "3.11.2",
+    "pillow": "12.3.0"
+  },
+  "warnings": []
+}
