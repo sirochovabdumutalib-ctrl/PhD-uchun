@@ -56,7 +56,7 @@ colors = {'<1': '#4393c3', '1-3': '#fdb863', '3-5': '#e66101', '>=5': '#8b0000'}
 for k, c in colors.items():
     q = D[D.c == k]; ax[0].scatter(q.x_utm43 / 1000, q.y_utm43 / 1000, s=28, c=c, edgecolor='k', lw=.4, label=f'{k} g/l ({len(q)})'.replace('>=', '≥'))
 ax[0].set_aspect(1); ax[0].legend(fontsize=8, title='Minerallashuv medianasi', title_fontsize=8); ax[0].set_xlabel('X, km (UTM 43N)'); ax[0].set_ylabel('Y, km'); ax[0].set_title('a', loc='left')
-order = D.groupby('massif_map').mmed.median().sort_values().index.tolist(); lat = {'З.М.Бобур': 'Z.M.Bobur', 'Истиқлол': 'Istiqlol', 'Й.Охунбобоев': 'Y.Oxunboboyev', 'М.Тожибоев': "M.To'jiboyev", 'Машъал': "Mash'al", 'Пахтакор': 'Paxtakor', 'Т.Мирзаев': 'T.Mirzaev', 'У.Қорабоев': 'U.Qoraboyev'}
+order = D.groupby('massif_map').mmed.median().sort_values().index.tolist(); lat = {'З.М.Бобур': 'Z.M.Bobur', 'Истиқлол': 'Istiqlol', 'Й.Охунбобоев': 'Y.Oxunboboyev', 'М.Тожибоев': "M.To'jiboyev", 'Машъал': "Mash'al", 'Пахтакор': 'Paxtakor', 'Т.Мирзаев': 'T.Mirzayev', 'У.Қорабоев': 'U.Qoraboyev'}
 ax[1].boxplot([D[D.massif_map == k].mmed for k in order], vert=False, tick_labels=[lat[k] for k in order], showfliers=True); ax[1].axvline(3, color='r', ls=':'); ax[1].axvline(1, color='#4393c3', ls=':')
 ax[1].set_xlabel('Quduq bo\'yicha minerallashuv medianasi, g/l (2004–2010)'); ax[1].grid(alpha=.3, axis='x'); ax[1].set_title('b', loc='left')
 fig.tight_layout(); fig.savefig('figures/ch3_miner.png', dpi=150)

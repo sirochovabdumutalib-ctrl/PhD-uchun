@@ -55,7 +55,7 @@ for f in json.load(open('gis/massifs.geojson'))['features']:
 v = T.sen.clip(-0.15, 0.15); sc = ax.scatter(T.x_utm43 / 1000, T.y_utm43 / 1000, c=v, cmap='RdBu', vmin=-0.15, vmax=0.15, s=np.where(T.sig, 55, 22), edgecolor=np.where(T.sig, 'k', 'none'), lw=.6)
 plt.colorbar(sc, ax=ax, shrink=.7, label='Sen qiyaligi, m/yil (musbat — chuqurlashish)'); ax.set_aspect(1); ax.set_xlabel('X, km'); ax.set_ylabel('Y, km'); ax.grid(alpha=.2)
 fig.tight_layout(); fig.savefig('figures/ch3_trend_map.png', dpi=150)
-fig, ax = plt.subplots(figsize=(9, 4)); lab = {'З.М.Бобур': 'Z.M.Bobur', 'Истиқлол': 'Istiqlol', 'Й.Охунбобоев': 'Y.Oxunboboyev', 'М.Тожибоев': 'M.Tojiboyev', 'Машъал': "Mash'al", 'Пахтакор': 'Paxtakor', 'Т.Мирзаев': 'T.Mirzaev', 'У.Қорабоев': 'U.Qoraboyev'}
+fig, ax = plt.subplots(figsize=(9, 4)); lab = {'З.М.Бобур': 'Z.M.Bobur', 'Истиқлол': 'Istiqlol', 'Й.Охунбобоев': 'Y.Oxunboboyev', 'М.Тожибоев': "M.To'jiboyev", 'Машъал': "Mash'al", 'Пахтакор': 'Paxtakor', 'Т.Мирзаев': 'T.Mirzayev', 'У.Қорабоев': 'U.Qoraboyev'}
 for m, r in S.iterrows(): ax.plot(r.index, r.values, label=lab.get(m, m))
 ax.invert_yaxis(); ax.set_xticks(range(2, 37, 3)); ax.set_xticklabels(['Yan', 'Fev', 'Mar', 'Apr', 'May', 'Iyn', 'Iyl', 'Avg', 'Sen', 'Okt', 'Noy', 'Dek']); ax.set_ylabel('Sizot suvi sathi, m'); ax.legend(fontsize=7, ncol=4); ax.grid(alpha=.3)
 fig.tight_layout(); fig.savefig('figures/ch3_season_massif.png', dpi=150)

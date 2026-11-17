@@ -7,23 +7,12 @@ from docx.enum.text import WD_ALIGN_PARAGRAPH, WD_LINE_SPACING
 from docx.oxml.ns import qn
 from docx.oxml import OxmlElement
 os.chdir(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-FIX = [  # hujjatda keyin kiritilgan tuzatishlar (eksportdan keyingi)
- ("2.4-jadval. Monitoring ma'lumotlarini tekshirish qoidalari", "2.5-jadval. Monitoring ma'lumotlarini tekshirish qoidalari"),
- ("qo'shimcha o'lchov talab qilmaydi (2.4-jadval).", "qo'shimcha o'lchov talab qilmaydi (2.5-jadval)."),
- ("2.5-jadval. Xarita bo'yicha massivlar maydoni", "2.4-jadval. Xarita bo'yicha massivlar maydoni"),
- ("Massivlar maydoni 2.5-jadvalda keltirilgan.", "Massivlar maydoni 2.4-jadvalda keltirilgan."),
- ("jami biriktirilgan maydon 15 985 ga.", "jami biriktirilgan maydon 15 985 ga. Quduqlar soni manbalar bo'yicha farq qiladi: pasportda 188 ta, koordinatalar jadvalida 205 ta, 2024-yilgi xaritada 202 ta, 2009–2024-yillar kuzatuv jadvallarida esa jami 196 ta quduq uchraydi. Keyingi boblarda har bir hisob qaysi manbaga tayanishi ko'rsatiladi."),
- ("aholi punktlari va sug'orilmaydigan yerlar unga kirmaydi.", "aholi punktlari va sug'orilmaydigan yerlar unga kirmaydi. Bu maydon (20 662 ga) quduqlarga biriktirilgan maydon yig'indisidan (15 985 ga) katta \\[tumanning rasmiy sug'oriladigan maydoni bilan solishtiriladi\\]."),
- ("har yili aynan bir xil quduqlar solishtiriladi.", "har yili aynan bir xil quduqlar solishtiriladi. Natijalar 3.2-jadval va 3.1-rasmda keltirilgan."),
- ("ularga yaqinda xizmat ko'rsatilgan.", "ularga yaqinda xizmat ko'rsatilgan (4.1-rasm)."),
- ("ular umumiy ochiq tarmoq uzunligining 58 foizini", "ular ro'yxatdagi ochiq tarmoq uzunligining 58 foizini"),
- ("mediana 146,0 mln so'm/km.", "mediana 146,0 mln so'm/km. Yillar bo'yicha taqsimot 4.4-jadvalda keltirilgan."),
-]
+FIX = []  # eski tuzatishlar matnning o'ziga kiritilgan
 IMG = {"Ta'mir xarajatlari va meliorativ xavf massivlar bo'yicha": 'figures/ch4_cost_massif.png', "Ta'mir ta'sirining dinamik bahosi": 'figures/ch4_event_study.png', "Suv balansi va talab etiladigan drenaj moduli": 'figures/ch4_hydraulic.png', "Massivlar bo'yicha drenaj tarmog'ining solishtirma uzunligi va ichki zovurlar holati": 'figures/ch4_massif_reliability.png', "Andijon viloyati tumanlari bo'yicha ma'lumotlar ishonchliligi va sath tendensiyasi": 'figures/ch3_region.png', "Sizot suvlari minerallashuvining fazoviy taqsimoti va massivlar bo'yicha farqi": 'figures/ch3_miner.png', "Sizot suvi sathining kollektorgacha masofaga bog'liqligi": 'figures/ch3_network.png', "Sizot suvi sathining eksperimental va nazariy variogrammalari": 'figures/ch3_variogram.png', "Yozgi sizot suvi sathi va sayoz sath ehtimoli xaritalari": 'figures/ch3_summer_prob.png', "Kuzatuv tarmog'i zichligining kriging aniqligiga ta'siri": 'figures/ch3_density.png', "Sizot suvi sathining dinamikasi": 'figures/ch3_dynamics.png', "Kuzatuv quduqlari bo'yicha sizot suvi sathi tendensiyasi xaritasi": 'figures/ch3_trend_map.png', "Sizot suvi sathining massivlar bo'yicha mavsumiy yo'li": 'figures/ch3_season_massif.png', "Kuzatuv tarmog’i tarkibi va yaroqsiz o’lchovlar ulushi yillar bo’yicha": 'figures/ch3_audit.png', "Sizot suvi sathining ko'p yillik va mavsumiy dinamikasi": 'figures/ch3_dynamics.png', "Sizot suvi sathi va bahoning standart xatosi xaritalari": 'figures/ch3_kriging.png', "Xaritani joyiga bog’lash qoldiqlarining taqsimoti": 'figures/ch2_georef_residuals.png', "Marhamat tumani meliorativ tizimining geoma’lumotlar bazasi": 'figures/ch2_gis_layers.png', "Andijon meteostansiyasi bo’yicha yog’in, bug’lanuvchanlik va haroratning yillik yo’li": 'figures/ch2_climate.png', "Andijon meteostansiyasi bo'yicha yog'in, bug'lanuvchanlik va haroratning yillik yo'li": 'figures/ch2_climate.png', "Sizot suvi sathining ko'p yillik va mavsumiy dinamikasi": 'figures/ch3_dynamics.png', "Sizot suvi sathi va bahoning standart xatosi xaritalari": 'figures/ch3_kriging.png',
        "Kollektorlarning yoshi, ta'mir yillari va ta'mir narxi": 'figures/ch4_reliability_costs.png'}
 PB = '\n```{=openxml}\n<w:p><w:r><w:br w:type="page"/></w:r></w:p>\n```\n'
 TOC = ('\n```{=openxml}\n<w:p><w:r><w:fldChar w:fldCharType="begin" w:dirty="true"/></w:r><w:r><w:instrText xml:space="preserve"> TOC \\o "1-2" \\h \\z \\u </w:instrText></w:r>'
-       '<w:r><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:t>Mundarijani hosil qilish uchun shu satr ustida sichqonchaning o\'ng tugmasini bosib, «Maydonni yangilash» buyrug\'ini tanlang.</w:t></w:r>'
+       '<w:r><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:t>Mundarijani hosil qilish uchun shu satr ustida sichqonchaning oʻng tugmasini bosib, «Maydonni yangilash» buyrugʻini tanlang.</w:t></w:r>'
        '<w:r><w:fldChar w:fldCharType="end"/></w:r></w:p>\n```\n')
 def center(lines): return '\n'.join(f'::: {{custom-style="Markaz"}}\n{l or chr(160)}\n:::\n' for l in lines)
 parts = [center(["O'ZBEKISTON RESPUBLIKASI QISHLOQ XO'JALIGI VAZIRLIGI", "ANDIJON QISHLOQ XO'JALIGI VA AGROTEXNOLOGIYALAR INSTITUTI", '', "Qo'lyozma huquqida", "UDK: \\_\\_\\_\\_\\_\\_\\_\\_", '',
@@ -38,20 +27,25 @@ def prep(t):
     t = re.sub(r"```latex\n(.*?)\n```", lambda m: '$$' + m.group(1).strip() + '$$', t, flags=re.S)
     t = re.sub(r"^\*(\d+-ilova\..*?)\*\s*$", lambda m: f'\n::: {{custom-style="Sarlavha-jadval"}}\n{m.group(1)}\n:::\n', t, flags=re.M)
     return t
-for f in sorted(glob.glob('text/[0-5]_*.md')):
-    t = open(f, encoding='utf-8').read()
-    for a, b in FIX:
-        if a in t: t = t.replace(a, b)
-    t = re.sub(r"^\*Izoh: bu birinchi qoralama\..*?\*\s*$", '', t, flags=re.M)                 # ish izohlari
+import os, sys
+sys.path.insert(0, 'scripts'); import finalize_lib as FL
+files = sorted(glob.glob('text/[0-5]_*.md')) + (['text/6_ilovalar.md'] if os.path.exists('text/6_ilovalar.md') else [])
+texts = [open(f, encoding='utf-8').read() for f in files]
+refs = [re.sub(r'^\d+\.\s*', '', l.strip()) for l in open('text/refs_old.txt', encoding='utf-8') if l.strip()]
+texts, refs_md, refs_info = FL.refs_build(texts, refs); print('adabiyotlar:', refs_info)
+def finish(t):
+    t = re.sub(r"^\*Izoh: bu birinchi qoralama\..*?\*\s*$", '', t, flags=re.M)
     t = re.sub(r"^&#91;image: (.+?)\\\]\s*$", lambda m: f"\n![]({IMG[m.group(1)]}){{width=16cm}}\n", t, flags=re.M)
     t = re.sub(r"```latex\n(.*?)\n```", lambda m: '$$' + m.group(1).strip() + '$$', t, flags=re.S)
+    t = re.sub(r"^\*\d+-ilova\.\s*(.*?)\*\s*$", lambda m: f'\n::: {{custom-style="Sarlavha-jadval"}}\n{m.group(1)}\n:::\n', t, flags=re.M)
     t = re.sub(r"^\*(\d\.\d+-(?:jadval|rasm)\..*?)\*\s*$", lambda m: f'\n::: {{custom-style="Sarlavha-jadval"}}\n{m.group(1)}\n:::\n', t, flags=re.M)
-    parts += [PB, t]
-refs = [re.sub(r'^\d+\.\s*', '', l.strip()) for l in open('text/refs_old.txt', encoding='utf-8') if l.strip()]
-parts += [PB, "# FOYDALANILGAN ADABIYOTLAR RO'YXATI\n\n\\[Ro'yxat avvalgi variantdan olingan; manbalar qayta tekshirilishi, so'nggi yillardagi ishlar bilan to'ldirilishi va matndagi havolalar bo'yicha qayta raqamlanishi kerak.\\]\n\n"
-          + '\n'.join(f'{i}. {r}' for i, r in enumerate(refs, 1))]
-import os
-if os.path.exists('text/6_ilovalar.md'): parts += [PB, prep(open('text/6_ilovalar.md', encoding='utf-8').read())]
+    return FL.mark_placeholders(FL.typo(t))
+body = [finish(t) for t in texts]
+has_app = files[-1].endswith('6_ilovalar.md')
+for t in (body[:-1] if has_app else body): parts += [PB, t]
+parts += [PB, refs_md]
+if has_app: parts += [PB, body[-1]]
+parts[0] = FL.typo(parts[0])
 open('out/dissertatsiya.md', 'w', encoding='utf-8').write('\n\n'.join(parts))
 # --- andoza (reference.docx)
 subprocess.run('pandoc -o out/ref.docx --print-default-data-file reference.docx', shell=True, check=True)
@@ -81,6 +75,8 @@ for n, al in (('Markaz', WD_ALIGN_PARAGRAPH.CENTER), ('Sarlavha-jadval', WD_ALIG
     s = st.add_style(n, 1); s.base_style = st['Normal']; setfont(s, italic=(n != 'Markaz') or None); para(s, al, 0, 6 if n != 'Markaz' else 0, 3 if n != 'Markaz' else 0); s.paragraph_format.keep_with_next = (n != 'Markaz')
 for sec in d.sections:
     sec.page_width, sec.page_height = Mm(210), Mm(297); sec.left_margin, sec.right_margin, sec.top_margin, sec.bottom_margin = Mm(30), Mm(15), Mm(20), Mm(20)
+from docx.enum.style import WD_STYLE_TYPE
+_hl = d.styles.add_style('Toldirish', WD_STYLE_TYPE.CHARACTER); _rpr = _hl.element.get_or_add_rPr(); _h = OxmlElement('w:highlight'); _h.set(qn('w:val'), 'yellow'); _rpr.append(_h)
 d.save('out/ref.docx')
 subprocess.run('pandoc out/dissertatsiya.md -f markdown+pipe_tables+fenced_divs+tex_math_dollars+raw_attribute -o out/Dissertatsiya_qoralama.docx --reference-doc=out/ref.docx --resource-path=.', shell=True, check=True)
 # --- yakuniy ishlov: jadvallar, rasmlar, sahifa raqami
@@ -112,4 +108,8 @@ for sec in d.sections:                                    # sahifa raqami pastda
         else: e = OxmlElement('w:instrText'); e.text = txt
         r._r.append(e)
     r.font.size = Pt(12); r.font.name = 'Times New Roman'
+from docx.enum.text import WD_COLOR_INDEX
+for p in d.paragraphs:
+    for r in p.runs:
+        if r.style is not None and r.style.name == 'Toldirish': r.font.highlight_color = WD_COLOR_INDEX.YELLOW
 d.save('out/Dissertatsiya_qoralama.docx'); print('tables', len(d.tables), 'paragraphs', len(d.paragraphs))

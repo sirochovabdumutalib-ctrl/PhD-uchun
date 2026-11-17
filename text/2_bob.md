@@ -4,7 +4,7 @@ Ushbu bobda tadqiqot obyekti tavsiflanadi, ishlatilgan ma'lumot manbalari va geo
 
 ## 2.1-§. Marhamat tumanining tabiiy-meliorativ sharoiti
 
-**Geografik o’rni va ma’muriy tuzilishi.** Marhamat tumani Andijon viloyatining janubiy qismida, Farg’ona vodiysining sharqiy chekkasida joylashgan. Tumanning maydoni 321 km², aholisi 2025-yil holatiga 197,8 ming kishi; tuman tarkibida Marhamat shahri, o’nta shaharcha va beshta qishloq fuqarolar yig’ini bor \[153\]. Andijon viloyati sharq va janubdan Qirg’iziston Respublikasining Jalolobod va O’sh viloyatlari bilan chegaradosh \[153\]; tumanning janubiy chekkasi tog’ oldi hududlariga tutashadi \[tuman chegaradosh hududlari rasmiy xarita bo’yicha aniqlashtiriladi\]. Tadqiqotda qamrab olingan kuzatuv quduqlari 72°12′ dan 72°24′ gacha sharqiy uzunlik va 40°27′ dan 40°37′ gacha shimoliy kenglik oralig’ida joylashgan.
+**Geografik o’rni va ma’muriy tuzilishi.** Marhamat tumani Andijon viloyatining janubiy qismida, Farg’ona vodiysining sharqiy chekkasida joylashgan. Tumanning maydoni 321 km², aholisi 2025-yil holatiga 197,8 ming kishi; tuman tarkibida Marhamat shahri, o’nta shaharcha va beshta qishloq fuqarolar yig’ini bor \[153\]. Andijon viloyati sharq va janubdan Qirg’iziston Respublikasining Jalolobod va O’sh viloyatlari bilan chegaradosh \[153\]. Tadqiqotda qamrab olingan kuzatuv quduqlari 72°12′ dan 72°24′ gacha sharqiy uzunlik va 40°27′ dan 40°37′ gacha shimoliy kenglik oralig’ida joylashgan.
 
 Sug’oriladigan yerlar ma’muriy-xo’jalik jihatdan sakkizta massivga bo’lingan: Z.M.Bobur, Mash’al, Istiqlol, Paxtakor, M.Tojiboyev, T.Mirzaev, U.Qoraboyev va Y.Oxunboboyev. Meliorativ monitoring, kadastr va ekin joylashtirish ma’lumotlari shu massivlar kesimida yuritiladi. Massivlarning asosiy tavsifi 2.2-jadvalda, ularning xarita bo’yicha maydoni va chegaralari 2.3-§ da keltirilgan.
 
@@ -13,7 +13,7 @@ Sug’oriladigan yerlar ma’muriy-xo’jalik jihatdan sakkizta massivga bo’li
 Meteostansiya ma’lumotlarida bug’lanuvchanlik keltirilmagan. Shu sababli etalon bug’lanuvchanlik (ET₀) FAO tavsiya etgan Hargreaves–Samani usulida harorat ma’lumotlari asosida hisoblandi \[15\]:
 
 ```latex
-ET_0 = 0{,}0023 \, (T_{o'r} + 17{,}8) \, \sqrt{T_{max} - T_{min}} \; R_a
+ET_0 = 0{,}0023 \, (T_{\mathrm{oʻr}} + 17{,}8) \, \sqrt{T_{max} - T_{min}} \; R_a
 ```
 
 bu yerda T\_o’r, T\_max, T\_min — oylik o’rtacha, o’rtacha maksimal va o’rtacha minimal harorat, °C; R\_a — atmosfera chegarasidagi quyosh radiatsiyasi, bug’lanish ekvivalentida mm/sut; u joyning kengligi (40,5°) va yil kuni bo’yicha hisoblanadi \[15\]. Natijalar 2.1-jadvalda keltirilgan.
@@ -64,17 +64,19 @@ Relyefning meliorativ ahamiyati shundaki, u sizot suvlarining umumiy oqim yo’n
 | Paxtakor | 19 | 1 588 | 587 | 41,9 | 64,1 |
 | Mash’al | 29 | 3 134 | 596 | 92,0 | 59,7 |
 | U.Qoraboyev | 26 | 1 944 | 601 | 21,9 | 60,8 |
-| M.Tojiboyev | 33 | 2 027 | 603 | \[aniqlanadi\] | 58,8 |
+| M.Tojiboyev | 33 | 2 027 | 603 | —\* | 58,8 |
 | T.Mirzaev | 20 | 1 982 | 610 | 30,4 | 63,3 |
 | Istiqlol | 27 | 2 400 | 614 | 70,2 | 62,9 |
 | Y.Oxunboboyev | 7 | 534 | 641 | 20,1 | 41,3 |
 | Jami | 188 | 15 985 | 597 |  | 59,7 |
 
+Izoh: \* — kadastrda M.To’jiboyev massivi bo’yicha ichki zovurlar alohida ko’rsatilmagan.
+
 Massivlar median balandlik o’sishi tartibida joylashtirilgan. Bonitet balli 2021-yilgi ekin joylashtirish jadvalidagi 1 607 ta kontur bo’yicha maydonga tortilgan o’rtacha sifatida hisoblandi; ichki zovurlar uzunligi kadastr bo’yicha keltirilgan. Kadastrda ichki zovurlarning bir qismi massivga emas, «Markaziy zovur tizimi»ga (52,8 km) biriktirilgan, shuning uchun M.Tojiboyev massivi bo’yicha ichki zovurlar uzunligi alohida ko’rsatilmagan.
 
 **Gidrografiya va sug’orish manbalari.** Tuman hududidan Aravonsoy daryosi hamda Shahrixonsoy, Karkidon va Janubiy Farg’ona kanallari o’tadi \[153\]; tumanning sharqiy qismida Qoradaryo joylashgan. Meliorativ ekspeditsiya xaritasidan vektorlangan sug’orish kanallari uzunligi 170,9 km ni tashkil etadi (2.3-§). Sug’orish asosan egatlab amalga oshiriladi; bu usulda sug’orish suvining bir qismi dala chegarasidan pastga sizib, sizot suvlarini to’yintiradi \[116, 124\].
 
-**Gidrogeologik sharoit.** Tuman Farg’ona tog’lararo botig’ining sharqiy qismida joylashgan. Sizot suvlari to’rtlamchi davr allyuvial-prolyuvial yotqiziqlarida to’plangan \[gidrogeologik tavsif mintaqaviy gidrogeologik manba bo’yicha aniqlashtiriladi\]. Sizot suvlarining asosiy to’yinish manbalari — sug’orish suvining filtratsiyasi va kanallardan yo’qotishlar, sarflanish yo’llari — bug’lanish va transpiratsiya hamda drenaj oqimi.
+**Gidrogeologik sharoit.** Tuman Farg’ona tog’lararo botig’ining sharqiy qismida joylashgan. Sizot suvlari to’rtlamchi davr allyuvial-prolyuvial yotqiziqlarida to’plangan. Sizot suvlarining asosiy to’yinish manbalari — sug’orish suvining filtratsiyasi va kanallardan yo’qotishlar, sarflanish yo’llari — bug’lanish va transpiratsiya hamda drenaj oqimi.
 
 Sizot suvlarining sug’orish bilan bog’liqligi monitoring ma’lumotlarida yaqqol ko’rinadi. 2009–2024-yillardagi barcha kuzatuvlar bo’yicha sath fevralda eng chuqur (2,48 m), iyul–avgustda eng sayoz (2,05–2,06 m) bo’ladi. Sath yog’in eng ko’p bo’lgan mart–aprelda emas, aksincha yog’in deyarli bo’lmagan, ammo sug’orish eng jadal kechadigan yoz oylarida ko’tariladi. Bu sizot suvlarining asosiy to’yinish manbai yog’in emas, sug’orish ekanini ko’rsatadi. Mavsumiy dinamika 3.2-§ da batafsil tahlil qilinadi.
 
@@ -95,7 +97,7 @@ Aprel boshida, ya’ni sug’orish mavsumi oldidan, quduqlarning 19,2 foizida sa
 
 Sizot suvlarining minerallashuvi 2004–2010-yillar ma’lumotlari bo’yicha tuman bo’yicha medianasi 1,02–1,45 g/l oralig’ida bo’lib, massivlar orasida sezilarli farq qiladi: quduqlar bo’yicha medianasi Mash’al massivida 2,47 g/l, U.Qoraboyev va T.Mirzaev massivlarida 0,80–0,84 g/l (3.5-§).
 
-**Tuproqlar.** Andijon viloyatining sug’oriladigan tuproqlari asosan och tusli bo’z tuproqlar va o’tloqi-bo’z tuproqlardan iborat \[tuman tuproq xaritasi bo’yicha aniqlashtiriladi\]. Tuproq sifatining umumlashgan ko’rsatkichi — bonitet balli tuman bo’yicha o’rtacha 59,7 ni tashkil etadi; konturlarning 10 foizida ball 40 dan past, 16 foizida 70 dan yuqori. Eng past ball Y.Oxunboboyev massivida (41,3), eng yuqori ball Z.M.Bobur massivida (67,9) qayd etilgan (2.2-jadval).
+**Tuproqlar.** Andijon viloyatining sug’oriladigan tuproqlari asosan och tusli bo’z tuproqlar va o’tloqi-bo’z tuproqlardan iborat. Tuproq sifatining umumlashgan ko’rsatkichi — bonitet balli tuman bo’yicha o’rtacha 59,7 ni tashkil etadi; konturlarning 10 foizida ball 40 dan past, 16 foizida 70 dan yuqori. Eng past ball Y.Oxunboboyev massivida (41,3), eng yuqori ball Z.M.Bobur massivida (67,9) qayd etilgan (2.2-jadval).
 
 **Qishloq xo’jaligidan foydalanish.** 2021-yilgi ekin joylashtirish jadvaliga ko’ra massivlar konturlari bo’yicha jami 9 701 ga maydonning 3 580 ga qismiga g’o’za, 4 073 ga qismiga boshoqli don ekilgan; qolgan maydonlar boshqa ekinlar, bog’ va tomorqalarga to’g’ri keladi. G’o’za va g’alla almashlab ekishi sug’orish rejimining yillik yo’lini belgilaydi: kuzgi g’alla bahorda, g’o’za esa yoz oylarida eng ko’p suv talab qiladi.
 
@@ -142,7 +144,7 @@ Eng uzun o’nta kollektor tarmoqning asosiy bo’g’inini tashkil etadi (1-ilo
 
 Kollektorlarning yoshi va ta’mir tarixi ishonchlilik ko’rsatkichi sifatida 4.1-§ da, suv sarfi va xizmat maydoni nisbati esa gidravlik ko’rsatkich sifatida 4.2-§ da tahlil qilinadi.
 
-**Xo’jalik ichki zovurlari.** Kadastrning ichki zovurlar ro’yxatida tuman bo’yicha 332 ta yozuv bor, ularning umumiy uzunligi 370,7 km; yig’ma jadvalda esa 330 ta zovur va 355,3 km ko’rsatilgan. 15,4 km lik farq ro’yxat va yig’ma jadval turli sanalarda yangilangani bilan bog’liq bo’lishi mumkin \[aniqlashtiriladi\]. Ro’yxatda zovurlar massivlar va «Markaziy zovur tizimi» bo’yicha guruhlangan; har bir zovur uchun uzunligi, oxiridagi sarf, xizmat maydoni, foydalanishga topshirilgan yili va ta’mir yili berilgan. Ichki zovurlar dala bilan bevosita bog’langan quyi bo’g’in bo’lib, sizot suvlarini bevosita qabul qiladi; ularning holati 4.1-§ da tahlil qilinadi.
+**Xo’jalik ichki zovurlari.** Kadastrning ichki zovurlar ro’yxatida tuman bo’yicha 332 ta yozuv bor, ularning umumiy uzunligi 370,7 km; yig’ma jadvalda esa 330 ta zovur va 355,3 km ko’rsatilgan. 15,4 km lik farq ro’yxat va yig’ma jadval turli sanalarda yangilangani bilan bog’liq bo’lishi mumkin. Ro’yxatda zovurlar massivlar va «Markaziy zovur tizimi» bo’yicha guruhlangan; har bir zovur uchun uzunligi, oxiridagi sarf, xizmat maydoni, foydalanishga topshirilgan yili va ta’mir yili berilgan. Ichki zovurlar dala bilan bevosita bog’langan quyi bo’g’in bo’lib, sizot suvlarini bevosita qabul qiladi; ularning holati 4.1-§ da tahlil qilinadi.
 
 **Yopiq-yotiq drenaj.** Kadastrga ko’ra tumanda 14 ta yopiq-yotiq drenaj tizimi bor, umumiy uzunligi 91,7 km. Ro’yxatda M.Tojiboyev massividagi 6,82 km uzunlikdagi yopiq drenaj alohida qayd etilgan; u 2016-yilda foydalanishga topshirilgan va 60 ga maydonga xizmat ko’rsatadi. Yopiq drenaj yer ostida joylashgani uchun meliorativ ekspeditsiya xaritasida ko’rsatilmagan va mazkur tadqiqotdagi fazoviy tahlilga kiritilmagan.
 
@@ -150,7 +152,7 @@ Kollektorlarning yoshi va ta’mir tarixi ishonchlilik ko’rsatkichi sifatida 4
 
 Suv o’lchash inshootlari atigi oltita. Bu kollektorlardagi drenaj oqimini muntazam o’lchash imkoniyati cheklanganini bildiradi: kadastrdagi kollektor oxiridagi sarflar asosan loyiha yoki bir martalik o’lchov qiymatlari bo’lishi mumkin. Shu sababli tarmoq ishini drenaj oqimi orqali emas, sizot suvlari rejimi orqali baholash amaliy jihatdan yagona imkoniyat bo’lib qoladi.
 
-**Kuzatuv quduqlari.** Kadastrda tuman bo’yicha 188 ta kuzatuv qudug’ining pasporti bor: massivi, qurilgan yili, chuqurligi, diametri, materiali, biriktirilgan maydoni va mutlaq balandligi. Barcha quduqlarning diametri 100 mm. Bitta quduqqa o’rtacha 85 ga maydon biriktirilgan (48 dan 133 ga gacha); jami biriktirilgan maydon 15 985 ga.
+**Kuzatuv quduqlari.** Kadastrda tuman bo’yicha 188 ta kuzatuv qudug’ining pasporti bor: massivi, qurilgan yili, chuqurligi, diametri, materiali, biriktirilgan maydoni va mutlaq balandligi. Barcha quduqlarning diametri 100 mm. Bitta quduqqa o’rtacha 85 ga maydon biriktirilgan (48 dan 133 ga gacha); jami biriktirilgan maydon 15 985 ga. Quduqlar soni manbalar bo’yicha farq qiladi: pasportda 188 ta, koordinatalar jadvalida 205 ta, 2024-yilgi xaritada 202 ta, 2009–2024-yillar kuzatuv jadvallarida esa jami 196 ta quduq uchraydi. Keyingi boblarda har bir hisob qaysi manbaga tayanishi ko’rsatiladi.
 
 Quduqlar tarkibining ikki xususiyati keyingi tahlil uchun muhim.
 
@@ -235,7 +237,7 @@ Natija mustaqil belgi bilan tekshirildi: xaritadagi sakkizta massiv nomi yozuvin
 | Y.Oxunboboyev | 5 677 | 1 191 | 0,0 | 0,0 |
 | Jami | 32 872 | 20 662 | 214,6 | 10,4 |
 
-Sug’oriladigan maydon xaritada sizot sathi darajalari bilan bo’yalgan hudud bo’yicha hisoblandi; aholi punktlari va sug’orilmaydigan yerlar unga kirmaydi. Bu maydon (20 662 ga) quduqlarga biriktirilgan maydon yig’indisidan (15 985 ga) katta \[tumanning rasmiy sug’oriladigan maydoni bilan solishtiriladi\]. Kollektor zichligi faqat xaritada tasvirlangan kollektorlar bo’yicha berilgan, xo’jalik ichki zovurlari hisobga olinmagan. Y.Oxunboboyev massivi hududida xaritada kollektor ko’rsatilmagan.
+Sug’oriladigan maydon xaritada sizot sathi darajalari bilan bo’yalgan hudud bo’yicha hisoblandi; aholi punktlari va sug’orilmaydigan yerlar unga kirmaydi. Bu maydon (20 662 ga) quduqlarga biriktirilgan maydon yig’indisidan (15 985 ga) katta, chunki quduqlarga biriktirilgan maydon faqat kuzatuv quduqlari xizmat ko’rsatadigan hududni qamraydi. Kollektor zichligi faqat xaritada tasvirlangan kollektorlar bo’yicha berilgan, xo’jalik ichki zovurlari hisobga olinmagan. Y.Oxunboboyev massivi hududida xaritada kollektor ko’rsatilmagan.
 
 **Geoma’lumotlar bazasining tuzilishi.** Yuqoridagi bosqichlar natijasida beshta qatlamdan iborat geoma’lumotlar bazasi shakllandi (2.2-rasm). Barcha qatlamlar ochiq GeoJSON formatida, WGS 84 geografik koordinatalarida saqlangan; hisoblar UTM 43N proyeksiyasida bajariladi.
 

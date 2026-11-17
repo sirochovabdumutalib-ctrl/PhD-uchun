@@ -41,7 +41,7 @@ p30 = {'З.М.Бобур': 59, 'Истиқлол': 55, 'Й.Охунбобоев'
 by['risk_wells'] = pd.Series(risk); by['p30'] = pd.Series(p30)
 R['by_massif'] = by.reset_index().round(1).to_dict('records')
 q = by.dropna(subset=['risk_wells']); R['rho_cost_risk'] = [round(x, 3) for x in stats.spearmanr(q.cost_per_ha, q.p30)]
-lat = {'З.М.Бобур': 'Z.M.Bobur', 'Истиқлол': 'Istiqlol', 'Й.Охунбобоев': 'Y.Oxunboboyev', 'М.Тожибоев': "M.To'jiboyev", 'Машъал': "Mash'al", 'Пахтакор': 'Paxtakor', 'Т.Мирзаев': 'T.Mirzaev', 'У.Қорабоев': 'U.Qoraboyev'}
+lat = {'З.М.Бобур': 'Z.M.Bobur', 'Истиқлол': 'Istiqlol', 'Й.Охунбобоев': 'Y.Oxunboboyev', 'М.Тожибоев': "M.To'jiboyev", 'Машъал': "Mash'al", 'Пахтакор': 'Paxtakor', 'Т.Мирзаев': 'T.Mirzayev', 'У.Қорабоев': 'U.Qoraboyev'}
 fig, ax = plt.subplots(figsize=(6.5, 4.5))
 for m, r in by.iterrows():
     ax.scatter(r.p30, r.cost_per_ha, s=40 + r.irr_ha / 30, c='#1f5fa8', alpha=.7, edgecolor='k'); ax.annotate(lat[m], (r.p30, r.cost_per_ha), xytext=(5, 4), textcoords='offset points', fontsize=8)

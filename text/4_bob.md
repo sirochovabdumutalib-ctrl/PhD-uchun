@@ -143,7 +143,7 @@ Usulning asosiy sharti — parallel tendensiyalar: ta'mir bo'lmaganida ta'sir va
 
 *4.4-jadval. Kollektor ta'mirining sizot sathiga ta'siri bahosi*
 
-| Variant | β, m | 95 % ishonch oralig'i | p | Quduq-yillar |
+| Variant | β, m | 95 foizlik ishonch oralig'i | p | Quduq-yillar |
 | --- | --- | --- | --- | --- |
 | Asosiy model, yillik o'rtacha sath | −0,12 | −0,33 … +0,09 | 0,26 | 819 |
 | Yozgi sath (iyul–avgust) | −0,07 | −0,27 … +0,13 | 0,50 | 803 |
@@ -164,7 +164,7 @@ Variantlar orasida ishora o'zgaradi, bu barqaror ta'sir yo'qligini bildiradi. Bi
 
 &#91;image: Ta'mir ta'sirining dinamik bahosi\]
 
-*4.4-rasm. Kollektor ta'mirining sizot sathiga dinamik ta'siri: ta'mir yiliga nisbatan har bir yil uchun nazorat guruhiga nisbatan sath farqi va 95 % ishonch oralig'i (asos — ta'mirdan bir yil oldin)*
+*4.4-rasm. Kollektor ta'mirining sizot sathiga dinamik ta'siri: ta'mir yiliga nisbatan har bir yil uchun nazorat guruhiga nisbatan sath farqi va 95 foizlik ishonch oralig'i (asos — ta'mirdan bir yil oldin)*
 
 Ta'mirlangan kollektorlar ta'mir yili bo'yicha ham ajratildi. 2017-yilgacha ta'mirlangan kollektorlar yonidagi 28 ta quduq bo'yicha ta'sir −0,06 m (p = 0,59), 2018–2020-yillarda ta'mirlanganlar yonidagi 8 ta quduq bo'yicha −0,26 m (p = 0,11). Hech bir guruhda chuqurlashish yo'q.
 

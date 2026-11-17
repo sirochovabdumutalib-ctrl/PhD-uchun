@@ -10,7 +10,7 @@ def lines(n):
     return out
 fig, ax = plt.subplots(figsize=(8, 9.5))
 cols = ['#fde0b0', '#cfe8c4', '#d6e4f5', '#f5d6e8', '#e8e0f5', '#fff2b3', '#d9f0ec', '#f0d9c9']
-lat = {'З.М.Бобур': 'Z.M.Bobur', 'Истиқлол': 'Istiqlol', 'Й.Охунбобоев': 'Y.Oxunboboyev', 'М.Тожибоев': 'M.Tojiboyev', 'Машъал': "Mash'al", 'Пахтакор': 'Paxtakor', 'Т.Мирзаев': 'T.Mirzaev', 'У.Қорабоев': 'U.Qoraboyev'}
+lat = {'З.М.Бобур': 'Z.M.Bobur', 'Истиқлол': 'Istiqlol', 'Й.Охунбобоев': 'Y.Oxunboboyev', 'М.Тожибоев': "M.To'jiboyev", 'Машъал': "Mash'al", 'Пахтакор': 'Paxtakor', 'Т.Мирзаев': 'T.Mirzayev', 'У.Қорабоев': 'U.Qoraboyev'}
 for i, f in enumerate(json.load(open('gis/massifs.geojson'))['features']):
     g = shape(f['geometry']); polys = [g] if g.geom_type == 'Polygon' else list(g.geoms)
     for p in polys:

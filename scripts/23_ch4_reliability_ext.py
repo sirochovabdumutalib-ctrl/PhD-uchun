@@ -51,7 +51,7 @@ M = pd.DataFrame(rows); R['massif'] = M.to_dict('records')
 # composite: ranks (higher = weaker): low open density, high inner_norep, high coll_age, high coll_since
 Z = M.set_index('massif'); comp = pd.concat([(-Z.open_m_ha).rank(), Z.inner_norep.rank(), Z.coll_age.rank(), Z.coll_since.rank()], axis=1).mean(axis=1)
 R['composite_rank'] = comp.round(2).sort_values(ascending=False).to_dict()
-lat = {'З.М.Бобур': 'Z.M.Bobur', 'Истиқлол': 'Istiqlol', 'Й.Охунбобоев': 'Y.Oxunboboyev', 'М.Тожибоев': "M.To'jiboyev", 'Машъал': "Mash'al", 'Пахтакор': 'Paxtakor', 'Т.Мирзаев': 'T.Mirzaev', 'У.Қорабоев': 'U.Qoraboyev'}
+lat = {'З.М.Бобур': 'Z.M.Bobur', 'Истиқлол': 'Istiqlol', 'Й.Охунбобоев': 'Y.Oxunboboyev', 'М.Тожибоев': "M.To'jiboyev", 'Машъал': "Mash'al", 'Пахтакор': 'Paxtakor', 'Т.Мирзаев': 'T.Mirzayev', 'У.Қорабоев': 'U.Qoraboyev'}
 fig, ax = plt.subplots(1, 2, figsize=(12, 4.3)); Mz = M.set_index('massif').loc[[k for k in lat if k in M.massif.values]]; xi = np.arange(len(Mz))
 ax[0].bar(xi - .2, Mz.coll_m_ha, .4, color='#1f5fa8', label='Kollektorlar'); ax[0].bar(xi + .2, Mz.inner_m_ha, .4, color='#9ecae1', label='Ichki zovurlar')
 ax[0].set_xticks(xi); ax[0].set_xticklabels([lat[k] for k in Mz.index], rotation=35, ha='right'); ax[0].set_ylabel('Solishtirma uzunlik, m/ga'); ax[0].legend(fontsize=8); ax[0].grid(alpha=.3, axis='y'); ax[0].set_title('a', loc='left')
