@@ -157,3 +157,4 @@
 157. Roth J., Sant'Anna P.H.C., Bilinski A., Poe J. What's trending in difference-in-differences? A synthesis of the recent econometrics literature // Journal of Econometrics. – 2023. – Vol. 235, No. 2. – P. 2218–2244.
 158. Copernicus DEM – Global and European Digital Elevation Model (COP-DEM), GLO-30 // European Space Agency. [Elektron resurs]. – URL: https://doi.org/10.5270/ESA-c5d3d65 (murojaat sanasi: 17.11.2026).
 159. Runfola D., Anderson A., Baier H. et al. geoBoundaries: A global database of political administrative boundaries // PLoS ONE. – 2020. – Vol. 15, No. 4. – e0231866.
+160. Iste’mol narxlari indeksi: 2017–2026-yillar bo‘yicha oylik va yillik press-relizlar // O‘zbekiston Respublikasi Prezidenti huzuridagi Statistika agentligi. [Elektron resurs]. – URL: https://stat.uz (murojaat sanasi: 17.11.2026).

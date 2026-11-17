@@ -385,15 +385,17 @@ Izoh: Bo'ston va Paxtaobod tumanlari bo'yicha 14 yillik, Buloqboshi tumani bo'yi
 
 ## 28-ilova
 
-*28-ilova. Kollektorlarni ta'mirlash xarajatlari yillar bo'yicha*
+*28-ilova. Kollektorlarni ta'mirlash xarajatlari yillar bo'yicha (kadastrdagi narxlarda va 2026-yil oktabr narxlarida)*
 
-| Yil | Kollektorlar soni | Ta'mirlangan uzunlik, km | Xarajat, mln so'm | O'rtacha narx, mln so'm/km |
-| --- | --- | --- | --- | --- |
-| 2017 | 28 | 69,0 | 9 809 | 142,3 |
-| 2018 | 9 | 15,6 | 2 742 | 175,8 |
-| 2019 | 13 | 65,0 | 5 127 | 78,9 |
-| 2020 | 3 | 13,8 | 3 636 | 263,5 |
-| Jami | 53 | 163,3 | 21 314 | 130,5 |
+| Yil | Kollektorlar soni | Ta'mirlangan uzunlik, km | Xarajat, mln so'm (kadastr) | O'rtacha narx, mln so'm/km (kadastr) | Qayta hisoblash koeffitsiyenti | Xarajat, mln so'm (2026-yil narxlarida) | O'rtacha narx, mln so'm/km (2026-yil narxlarida) |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 2017 | 28 | 69,0 | 9 809 | 142,3 | 2,60 | 25 454 | 369,2 |
+| 2018 | 9 | 15,6 | 2 742 | 175,8 | 2,27 | 6 224 | 399,0 |
+| 2019 | 13 | 65,0 | 5 127 | 78,9 | 1,98 | 10 141 | 156,1 |
+| 2020 | 3 | 13,8 | 3 636 | 263,5 | 1,75 | 6 356 | 460,6 |
+| Jami | 53 | 163,3 | 21 314 | 130,5 | — | 48 176 | 295,0 |
+
+Izoh: qayta hisoblash iste'mol narxlari indeksi bo'yicha (4.4-§); ta'mir yili xarajati shu yilning o'rtacha narxlarida deb olingan.
 
 ## 29-ilova
 
