@@ -2,8 +2,6 @@
 
 Ushbu bobda tadqiqot obyekti tavsiflanadi, ishlatilgan ma'lumot manbalari va geoma'lumotlar bazasini shakllantirish tartibi bayon etiladi hamda keyingi boblarda qo'llanilgan tekshiruv va tahlil usullari asoslanadi.
 
-*Izoh: bu birinchi qoralama. Kvadrat qavsdagi joylar manba yoki qo'shimcha ma'lumot talab qiladi. Adabiyotlarga havolalar hali qo'yilmagan.*
-
 ## 2.1-§. Marhamat tumanining tabiiy-meliorativ sharoiti
 
 **Geografik o’rni va ma’muriy tuzilishi.** Marhamat tumani Andijon viloyatining janubiy qismida, Farg’ona vodiysining sharqiy chekkasida joylashgan. Tumanning maydoni 321 km², aholisi 2025-yil holatiga 197,8 ming kishi; tuman tarkibida Marhamat shahri, o’nta shaharcha va beshta qishloq fuqarolar yig’ini bor \[153\]. Andijon viloyati sharq va janubdan Qirg’iziston Respublikasining Jalolobod va O’sh viloyatlari bilan chegaradosh \[153\]; tumanning janubiy chekkasi tog’ oldi hududlariga tutashadi \[tuman chegaradosh hududlari rasmiy xarita bo’yicha aniqlashtiriladi\]. Tadqiqotda qamrab olingan kuzatuv quduqlari 72°12′ dan 72°24′ gacha sharqiy uzunlik va 40°27′ dan 40°37′ gacha shimoliy kenglik oralig’ida joylashgan.
