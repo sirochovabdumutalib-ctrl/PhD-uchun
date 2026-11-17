@@ -212,11 +212,11 @@ Birinchi qoida rasmiy ko’rinishda quyidagicha yoziladi: i-quduqning t-yildagi 
 n_{it} > 6 \quad \text{va} \quad \max_k h_{itk} - \min_k h_{itk} = 0
 ```
 
-O’lchovlar soni bo’yicha chegara (6 dan ko’p) bir necha o’lchov tasodifan bir xil chiqqan hollarni qoida ostiga tushirmaslik uchun qo’yilgan.
+O’lchovlar soni bo’yicha chegara (6 dan ko’p) bir necha o’lchov tasodifan bir xil chiqqan hollarni qoida ostiga tushirmaslik uchun qo’yilgan. Natija bu chegaraga sezgir emas: chegara 3 dan 12 gacha o’zgartirilganda Marhamat tumanida chiqariladigan quduq-yillar soni 267–272 oralig’ida qoladi, barqaror panel (84 ta quduq) va undagi tendensiya (yiliga 0,033 m) o’zgarmaydi.
 
 Uchinchi qoida bo’yicha tarmoq tarkibining o’zgarishi ikki ko’rsatkich bilan kuzatiladi: har yili kuzatilgan quduqlar soni va qiymatlarning yuqori chegarasi (masalan, 5 m dan chuqur o’lchovlar ulushi). Ulardan birining keskin o’zgarishi tarmoqqa yangi quduqlar qo’shilgani yoki o’lchash sharoiti o’zgarganini bildiradi. Bunday holatda barcha quduqlar bo’yicha yillik o’rtachalarni solishtirish noto’g’ri natija beradi.
 
-**Kesilgan qiymatlarni hisobga olish.** 1.4-§ da ko’rsatilganidek, quruq quduq haqiqiy sathni emas, faqat «sath quduq tubidan chuqur» degan ma’lumotni beradi. Birinchi qoida bunday holatlarning bir qismini — yil bo’yi bir xil shartli qiymat yozilgan qatorlarni — aniqlaydi. Qolgan holatlarni aniqlash uchun o’lchangan sath quduq pasportidagi chuqurlik bilan solishtiriladi: sath quduq chuqurligiga 0,1 m dan yaqin bo’lsa, o’lchov kesilgan deb belgilanadi. Bunday o’lchovlar ko’p yillik o’rtachani hisoblashda alohida ko’rib chiqiladi.
+**Kesilgan qiymatlarni hisobga olish.** 1.4-§ da ko’rsatilganidek, quruq quduq haqiqiy sathni emas, faqat «sath quduq tubidan chuqur» degan ma’lumotni beradi. Birinchi qoida bunday holatlarning bir qismini — yil bo’yi bir xil shartli qiymat yozilgan qatorlarni — aniqlaydi. Qolgan holatlarni aniqlash uchun o’lchangan sath quduq pasportidagi chuqurlik bilan solishtiriladi: sath quduq chuqurligiga 0,1 m dan yaqin bo’lsa, o’lchov kesilgan deb belgilanadi. Bu chegara 0,05 m dan 0,3 m gacha o’zgartirilganda kesilgan o’lchovlar ulushi 7,0 dan 11,6 foizgacha, ular chiqarilgandagi panel tendensiyasi yiliga 0,029 dan 0,026 m gacha o’zgaradi, ya’ni xulosalar chegaraga bog’liq emas. Bunday o’lchovlar ko’p yillik o’rtachani hisoblashda alohida ko’rib chiqiladi.
 
 **Ishonchlilik ko’rsatkichi.** Ma’lumotlar ishonchliligining umumiy bahosi sifatida tekshiruvdan o’tgan o’lchovlar ulushi olinadi:
 

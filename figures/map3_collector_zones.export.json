@@ -5,13 +5,13 @@
       "format": "pdf",
       "kind": "vector-container",
       "path": "/home/user/PhD-uchun/figures/map3_collector_zones.pdf",
-      "size_bytes": 3718787
+      "size_bytes": 3718785
     },
     {
       "format": "png",
       "kind": "raster",
       "path": "/home/user/PhD-uchun/figures/map3_collector_zones.png",
-      "size_bytes": 3936682
+      "size_bytes": 3937769
     }
   ],
   "provenance": {
@@ -35,7 +35,7 @@
         6.3
       ],
       "summer": [
-        1.82,
+        1.81,
         2.08,
         2.22,
         2.71

@@ -17,7 +17,8 @@ L = L.merge(cst, on=['year', 'well'], how='left'); L = L[L.c.isna()]
 P = pd.read_csv('data/wells_passport.csv'); P['well'] = P.well_no.map(norm); P['depth'] = pd.to_numeric(P.depth_cm, errors='coerce') / 100
 L = L.merge(P[['well', 'depth']].drop_duplicates('well'), on='well', how='left'); L['cens'] = L.depth.notna() & (L.level >= L.depth - 0.1)
 Lr = L[L.year >= 2019]
-win = Lr[Lr.decade.between(1, 6)].groupby('well')['level'].mean(); sumr = Lr[Lr.decade.between(19, 24)].groupby('well')['level'].mean()
+# yagona ta'rif (46-skript): avval yil ichida, keyin yillar bo'yicha o'rtacha
+win = Lr[Lr.decade.between(1, 6)].groupby(['well', 'year'])['level'].mean().groupby('well').mean(); sumr = Lr[Lr.decade.between(19, 24)].groupby(['well', 'year'])['level'].mean().groupby('well').mean()
 cshare = Lr.groupby('well').cens.mean()
 W['winter'] = W.well.map(win); W['summer'] = W.well.map(sumr); W['amp'] = W.winter - W.summer; W['cens_share'] = W.well.map(cshare)
 # per-well Sen (years)

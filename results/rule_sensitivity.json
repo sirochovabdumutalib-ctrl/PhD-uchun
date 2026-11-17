@@ -1,0 +1,58 @@
+{
+ "rule1": [
+  {
+   "k": 3,
+   "flagged": 272,
+   "share_obs": 0.1212,
+   "panel": 84,
+   "sen": 0.0328,
+   "p": 0.0005
+  },
+  {
+   "k": 6,
+   "flagged": 270,
+   "share_obs": 0.1211,
+   "panel": 84,
+   "sen": 0.0328,
+   "p": 0.0005
+  },
+  {
+   "k": 9,
+   "flagged": 269,
+   "share_obs": 0.121,
+   "panel": 84,
+   "sen": 0.0328,
+   "p": 0.0005
+  },
+  {
+   "k": 12,
+   "flagged": 267,
+   "share_obs": 0.1207,
+   "panel": 84,
+   "sen": 0.0328,
+   "p": 0.0005
+  }
+ ],
+ "censor": [
+  {
+   "d": 0.05,
+   "share_valid": 7.0,
+   "sen_no_cens": 0.0289
+  },
+  {
+   "d": 0.1,
+   "share_valid": 8.1,
+   "sen_no_cens": 0.0284
+  },
+  {
+   "d": 0.2,
+   "share_valid": 9.9,
+   "sen_no_cens": 0.027
+  },
+  {
+   "d": 0.3,
+   "share_valid": 11.6,
+   "sen_no_cens": 0.0262
+  }
+ ]
+}

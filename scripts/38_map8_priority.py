@@ -12,7 +12,7 @@ from matplotlib.patches import Patch
 dist = load('district'); M = massifs()
 # 4.7-jadval (matndan; xarajat 2026-yil narxlarida — results/cost_2026.json)
 PR = {'Z.M.Bobur': 'I', 'Istiqlol': 'I', 'Mashʼal': 'II', 'U.Qoraboyev': 'III', 'T.Mirzayev': 'III', 'Paxtakor': 'III', 'M.Toʻjiboyev': 'III', 'Y.Oxunboboyev': 'M'}
-P30 = {'Z.M.Bobur': 59, 'Istiqlol': 55, 'Mashʼal': 70, 'U.Qoraboyev': 19, 'T.Mirzayev': 28, 'Paxtakor': 21, 'M.Toʻjiboyev': 17, 'Y.Oxunboboyev': None}
+P30 = {'Z.M.Bobur': 58, 'Istiqlol': 55, 'Mashʼal': 71, 'U.Qoraboyev': 19, 'T.Mirzayev': 28, 'Paxtakor': 21, 'M.Toʻjiboyev': 17, 'Y.Oxunboboyev': None}
 RW = {'Z.M.Bobur': 17, 'Istiqlol': 12, 'Mashʼal': 17, 'U.Qoraboyev': 1, 'T.Mirzayev': 1, 'Paxtakor': 4, 'M.Toʻjiboyev': 4, 'Y.Oxunboboyev': None}
 TR = {'Z.M.Bobur': '↑', 'Istiqlol': '↓', 'Mashʼal': '↓', 'U.Qoraboyev': '↓', 'T.Mirzayev': '↓', 'Paxtakor': '↓', 'M.Toʻjiboyev': '↓', 'Y.Oxunboboyev': '—'}
 # ichki zovurlar va kollektorlar

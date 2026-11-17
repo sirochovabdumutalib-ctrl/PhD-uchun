@@ -1,0 +1,107 @@
+{
+ "n_wells": 167,
+ "n_risk": 113,
+ "thresholds": {
+  "1.5": {
+   "wells_pct": 23.4,
+   "wells_n": 39,
+   "map_pct": 1.1,
+   "p30": {
+    "district": 40.2,
+    "Z.M.Bobur": 57.6,
+    "Istiqlol": 55.1,
+    "Y.Oxunboboyev": 0.0,
+    "M.Toʻjiboyev": 17.0,
+    "Mashʼal": 70.6,
+    "Paxtakor": 21.2,
+    "T.Mirzayev": 27.9,
+    "U.Qoraboyev": 18.7
+   },
+   "risk_wells": 29
+  },
+  "2.0": {
+   "wells_pct": 55.1,
+   "wells_n": 92,
+   "map_pct": 48.6,
+   "p30": {
+    "district": 71.1,
+    "Z.M.Bobur": 81.9,
+    "Istiqlol": 89.4,
+    "Y.Oxunboboyev": 0.0,
+    "M.Toʻjiboyev": 44.0,
+    "Mashʼal": 98.3,
+    "Paxtakor": 95.2,
+    "T.Mirzayev": 44.2,
+    "U.Qoraboyev": 63.8
+   },
+   "risk_wells": 56
+  },
+  "2.5": {
+   "wells_pct": 77.8,
+   "wells_n": 130,
+   "map_pct": 74.4,
+   "p30": {
+    "district": 86.2,
+    "Z.M.Bobur": 95.8,
+    "Istiqlol": 100.0,
+    "Y.Oxunboboyev": 29.0,
+    "M.Toʻjiboyev": 86.6,
+    "Mashʼal": 99.6,
+    "Paxtakor": 100.0,
+    "T.Mirzayev": 61.0,
+    "U.Qoraboyev": 74.3
+   },
+   "risk_wells": 73
+  }
+ },
+ "p30_log": {
+  "district": 35.6,
+  "Z.M.Bobur": 59.2,
+  "Istiqlol": 55.1,
+  "Y.Oxunboboyev": 0.0,
+  "M.Toʻjiboyev": 14.9,
+  "Mashʼal": 60.3,
+  "Paxtakor": 11.7,
+  "T.Mirzayev": 24.6,
+  "U.Qoraboyev": 6.1
+ },
+ "p30_indicator": {
+  "district": 19.4,
+  "Z.M.Bobur": 42.3,
+  "Istiqlol": 31.2,
+  "Y.Oxunboboyev": 0.0,
+  "M.Toʻjiboyev": 12.5,
+  "Mashʼal": 27.3,
+  "Paxtakor": 7.4,
+  "T.Mirzayev": 1.5,
+  "U.Qoraboyev": 6.0
+ },
+ "p30_ok": {
+  "district": 40.2,
+  "Z.M.Bobur": 57.6,
+  "Istiqlol": 55.1,
+  "Y.Oxunboboyev": 0.0,
+  "M.Toʻjiboyev": 17.0,
+  "Mashʼal": 70.6,
+  "Paxtakor": 21.2,
+  "T.Mirzayev": 27.9,
+  "U.Qoraboyev": 18.7
+ },
+ "top3": {
+  "p30_ok": [
+   "Mashʼal",
+   "Z.M.Bobur",
+   "Istiqlol"
+  ],
+  "p30_log": [
+   "Mashʼal",
+   "Z.M.Bobur",
+   "Istiqlol"
+  ],
+  "p30_indicator": [
+   "Z.M.Bobur",
+   "Istiqlol",
+   "Mashʼal"
+  ]
+ }
+}

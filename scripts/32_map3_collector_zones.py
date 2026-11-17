@@ -18,7 +18,7 @@ g = L.groupby(['year', 'well'])['level'].agg(['nunique', 'count']).reset_index()
 cst = g[(g['nunique'] == 1) & (g['count'] > 6)][['year', 'well']].assign(c=1)
 L = L.merge(cst, on=['year', 'well'], how='left'); L = L[L.c.isna()]
 Lr = L[L.year >= 2019]
-W['summer'] = W.well.map(Lr[Lr.decade.between(19, 24)].groupby('well')['level'].mean())
+W['summer'] = W.well.map(Lr[Lr.decade.between(19, 24)].groupby(['well', 'year'])['level'].mean().groupby('well').mean())  # 46-skript ta'rifi
 ann = L.groupby(['well', 'year'])['level'].mean().unstack(); sen, pv = {}, {}
 for w_ in ann.index:
     s = ann.loc[w_].dropna()

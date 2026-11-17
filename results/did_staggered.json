@@ -1,0 +1,37 @@
+{
+ "cs_level": {
+  "att": -0.271,
+  "lo": -0.493,
+  "hi": -0.048,
+  "p": 0.02,
+  "cells_or_obs": 75
+ },
+ "cs_summer": {
+  "att": -0.19,
+  "lo": -0.42,
+  "hi": 0.073,
+  "p": 0.156,
+  "cells_or_obs": 75
+ },
+ "imputation_level": {
+  "att": -0.182,
+  "lo": -0.39,
+  "hi": 0.022,
+  "p": 0.084,
+  "cells_or_obs": 224
+ },
+ "imputation_summer": {
+  "att": -0.132,
+  "lo": -0.32,
+  "hi": 0.078,
+  "p": 0.184,
+  "cells_or_obs": 222
+ },
+ "cs_level_h0_3": {
+  "att": -0.112,
+  "lo": -0.287,
+  "hi": 0.102,
+  "p": 0.262,
+  "cells_or_obs": 29
+ }
+}

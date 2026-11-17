@@ -37,7 +37,7 @@ MA = pd.read_csv('data/massif_areas.csv').set_index('massif')
 by = KM.dropna(subset=['massif']).groupby('massif').agg(cost=('cost_m', 'sum'), n=('name', 'nunique')).reindex(MA.index).fillna(0)
 by['irr_ha'] = MA.irrigated_ha; by['cost_per_ha'] = (by.cost / by.irr_ha * 1000).round(0)  # ming so'm/ga
 risk = {'З.М.Бобур': 17, 'Истиқлол': 12, 'Й.Охунбобоев': None, 'М.Тожибоев': 4, 'Машъал': 17, 'Пахтакор': 4, 'Т.Мирзаев': 1, 'У.Қорабоев': 1}
-p30 = {'З.М.Бобур': 59, 'Истиқлол': 55, 'Й.Охунбобоев': 0, 'М.Тожибоев': 17, 'Машъал': 70, 'Пахтакор': 21, 'Т.Мирзаев': 28, 'У.Қорабоев': 19}
+p30 = {'З.М.Бобур': 58, 'Истиқлол': 55, 'Й.Охунбобоев': 0, 'М.Тожибоев': 17, 'Машъал': 71, 'Пахтакор': 21, 'Т.Мирзаев': 28, 'У.Қорабоев': 19}
 by['risk_wells'] = pd.Series(risk); by['p30'] = pd.Series(p30)
 R['by_massif'] = by.reset_index().round(1).to_dict('records')
 q = by.dropna(subset=['risk_wells']); R['rho_cost_risk'] = [round(x, 3) for x in stats.spearmanr(q.cost_per_ha, q.p30)]

@@ -50,7 +50,7 @@ monitoring tizimini takomillashtirish, ta’mir samaradorligini o’lchash va ma
 
 **Tadqiqotning ilmiy yangiligi** quyidagilardan iborat:
 
-ko’p yillik meliorativ monitoring qatorlarining ishonchliligini baholash usuli ishlab chiqilgan: yil ichidagi o’zgarmaslik, o’lchov birligi, kuzatuv tarmog’i tarkibi va kesilgan qiymatlar bo’yicha tekshiruv qoidalari asoslangan hamda ma’lumotlar nuqsonining sath chuqurligiga bog’liq tizimli xususiyatga egaligi Marhamat tumani massivlari va Andijon viloyatining 14 ta tumani misolida aniqlangan;
+ko’p yillik meliorativ monitoring qatorlarining ishonchliligini baholash usuli ishlab chiqilgan: yil ichidagi o’zgarmaslik, o’lchov birligi va kuzatuv tarmog’i tarkibi bo’yicha uchta tekshiruv qoidasi hamda kesilgan qiymatlarni aniqlash tartibi asoslangan hamda ma’lumotlar nuqsonining sath chuqurligiga bog’liq tizimli xususiyatga egaligi Marhamat tumani massivlari va Andijon viloyatining 14 ta tumani misolida aniqlangan;
 
 sizot suvi sathining ko’p yillik o’zgarishini kuzatuv tarmog’i tarkibining o’zgarishidan tozalangan holda baholash tartibi (barqaror panel) asoslangan, tekshiruvsiz hisob tendensiyani 1,4 baravar oshirib ko’rsatishi hamda tuman bo’yicha o’rtacha tendensiya massivlar orasidagi qarama-qarshi jarayonlarni yashirishi aniqlangan;
 
@@ -68,7 +68,7 @@ Marhamat tumani meliorativ tizimining geoma’lumotlar bazasi shakllantirilgan: 
 
 2009–2024-yillar monitoring ma’lumotlarining tekshirilgan bazasi va tekshiruv dasturi yaratilgan, dastur viloyat miqyosida (866 844 ta o’lchov) sinovdan o’tkazilgan;
 
-sizot suvi sathi, bahoning noaniqlik va yozgi sayoz sath ehtimoli xaritalari tuzilgan, sho’rlanish xavfi ostidagi 56 ta quduq aniqlangan va massivlar uchta ustuvorlik guruhiga ajratilgan (birinchi navbatda Z.M.Bobur va Istiqlol massivlari);
+sizot suvi sathi, bahoning noaniqlik va yozgi sayoz sath ehtimoli xaritalari tuzilgan, 2019–2024-yillardagi yozgi sath va 2004–2010-yillardagi minerallashuv bo’yicha sho’rlanish xavfi ostidagi 56 ta quduq aniqlangan va massivlar uchta ustuvorlik guruhiga ajratilgan (birinchi navbatda Z.M.Bobur va Istiqlol massivlari);
 
 kollektorlarni ta’mirlashning 2026-yil narxlaridagi haqiqiy narxi (medianasi 349 mln so’m/km), ta’mir turlari orasidagi narx farqi va hajm samarasi aniqlangan, ta’mir xarajatlarini kamaytirish imkoniyati 2017–2020-yillar xarajatlarining 22–44 foizi deb baholangan;
 
@@ -86,7 +86,7 @@ Tadqiqot natijalarining amaliy ahamiyati suv xo’jaligi tashkilotlariga monitor
 
 **Tadqiqot natijalarining e’lon qilinganligi.** Dissertatsiya mavzusi bo’yicha jami \[soni\] ta ilmiy ish chop etilgan, shulardan O’zbekiston Respublikasi Oliy attestatsiya komissiyasining dissertatsiyalar asosiy ilmiy natijalarini chop etish tavsiya etilgan ilmiy nashrlarida \[soni\] ta maqola, jumladan \[soni\] tasi respublika va \[soni\] tasi xorijiy jurnallarda nashr etilgan.
 
-**Dissertatsiyaning tuzilishi va hajmi.** Dissertatsiya kirish, to’rtta bob, umumiy xulosalar, 125 nomdagi foydalanilgan adabiyotlar ro’yxati va ilovalardan iborat. Dissertatsiyaning asosiy matni 120 betni tashkil etadi, unda 15 ta jadval, 16 ta rasm (shundan 14 tasi GAT asosida tuzilgan xarita va sxema) va 21 ta formula keltirilgan; yordamchi jadval va rasmlar 47 ta ilovada berilgan.
+**Dissertatsiyaning tuzilishi va hajmi.** Dissertatsiya kirish, to’rtta bob, umumiy xulosalar, 125 nomdagi foydalanilgan adabiyotlar ro’yxati va ilovalardan iborat. Dissertatsiyaning asosiy matni 120 betni tashkil etadi, unda 12 ta jadval, 16 ta rasm (shundan 14 tasi GAT asosida tuzilgan xarita va sxema) va 21 ta formula keltirilgan; yordamchi jadval va rasmlar 50 ta ilovada berilgan.
 
 Birinchi bobda meliorativ tizimlar ishonchliligi va samaradorligini baholashning mavjud usullari, meliorativ monitoringda GAT va geostatistik usullarning qo’llanilishi tahlil qilingan, hal etilmagan masalalar aniqlangan hamda tadqiqotning maqsad va vazifalari belgilangan.
 
