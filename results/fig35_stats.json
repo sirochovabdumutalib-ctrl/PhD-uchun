@@ -1,0 +1,22 @@
+{
+ "params": {
+  "psill": 2.286,
+  "range_m": 30000,
+  "nugget": 0.496
+ },
+ "text_mask": {
+  "zmin": 1.57,
+  "zmax": 4.52,
+  "sh20": 0.314,
+  "se_min": 0.79,
+  "se_max": 1.16
+ },
+ "district_mask": {
+  "zmin": 1.57,
+  "zmax": 4.52,
+  "sh20": 0.318,
+  "se_min": 0.79,
+  "se_max": 1.11,
+  "cover": 0.824
+ }
+}

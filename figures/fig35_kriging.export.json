@@ -1,0 +1,75 @@
+{
+  "notice": "Export completed with explicit settings. This report does not establish visual, accessibility, scientific-integrity, or journal-submission compliance.",
+  "outputs": [
+    {
+      "format": "pdf",
+      "kind": "vector-container",
+      "path": "/home/user/PhD-uchun/figures/fig35_kriging.pdf",
+      "size_bytes": 2261479
+    },
+    {
+      "format": "png",
+      "kind": "raster",
+      "path": "/home/user/PhD-uchun/figures/fig35_kriging.png",
+      "size_bytes": 3105991
+    }
+  ],
+  "provenance": {
+    "raw_data": [
+      "data/wells_metrics.csv (level_2019_2024_m)",
+      "gis/collectors.geojson",
+      "gis/district.geojson",
+      "gis/massifs.geojson"
+    ],
+    "stats": {
+      "district_mask": {
+        "cover": 0.824,
+        "se_max": 1.11,
+        "se_min": 0.79,
+        "sh20": 0.318,
+        "zmax": 4.52,
+        "zmin": 1.57
+      },
+      "params": {
+        "nugget": 0.496,
+        "psill": 2.286,
+        "range_m": 30000
+      },
+      "text_mask": {
+        "se_max": 1.16,
+        "se_min": 0.79,
+        "sh20": 0.314,
+        "zmax": 4.52,
+        "zmin": 1.57
+      }
+    },
+    "transformations": [
+      "ordinary kriging, exponential variogram fitted as in script 18",
+      "grid 150 m; display where nearest well <=1.5 km and inside district",
+      "classes: level 0.5 m; SE 0.05 m"
+    ]
+  },
+  "schema_version": "1.0",
+  "settings": {
+    "bbox_inches": null,
+    "dpi": 600.0,
+    "facecolor": "white",
+    "figure_size_inches": [
+      6.299212598425196,
+      4.355799678600033
+    ],
+    "font_mode": "truetype",
+    "formats": [
+      "pdf",
+      "png"
+    ],
+    "pad_inches": 0.1,
+    "tiff_rgb": false,
+    "transparent": false
+  },
+  "versions": {
+    "matplotlib": "3.11.2",
+    "pillow": "12.3.0"
+  },
+  "warnings": []
+}
