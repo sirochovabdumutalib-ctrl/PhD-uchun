@@ -1,0 +1,85 @@
+{
+  "notice": "Export completed with explicit settings. This report does not establish visual, accessibility, scientific-integrity, or journal-submission compliance.",
+  "outputs": [
+    {
+      "format": "pdf",
+      "kind": "vector-container",
+      "path": "/home/user/PhD-uchun/figures/map3_collector_zones.pdf",
+      "size_bytes": 3718787
+    },
+    {
+      "format": "png",
+      "kind": "raster",
+      "path": "/home/user/PhD-uchun/figures/map3_collector_zones.png",
+      "size_bytes": 3936682
+    }
+  ],
+  "provenance": {
+    "check_vs_table_3.6": {
+      "n": [
+        47,
+        57,
+        33,
+        31
+      ],
+      "n_trend": [
+        39,
+        39,
+        17,
+        17
+      ],
+      "sen_med_cm": [
+        1.7,
+        2.2,
+        2.2,
+        6.3
+      ],
+      "summer": [
+        1.82,
+        2.08,
+        2.22,
+        2.71
+      ]
+    },
+    "missing_data": "wells without summer values / <8 years shown with separate grey symbols",
+    "per_well_table": "results/map3_wells.csv",
+    "raw_data": [
+      "data/gw_levels_long.csv",
+      "data/wells_metrics.csv",
+      "gis/collectors.geojson",
+      "gis/district.geojson",
+      "gis/massifs.geojson",
+      "gis/dem/marhamat_dem30_utm43.tif"
+    ],
+    "transformations": [
+      "same QC as 3.1-§ (excluded years 2010/2013/2017, constant well-years removed, cm->m)",
+      "summer = mean of decades 19-24 (Jul-Aug), 2019-2024",
+      "Sen slope on annual means, wells with >=8 years; Mann-Kendall p",
+      "zones = buffers 150/400/800 m around union of collector lines, clipped to district",
+      "classes a {<1.5,1.5-2,2-2.5,2.5-3,>3} m; b {<-1,-1..1,1..3,3..6,>6} cm/yr"
+    ]
+  },
+  "schema_version": "1.0",
+  "settings": {
+    "bbox_inches": null,
+    "dpi": 600.0,
+    "facecolor": "white",
+    "figure_size_inches": [
+      6.299212598425196,
+      4.946350859702396
+    ],
+    "font_mode": "truetype",
+    "formats": [
+      "pdf",
+      "png"
+    ],
+    "pad_inches": 0.1,
+    "tiff_rgb": false,
+    "transparent": false
+  },
+  "versions": {
+    "matplotlib": "3.11.2",
+    "pillow": "12.3.0"
+  },
+  "warnings": []
+}
