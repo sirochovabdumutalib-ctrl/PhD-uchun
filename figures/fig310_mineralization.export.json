@@ -1,0 +1,58 @@
+{
+  "notice": "Export completed with explicit settings. This report does not establish visual, accessibility, scientific-integrity, or journal-submission compliance.",
+  "outputs": [
+    {
+      "format": "pdf",
+      "kind": "vector-container",
+      "path": "/home/user/PhD-uchun/figures/fig310_mineralization.pdf",
+      "size_bytes": 2132755
+    },
+    {
+      "format": "png",
+      "kind": "raster",
+      "path": "/home/user/PhD-uchun/figures/fig310_mineralization.png",
+      "size_bytes": 2876701
+    }
+  ],
+  "provenance": {
+    "check_vs_script20": {
+      "b13": 82,
+      "ge3": 4,
+      "lt1": 27,
+      "n": 113
+    },
+    "raw_data": [
+      "data/miner_1999_2015.csv (2004-2010)",
+      "data/wells_metrics.csv",
+      "results/ch3_miner_ext.json (massif medians, table 3.8)",
+      "gis/*.geojson"
+    ],
+    "transformations": [
+      "well median of all 2004-2010 values",
+      "classes <1, 1-1.5, 1.5-2, 2-3, >=3 g/l"
+    ]
+  },
+  "schema_version": "1.0",
+  "settings": {
+    "bbox_inches": null,
+    "dpi": 600.0,
+    "facecolor": "white",
+    "figure_size_inches": [
+      6.299212598425196,
+      4.5723351116709
+    ],
+    "font_mode": "truetype",
+    "formats": [
+      "pdf",
+      "png"
+    ],
+    "pad_inches": 0.1,
+    "tiff_rgb": false,
+    "transparent": false
+  },
+  "versions": {
+    "matplotlib": "3.11.2",
+    "pillow": "12.3.0"
+  },
+  "warnings": []
+}

@@ -303,9 +303,9 @@ Ikki manba bir-biri bilan ham solishtirildi. 2009-yilda bir xil quduqlar bo'yich
 
 Izoh: minerallashuv — 2004–2010-yillar, yozgi sath — 2019–2024-yillar (iyul–avgust) bo'yicha.
 
-&#91;image: Sizot suvlari minerallashuvining fazoviy taqsimoti va massivlar bo'yicha farqi\]
+&#91;image: Minerallashuv xaritasi\]
 
-*3.10-rasm. Sizot suvlari minerallashuvi, 2004–2010-yillar: a — quduqlar bo'yicha medianasi; b — massivlar bo'yicha taqsimoti (ko'k chiziq — 1 g/l, qizil chiziq — 3 g/l)*
+*3.10-rasm. Sizot suvlari minerallashuvi, 2004–2010-yillar: a — quduqlar bo'yicha medianasi (113 ta quduq); b — massivlar bo'yicha medianasi (3.8-jadval)*
 
 **Minerallashuvning sath va tarmoq bilan bog'liqligi.** Quduq darajasida minerallashuv sath bilan kuchsiz bog'langan: 2009–2016-yillardagi o'rtacha sath bilan ρ = −0,16 (p = 0,09), 2019–2024-yillardagi yozgi sath bilan ρ = −0,12 (p = 0,19). Yo'nalish kutilganidek: sath sayoz joyda minerallashuv biroz yuqori, lekin bog'lanish ishonchli emas. Kollektorgacha masofa (ρ = −0,01), tarmoq zichligi (ρ = +0,07) va kanalgacha masofa (ρ = −0,04) bilan bog'lanish umuman yo'q. Minerallashuvning fazoviy taqsimotini massivlar miqyosidagi gidrogeologik sharoit (sizot oqimining yo'nalishi, suvli qatlam tarkibi, sizot suvining hududda turib qolish vaqti) belgilaydi \[41; 53\]. Tumanning g'arbiy qismida minerallashuvning yuqoriligi 3.3-§ da aniqlangan sath trendi bilan mos: sizot suvi shimoli-g'arbiy qismda sayozroq va u yerda bug'lanish orqali tuz to'planishi kuchliroq.
 
