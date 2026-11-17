@@ -33,7 +33,12 @@
 \newcommand{\oakjadval}[2]{\par\Needspace{12\baselineskip}\vspace{2pt}\noindent\hfill #1\par\nopagebreak%
   {\centering\setstretch{1}\bfseries #2\par}\nopagebreak\vspace{-2pt}}
 \newcommand{\oakrasm}[1]{\vspace{-6pt}\begin{center}\setstretch{1}#1\end{center}\vspace{4pt}}
-\newcommand{\oakimg}[1]{\par\Needspace{14\baselineskip}\begin{center}\includegraphics[width=0.97\linewidth,height=0.62\textheight,keepaspectratio]{#1}\end{center}\nopagebreak}
+\newcommand{\oakimg}[1]{\par\Needspace{14\baselineskip}\begin{center}\includegraphics[width=0.94\linewidth,height=0.62\textheight,keepaspectratio]{#1}\end{center}\nopagebreak}
+% suzuvchi rasm (asosiy matn): bo'sh joy qoldirmaslik uchun; bob oxirida \clearpage barcha rasmlarni chiqaradi
+\newcommand{\oakfig}[2]{\begin{figure}[!tbp]\centering\includegraphics[width=0.94\linewidth,height=0.66\textheight,keepaspectratio]{#1}\par\vspace{2pt}{\setstretch{1}#2\par}\end{figure}}
+\renewcommand{\topfraction}{.92}\renewcommand{\bottomfraction}{.6}\renewcommand{\textfraction}{.06}\renewcommand{\floatpagefraction}{.72}
+\setcounter{topnumber}{2}\setcounter{bottomnumber}{1}\setcounter{totalnumber}{3}
+\setlength{\textfloatsep}{10pt plus 2pt minus 2pt}\setlength{\floatsep}{8pt plus 2pt}
 \newcommand{\toldir}[1]{\colorbox{yellow}{\strut #1}}
 % --- MUNDARIJA
 \renewcommand{\contentsname}{MUNDARIJA}

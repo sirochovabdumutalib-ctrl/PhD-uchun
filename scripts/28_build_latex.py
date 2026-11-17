@@ -23,6 +23,22 @@ b = re.sub(r'\\begin\{longtable\}.*?\\end\{longtable\}', grid, b, flags=re.S)
 b = b.replace('\\begin{longtable}', '\\noindent\\begin{longtable}')
 SUB = {'ᵢ': 'i', 'ₜ': 't', 'ₖ': 'k', 'ⱼ': 'j'}
 b = re.sub(r'([A-Za-z])([ᵢₜₖⱼ]+)', lambda m: '$' + m.group(1) + '_{' + ''.join(SUB[c] for c in m.group(2)) + '}$', b)
+# asosiy matndagi rasmlar suzuvchi (figure) qilinadi; ilovalardagilar o'z joyida qoladi
+def _floatify(t):
+    out, i = [], 0
+    while True:
+        j = t.find('\\oakimg{', i)
+        if j < 0: out.append(t[i:]); break
+        k = t.find('}', j); src = t[j + 8:k]
+        rest = t[k + 1:]; m = re.match(r'\s*\\oakrasm\{', rest)
+        if not m: out.append(t[i:k + 1]); i = k + 1; continue
+        st = k + 1 + m.end(); depth = 1; q = st
+        while depth:
+            depth += {'{': 1, '}': -1}.get(t[q], 0); q += 1
+        out.append(t[i:j] + '\\oakfig{' + src + '}{' + t[st:q - 1] + '}'); i = q
+    return ''.join(out)
+cut = b.find('FOYDALANILGAN ADABIYOTLAR')
+b = _floatify(b[:cut]) + b[cut:] if cut > 0 else b
 pre = open('latex/preamble.tex', encoding='utf-8').read()
 title = r"""
 \begin{document}

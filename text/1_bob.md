@@ -126,19 +126,7 @@ ko’rinishida hisoblanadi; S ning normallashtirilgan qiymati orqali tendensiyan
 
 **Ko’p mezonli baholash.** GATda ko’p mezonli qaror qabul qilish usullari, ayniqsa T.L.Saatining analitik iyerarxiya jarayoni, keng qo’llaniladi; ularning GAT bilan integratsiyasi J.Malczewski ishlarida tizimlashtirilgan \[70–72, 92–95\]. Bu usullarda bir nechta ko’rsatkich ekspertlar bergan vaznlar bilan yagona indeksga birlashtiriladi. Usulning kuchli tomoni — shaffofligi va qaror qabul qiluvchilar fikrini hisobga olishi. Cheklovi — natija ekspert vaznlariga bog’liq va ko’rsatkichlar orasidagi sabab-oqibat bog’lanishini aniqlamaydi; shuning uchun sezgirlik tahlili majburiy hisoblanadi \[79, 96\].
 
-**Markaziy Osiyodagi tadqiqotlar.** Mintaqada GAT va geostatistika asosan sizot suvlari rejimi va tuproq sho’rlanishini o’rganish uchun qo’llanilgan. Asosiy ishlar 1.2-jadvalda umumlashtirilgan.
-
-*1.2-jadval. Markaziy Osiyoda sizot suvlari rejimi va sho’rlanishni GAT va geostatistika yordamida o’rganish bo’yicha tadqiqotlar*
-
-| Mualliflar, yil | Hudud | Ma’lumotlar | Usul | Asosiy natija |
-| --- | --- | --- | --- | --- |
-| M.Ibrakhimov va boshq., 2007 \[53\] | Xorazm viloyati | 1990–2000-yillar, 1 972 ta kuzatuv qudug’i | Kriging | Vegetatsiya davrida hududning taxminan uchdan ikki qismida sizot sathi 1,5 m kritik chuqurlikdan sayoz |
-| I.Forkutsa va boshq., 2009 \[37\] | Xorazm viloyati | Dala tajribasi | Modellashtirish | Sayoz sizot suvi sharoitida g’o’zaning suv iste’moli baholangan |
-| A.Akramkhanov, P.L.G.Vlek, 2012 \[13\] | Xorazm viloyati | Tuproq o’lchovlari va atrof-muhit ko’rsatkichlari | Neyron tarmog’i | Tuproq sho’rlanishi xavfining fazoviy taqsimoti |
-| A.Hamidov va boshq., 2020 \[146\] | Xorazm viloyati | 1991–2017-yillar | Mann–Kendall mezoni, regressiya | 2100-yilgacha sath 1,72–1,79 m, minerallashuv 1,85–2,1 g/l bo’lishi prognoz qilingan |
-| Sh.Kenjabayev va boshq. \[60, 61\] | Xorazm, Qulovot | Monitoring va atrof-muhit ko’rsatkichlari | GAT tahlili | Yerlarning meliorativ holati baholangan |
-| A.Pulatov va boshq. \[84\] | Sirdaryo, Mirzaobod | Tuproq namunalari | Interpolyatsiya usullari qiyosi | Sho’rlanish xaritalari, usullar aniqligi solishtirilgan |
-| Sh.Kholdorov va boshq., 2023 \[147\] | Markaziy Farg’ona | Landsat 8, Sentinel-2, 2019-yil tuproq namunalari | Spektral indekslar | Landsat 8 bo’yicha NDSI va SI12 indekslari eng yaxshi natija bergan |
+**Markaziy Osiyodagi tadqiqotlar.** Mintaqada GAT va geostatistika asosan sizot suvlari rejimi va tuproq sho’rlanishini o’rganish uchun qo’llanilgan. Asosiy ishlar 2-ilovada umumlashtirilgan.
 
 Jadvaldan ko’rinadiki, tadqiqotlarning aksariyati Quyi Amudaryo hududiga, ayniqsa Xorazm viloyatiga to’g’ri keladi. Farg’ona vodiysi bo’yicha, xususan Andijon viloyati uchun, kuzatuv quduqlari ma’lumotlariga asoslangan fazoviy-vaqtli tahlil ishlari kam uchraydi.
 
@@ -174,9 +162,9 @@ Meliorativ monitoringda bir jinslilik masalasi ayniqsa dolzarb, chunki bu yerda 
 
 **Mahalliy amaliyot.** O’zbekistonda meliorativ monitoringni o’tkazish, kuzatuv quduqlarini jihozlash va hisobotlarni tuzish tartibi R.Q.Ikromov va hammualliflari qo’llanmasida bayon etilgan \[123\]; monitoring natijalari meliorativ kadastrga kiritiladi. Biroq ko’p yillik qatorlarni yig’ma bazaga kiritishdan oldin rasmiy qoidalar bo’yicha tekshirish tartibi va ma’lumotlar ishonchliligining miqdoriy ko’rsatkichi belgilanmagan. Kuzatuv tarmog’idagi o’zgarishlarni — yangi quduq qurish, chuqurlashtirish, ko’chirish — sanasi bilan qayd etish ham monitoring qatorlari bilan birga yuritilmaydi.
 
-**Aniqlangan bo’shliqlar.** 1.1–1.4-§ dagi tahlil quyidagi to’rtta hal etilmagan masalani ko’rsatadi (1.3-jadval).
+**Aniqlangan bo’shliqlar.** 1.1–1.4-§ dagi tahlil quyidagi to’rtta hal etilmagan masalani ko’rsatadi (1.2-jadval).
 
-*1.3-jadval. Adabiyotlar tahlili asosida aniqlangan hal etilmagan masalalar*
+*1.2-jadval. Adabiyotlar tahlili asosida aniqlangan hal etilmagan masalalar*
 
 | № | Hal etilmagan masala | Qayerda ko’rsatilgan | Dissertatsiyada hal etiladi |
 | --- | --- | --- | --- |

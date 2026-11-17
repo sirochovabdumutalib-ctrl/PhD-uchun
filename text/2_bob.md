@@ -20,7 +20,7 @@ Meteostansiya ma’lumotlarida bug’lanuvchanlik keltirilmagan. Shu sababli eta
 ET_0 = 0{,}0023 \, (T_{\mathrm{oʻr}} + 17{,}8) \, \sqrt{T_{\mathrm{max}} - T_{\mathrm{min}}} \; R_a
 ```
 
-bu yerda $T_{\mathrm{oʻr}}$, $T_{\mathrm{max}}$, $T_{\mathrm{min}}$ — oylik o’rtacha, o’rtacha maksimal va o’rtacha minimal harorat, °C; $R_{a}$ — atmosfera chegarasidagi quyosh radiatsiyasi, bug’lanish ekvivalentida mm/sut; u joyning kengligi (40,5°) va yil kuni bo’yicha hisoblanadi \[15\]. Natijalar 2-ilovada keltirilgan.
+bu yerda $T_{\mathrm{oʻr}}$, $T_{\mathrm{max}}$, $T_{\mathrm{min}}$ — oylik o’rtacha, o’rtacha maksimal va o’rtacha minimal harorat, °C; $R_{a}$ — atmosfera chegarasidagi quyosh radiatsiyasi, bug’lanish ekvivalentida mm/sut; u joyning kengligi (40,5°) va yil kuni bo’yicha hisoblanadi \[15\]. Natijalar 3-ilovada keltirilgan.
 
 Bu ma'lumotlardan tumanning suv rejimiga oid quyidagi xususiyatlar kelib chiqadi.
 
@@ -30,11 +30,7 @@ Yog’in va bug’lanuvchanlik mavsumlar bo’yicha qarama-qarshi taqsimlangan. 
 
 Faqat dekabr–fevralda yog’in bug’lanuvchanlikdan biroz oshadi. Bu davrda tuproqda tabiiy yuvilish sharoiti yuzaga keladi, lekin uning hajmi kichik (yiliga taxminan 24 mm). Yil davomida tuproqdagi tuz balansi musbat, ya’ni tuz to’planishiga moyillik mavjud; uni faqat sug’orish suvi bilan yuvish va drenaj orqali chiqarish kompensatsiya qiladi \[105, 126\].
 
-Iqlim ko’rsatkichlarining yillik yo’li 2.2-rasmda ko’rsatilgan.
-
-&#91;image: Andijon meteostansiyasi bo’yicha yog’in, bug’lanuvchanlik va haroratning yillik yo’li\]
-
-*2.2-rasm. Andijon meteostansiyasi bo’yicha oylik yog’in, hisoblangan etalon bug’lanuvchanlik va o’rtacha haroratning yillik yo’li (1961–1990)*
+Iqlim ko’rsatkichlarining yillik yo’li 4-ilovada ko’rsatilgan.
 
 Turli manbalarda Andijon uchun keltirilgan iqlim ko’rsatkichlari o’rtacha hisoblash davri va usuliga qarab farq qiladi: yillik yog’in 232 mm dan 384 mm gacha, o’rtacha yillik harorat 13,6–14,9 °C oralig’ida keltiriladi \[154\]. Yuqorida bitta manbaning bir xil davr uchun izchil ma’lumotlari ishlatildi. Hargreaves–Samani usuli to’liq Penman–Monteith tenglamasiga nisbatan taxminiy natija beradi; aniq hisob uchun namlik, shamol va quyosh radiatsiyasi ma’lumotlari kerak \[15\].
 
@@ -66,18 +62,7 @@ Massivlar median balandlik o’sishi tartibida joylashtirilgan. Bonitet balli 20
 
 Sizot suvlarining sug’orish bilan bog’liqligi monitoring ma’lumotlarida yaqqol ko’rinadi. 2009–2024-yillardagi barcha kuzatuvlar bo’yicha sath fevralda eng chuqur (2,48 m), iyul–avgustda eng sayoz (2,05–2,06 m) bo’ladi. Sath yog’in eng ko’p bo’lgan mart–aprelda emas, aksincha yog’in deyarli bo’lmagan, ammo sug’orish eng jadal kechadigan yoz oylarida ko’tariladi. Bu sizot suvlarining asosiy to’yinish manbai yog’in emas, sug’orish ekanini ko’rsatadi. Mavsumiy dinamika 3.2-§ da batafsil tahlil qilinadi.
 
-Meliorativ ekspeditsiyaning 2024-yil 1-aprel holatiga tuzilgan xaritasi bo’yicha sizot suvlari sathining kuzatuv quduqlari bo’yicha taqsimoti 2.2-jadvalda keltirilgan.
-
-*2.2-jadval. Sizot suvlari sathining kuzatuv quduqlari bo’yicha taqsimoti (2024-yil 1-aprel, 182 ta quduq)*
-
-| Sath chuqurligi | Quduqlar ulushi, % |
-| --- | --- |
-| 1,0 m gacha | 2,7 |
-| 1,0–1,5 m | 16,5 |
-| 1,5–2,0 m | 18,7 |
-| 2,0–3,0 m | 34,1 |
-| 3,0–5,0 m | 22,5 |
-| 5,0 m dan chuqur | 5,5 |
+Meliorativ ekspeditsiyaning 2024-yil 1-aprel holatiga tuzilgan xaritasi bo’yicha sizot suvlari sathining kuzatuv quduqlari bo’yicha taqsimoti 5-ilovada keltirilgan.
 
 Aprel boshida, ya’ni sug’orish mavsumi oldidan, quduqlarning 19,2 foizida sath 1,5 m dan sayoz bo’lgan; medianasi 2,34 m. Bu ko’rsatkich yillik eng sayoz holat emas: ko’p yillik ma’lumotlarga ko’ra iyul–avgustda sath aprel boshiga nisbatan o’rtacha yana 0,2 m ko’tariladi (3.2-§).
 
@@ -93,9 +78,9 @@ Sizot suvlarining minerallashuvi 2004–2010-yillar ma’lumotlari bo’yicha tu
 
 Meliorativ tizimning tarkibi Andijon viloyati meliorativ ekspeditsiyasining 2021-yil 1-yanvar holatidagi kadastri bo’yicha tavsiflanadi. Kadastr yig’ma jadvallar (tarmoq turlari, inshootlar) va obyektlar ro’yxatlaridan (har bir kollektor, ichki zovur, yopiq drenaj va kuzatuv qudug’i) iborat.
 
-**Kollektor-drenaj tarmog’ining umumiy tarkibi.** Kadastrning yig’ma jadvaliga ko’ra tumanda 621,1 km ochiq va 91,7 km yopiq-yotiq kollektor-drenaj tarmog’i mavjud (2.3-jadval). Tarmoq to’rt iyerarxik darajaga bo’linadi: magistral, tumanlararo, xo’jaliklararo kollektorlar va xo’jalik ichki zovurlari. Ochiq tarmoqning 57 foizi va yopiq drenajning 61 foizi suv iste’molchilari uyushmalari hisobida, qolgani davlat hisobida.
+**Kollektor-drenaj tarmog’ining umumiy tarkibi.** Kadastrning yig’ma jadvaliga ko’ra tumanda 621,1 km ochiq va 91,7 km yopiq-yotiq kollektor-drenaj tarmog’i mavjud (2.2-jadval). Tarmoq to’rt iyerarxik darajaga bo’linadi: magistral, tumanlararo, xo’jaliklararo kollektorlar va xo’jalik ichki zovurlari. Ochiq tarmoqning 57 foizi va yopiq drenajning 61 foizi suv iste’molchilari uyushmalari hisobida, qolgani davlat hisobida.
 
-*2.3-jadval. Marhamat tumani kollektor-drenaj tarmog’ining tarkibi (kadastr, 2021-yil 1-yanvar)*
+*2.2-jadval. Marhamat tumani kollektor-drenaj tarmog’ining tarkibi (kadastr, 2021-yil 1-yanvar)*
 
 | Tarmoq turi | Soni | Uzunligi, km | Ochiq tarmoqdagi ulushi, % | Hisobida |
 | --- | --- | --- | --- | --- |
@@ -113,20 +98,9 @@ Tumanning o’ziga xos xususiyati — davlatlararo kollektorlarning ko’pligi. 
 
 **Davlat hisobidagi kollektorlar.** Kadastrda davlat hisobidagi 90 ta kollektorning har biri uchun nomi, uzunligi, oxiridagi suv sarfi, xizmat ko’rsatish maydoni, foydalanishga topshirilgan yili, oxirgi ta’mir yili va ta’mirlangan uchastka (piketlar) ko’rsatilgan; 53 tasida ta’mir xarajati ham bor. Ularning umumiy uzunligi 265,8 km, xizmat ko’rsatish maydoni 11 079 ga; barchasi III kapitallik sinfiga kiradi va meliorativ ekspeditsiya tomonidan ishlatiladi.
 
-Kollektorlar o’lchami bo’yicha keskin farq qiladi (2.4-jadval). Ularning yarmi 2,1 km dan qisqa; 10 km dan uzunlari faqat bitta — G’arbiy Qoraqo’rg’on (12,5 km). Oxiridagi suv sarfi bo’yicha ham farq katta: 31 ta kollektorda sarf 0,01 m³/s gacha, faqat 5 tasida 1 m³/s dan ortiq. Barcha kollektorlar oxiridagi sarflar yig’indisi 18,3 m³/s.
+Kollektorlar o’lchami bo’yicha keskin farq qiladi (6-ilova). Ularning yarmi 2,1 km dan qisqa; 10 km dan uzunlari faqat bitta — G’arbiy Qoraqo’rg’on (12,5 km). Oxiridagi suv sarfi bo’yicha ham farq katta: 31 ta kollektorda sarf 0,01 m³/s gacha, faqat 5 tasida 1 m³/s dan ortiq. Barcha kollektorlar oxiridagi sarflar yig’indisi 18,3 m³/s.
 
-*2.4-jadval. Davlat hisobidagi kollektorlarning uzunlik va suv sarfi bo’yicha taqsimoti*
-
-| Uzunlik, km | Kollektorlar soni |  | Oxiridagi sarf, m³/s | Kollektorlar soni |
-| --- | --- | --- | --- | --- |
-| 1,0 gacha | 21 |  | 0,01 gacha | 31 |
-| 1,0–2,0 | 24 |  | 0,01–0,05 | 24 |
-| 2,0–5,0 | 30 |  | 0,05–0,2 | 25 |
-| 5,0–10,0 | 14 |  | 0,2–1,0 | 5 |
-| 10,0 dan ortiq | 1 |  | 1,0 dan ortiq | 5 |
-| Jami | 90 |  | Jami | 90 |
-
-Eng uzun o’nta kollektor tarmoqning asosiy bo’g’inini tashkil etadi (3-ilova). Ular asosan 1940–1950-yillarda qurilgan va 2012–2020-yillarda ta’mirlangan.
+Eng uzun o’nta kollektor tarmoqning asosiy bo’g’inini tashkil etadi (7-ilova). Ular asosan 1940–1950-yillarda qurilgan va 2012–2020-yillarda ta’mirlangan.
 
 Kollektorlarning yoshi va ta’mir tarixi ishonchlilik ko’rsatkichi sifatida 4.1-§ da, suv sarfi va xizmat maydoni nisbati esa gidravlik ko’rsatkich sifatida 4.2-§ da tahlil qilinadi.
 
@@ -134,7 +108,7 @@ Kollektorlarning yoshi va ta’mir tarixi ishonchlilik ko’rsatkichi sifatida 4
 
 **Yopiq-yotiq drenaj.** Kadastrga ko’ra tumanda 14 ta yopiq-yotiq drenaj tizimi bor, umumiy uzunligi 91,7 km. Ro’yxatda M.Tojiboyev massividagi 6,82 km uzunlikdagi yopiq drenaj alohida qayd etilgan; u 2016-yilda foydalanishga topshirilgan va 60 ga maydonga xizmat ko’rsatadi. Yopiq drenaj yer ostida joylashgani uchun meliorativ ekspeditsiya xaritasida ko’rsatilmagan va mazkur tadqiqotdagi fazoviy tahlilga kiritilmagan.
 
-**Gidrotexnik inshootlar.** Kollektor-drenaj tarmog’ida jami 455 ta inshoot qayd etilgan (4-ilova). Ularning yarmidan ko’pi (238 ta) davlat hisobidagi nazorat tarmog’i inshootlaridir. Inshootlar tarmoq ishonchliligida muhim o’rin tutadi: ko’prik va quvurli o’tish joylari ostida loyqa tez to’planadi va ular kollektorning o’tkazish qobiliyatini cheklovchi «tor joy» bo’lib qolishi mumkin \[89, 103\].
+**Gidrotexnik inshootlar.** Kollektor-drenaj tarmog’ida jami 455 ta inshoot qayd etilgan (8-ilova). Ularning yarmidan ko’pi (238 ta) davlat hisobidagi nazorat tarmog’i inshootlaridir. Inshootlar tarmoq ishonchliligida muhim o’rin tutadi: ko’prik va quvurli o’tish joylari ostida loyqa tez to’planadi va ular kollektorning o’tkazish qobiliyatini cheklovchi «tor joy» bo’lib qolishi mumkin \[89, 103\].
 
 Suv o’lchash inshootlari atigi oltita. Bu kollektorlardagi drenaj oqimini muntazam o’lchash imkoniyati cheklanganini bildiradi: kadastrdagi kollektor oxiridagi sarflar asosan loyiha yoki bir martalik o’lchov qiymatlari bo’lishi mumkin. Shu sababli tarmoq ishini drenaj oqimi orqali emas, sizot suvlari rejimi orqali baholash amaliy jihatdan yagona imkoniyat bo’lib qoladi.
 
@@ -142,18 +116,9 @@ Suv o’lchash inshootlari atigi oltita. Bu kollektorlardagi drenaj oqimini munt
 
 Quduqlar tarkibining ikki xususiyati keyingi tahlil uchun muhim.
 
-Kuzatuv tarmog’i asosan yangi. 188 ta quduqdan 120 tasi (64 foiz) 2013–2016-yillarda polietilen quvurdan qurilgan; 65 tasi 1971–1990-yillarda, 3 tasi 1991–2012-yillarda metall quvurdan qurilgan quduqlardir (2.5-jadval). Bu 3.1-§ da aniqlangan tarmoq tarkibi o’zgarishini izohlaydi.
+Kuzatuv tarmog’i asosan yangi. 188 ta quduqdan 120 tasi (64 foiz) 2013–2016-yillarda polietilen quvurdan qurilgan; 65 tasi 1971–1990-yillarda, 3 tasi 1991–2012-yillarda metall quvurdan qurilgan quduqlardir (9-ilova). Bu 3.1-§ da aniqlangan tarmoq tarkibi o’zgarishini izohlaydi.
 
-*2.5-jadval. Kuzatuv quduqlarining qurilish davri, materiali va chuqurligi*
-
-| Qurilish davri | Quduqlar soni | Material | Chuqurlik medianasi, m |
-| --- | --- | --- | --- |
-| 1971–1990 | 65 | Metall | 3,1 |
-| 1991–2012 | 3 | Metall | 3,2 |
-| 2013–2016 | 120 | Polietilen | 3,2 |
-| Jami | 188 |  | 3,2 |
-
-Quduqlar sayoz. Chuqurlik medianasi 3,2 m; 142 ta quduq (76 foiz) 2,5–3,5 m chuqurlikda, faqat 26 tasi (14 foiz) 4 m dan chuqur. Sizot suvi quduq tubidan pastga tushganda quduq quriydi va haqiqiy sathni o’lchab bo’lmaydi (1.4-§). 2024-yil 1-aprel holatiga quduqlarning 28 foizida sath 3 m dan chuqur bo’lgan (2.2-jadval), ya’ni ularning bir qismi o’lchov chegarasiga yaqin ishlaydi. Bu sath chuqur hududlarda monitoring sathni kamaytirib ko’rsatishi mumkinligini bildiradi; masala 3.1-§ da miqdoriy ko’rib chiqiladi.
+Quduqlar sayoz. Chuqurlik medianasi 3,2 m; 142 ta quduq (76 foiz) 2,5–3,5 m chuqurlikda, faqat 26 tasi (14 foiz) 4 m dan chuqur. Sizot suvi quduq tubidan pastga tushganda quduq quriydi va haqiqiy sathni o’lchab bo’lmaydi (1.4-§). 2024-yil 1-aprel holatiga quduqlarning 28 foizida sath 3 m dan chuqur bo’lgan (5-ilova), ya’ni ularning bir qismi o’lchov chegarasiga yaqin ishlaydi. Bu sath chuqur hududlarda monitoring sathni kamaytirib ko’rsatishi mumkinligini bildiradi; masala 3.1-§ da miqdoriy ko’rib chiqiladi.
 
 **Manbalar orasidagi farqlar.** Quduqlar soni manbalar bo’yicha farq qiladi: pasportda 188 ta, GAT eksportidagi koordinatalar jadvalida 205 ta, 2024-yilgi xaritada 202 ta, 2009–2024-yillar kuzatuv jadvallarida esa jami 196 ta quduq uchraydi. Farqlarning bir qismi nomlanishdagi tafovutlar bilan (masalan, «104А» va «104а»), bir qismi pasporti rasmiylashtirilmagan qo’shimcha quduqlar bilan izohlanadi. Keyingi boblarda har bir hisob qaysi manbaga tayanishi ko’rsatiladi.
 
@@ -163,11 +128,11 @@ Kadastr meliorativ tizimning tarkibi to’g’risida batafsil ma’lumot beradi,
 
 **Vazifaning qo’yilishi.** Kadastr meliorativ tizim tarkibi to’g’risida batafsil ma’lumot beradi, ammo uning yozuvlari fazoviy joylashuvga ega emas (2.2-§). Sizot rejimini drenaj tarmog’i bilan bog’lash uchun esa har bir kuzatuv qudug’i va har bir kollektorning joyi ma’lum bo’lishi kerak. Tadqiqot boshida tuman drenaj tarmog’ining tayyor raqamli qatlamlari mavjud emas edi. Shuning uchun birinchi amaliy vazifa mavjud manbalardan geoma’lumotlar bazasini tiklash bo’ldi.
 
-**Boshlang’ich manbalar.** Bazani shakllantirish uchun to’rt turdagi manba ishlatildi (5-ilova).
+**Boshlang’ich manbalar.** Bazani shakllantirish uchun to’rt turdagi manba ishlatildi (10-ilova).
 
 Asosiy qiyinchilik shundaki, faqat bitta manbada — quduqlar koordinatalari jadvalida — haqiqiy koordinatalar bor. Xaritalar esa koordinatalar tizimiga bog’lanmagan rasm ko’rinishida. Taklif etilgan usulning g’oyasi: quduqlar ham jadvalda (koordinatalari bilan), ham xaritada (raqami bilan) mavjud; demak ularni tayanch nuqta sifatida ishlatib, xaritani koordinatalar tizimiga bog’lash mumkin.
 
-**Bosqichlar.** Geoma’lumotlar bazasi oltita bosqichda shakllantirildi (6-ilova). Barcha bosqichlar dasturiy ravishda bajarildi va takrorlanadi.
+**Bosqichlar.** Geoma’lumotlar bazasi oltita bosqichda shakllantirildi (11-ilova). Barcha bosqichlar dasturiy ravishda bajarildi va takrorlanadi.
 
 **Rastrlash va yozuvlarni ajratish.** Xarita PDF faylida ikki qatlamdan iborat: rangli tasvir (fon, chiziqlar, belgilar) va vektor matn (yozuvlar). Bu holatdan foydalanildi: matn qatlami fayldan alohida o’qildi, har bir yozuvning matni, rangi, shrift o’lchami va sahifadagi o’rni saqlandi; tasvir esa yozuvlarsiz rastrlandi. Natijada quduq raqamlari (qora rangdagi yozuvlar) va o’lchangan qiymatlar (qizil rangdagi yozuvlar) belgining o’zidan ajratilgan holda olindi, chiziqlar esa yozuvlar bilan to’silmadi.
 
@@ -181,9 +146,9 @@ Juftlashda bir nechta xato aniqlandi va tuzatildi. Ikki quduqqa (137 va 141) yon
 E = a_1 x + a_2 y + a_3, \qquad N = b_1 x + b_2 y + b_3
 ```
 
-Oltita koeffitsiyent eng kichik kvadratlar usulida aniqlandi. Joydagi koordinatalar sifatida WGS 84 / UTM 43N proyeksiyasi tanlandi: tuman 72° sharqiy uzunlikdan sharqda joylashgan va UTM ning 43-zonasiga tushadi; bu proyeksiyada masofa va uzunliklar metrda o’lchanadi. Birinchi hisobdan keyin qoldig’i katta bo’lgan 9 ta nuqta chiqarib tashlandi va koeffitsiyentlar qayta aniqlandi. Chiqarilgan nuqtalarning barchasi nom bo’yicha juftlash xatosi bilan bog’liq: masalan, xaritada ikki marta uchraydigan raqamlar yoki «ПЕЗ» qo’shimchasi bilan farqlanadigan yaqin quduqlar. Bog’lash aniqligining ko’rsatkichlari 7-ilovada keltirilgan.
+Oltita koeffitsiyent eng kichik kvadratlar usulida aniqlandi. Joydagi koordinatalar sifatida WGS 84 / UTM 43N proyeksiyasi tanlandi: tuman 72° sharqiy uzunlikdan sharqda joylashgan va UTM ning 43-zonasiga tushadi; bu proyeksiyada masofa va uzunliklar metrda o’lchanadi. Birinchi hisobdan keyin qoldig’i katta bo’lgan 9 ta nuqta chiqarib tashlandi va koeffitsiyentlar qayta aniqlandi. Chiqarilgan nuqtalarning barchasi nom bo’yicha juftlash xatosi bilan bog’liq: masalan, xaritada ikki marta uchraydigan raqamlar yoki «ПЕЗ» qo’shimchasi bilan farqlanadigan yaqin quduqlar. Bog’lash aniqligining ko’rsatkichlari 12-ilovada keltirilgan.
 
-Qoldiqlarning taqsimoti 8-ilovada ko’rsatilgan. Nuqtalarning 91 foizida qoldiq 5 m dan kichik, ya’ni bitta-ikkita piksel darajasida. O’rtacha kvadratik qoldiq medianadan sezilarli katta, chunki uni bir nechta katta qoldiqli nuqta oshiradi. Aniqlangan piksel o’lchamining nazariy qiymatga deyarli to’liq mos kelishi xarita masshtabi buzilmaganini va affin almashtirish yetarli ekanini ko’rsatadi.
+Qoldiqlarning taqsimoti 13-ilovada ko’rsatilgan. Nuqtalarning 91 foizida qoldiq 5 m dan kichik, ya’ni bitta-ikkita piksel darajasida. O’rtacha kvadratik qoldiq medianadan sezilarli katta, chunki uni bir nechta katta qoldiqli nuqta oshiradi. Aniqlangan piksel o’lchamining nazariy qiymatga deyarli to’liq mos kelishi xarita masshtabi buzilmaganini va affin almashtirish yetarli ekanini ko’rsatadi.
 
 **Tarmoqni vektorlash.** Xaritada kollektorlar yashil, kanallar ko’k chiziq bilan tasvirlangan. Har bir rang alohida ajratildi; quduq belgilari ostida qolgan uzilishlar to’ldirildi, mayda shovqin (300 pikseldan kichik guruhlar) olib tashlandi. So’ng chiziq o’q chizig’iga (bir piksel qalinlikdagi skeletga) keltirildi va tugunlar orasidagi bo’laklar siniq chiziqlarga aylantirildi. Uzunligi 40 m dan qisqa bo’laklar skelet «tikanlari» sifatida chiqarib tashlandi. Natijada 332 ta kollektor bo’lagi (214,6 km) va 426 ta kanal bo’lagi (170,9 km) olindi.
 
@@ -195,25 +160,11 @@ Natijada 60 ta kollektorga chiziq geometriyasi biriktirildi; ularning xaritadagi
 
 **Massiv chegaralarini tiklash.** Xaritada massiv chegaralari qizil chiziq bilan berilgan, lekin ular ko’p joyda kollektor, kanal va aholi punktlari belgilari ostida qolib, uzuq-yuluq ko’rinadi. Shu sababli chegaralar ikki manbadan tiklandi. Qizil chiziq bo’laklari to’siq sifatida olindi: ularni kesib o’tish «narxi» oddiy hududdan 400 baravar yuqori qilib belgilandi. Har bir massivning pasportdagi quduqlaridan to’siqni hisobga oluvchi eng qisqa yo’l masofasi hisoblandi va hududning har bir katagi eng yaqin massivga biriktirildi. Qizil chiziq saqlangan joyda chegara aynan shu chiziqdan o’tadi; chiziq ko’rinmaydigan joyda u qo’shni massivlar quduqlari o’rtasidan o’tadi va taxminiydir.
 
-Natija mustaqil belgi bilan tekshirildi: xaritadagi sakkizta massiv nomi yozuvining har biri o’z poligoni ichiga tushdi. Pasportli 174 ta quduqning barchasi o’z massivi poligonida joylashgan; pasporti yo’q 28 ta quduq poligon bo’yicha massivga biriktirildi. Massivlar maydoni 2.6-jadvalda keltirilgan.
-
-*2.6-jadval. Xarita bo’yicha massivlar maydoni va kollektorlar zichligi*
-
-| Massiv | Umumiy maydon, ga | Sug’oriladigan maydon, ga | Kollektorlar (xaritada), km | Kollektor zichligi, m/ga |
-| --- | --- | --- | --- | --- |
-| Mash’al | 5 100 | 3 790 | 54,8 | 14,5 |
-| Z.M.Bobur | 3 928 | 3 610 | 39,2 | 10,9 |
-| T.Mirzaev | 4 553 | 3 371 | 24,0 | 7,1 |
-| M.Tojiboyev | 4 603 | 2 532 | 17,3 | 6,8 |
-| U.Qoraboyev | 2 698 | 2 420 | 32,2 | 13,3 |
-| Istiqlol | 4 458 | 2 146 | 34,1 | 15,9 |
-| Paxtakor | 1 854 | 1 601 | 12,9 | 8,0 |
-| Y.Oxunboboyev | 5 677 | 1 191 | 0,0 | 0,0 |
-| Jami | 32 872 | 20 662 | 214,6 | 10,4 |
+Natija mustaqil belgi bilan tekshirildi: xaritadagi sakkizta massiv nomi yozuvining har biri o’z poligoni ichiga tushdi. Pasportli 174 ta quduqning barchasi o’z massivi poligonida joylashgan; pasporti yo’q 28 ta quduq poligon bo’yicha massivga biriktirildi. Massivlar maydoni 14-ilovada keltirilgan.
 
 Sug’oriladigan maydon xaritada sizot sathi darajalari bilan bo’yalgan hudud bo’yicha hisoblandi; aholi punktlari va sug’orilmaydigan yerlar unga kirmaydi. Bu maydon (20 662 ga) quduqlarga biriktirilgan maydon yig’indisidan (15 985 ga) katta, chunki quduqlarga biriktirilgan maydon faqat kuzatuv quduqlari xizmat ko’rsatadigan hududni qamraydi. Kollektor zichligi faqat xaritada tasvirlangan kollektorlar bo’yicha berilgan, xo’jalik ichki zovurlari hisobga olinmagan. Y.Oxunboboyev massivi hududida xaritada kollektor ko’rsatilmagan.
 
-**Geoma’lumotlar bazasining tuzilishi.** Yuqoridagi bosqichlar natijasida beshta qatlamdan iborat geoma’lumotlar bazasi shakllandi (2.3-rasm). Barcha qatlamlar ochiq GeoJSON formatida, WGS 84 geografik koordinatalarida saqlangan; hisoblar UTM 43N proyeksiyasida bajariladi.
+**Geoma’lumotlar bazasining tuzilishi.** Yuqoridagi bosqichlar natijasida beshta qatlamdan iborat geoma’lumotlar bazasi shakllandi (2.2-rasm). Barcha qatlamlar ochiq GeoJSON formatida, WGS 84 geografik koordinatalarida saqlangan; hisoblar UTM 43N proyeksiyasida bajariladi.
 
 - Kuzatuv quduqlari (202 nuqta): quduq raqami, 2024-yil 1-aprel holatiga sath va minerallashuv, pasport ma’lumotlari, eng yaqin kollektor va kanalgacha masofa, 1 km radiusdagi kollektorlar uzunligi, 2009–2024-yillardagi tekshirilgan o’rtacha sath.
 - Kollektorlar (332 bo’lak, 214,6 km): bo’lak uzunligi, kadastrdagi nomi, foydalanishga topshirilgan va oxirgi ta’mir yili.
@@ -221,11 +172,11 @@ Sug’oriladigan maydon xaritada sizot sathi darajalari bilan bo’yalgan hudud 
 - Massivlar (8 poligon): nomi, umumiy va sug’oriladigan maydon.
 - Tuman chegarasi (1 poligon).
 
-Ularga qo’shimcha ravishda relyef qatlami sifatida Copernicus GLO-30 raqamli relyef modeli (30 m) UTM 43N proyeksiyasiga o’tkazilib qo’shildi \[158\]. Qatlamlarning tuzilishi va atributlari 2.3-rasmda ko’rsatilgan.
+Ularga qo’shimcha ravishda relyef qatlami sifatida Copernicus GLO-30 raqamli relyef modeli (30 m) UTM 43N proyeksiyasiga o’tkazilib qo’shildi \[158\]. Qatlamlarning tuzilishi va atributlari 2.2-rasmda ko’rsatilgan.
 
 &#91;image: Geoma’lumotlar bazasining qatlamlari\]
 
-*2.3-rasm. Tiklangan geoma’lumotlar bazasining tuzilishi: qatlamlar, geometriya turi, obyektlar soni va asosiy atributlar (qatlamlar qiya proyeksiyada, masshtabsiz)*
+*2.2-rasm. Tiklangan geoma’lumotlar bazasining tuzilishi: qatlamlar, geometriya turi, obyektlar soni va asosiy atributlar (qatlamlar qiya proyeksiyada, masshtabsiz)*
 
 Massivlar va kuzatuv quduqlari qatlamlari GIS Cloud geoaxborot platformasiga yuklanib, interaktiv xarita shakllantirildi \[155\]; xaritani suv xo’jaligi tashkilotlari mutaxassislari bilan ulashish va yangi o’lchovlar bilan to’ldirish mumkin. Monitoring va kadastr jadvallari quduq raqami va kollektor nomi orqali qatlamlarga bog’lanadi.
 
@@ -245,9 +196,9 @@ Nuqsonli qiymatlar tuzatilmaydi va taxminiy qiymat bilan to’ldirilmaydi, balki
 
 Har bir qoida natijasi alohida qayd etiladi, shuning uchun tekshiruvni boshqa tadqiqotchi takrorlashi va natijasini tekshirishi mumkin.
 
-**Tekshiruv qoidalari.** Sath qatorlari uchun uchta qoida qo’llaniladi (2.7-jadval).
+**Tekshiruv qoidalari.** Sath qatorlari uchun uchta qoida qo’llaniladi (2.3-jadval).
 
-*2.7-jadval. Monitoring ma’lumotlarini tekshirish qoidalari*
+*2.3-jadval. Monitoring ma’lumotlarini tekshirish qoidalari*
 
 | Qoida | Mezon | Asos | Chora |
 | --- | --- | --- | --- |
@@ -298,7 +249,7 @@ Tekshiruv dasturiy ravishda bajariladi va bir tuman ma’lumotini bir necha daqi
 
 ## 2.5-§. Statistik va geostatistik tahlil usullari
 
-Tekshirilgan ma’lumotlar beshta guruh usullari bilan tahlil qilindi. Har bir usul qaysi masala uchun va qaysi paragrafda qo’llanilgani 9-ilovada ko’rsatilgan.
+Tekshirilgan ma’lumotlar beshta guruh usullari bilan tahlil qilindi. Har bir usul qaysi masala uchun va qaysi paragrafda qo’llanilgani 15-ilovada ko’rsatilgan.
 
 **Ko’p yillik tendensiya.** Tendensiyaning mavjudligi parametrik bo’lmagan Mann–Kendall mezoni bilan tekshirildi \[59, 73\]. Mezon statistikasi S (1.3-§) tendensiya bo’lmaganda nolga yaqin bo’ladi; uning dispersiyasi
 

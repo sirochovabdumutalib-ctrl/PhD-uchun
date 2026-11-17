@@ -23,7 +23,7 @@ def prep(t):
     for a, b in FIX:
         if a in t: t = t.replace(a, b)
     t = re.sub(r"^\*Izoh: bu birinchi qoralama\..*?\*\s*$", '', t, flags=re.M)
-    t = re.sub(r"^&#91;image: (.+?)\\\]\s*$", lambda m: f"\n![]({IMG[m.group(1)]}){{width=16cm}}\n", t, flags=re.M)
+    t = re.sub(r"^&#91;image: (.+?)\\\]\s*$", lambda m: f"\n![]({IMG[m.group(1)]}){{width=15.5cm}}\n", t, flags=re.M)
     t = re.sub(r"```latex\n(.*?)\n```", lambda m: '$$' + m.group(1).strip() + '$$', t, flags=re.S)
     t = re.sub(r"^\*(\d+-ilova\..*?)\*\s*$", lambda m: f'\n::: {{custom-style="Sarlavha-jadval"}}\n{m.group(1)}\n:::\n', t, flags=re.M)
     return t
@@ -35,7 +35,7 @@ refs = [re.sub(r'^\d+\.\s*', '', l.strip()) for l in open('text/refs_old.txt', e
 texts, refs_md, refs_info = FL.refs_build(texts, refs); print('adabiyotlar:', refs_info)
 def finish(t):
     t = re.sub(r"^\*Izoh: bu birinchi qoralama\..*?\*\s*$", '', t, flags=re.M)
-    t = re.sub(r"^&#91;image: (.+?)\\\]\s*$", lambda m: f"\n![]({IMG[m.group(1)]}){{width=16cm}}\n", t, flags=re.M)
+    t = re.sub(r"^&#91;image: (.+?)\\\]\s*$", lambda m: f"\n![]({IMG[m.group(1)]}){{width=15.5cm}}\n", t, flags=re.M)
     t = re.sub(r"```latex\n(.*?)\n```", lambda m: '$$' + m.group(1).strip() + '$$', t, flags=re.S)
     t = re.sub(r"^\*\d+-ilova\.\s*(.*?)\*\s*$", lambda m: f'\n::: {{custom-style="Sarlavha-jadval"}}\n**{m.group(1)}**\n:::\n', t, flags=re.M)
     t = re.sub(r"^\*(\d\.\d+-jadval)\.\s*(.*?)\*\s*$", lambda m: f'\n::: {{custom-style="Jadval-raqam"}}\n{m.group(1)}\n:::\n\n::: {{custom-style="Sarlavha-jadval"}}\n**{m.group(2)}**\n:::\n', t, flags=re.M)
