@@ -105,7 +105,7 @@ ANDIJON — 2026
 
 
 ```{=openxml}
-<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+<w:p><w:pPr><w:spacing w:before="0" w:after="0" w:line="20" w:lineRule="exact"/><w:rPr><w:sz w:val="2"/></w:rPr></w:pPr><w:r><w:rPr><w:sz w:val="2"/></w:rPr><w:br w:type="page"/></w:r></w:p>
 ```
 
 
@@ -122,7 +122,7 @@ ANDIJON — 2026
 
 
 ```{=openxml}
-<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+<w:p><w:pPr><w:spacing w:before="0" w:after="0" w:line="20" w:lineRule="exact"/><w:rPr><w:sz w:val="2"/></w:rPr></w:pPr><w:r><w:rPr><w:sz w:val="2"/></w:rPr><w:br w:type="page"/></w:r></w:p>
 ```
 
 
@@ -212,7 +212,7 @@ Tadqiqot natijalarining amaliy ahamiyati suv xoʻjaligi tashkilotlariga monitori
 
 **Tadqiqot natijalarining eʼlon qilinganligi.** Dissertatsiya mavzusi boʻyicha jami [\[soni\]]{custom-style="Toldirish"} ta ilmiy ish chop etilgan, shulardan Oʻzbekiston Respublikasi Oliy attestatsiya komissiyasining dissertatsiyalar asosiy ilmiy natijalarini chop etish tavsiya etilgan ilmiy nashrlarida [\[soni\]]{custom-style="Toldirish"} ta maqola, jumladan [\[soni\]]{custom-style="Toldirish"} tasi respublika va [\[soni\]]{custom-style="Toldirish"} tasi xorijiy jurnallarda nashr etilgan.
 
-**Dissertatsiyaning tuzilishi va hajmi.** Dissertatsiya kirish, toʻrtta bob, umumiy xulosalar, 137 nomdagi foydalanilgan adabiyotlar roʻyxati va ilovalardan iborat. Dissertatsiyaning asosiy matni 120 betni tashkil etadi, unda 11 ta jadval, 16 ta rasm (shundan 14 tasi GAT asosida tuzilgan xarita va sxema) va 21 ta formula keltirilgan; yordamchi jadval va rasmlar 52 ta ilovada berilgan.
+**Dissertatsiyaning tuzilishi va hajmi.** Dissertatsiya kirish, toʻrtta bob, umumiy xulosalar, 137 nomdagi foydalanilgan adabiyotlar roʻyxati va ilovalardan iborat. Dissertatsiyaning asosiy matni 120 betni tashkil etadi, unda 9 ta jadval, 16 ta rasm (shundan 14 tasi GAT asosida tuzilgan xarita va sxema) va 21 ta formula keltirilgan; yordamchi jadval va rasmlar 54 ta ilovada berilgan.
 
 Birinchi bobda meliorativ tizimlar ishonchliligi va samaradorligini baholashning mavjud usullari, meliorativ monitoringda GAT va geostatistik usullarning qoʻllanilishi tahlil qilingan, hal etilmagan masalalar aniqlangan hamda tadqiqotning maqsad va vazifalari belgilangan.
 
@@ -225,7 +225,7 @@ Toʻrtinchi bobda tizim elementlarining ishonchlilik koʻrsatkichlari, talab eti
 
 
 ```{=openxml}
-<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+<w:p><w:pPr><w:spacing w:before="0" w:after="0" w:line="20" w:lineRule="exact"/><w:rPr><w:sz w:val="2"/></w:rPr></w:pPr><w:r><w:rPr><w:sz w:val="2"/></w:rPr><w:br w:type="page"/></w:r></w:p>
 ```
 
 
@@ -237,7 +237,7 @@ Toʻrtinchi bobda tizim elementlarining ishonchlilik koʻrsatkichlari, talab eti
 
 Muammoning koʻlami global xarakterga ega. FAOning 2024-yilgi baholashiga koʻra, dunyoda shoʻrlangan tuproqlar 1 381 mln gektarni, yaʼni quruqlikning 10,7 foizini egallaydi; sugʻoriladigan ekin maydonlarining taxminan 10 foizi shoʻrlanishdan zarar koʻrgan \[51\]. Shoʻrlanishning sabablari, tarqalishi va unga qarshi kurash strategiyalari F.Ghassemi va hammualliflari, P.Rengasamy, M.Qadir va hammualliflari, S.A.Shahid va hammualliflari ishlarida tahlil qilingan \[55, 102, 103, 116\]. Ushbu sharhlarning umumiy xulosasi shundaki, sugʻoriladigan yerlarda tuz balansini boshqarishning ishonchli yoʻli ortiqcha suv va tuzni drenaj orqali chiqarishdir; drenajsiz sugʻorish uzoq muddatda yerni ishdan chiqaradi.
 
-**Drenaj — asosiy muhandislik chorasi.** Drenaj tizimi sizot suvlari sathini ekin uchun xavfsiz chuqurlikda ushlab turadi va shoʻr yuvish suvlarini hududdan chiqaradi. Ochiq va yopiq gorizontal drenaj, vertikal drenaj quduqlari hamda ularni birlashtiruvchi kollektorlar tarmogʻi yagona tizim boʻlib ishlaydi: dala zovuri yigʻgan suv xoʻjaliklararo kollektorga, undan magistral kollektorga oʻtadi. Tizimning biror boʻgʻinida suv oʻtkazish qobiliyati pasaysa, undan yuqoridagi barcha boʻgʻinlarda suv sathi koʻtariladi va drenajning ishlash chuqurligi kamayadi. Drenajni loyihalash nazariyasi A.N.Kostyakov, S.F.Averyanov, I.P.Aydarov ishlarida, xorijda S.B.Hooghoudt, L.F.Ernst va D.Kirkham tadqiqotlarida yaratilgan \[9, 11, 20, 50, 67, 76\]; zamonaviy loyihalash, qurish va ekspluatatsiya qilish amaliyoti H.P.Ritzema tahriridagi qoʻllanmada hamda L.K.Smedema, W.F.Vlotman va D.W.Rycroft kitobida jamlangan \[106, 120, 127\]. Drenajning sizot sathiga taʼsiri nazorat qilinadigan dala tajribalarida yaqqol koʻrinadi: Tarim havzasida yopiq drenaj drenajsiz variantga nisbatan sizot sathini chuqurlashtirgan va uning tebranishini kamaytirgan, drenlar orasi qisqargan sari bu taʼsir kuchaygan \[131\]. Biroq bunday tajribalar ekspluatatsiyadagi yirik tarmoqning ishini baholash uchun bevosita qoʻllanmaydi.
+**Drenaj — asosiy muhandislik chorasi.** Drenaj tizimi sizot suvlari sathini ekin uchun xavfsiz chuqurlikda ushlab turadi va shoʻr yuvish suvlarini hududdan chiqaradi. Ochiq va yopiq gorizontal drenaj, vertikal drenaj quduqlari hamda ularni birlashtiruvchi kollektorlar tarmogʻi yagona tizim boʻlib ishlaydi: dala zovuri yigʻgan suv xoʻjaliklararo kollektorga, undan magistral kollektorga oʻtadi. Tizimning biror boʻgʻinida suv oʻtkazish qobiliyati pasaysa, undan yuqoridagi barcha boʻgʻinlarda suv sathi koʻtariladi va drenajning ishlash chuqurligi kamayadi. Drenajni loyihalash nazariyasi A.N.Kostyakov, S.F.Averyanov, I.P.Aydarov ishlarida, xorijda S.B.Hooghoudt, L.F.Ernst va D.Kirkham tadqiqotlarida yaratilgan \[9, 11, 20, 50, 67, 76\]; zamonaviy loyihalash, qurish va ekspluatatsiya qilish amaliyoti H.P.Ritzema tahriridagi qoʻllanmada hamda L.K.Smedema, W.F.Vlotman va D.W.Rycroft kitobida jamlangan \[106, 120, 127\]. Drenajning sizot sathiga taʼsiri nazorat qilinadigan dala tajribalarida koʻrinadi: Tarim havzasida yopiq drenaj drenajsiz variantga nisbatan sizot sathini chuqurlashtirgan va uning tebranishini kamaytirgan, drenlar orasi qisqargan sari bu taʼsir kuchaygan \[131\]. Biroq bunday tajribalar ekspluatatsiyadagi yirik tarmoqning ishini baholash uchun bevosita qoʻllanmaydi.
 
 Ochiq kollektor-drenaj tarmogʻining oʻziga xos xususiyati uning vaqt oʻtishi bilan muqarrar yomonlashishidir. Oʻzanga loyqa choʻkadi, qirgʻoqlar oʻpirilib tushadi, tub va yonbagʻirlarni qamish va boshqa oʻsimliklar bosadi. Natijada koʻndalang kesim torayadi, gʻadir-budurlik ortadi va kollektor loyihaviy sarfni oʻtkaza olmay qoladi. Shu sababli ochiq tarmoq muntazam tozalash va taʼmirlashni talab qiladi; bu ishlar toʻxtasa, tizim rasman mavjud boʻlgani holda oʻz vazifasini bajarmay qoʻyadi \[106, 120\].
 
@@ -354,7 +354,7 @@ koʻrinishida hisoblanadi; S ning normallashtirilgan qiymati orqali tendensiyani
 
 **Koʻp mezonli baholash.** GATda koʻp mezonli qaror qabul qilish usullari, ayniqsa T.L.Saatining analitik iyerarxiya jarayoni, keng qoʻllaniladi; ularning GAT bilan integratsiyasi J.Malczewski ishlarida tizimlashtirilgan \[85–87, 110–113\]. Bu usullarda bir nechta koʻrsatkich ekspertlar bergan vaznlar bilan yagona indeksga birlashtiriladi. Usulning kuchli tomoni — shaffofligi va qaror qabul qiluvchilar fikrini hisobga olishi. Cheklovi — natija ekspert vaznlariga bogʻliq va koʻrsatkichlar orasidagi sabab-oqibat bogʻlanishini aniqlamaydi; shuning uchun sezgirlik tahlili majburiy hisoblanadi \[93, 114\].
 
-**Markaziy Osiyodagi tadqiqotlar.** Mintaqada GAT va geostatistika asosan sizot suvlari rejimi va tuproq shoʻrlanishini oʻrganish uchun qoʻllanilgan. Asosiy ishlar 2-ilovada umumlashtirilgan. Soʻnggi ishlarda ham xaritalash asosan deterministik interpolyatsiya bilan bajariladi: Qoraqalpogʻistonning Xoʻjayli tumanida 142 ta kuzatuv qudugʻi maʼlumotlari boʻyicha 2015–2023-yillardagi sath va minerallashuv xaritalari teskari masofa usulida tuzilgan \[79\]. Sirdaryo boʻyidagi sugʻoriladigan hududda (Qozogʻiston) tuproq shoʻrlanishining fazoviy taqsimotini eng koʻp tushuntiruvchi omillar sugʻorish kanallari va drenaj tarmogʻigacha masofa boʻlgan \[48\]; bu natija tarmoqqa nisbatan joylashuvning meliorativ holatga taʼsirini koʻrsatadi.
+**Markaziy Osiyodagi tadqiqotlar.** Mintaqada GAT va geostatistika asosan sizot suvlari rejimi va tuproq shoʻrlanishini oʻrganish uchun qoʻllanilgan. Asosiy ishlar 2-ilovada umumlashtirilgan. Soʻnggi ishlarda ham xaritalash asosan deterministik interpolyatsiya bilan bajariladi: Qoraqalpogʻistonning Xoʻjayli tumanida 142 ta kuzatuv qudugʻi maʼlumotlari boʻyicha 2015–2023-yillardagi sath va minerallashuv xaritalari teskari masofa usulida tuzilgan \[79\]. Sirdaryo boʻyidagi sugʻoriladigan hududda (Qozogʻiston) tuproq shoʻrlanishining fazoviy taqsimotini eng koʻp tushuntiruvchi omillar sugʻorish kanallari va drenaj tarmogʻigacha masofa boʻlgan \[48\]; bu tarmoqqa nisbatan joylashuv meliorativ holat bilan bogʻliqligini koʻrsatadi.
 
 Jadvaldan koʻrinadiki, tadqiqotlarning aksariyati Quyi Amudaryo hududiga, ayniqsa Xorazm viloyatiga toʻgʻri keladi. Fargʻona vodiysi boʻyicha, xususan Andijon viloyati uchun, kuzatuv quduqlari maʼlumotlariga asoslangan fazoviy-vaqtli tahlil ishlari kam uchraydi.
 
@@ -451,7 +451,7 @@ Bosqichlarning bu tartibi tadqiqotning asosiy uslubiy pozitsiyasini aks ettiradi
 
 
 ```{=openxml}
-<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+<w:p><w:pPr><w:spacing w:before="0" w:after="0" w:line="20" w:lineRule="exact"/><w:rPr><w:sz w:val="2"/></w:rPr></w:pPr><w:r><w:rPr><w:sz w:val="2"/></w:rPr><w:br w:type="page"/></w:r></w:p>
 ```
 
 
@@ -463,7 +463,7 @@ Ushbu bobda tadqiqot obyekti tavsiflanadi, ishlatilgan maʼlumot manbalari va ge
 
 **Geografik oʻrni va maʼmuriy tuzilishi.** Marhamat tumani Andijon viloyatining janubiy qismida, Fargʻona vodiysining sharqiy chekkasida joylashgan. Tumanning maydoni 321 km², aholisi 2025-yil holatiga 197,8 ming kishi; tuman tarkibida Marhamat shahri, oʻnta shaharcha va beshta qishloq fuqarolar yigʻini bor \[133\]. Andijon viloyati sharq va janubdan Qirgʻiziston Respublikasining Jalolobod va Oʻsh viloyatlari bilan chegaradosh \[133\]. Tadqiqotda qamrab olingan kuzatuv quduqlari 72°12′ dan 72°24′ gacha sharqiy uzunlik va 40°27′ dan 40°37′ gacha shimoliy kenglik oraligʻida joylashgan. Tumanning viloyatdagi oʻrni, relyefi va meliorativ tizimning asosiy elementlari 2.1-rasmda koʻrsatilgan; xarita tiklangan geomaʼlumotlar bazasi (2.3-§), Copernicus GLO-30 raqamli relyef modeli \[136\] va geoBoundaries maʼmuriy chegaralari \[109\] asosida tuzildi.
 
-Sugʻoriladigan yerlar maʼmuriy-xoʻjalik jihatdan sakkizta massivga boʻlingan: Z.M.Bobur, Mashʼal, Istiqlol, Paxtakor, M.Toʻjiboyev, T.Mirzayev, U.Qoraboyev va Y.Oxunboboyev. Meliorativ monitoring, kadastr va ekin joylashtirish maʼlumotlari shu massivlar kesimida yuritiladi. Massivlarning asosiy tavsifi 2.1-jadvalda, ularning xarita boʻyicha maydoni va chegaralari 2.3-§ da keltirilgan.
+Sugʻoriladigan yerlar maʼmuriy-xoʻjalik jihatdan sakkizta massivga boʻlingan: Z.M.Bobur, Mashʼal, Istiqlol, Paxtakor, M.Toʻjiboyev, T.Mirzayev, U.Qoraboyev va Y.Oxunboboyev. Meliorativ monitoring, kadastr va ekin joylashtirish maʼlumotlari shu massivlar kesimida yuritiladi. Massivlarning asosiy tavsifi 3-ilovada, ularning xarita boʻyicha maydoni va chegaralari 2.3-§ da keltirilgan.
 
 
 ![](figures/map1_location.png){width=15.5cm}
@@ -479,7 +479,7 @@ Meteostansiya maʼlumotlarida bugʻlanuvchanlik keltirilmagan. Shu sababli etalo
 
 $$ET_0 = 0{,}0023 \, (T_{\mathrm{oʻr}} + 17{,}8) \, \sqrt{T_{\mathrm{max}} - T_{\mathrm{min}}} \; R_a \qquad\qquad (2.1)$$
 
-bu yerda $T_{\mathrm{oʻr}}$, $T_{\mathrm{max}}$, $T_{\mathrm{min}}$ — oylik oʻrtacha, oʻrtacha maksimal va oʻrtacha minimal harorat, °C; $R_{a}$ — atmosfera chegarasidagi quyosh radiatsiyasi, bugʻlanish ekvivalentida mm/sut; u joyning kengligi (40,5°) va yil kuni boʻyicha hisoblanadi \[31\]. Natijalar 3-ilovada keltirilgan.
+bu yerda $T_{\mathrm{oʻr}}$, $T_{\mathrm{max}}$, $T_{\mathrm{min}}$ — oylik oʻrtacha, oʻrtacha maksimal va oʻrtacha minimal harorat, °C; $R_{a}$ — atmosfera chegarasidagi quyosh radiatsiyasi, bugʻlanish ekvivalentida mm/sut; u joyning kengligi (40,5°) va yil kuni boʻyicha hisoblanadi \[31\]. Natijalar 4-ilovada keltirilgan.
 
 Bu maʼlumotlardan tumanning suv rejimiga oid quyidagi xususiyatlar kelib chiqadi.
 
@@ -489,36 +489,13 @@ Yogʻin va bugʻlanuvchanlik mavsumlar boʻyicha qarama-qarshi taqsimlangan. Yog
 
 Faqat dekabr–fevralda yogʻin bugʻlanuvchanlikdan biroz oshadi. Bu davrda tuproqda tabiiy yuvilish sharoiti yuzaga keladi, lekin uning hajmi kichik (yiliga taxminan 24 mm). Yil davomida tuproqdagi tuz balansi musbat, yaʼni tuz toʻplanishiga moyillik mavjud; uni faqat sugʻorish suvi bilan yuvish va drenaj orqali chiqarish kompensatsiya qiladi \[19, 121\].
 
-Iqlim koʻrsatkichlarining yillik yoʻli 4-ilovada koʻrsatilgan.
+Iqlim koʻrsatkichlarining yillik yoʻli 5-ilovada koʻrsatilgan.
 
 Turli manbalarda Andijon uchun keltirilgan iqlim koʻrsatkichlari oʻrtacha hisoblash davri va usuliga qarab farq qiladi: yillik yogʻin 232 mm dan 384 mm gacha, oʻrtacha yillik harorat 13,6–14,9 °C oraligʻida keltiriladi \[134\]. Yuqorida bitta manbaning bir xil davr uchun izchil maʼlumotlari ishlatildi. Hargreaves–Samani usuli toʻliq Penman–Monteith tenglamasiga nisbatan taxminiy natija beradi; aniq hisob uchun namlik, shamol va quyosh radiatsiyasi maʼlumotlari kerak \[31\].
 
-**Relyef.** Tuman hududi janubdan shimolga qiyalangan (2.1-rasm, c). Copernicus GLO-30 raqamli relyef modeli (30 m) boʻyicha tuman hududining mutlaq balandligi 504 m dan 1 276 m gacha oʻzgaradi, medianasi 607 m; maydonning 43,5 foizi 600 m dan past, 22 foizi 700 m dan baland joylashgan \[136\]. Eng baland qism janubdagi Y.Oxunboboyev massivi (median balandlik 810 m) boʻlib, u togʻ oldi tekisligiga tegishli; shimoldagi Z.M.Bobur massivining median balandligi 559 m. Paxtakor, U.Qoraboyev, Mashʼal va Z.M.Bobur massivlari tekis: median balandlik 559–598 m, nishablik medianasi 1,3–1,6 foiz. Istiqlol massivining gʻarbiy qismi qiya (nishablik medianasi 5,4 foiz), Y.Oxunboboyev massivida esa nishablik medianasi 15,6 foizga yetadi. Kuzatuv quduqlarining pasportdagi mutlaq belgilari 528 m dan 839 m gacha, medianasi 597 m (2.1-jadval); ular relyef modeli bilan yaxshi mos keladi: 172 ta quduq boʻyicha farq medianasi −1,1 m.
+**Relyef.** Tuman hududi janubdan shimolga qiyalangan (2.1-rasm, c). Copernicus GLO-30 raqamli relyef modeli (30 m) boʻyicha tuman hududining mutlaq balandligi 504 m dan 1 276 m gacha oʻzgaradi, medianasi 607 m; maydonning 43,5 foizi 600 m dan past, 22 foizi 700 m dan baland joylashgan \[136\]. Eng baland qism janubdagi Y.Oxunboboyev massivi (median balandlik 810 m) boʻlib, u togʻ oldi tekisligiga tegishli; shimoldagi Z.M.Bobur massivining median balandligi 559 m. Paxtakor, U.Qoraboyev, Mashʼal va Z.M.Bobur massivlari tekis: median balandlik 559–598 m, nishablik medianasi 1,3–1,6 foiz. Istiqlol massivining gʻarbiy qismi qiya (nishablik medianasi 5,4 foiz), Y.Oxunboboyev massivida esa nishablik medianasi 15,6 foizga yetadi. Kuzatuv quduqlarining pasportdagi mutlaq belgilari 528 m dan 839 m gacha, medianasi 597 m (3-ilova); ular relyef modeli bilan yaxshi mos keladi: 172 ta quduq boʻyicha farq medianasi −1,1 m.
 
 Relyefning meliorativ ahamiyati shundaki, u sizot suvlarining umumiy oqim yoʻnalishini va kollektorlarning qiyaligini belgilaydi: kollektorlar janubdan shimolga, past joylar tomon yoʻnalgan. Biroq massivlar orasidagi balandlik farqi sizot suvi sathidagi farqni toʻliq tushuntirmaydi; bu masala 3.4-§ da miqdoriy tahlil qilinadi.
-
-
-::: {custom-style="Jadval-raqam"}
-2.1-jadval
-:::
-
-::: {custom-style="Sarlavha-jadval"}
-**Tadqiqot obyektining massivlar boʻyicha tavsifi**
-:::
-
-| Massiv | Kuzatuv quduqlari (pasport) | Quduqlarga biriktirilgan maydon, ga | Median balandlik, m | Ichki zovurlar, km | Bonitet balli |
-| --- | --- | --- | --- | --- | --- |
-| Z.M.Bobur | 27 | 2 376 | 565 | 35,2 | 67,9 |
-| Paxtakor | 19 | 1 588 | 587 | 41,9 | 64,1 |
-| Mashʼal | 29 | 3 134 | 596 | 92,0 | 59,7 |
-| U.Qoraboyev | 26 | 1 944 | 601 | 21,9 | 60,8 |
-| M.Toʻjiboyev | 33 | 2 027 | 603 | —\* | 58,8 |
-| T.Mirzayev | 20 | 1 982 | 610 | 30,4 | 63,3 |
-| Istiqlol | 27 | 2 400 | 614 | 70,2 | 62,9 |
-| Y.Oxunboboyev | 7 | 534 | 641 | 20,1 | 41,3 |
-| Jami | 188 | 15 985 | 597 |  | 59,7 |
-
-Izoh: \* — kadastrda M.Toʻjiboyev massivi boʻyicha ichki zovurlar alohida koʻrsatilmagan.
 
 Massivlar median balandlik oʻsishi tartibida joylashtirilgan. Bonitet balli 2021-yilgi ekin joylashtirish jadvalidagi 1 607 ta kontur boʻyicha maydonga tortilgan oʻrtacha sifatida hisoblandi; ichki zovurlar uzunligi kadastr boʻyicha keltirilgan. Kadastrda ichki zovurlarning bir qismi massivga emas, «Markaziy zovur tizimi»ga (52,8 km) biriktirilgan, shuning uchun M.Toʻjiboyev massivi boʻyicha ichki zovurlar uzunligi alohida koʻrsatilmagan.
 
@@ -528,13 +505,13 @@ Massivlar median balandlik oʻsishi tartibida joylashtirilgan. Bonitet balli 202
 
 Sizot suvlarining sugʻorish bilan bogʻliqligi monitoring maʼlumotlarida yaqqol koʻrinadi. 2009–2024-yillardagi barcha kuzatuvlar boʻyicha sath fevralda eng chuqur (2,48 m), iyul–avgustda eng sayoz (2,05–2,06 m) boʻladi. Sath yogʻin eng koʻp boʻlgan mart–aprelda emas, aksincha yogʻin deyarli boʻlmagan, ammo sugʻorish eng jadal kechadigan yoz oylarida koʻtariladi. Bu sizot suvlarining asosiy toʻyinish manbai yogʻin emas, sugʻorish ekanini koʻrsatadi. Mavsumiy dinamika 3.2-§ da batafsil tahlil qilinadi.
 
-Meliorativ ekspeditsiyaning 2024-yil 1-aprel holatiga tuzilgan xaritasi boʻyicha sizot suvlari sathining kuzatuv quduqlari boʻyicha taqsimoti 5-ilovada keltirilgan.
+Meliorativ ekspeditsiyaning 2024-yil 1-aprel holatiga tuzilgan xaritasi boʻyicha sizot suvlari sathining kuzatuv quduqlari boʻyicha taqsimoti 6-ilovada keltirilgan.
 
 Aprel boshida, yaʼni sugʻorish mavsumi oldidan, quduqlarning 19,2 foizida sath 1,5 m dan sayoz boʻlgan; medianasi 2,34 m. Bu koʻrsatkich yillik eng sayoz holat emas: koʻp yillik maʼlumotlarga koʻra iyul–avgustda sath aprel boshiga nisbatan oʻrtacha yana 0,2 m koʻtariladi (3.2-§).
 
 Sizot suvlarining minerallashuvi 2004–2010-yillar maʼlumotlari boʻyicha tuman boʻyicha medianasi 1,02–1,45 g/l oraligʻida boʻlib, massivlar orasida sezilarli farq qiladi: quduqlar boʻyicha medianasi Mashʼal massivida 2,47 g/l, U.Qoraboyev va T.Mirzayev massivlarida 0,80–0,84 g/l (3.5-§).
 
-**Tuproqlar.** Andijon viloyatining sugʻoriladigan tuproqlari asosan och tusli boʻz tuproqlar va oʻtloqi-boʻz tuproqlardan iborat. Tuproq sifatining umumlashgan koʻrsatkichi — bonitet balli tuman boʻyicha oʻrtacha 59,7 ni tashkil etadi; konturlarning 10 foizida ball 40 dan past, 16 foizida 70 dan yuqori. Eng past ball Y.Oxunboboyev massivida (41,3), eng yuqori ball Z.M.Bobur massivida (67,9) qayd etilgan (2.1-jadval).
+**Tuproqlar.** Andijon viloyatining sugʻoriladigan tuproqlari asosan och tusli boʻz tuproqlar va oʻtloqi-boʻz tuproqlardan iborat. Tuproq sifatining umumlashgan koʻrsatkichi — bonitet balli tuman boʻyicha oʻrtacha 59,7 ni tashkil etadi; konturlarning 10 foizida ball 40 dan past, 16 foizida 70 dan yuqori. Eng past ball Y.Oxunboboyev massivida (41,3), eng yuqori ball Z.M.Bobur massivida (67,9) qayd etilgan (3-ilova).
 
 **Qishloq xoʻjaligidan foydalanish.** 2021-yilgi ekin joylashtirish jadvaliga koʻra massivlar konturlari boʻyicha jami 9 701 ga maydonning 3 580 ga qismiga gʻoʻza, 4 073 ga qismiga boshoqli don ekilgan; qolgan maydonlar boshqa ekinlar, bogʻ va tomorqalarga toʻgʻri keladi. Gʻoʻza va gʻalla almashlab ekishi sugʻorish rejimining yillik yoʻlini belgilaydi: kuzgi gʻalla bahorda, gʻoʻza esa yoz oylarida eng koʻp suv talab qiladi.
 
@@ -544,11 +521,11 @@ Sizot suvlarining minerallashuvi 2004–2010-yillar maʼlumotlari boʻyicha tuma
 
 Meliorativ tizimning tarkibi Andijon viloyati meliorativ ekspeditsiyasining 2021-yil 1-yanvar holatidagi kadastri boʻyicha tavsiflanadi. Kadastr yigʻma jadvallar (tarmoq turlari, inshootlar) va obyektlar roʻyxatlaridan (har bir kollektor, ichki zovur, yopiq drenaj va kuzatuv qudugʻi) iborat.
 
-**Kollektor-drenaj tarmogʻining umumiy tarkibi.** Kadastrning yigʻma jadvaliga koʻra tumanda 621,1 km ochiq va 91,7 km yopiq-yotiq kollektor-drenaj tarmogʻi mavjud (2.2-jadval). Tarmoq toʻrt iyerarxik darajaga boʻlinadi: magistral, tumanlararo, xoʻjaliklararo kollektorlar va xoʻjalik ichki zovurlari. Ochiq tarmoqning 57 foizi va yopiq drenajning 61 foizi suv isteʼmolchilari uyushmalari hisobida, qolgani davlat hisobida.
+**Kollektor-drenaj tarmogʻining umumiy tarkibi.** Kadastrning yigʻma jadvaliga koʻra tumanda 621,1 km ochiq va 91,7 km yopiq-yotiq kollektor-drenaj tarmogʻi mavjud (2.1-jadval). Tarmoq toʻrt iyerarxik darajaga boʻlinadi: magistral, tumanlararo, xoʻjaliklararo kollektorlar va xoʻjalik ichki zovurlari. Ochiq tarmoqning 57 foizi va yopiq drenajning 61 foizi suv isteʼmolchilari uyushmalari hisobida, qolgani davlat hisobida.
 
 
 ::: {custom-style="Jadval-raqam"}
-2.2-jadval
+2.1-jadval
 :::
 
 ::: {custom-style="Sarlavha-jadval"}
@@ -571,9 +548,9 @@ Tumanning oʻziga xos xususiyati — davlatlararo kollektorlarning koʻpligi. Ka
 
 **Davlat hisobidagi kollektorlar.** Kadastrda davlat hisobidagi 90 ta kollektorning har biri uchun nomi, uzunligi, oxiridagi suv sarfi, xizmat koʻrsatish maydoni, foydalanishga topshirilgan yili, oxirgi taʼmir yili va taʼmirlangan uchastka (piketlar) koʻrsatilgan; 53 tasida taʼmir xarajati ham bor. Ularning umumiy uzunligi 265,8 km, xizmat koʻrsatish maydoni 11 079 ga; barchasi III kapitallik sinfiga kiradi va meliorativ ekspeditsiya tomonidan ishlatiladi.
 
-Kollektorlar oʻlchami boʻyicha keskin farq qiladi (6-ilova). Ularning yarmi 2,1 km dan qisqa; 10 km dan uzunlari faqat bitta — Gʻarbiy Qoraqoʻrgʻon (12,5 km). Oxiridagi suv sarfi boʻyicha ham farq katta: 31 ta kollektorda sarf 0,01 m³/s gacha, faqat 5 tasida 1 m³/s dan ortiq. Barcha kollektorlar oxiridagi sarflar yigʻindisi 18,3 m³/s.
+Kollektorlar oʻlchami boʻyicha keskin farq qiladi (7-ilova). Ularning yarmi 2,1 km dan qisqa; 10 km dan uzunlari faqat bitta — Gʻarbiy Qoraqoʻrgʻon (12,5 km). Oxiridagi suv sarfi boʻyicha ham farq katta: 31 ta kollektorda sarf 0,01 m³/s gacha, faqat 5 tasida 1 m³/s dan ortiq. Barcha kollektorlar oxiridagi sarflar yigʻindisi 18,3 m³/s.
 
-Eng uzun oʻnta kollektor tarmoqning asosiy boʻgʻinini tashkil etadi (7-ilova). Ular asosan 1940–1950-yillarda qurilgan va 2012–2020-yillarda taʼmirlangan.
+Eng uzun oʻnta kollektor tarmoqning asosiy boʻgʻinini tashkil etadi (8-ilova). Ular asosan 1940–1950-yillarda qurilgan va 2012–2020-yillarda taʼmirlangan.
 
 Kollektorlarning yoshi va taʼmir tarixi ishonchlilik koʻrsatkichi sifatida 4.1-§ da, suv sarfi va xizmat maydoni nisbati esa gidravlik koʻrsatkich sifatida 4.2-§ da tahlil qilinadi.
 
@@ -581,7 +558,7 @@ Kollektorlarning yoshi va taʼmir tarixi ishonchlilik koʻrsatkichi sifatida 4.1
 
 **Yopiq-yotiq drenaj.** Kadastrga koʻra tumanda 14 ta yopiq-yotiq drenaj tizimi bor, umumiy uzunligi 91,7 km. Roʻyxatda M.Toʻjiboyev massividagi 6,82 km uzunlikdagi yopiq drenaj alohida qayd etilgan; u 2016-yilda foydalanishga topshirilgan va 60 ga maydonga xizmat koʻrsatadi. Yopiq drenaj yer ostida joylashgani uchun meliorativ ekspeditsiya xaritasida koʻrsatilmagan va mazkur tadqiqotdagi fazoviy tahlilga kiritilmagan.
 
-**Gidrotexnik inshootlar.** Kollektor-drenaj tarmogʻida jami 455 ta inshoot qayd etilgan (8-ilova). Ularning yarmidan koʻpi (238 ta) davlat hisobidagi nazorat tarmogʻi inshootlaridir. Inshootlar tarmoq ishonchliligida muhim oʻrin tutadi: koʻprik va quvurli oʻtish joylari ostida loyqa tez toʻplanadi va ular kollektorning oʻtkazish qobiliyatini cheklovchi «tor joy» boʻlib qolishi mumkin \[106, 120\].
+**Gidrotexnik inshootlar.** Kollektor-drenaj tarmogʻida jami 455 ta inshoot qayd etilgan (9-ilova). Ularning yarmidan koʻpi (238 ta) davlat hisobidagi nazorat tarmogʻi inshootlaridir. Inshootlar tarmoq ishonchliligida muhim oʻrin tutadi: koʻprik va quvurli oʻtish joylari ostida loyqa tez toʻplanadi va ular kollektorning oʻtkazish qobiliyatini cheklovchi «tor joy» boʻlib qolishi mumkin \[106, 120\].
 
 Suv oʻlchash inshootlari atigi oltita. Bu kollektorlardagi drenaj oqimini muntazam oʻlchash imkoniyati cheklanganini bildiradi: kadastrdagi kollektor oxiridagi sarflar asosan loyiha yoki bir martalik oʻlchov qiymatlari boʻlishi mumkin. Shu sababli tarmoq ishini drenaj oqimi orqali emas, sizot suvlari rejimi orqali baholash amaliy jihatdan yagona imkoniyat boʻlib qoladi.
 
@@ -589,9 +566,9 @@ Suv oʻlchash inshootlari atigi oltita. Bu kollektorlardagi drenaj oqimini munta
 
 Quduqlar tarkibining ikki xususiyati keyingi tahlil uchun muhim.
 
-Kuzatuv tarmogʻi asosan yangi. 188 ta quduqdan 120 tasi (64 foiz) 2013–2016-yillarda polietilen quvurdan qurilgan; 65 tasi 1971–1990-yillarda, 3 tasi 1991–2012-yillarda metall quvurdan qurilgan quduqlardir (9-ilova). Bu 3.1-§ da aniqlangan tarmoq tarkibi oʻzgarishini izohlaydi.
+Kuzatuv tarmogʻi asosan yangi. 188 ta quduqdan 120 tasi (64 foiz) 2013–2016-yillarda polietilen quvurdan qurilgan; 65 tasi 1971–1990-yillarda, 3 tasi 1991–2012-yillarda metall quvurdan qurilgan quduqlardir (10-ilova). Bu 3.1-§ da aniqlangan tarmoq tarkibi oʻzgarishini izohlaydi.
 
-Quduqlar sayoz. Chuqurlik medianasi 3,2 m; 142 ta quduq (76 foiz) 2,5–3,5 m chuqurlikda, faqat 26 tasi (14 foiz) 4 m dan chuqur. Sizot suvi quduq tubidan pastga tushganda quduq quriydi va haqiqiy sathni oʻlchab boʻlmaydi (1.4-§). 2024-yil 1-aprel holatiga quduqlarning 28 foizida sath 3 m dan chuqur boʻlgan (5-ilova), yaʼni ularning bir qismi oʻlchov chegarasiga yaqin ishlaydi. Bu sath chuqur hududlarda monitoring sathni kamaytirib koʻrsatishi mumkinligini bildiradi; masala 3.1-§ da miqdoriy koʻrib chiqiladi.
+Quduqlar sayoz. Chuqurlik medianasi 3,2 m; 142 ta quduq (76 foiz) 2,5–3,5 m chuqurlikda, faqat 26 tasi (14 foiz) 4 m dan chuqur. Sizot suvi quduq tubidan pastga tushganda quduq quriydi va haqiqiy sathni oʻlchab boʻlmaydi (1.4-§). 2024-yil 1-aprel holatiga quduqlarning 28 foizida sath 3 m dan chuqur boʻlgan (6-ilova), yaʼni ularning bir qismi oʻlchov chegarasiga yaqin ishlaydi. Bu sath chuqur hududlarda monitoring sathni kamaytirib koʻrsatishi mumkinligini bildiradi; masala 3.1-§ da miqdoriy koʻrib chiqiladi.
 
 **Manbalar orasidagi farqlar.** Quduqlar soni manbalar boʻyicha farq qiladi: pasportda 188 ta, GAT eksportidagi koordinatalar jadvalida 205 ta, 2024-yilgi xaritada 202 ta, 2009–2024-yillar kuzatuv jadvallarida esa jami 196 ta quduq uchraydi. Farqlarning bir qismi nomlanishdagi tafovutlar bilan (masalan, «104А» va «104а»), bir qismi pasporti rasmiylashtirilmagan qoʻshimcha quduqlar bilan izohlanadi. Keyingi boblarda har bir hisob qaysi manbaga tayanishi koʻrsatiladi.
 
@@ -601,11 +578,11 @@ Kadastr meliorativ tizimning tarkibi toʻgʻrisida batafsil maʼlumot beradi, am
 
 **Vazifaning qoʻyilishi.** Kadastr meliorativ tizim tarkibi toʻgʻrisida batafsil maʼlumot beradi, ammo uning yozuvlari fazoviy joylashuvga ega emas (2.2-§). Sizot rejimini drenaj tarmogʻi bilan bogʻlash uchun esa har bir kuzatuv qudugʻi va har bir kollektorning joyi maʼlum boʻlishi kerak. Tadqiqot boshida tuman drenaj tarmogʻining tayyor raqamli qatlamlari mavjud emas edi. Shuning uchun birinchi amaliy vazifa mavjud manbalardan geomaʼlumotlar bazasini tiklash boʻldi.
 
-**Boshlangʻich manbalar.** Bazani shakllantirish uchun toʻrt turdagi manba ishlatildi (10-ilova).
+**Boshlangʻich manbalar.** Bazani shakllantirish uchun toʻrt turdagi manba ishlatildi (11-ilova).
 
 Asosiy qiyinchilik shundaki, faqat bitta manbada — quduqlar koordinatalari jadvalida — haqiqiy koordinatalar bor. Xaritalar esa koordinatalar tizimiga bogʻlanmagan rasm koʻrinishida. Taklif etilgan usulning gʻoyasi: quduqlar ham jadvalda (koordinatalari bilan), ham xaritada (raqami bilan) mavjud; demak ularni tayanch nuqta sifatida ishlatib, xaritani koordinatalar tizimiga bogʻlash mumkin.
 
-**Bosqichlar.** Geomaʼlumotlar bazasi oltita bosqichda shakllantirildi (11-ilova). Barcha bosqichlar dasturiy ravishda bajarildi va takrorlanadi.
+**Bosqichlar.** Geomaʼlumotlar bazasi oltita bosqichda shakllantirildi (12-ilova). Barcha bosqichlar dasturiy ravishda bajarildi va takrorlanadi.
 
 **Rastrlash va yozuvlarni ajratish.** Xarita PDF faylida ikki qatlamdan iborat: rangli tasvir (fon, chiziqlar, belgilar) va vektor matn (yozuvlar). Bu holatdan foydalanildi: matn qatlami fayldan alohida oʻqildi, har bir yozuvning matni, rangi, shrift oʻlchami va sahifadagi oʻrni saqlandi; tasvir esa yozuvlarsiz rastrlandi. Natijada quduq raqamlari (qora rangdagi yozuvlar) va oʻlchangan qiymatlar (qizil rangdagi yozuvlar) belgining oʻzidan ajratilgan holda olindi, chiziqlar esa yozuvlar bilan toʻsilmadi.
 
@@ -617,9 +594,9 @@ Juftlashda bir nechta xato aniqlandi va tuzatildi. Ikki quduqqa (137 va 141) yon
 
 $$E = a_1 x + a_2 y + a_3, \qquad N = b_1 x + b_2 y + b_3 \qquad\qquad (2.2)$$
 
-Oltita koeffitsiyent eng kichik kvadratlar usulida aniqlandi. Joydagi koordinatalar sifatida WGS 84 / UTM 43N proyeksiyasi tanlandi: tuman 72° sharqiy uzunlikdan sharqda joylashgan va UTM ning 43-zonasiga tushadi; bu proyeksiyada masofa va uzunliklar metrda oʻlchanadi. Birinchi hisobdan keyin qoldigʻi katta boʻlgan 9 ta nuqta chiqarib tashlandi va koeffitsiyentlar qayta aniqlandi. Chiqarilgan nuqtalarning barchasi nom boʻyicha juftlash xatosi bilan bogʻliq: masalan, xaritada ikki marta uchraydigan raqamlar yoki «ПЕЗ» qoʻshimchasi bilan farqlanadigan yaqin quduqlar. Bogʻlash aniqligining koʻrsatkichlari 12-ilovada keltirilgan.
+Oltita koeffitsiyent eng kichik kvadratlar usulida aniqlandi. Joydagi koordinatalar sifatida WGS 84 / UTM 43N proyeksiyasi tanlandi: tuman 72° sharqiy uzunlikdan sharqda joylashgan va UTM ning 43-zonasiga tushadi; bu proyeksiyada masofa va uzunliklar metrda oʻlchanadi. Birinchi hisobdan keyin qoldigʻi katta boʻlgan 9 ta nuqta chiqarib tashlandi va koeffitsiyentlar qayta aniqlandi. Chiqarilgan nuqtalarning barchasi nom boʻyicha juftlash xatosi bilan bogʻliq: masalan, xaritada ikki marta uchraydigan raqamlar yoki «ПЕЗ» qoʻshimchasi bilan farqlanadigan yaqin quduqlar. Bogʻlash aniqligining koʻrsatkichlari 13-ilovada keltirilgan.
 
-Qoldiqlarning taqsimoti 13-ilovada koʻrsatilgan. Nuqtalarning 91 foizida qoldiq 5 m dan kichik, yaʼni bitta-ikkita piksel darajasida. Oʻrtacha kvadratik qoldiq medianadan sezilarli katta, chunki uni bir nechta katta qoldiqli nuqta oshiradi. Aniqlangan piksel oʻlchamining nazariy qiymatga deyarli toʻliq mos kelishi xarita masshtabi buzilmaganini va affin almashtirish yetarli ekanini koʻrsatadi.
+Qoldiqlarning taqsimoti 14-ilovada koʻrsatilgan. Nuqtalarning 91 foizida qoldiq 5 m dan kichik, yaʼni bitta-ikkita piksel darajasida. Oʻrtacha kvadratik qoldiq medianadan sezilarli katta, chunki uni bir nechta katta qoldiqli nuqta oshiradi. Aniqlangan piksel oʻlchamining nazariy qiymatga deyarli toʻliq mos kelishi xarita masshtabi buzilmaganini va affin almashtirish yetarli ekanini koʻrsatadi.
 
 **Tarmoqni vektorlash.** Xaritada kollektorlar yashil, kanallar koʻk chiziq bilan tasvirlangan. Har bir rang alohida ajratildi; quduq belgilari ostida qolgan uzilishlar toʻldirildi, mayda shovqin (300 pikseldan kichik guruhlar) olib tashlandi. Soʻng chiziq oʻq chizigʻiga (bir piksel qalinlikdagi skeletga) keltirildi va tugunlar orasidagi boʻlaklar siniq chiziqlarga aylantirildi. Uzunligi 40 m dan qisqa boʻlaklar skelet «tikanlari» sifatida chiqarib tashlandi. Natijada 332 ta kollektor boʻlagi (214,6 km) va 426 ta kanal boʻlagi (170,9 km) olindi.
 
@@ -631,7 +608,7 @@ Natijada 60 ta kollektorga chiziq geometriyasi biriktirildi; ularning xaritadagi
 
 **Massiv chegaralarini tiklash.** Xaritada massiv chegaralari qizil chiziq bilan berilgan, lekin ular koʻp joyda kollektor, kanal va aholi punktlari belgilari ostida qolib, uzuq-yuluq koʻrinadi. Shu sababli chegaralar ikki manbadan tiklandi. Qizil chiziq boʻlaklari toʻsiq sifatida olindi: ularni kesib oʻtish «narxi» oddiy hududdan 400 baravar yuqori qilib belgilandi. Har bir massivning pasportdagi quduqlaridan toʻsiqni hisobga oluvchi eng qisqa yoʻl masofasi hisoblandi va hududning har bir katagi eng yaqin massivga biriktirildi. Qizil chiziq saqlangan joyda chegara aynan shu chiziqdan oʻtadi; chiziq koʻrinmaydigan joyda u qoʻshni massivlar quduqlari oʻrtasidan oʻtadi va taxminiydir.
 
-Natija mustaqil belgi bilan tekshirildi: xaritadagi sakkizta massiv nomi yozuvining har biri oʻz poligoni ichiga tushdi. Pasportli 174 ta quduqning barchasi oʻz massivi poligonida joylashgan; pasporti yoʻq 28 ta quduq poligon boʻyicha massivga biriktirildi. Massivlar maydoni 14-ilovada keltirilgan.
+Natija mustaqil belgi bilan tekshirildi: xaritadagi sakkizta massiv nomi yozuvining har biri oʻz poligoni ichiga tushdi. Pasportli 174 ta quduqning barchasi oʻz massivi poligonida joylashgan; pasporti yoʻq 28 ta quduq poligon boʻyicha massivga biriktirildi. Massivlar maydoni 15-ilovada keltirilgan.
 
 Sugʻoriladigan maydon xaritada sizot sathi darajalari bilan boʻyalgan hudud boʻyicha hisoblandi; aholi punktlari va sugʻorilmaydigan yerlar unga kirmaydi. Bu maydon (20 662 ga) quduqlarga biriktirilgan maydon yigʻindisidan (15 985 ga) katta, chunki quduqlarga biriktirilgan maydon faqat kuzatuv quduqlari xizmat koʻrsatadigan hududni qamraydi. Kollektor zichligi faqat xaritada tasvirlangan kollektorlar boʻyicha berilgan, xoʻjalik ichki zovurlari hisobga olinmagan. Y.Oxunboboyev massivi hududida xaritada kollektor koʻrsatilmagan.
 
@@ -671,11 +648,11 @@ Nuqsonli qiymatlar tuzatilmaydi va taxminiy qiymat bilan toʻldirilmaydi, balki 
 
 Har bir qoida natijasi alohida qayd etiladi, shuning uchun tekshiruvni boshqa tadqiqotchi takrorlashi va natijasini tekshirishi mumkin.
 
-**Tekshiruv qoidalari.** Sath qatorlari uchun uchta qoida qoʻllaniladi (2.3-jadval).
+**Tekshiruv qoidalari.** Sath qatorlari uchun uchta qoida qoʻllaniladi (2.2-jadval).
 
 
 ::: {custom-style="Jadval-raqam"}
-2.3-jadval
+2.2-jadval
 :::
 
 ::: {custom-style="Sarlavha-jadval"}
@@ -725,7 +702,7 @@ Tekshiruv dasturiy ravishda bajariladi va bir tuman maʼlumotini bir necha daqiq
 
 ## 2.5-§. Statistik va geostatistik tahlil usullari
 
-Tekshirilgan maʼlumotlar beshta guruh usullari bilan tahlil qilindi. Har bir usul qaysi masala uchun va qaysi paragrafda qoʻllanilgani 15-ilovada koʻrsatilgan.
+Tekshirilgan maʼlumotlar beshta guruh usullari bilan tahlil qilindi. Har bir usul qaysi masala uchun va qaysi paragrafda qoʻllanilgani 16-ilovada koʻrsatilgan.
 
 **Koʻp yillik tendensiya.** Tendensiyaning mavjudligi parametrik boʻlmagan Mann–Kendall mezoni bilan tekshirildi \[72, 88\]. Mezon statistikasi S (1.3-§) tendensiya boʻlmaganda nolga yaqin boʻladi; uning dispersiyasi
 
@@ -771,18 +748,17 @@ formula bilan dastlabki baholanadi, bu yerda n₀ va SE₀ — mavjud taʼsir gu
 
 ## II bob boʻyicha xulosalar
 
-1. Tadqiqot obyekti — Marhamat tumanining sakkizta massivdan iborat sugʻoriladigan yerlari. Tuman qurgʻoqchil iqlimga ega: Andijon meteostansiyasi maʼlumotlari boʻyicha yillik yogʻin 323 mm, hisoblangan etalon bugʻlanuvchanlik 1 185 mm, vegetatsiya davridagi namlik tanqisligi sugʻorish bilan qoplanadi.
+1. Tadqiqot obyekti — Marhamat tumanining sakkizta massivdan iborat sugʻoriladigan yerlari. Iqlim qurgʻoqchil: yillik yogʻin 323 mm, hisoblangan etalon bugʻlanuvchanlik 1 185 mm.
 2. Sizot suvlarining asosiy toʻyinish manbai sugʻorish: sath yogʻin eng koʻp boʻlgan bahorda emas, sugʻorish eng jadal boʻlgan iyul–avgustda eng sayoz holatga keladi. 2024-yil 1-aprel holatiga quduqlarning 19 foizida sath 1,5 m dan sayoz.
-3. Kadastrga koʻra tumanda 621,1 km ochiq va 91,7 km yopiq drenaj tarmogʻi, 455 ta gidrotexnik inshoot bor. 14 ta magistral kollektor davlatlararo boʻlib, ularning asosiy qismi Qirgʻiziston hududidan oʻtadi. Tarmoqda atigi 6 ta suv oʻlchash inshooti boʻlgani uchun tarmoq ishini sizot rejimi orqali baholash amalda yagona imkoniyat hisoblanadi.
+3. Kadastrga koʻra tumanda 621,1 km ochiq va 91,7 km yopiq drenaj tarmogʻi, 455 ta gidrotexnik inshoot bor. 14 ta magistral kollektor davlatlararo boʻlib, ularning asosiy qismi Qirgʻiziston hududidan oʻtadi. Tarmoqda atigi 6 ta suv oʻlchash inshooti bor, shuning uchun uning ishi asosan sizot rejimi orqali baholanadi.
 4. Kuzatuv tarmogʻi 2013–2016-yillarda deyarli yangilangan: quduqlarning 64 foizi shu yillarda qurilgan. Quduqlar chuqurligi medianasi 3,2 m boʻlib, sath chuqur joylarda oʻlchov chegarasini hosil qiladi.
-5. Mavjud xaritalar va quduqlar koordinatalari asosida geomaʼlumotlar bazasini tiklash usuli ishlab chiqildi. Xarita 181 ta quduq orqali joyiga bogʻlandi (qoldiq medianasi 1,9 m, nuqtalarning 91 foizida 5 m dan kichik); 214,6 km kollektor va 170,9 km kanal vektorlandi, 60 ta kollektorga kadastr maʼlumotlari biriktirildi, sakkizta massiv chegarasi tiklandi.
-6. Monitoring maʼlumotlarini tekshirishning uch qoidasi, kesilgan qiymatlarni aniqlash tartibi va ishonchlilik koʻrsatkichi taklif etildi. Qoidalar qoʻshimcha oʻlchov talab qilmaydi va har qanday tuman maʼlumotiga qoʻllanilishi mumkin.
-7. Koʻp yillik tahlil uchun barqaror panel va Mann–Kendall mezoni, fazoviy tahlil uchun oddiy kriging va kross-validatsiya, tarmoq bilan bogʻliqlik uchun koʻp omilli regressiya, taʼmir taʼsirini baholash uchun quduq va yil qatʼiy effektli panel modeli tanlandi.
+5. Mavjud xaritalar va quduqlar koordinatalari asosida geomaʼlumotlar bazasini tiklash usuli ishlab chiqildi. Xarita 181 ta quduq orqali joyiga bogʻlandi (qoldiq medianasi 1,9 m); 214,6 km kollektor va 170,9 km kanal vektorlandi, 60 ta kollektorga kadastr maʼlumotlari biriktirildi, sakkizta massiv chegarasi tiklandi.
+6. Monitoring maʼlumotlarini tekshirishning uch qoidasi, kesilgan qiymatlarni aniqlash tartibi va ishonchlilik koʻrsatkichi taklif etildi; ular qoʻshimcha oʻlchov talab qilmaydi.
 
 
 
 ```{=openxml}
-<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+<w:p><w:pPr><w:spacing w:before="0" w:after="0" w:line="20" w:lineRule="exact"/><w:rPr><w:sz w:val="2"/></w:rPr></w:pPr><w:r><w:rPr><w:sz w:val="2"/></w:rPr><w:br w:type="page"/></w:r></w:p>
 ```
 
 
@@ -794,11 +770,11 @@ Ushbu bobda Marhamat tumani boʻyicha 2009–2024-yillardagi meliorativ monitori
 
 **Tahlil qilingan maʼlumotlar.** Tahlil uchun meliorativ ekspeditsiyaning 2009–2024-yillardagi kuzatuv jadvallari olindi. Jadvallarda har bir kuzatuv qudugʻi uchun sizot suvi sathi oyiga uch marta, yaʼni yiliga 36 ta oʻn kunlik oʻlchov koʻrinishida qayd etilgan. 2010, 2013 va 2017-yillar boʻyicha mustaqil kuzatuv maʼlumotlari mavjud emas, shuning uchun tahlilga 13 yil kiritildi. Shu yillar uchun Marhamat tumani boʻyicha jami 196 ta quduq va 75 200 ta oʻlchov mavjud.
 
-Maʼlumotlar 2.4-§ da bayon etilgan uchta qoida boʻyicha tekshirildi: yil ichidagi oʻzgarmaslik, oʻlchov birligi va kuzatuv tarmogʻi tarkibi. Qoʻshimcha ravishda har bir oʻlchov quduq pasportidagi chuqurlik bilan solishtirilib, kesilgan qiymatlar aniqlandi. Yillar boʻyicha natijalar 16-ilovada keltirilgan.
+Maʼlumotlar 2.4-§ da bayon etilgan uchta qoida boʻyicha tekshirildi: yil ichidagi oʻzgarmaslik, oʻlchov birligi va kuzatuv tarmogʻi tarkibi. Qoʻshimcha ravishda har bir oʻlchov quduq pasportidagi chuqurlik bilan solishtirilib, kesilgan qiymatlar aniqlandi. Yillar boʻyicha natijalar 17-ilovada keltirilgan.
 
 **Yil ichidagi oʻzgarmaslik.** 270 ta quduq-yilda (9 107 ta oʻlchov) yil davomidagi barcha qiymatlar bir xil. Sugʻoriladigan hududda sath mavsumiy tebranadi (3.2-§), shuning uchun bunday qator haqiqiy oʻlchov emas. Oʻzgarmas qatorlar 56 ta quduqda uchraydi, shundan 36 tasida kamida uch yil davomida.
 
-Oʻzgarmas qatorlarda yozilgan qiymatlarning oʻzi ularning tabiatini koʻrsatadi (17-ilova). Eng koʻp 3,0 m qiymati uchraydi (65 ta quduq-yil), undan keyin 2,8; 3,2 va 2,6 m. Bu yaxlit qiymatlar kuzatuv quduqlarining odatiy chuqurligiga mos keladi (2.2-§). Pasporti bor quduqlar boʻyicha tekshirilganda oʻzgarmas qatorlarning 53 foizida yozilgan qiymat quduq chuqurligidan 0,3 m dan kam farq qiladi; farqning medianasi 0,25 m. Oʻzgarmas qatorlarning yarmidan koʻpida quduq qurigan holatda uning chuqurligi yoki shunga yaqin shartli qiymat yozilgan. Bu izohni raqib izoh — kuzatuvchining hisobot amaliyoti bilan ajratish uchun oʻzgarmas qator ehtimoli quduq tubigacha zaxira (pasport chuqurligi va oʻsha quduqning oʻzgaruvchan yillardagi oʻrtacha sathi farqi) bilan solishtirildi. Zaxira 0,5 m dan kam boʻlgan quduq-yillarning 44 foizida qator oʻzgarmas, zaxira 1,5–2,0 m boʻlganda esa 2 foizida; zaxiraning har 1 m ortishi oʻzgarmas qator ehtimoli nisbatini 0,31 ga kamaytiradi (p < 0,001), massiv omili hisobga olinganda ham 0,41 ga (1 924 ta quduq-yil). Shu bilan birga zaxirasi 2 m dan katta quduqlarda ham 9 foiz oʻzgarmas qator bor, yaʼni ularning bir qismi hisobot amaliyoti bilan bogʻliq.
+Oʻzgarmas qatorlarda yozilgan qiymatlar ularning kelib chiqishini koʻrsatadi (18-ilova). Eng koʻp 3,0 m uchraydi (65 ta quduq-yil), undan keyin 2,8; 3,2 va 2,6 m; bu yaxlit qiymatlar kuzatuv quduqlarining odatiy chuqurligiga mos (2.2-§). Pasporti bor quduqlarda oʻzgarmas qatorlarning 53 foizida yozilgan qiymat quduq chuqurligidan 0,3 m dan kam farq qiladi (farq medianasi 0,25 m), yaʼni quduq qurigan holatda uning chuqurligi yoki unga yaqin shartli qiymat yozilgan. Raqib izoh, kuzatuvchining hisobot odati, bilan ajratish uchun oʻzgarmas qator ehtimoli quduq tubigacha zaxira (pasport chuqurligi va oʻzgaruvchan yillardagi oʻrtacha sath farqi) bilan solishtirildi. Zaxira 0,5 m dan kam boʻlgan quduq-yillarning 44 foizida qator oʻzgarmas, 1,5–2,0 m boʻlganda 2 foizida; zaxira har 1 m ortganda imkoniyatlar nisbati 0,31 ga (massiv omili bilan 0,41 ga) kamayadi (p < 0,001; 1 924 ta quduq-yil). Zaxirasi 2 m dan katta quduqlarda ham 9 foiz oʻzgarmas qator bor: ularning bir qismini hisobot odati tushuntiradi.
 
 **Kesilgan qiymatlar.** Oʻzgarmas qatorlardan tashqari, oʻzgaruvchan qatorlarda ham quduq qurigan holatlar uchraydi: bir necha oʻn kunlik davomida sath quduq tubiga yetib, keyin yana koʻtariladi. Pasportda chuqurligi koʻrsatilgan quduqlarning yaroqli oʻlchovlari orasida 5 326 tasi (8,2 foiz) quduq chuqurligidan 0,1 m dan kamroq farq qiladi. Bu oʻlchovlar haqiqiy sathni emas, «sath quduq tubidan chuqur» degan holatni aks ettiradi. Kesilgan oʻlchovlar 2018-yildan keyin keskin koʻpaygan: 2009–2016-yillarda yiliga 29–155 ta, 2018–2024-yillarda 500–1 023 ta.
 
@@ -806,11 +782,11 @@ Kesilgan oʻlchovlar oʻrtacha sathni kamaytirib koʻrsatadi: haqiqiy sath yozil
 
 **Oʻlchov birligi xatolari.** 13 ta qiymat 20 dan katta (masalan, 400, 532, 197). Ular metr oʻrniga santimetrda yozilgan deb baholanib, 100 ga boʻlindi.
 
-**Kuzatuv tarmogʻining oʻzgarishi.** Tarmoq tarkibi kuzatilgan davrda bir tekis boʻlmagan (18-ilova; u yerda har bir tahlilga kiritilgan quduqlar soni ham keltirilgan). 2009–2016-yillarda har yili 128–138 ta quduq kuzatilgan, quduqlar tarkibi yildan-yilga biroz oʻzgargan: yiliga 1–12 ta quduq qoʻshilgan va 1–8 tasi chiqib ketgan. 2018-yilda esa tarmoqqa birdaniga 60 ta yangi quduq qoʻshilgan va kuzatilgan quduqlar soni 188 taga yetgan; 2020-yilda yana 7 ta quduq qoʻshilgan. Bu 2013–2016-yillarda 120 ta yangi quduq qurilgani bilan mos keladi (2.2-§): yangi quduqlar kuzatuv jadvallariga asosan 2018-yildan kiritilgan.
+**Kuzatuv tarmogʻining oʻzgarishi.** Tarmoq tarkibi kuzatilgan davrda bir tekis boʻlmagan (19-ilova; u yerda har bir tahlilga kiritilgan quduqlar soni ham keltirilgan). 2009–2016-yillarda har yili 128–138 ta quduq kuzatilgan, quduqlar tarkibi yildan-yilga biroz oʻzgargan: yiliga 1–12 ta quduq qoʻshilgan va 1–8 tasi chiqib ketgan. 2018-yilda esa tarmoqqa birdaniga 60 ta yangi quduq qoʻshilgan va kuzatilgan quduqlar soni 188 taga yetgan; 2020-yilda yana 7 ta quduq qoʻshilgan. Bu 2013–2016-yillarda 120 ta yangi quduq qurilgani bilan mos keladi (2.2-§): yangi quduqlar kuzatuv jadvallariga asosan 2018-yildan kiritilgan.
 
 Tarmoq oʻzgarishi oʻlchovlar tarkibida aniq iz qoldirgan. 2018-yilgacha 5 m dan chuqur oʻlchovlar deyarli uchramaydi (0–0,1 foiz), 2018-yildan keyin esa ular har yili 3,2–4,3 foizni tashkil etadi. Kesilgan oʻlchovlar soni ham 2018-yildan koʻpaygan. Yangi quduqlarning bir qismi sizot suvi chuqurroq joylashgan hududlarga qoʻyilgan va ularning bir qismi chuqurroq (4–6 m) qurilgan. Shu sababli yillarni barcha quduqlar oʻrtachasi boʻyicha solishtirish notoʻgʻri natija beradi: 2018-yildagi oʻrtacha sathning oʻzgarishi asosan tarmoq tarkibining oʻzgarishini aks ettiradi. Koʻp yillik tahlil faqat barqaror panel boʻyicha bajarilishi kerak (3.2-§).
 
-**Massivlar boʻyicha ishonchlilik.** Maʼlumotlar ishonchliligi massivlar orasida keskin farq qiladi (19-ilova).
+**Massivlar boʻyicha ishonchlilik.** Maʼlumotlar ishonchliligi massivlar orasida keskin farq qiladi (20-ilova).
 
 Ishonchlilik sizot suvi sathi bilan bevosita bogʻliq. Sath sayoz boʻlgan Mashʼal va Istiqlol massivlarida yaroqli oʻlchovlar 97–98 foiz, kesilganlar 3–6 foiz. Sath chuqur boʻlgan T.Mirzayev va Y.Oxunboboyev massivlarida esa oʻlchovlarning faqat 50–60 foizi yaroqli, yaroqlilarining ham 21–29 foizi kesilgan. Sababi aniq: sath chuqur joylarda sayoz quduqlar tez-tez quriydi.
 
@@ -836,7 +812,7 @@ Monitoring tizimining asosiy kamchiliklari quduqlar chuqurligining sizot rejimig
 
 Ushbu paragrafda sizot suvi sathining 2009–2024-yillardagi oʻzgarishi uch darajada koʻrib chiqiladi: butun tuman, massivlar va alohida quduqlar. Har bir darajada ikki savolga javob izlanadi: sath qaysi tomonga va qanday tezlikda oʻzgargan hamda bu oʻzgarish 3.1-§ da aniqlangan maʼlumot nuqsonlariga qanchalik sezgir. Tendensiyalar Mann–Kendall mezoni \[72, 88\] va Sen qiyaligi \[115\] bilan baholandi. Bu usullar taqsimot shakliga talab qoʻymaydi va qatordagi alohida chetga chiqqan qiymatlarga chidamli, shuning uchun gidrologik qatorlar tahlilida keng qoʻllanadi \[64, 66\]. Sen qiyaligi haqiqiy kalendar yillar boʻyicha hisoblandi, shuning uchun 2010, 2013 va 2017-yillar oʻrnidagi boʻshliqlar qiyalikni sunʼiy oshirmaydi. Qatorlardagi avtokorrelyatsiya taʼsiri \[60\] da tavsiya etilgan tuzatish bilan tekshirildi: tuman qatori uchun tuzatilgan mezon ham p = 0,0005 ni beradi.
 
-**Barqaror panel.** Tuman boʻyicha koʻp yillik dinamika barqaror panel usulida baholandi. Panelga 13 yilning barchasida kuzatilgan va hech bir yilda oʻzgarmas qator bermagan quduqlar kiritildi; ular 84 ta. Bunday tanlov tarmoq tarkibi oʻzgarishining taʼsirini istisno etadi: har yili aynan bir xil quduqlar solishtiriladi. 3.1-§ da koʻrsatilganidek, 2018-yilda tarmoqqa 60 ta yangi quduq qoʻshilgan; ularni oʻrtachaga qoʻshish yillar orasidagi farqni tarmoq tarkibi farqi bilan aralashtirib yuboradi. Natijalar 20-ilova va 3.2-rasmda keltirilgan. Jadvalga yillik oʻrtachadan tashqari iyul–avgust oylari (19–24-dekadalar) boʻyicha oʻrtacha sath ham kiritildi, chunki drenaj tizimi aynan shu davrda eng katta yuklama bilan ishlaydi.
+**Barqaror panel.** Tuman boʻyicha koʻp yillik dinamika barqaror panel usulida baholandi. Panelga 13 yilning barchasida kuzatilgan va hech bir yilda oʻzgarmas qator bermagan quduqlar kiritildi; ular 84 ta. Bunday tanlov tarmoq tarkibi oʻzgarishining taʼsirini istisno etadi: har yili aynan bir xil quduqlar solishtiriladi. 3.1-§ da koʻrsatilganidek, 2018-yilda tarmoqqa 60 ta yangi quduq qoʻshilgan; ularni oʻrtachaga qoʻshish yillar orasidagi farqni tarmoq tarkibi farqi bilan aralashtirib yuboradi. Natijalar 21-ilova va 3.2-rasmda keltirilgan. Jadvalga yillik oʻrtachadan tashqari iyul–avgust oylari (19–24-dekadalar) boʻyicha oʻrtacha sath ham kiritildi, chunki drenaj tizimi aynan shu davrda eng katta yuklama bilan ishlaydi.
 
 Panel boʻyicha yillik oʻrtacha sath 2009-yildagi 1,60 m dan 2024-yilda 1,99 m ga chuqurlashgan. Mann–Kendall mezoni tendensiyani statistik ahamiyatli deb koʻrsatadi (τ = 0,744; p = 0,0005). Sen qiyaligi yiliga 0,033 m (95 foizlik ishonch oraligʻi 0,022–0,046 m; quduqlar boʻyicha bootstrap ham shu oraliqni beradi), chiziqli regressiya qiyaligi yiliga 0,032 m (R² = 0,825); ikki baho bir-biriga yaqin, demak natija baholash usuliga bogʻliq emas. Iyul–avgustdagi sath ham xuddi shunday tezlikda chuqurlashgan: 1,44 m dan 1,80 m gacha, Sen qiyaligi yiliga 0,031 m (τ = 0,744; p = 0,0005). Yozgi sath yillik oʻrtachadan har yili 0,11–0,28 m (oʻrtacha 0,20 m) sayozroq, lekin ikki qator parallel harakatlanadi. Bu chuqurlashish faqat qishki-bahorgi davrga emas, sugʻorish mavsumiga ham tegishli ekanini koʻrsatadi.
 
@@ -854,7 +830,7 @@ Ushbu pogʻonaning ikki ehtimoliy izohi bor va mavjud maʼlumot ularni toʻliq a
 
 **Kesilgan qiymatlarga sezgirlik.** 3.1-§ da aniqlanganidek, quduq qurigan holatda sath oʻrniga quduq chuqurligi yoki unga yaqin qiymat yoziladi. Bunday kesilgan qiymatlar sathni haqiqatdagidan sayozroq koʻrsatadi \[63\]. Panel quduqlarida kesilgan oʻlchovlar ulushi 3,5 foiz, lekin ular yillar boʻyicha bir tekis taqsimlanmagan. Natijaning ularga sezgirligini tekshirish uchun tendensiya ikki usulda hisoblandi: barcha oʻlchovlar bilan va kesilgan oʻlchovlarsiz. Ikkinchi holda sath 1,60 m dan 1,93 m gacha oʻzgaradi, Sen qiyaligi yiliga 0,028 m (τ = 0,718; p = 0,0008); bu birinchi holdagidan 15 foiz kichik. Davrlar orasidagi farq 0,30 m oʻrniga 0,26 m ni tashkil etadi.
 
-**Avtokorrelyatsiya.** Yillik qatorda birinchi tartibli avtokorrelyatsiya yuqori (r₁ = 0,83), bu asosan pogʻonali oʻzgarishning natijasi. Avtokorrelyatsiyani hisobga oluvchi Hamed–Rao tuzatishi bilan Mann–Kendall testi ahamiyatli qoladi (p = 0,0005), qatorni oldindan oqartirish (pre-whitening) usulida esa p = 0,11; bu usul tendensiyasi bor qisqa qatorda testning kuchini sezilarli kamaytirishi maʼlum. Shuning uchun oʻzgarish ikki koʻrsatkich bilan birga ifodalanadi: yillik tezlik va ikki davr orasidagi pogʻona (0,30 m; Welch testi p < 0,001).
+**Avtokorrelyatsiya.** Yillik qatorda birinchi tartibli avtokorrelyatsiya yuqori (r₁ = 0,83), asosan pogʻonali oʻzgarish tufayli. Hamed–Rao tuzatishi bilan Mann–Kendall testi ahamiyatli qoladi (p = 0,0005), oldindan oqartirish (pre-whitening) usulida esa p = 0,11; bu usul tendensiyasi bor qisqa qatorda test kuchini kamaytiradi. Shuning uchun oʻzgarish ikki koʻrsatkich bilan beriladi: yillik tezlik va ikki davr orasidagi pogʻona (0,30 m; Welch testi p < 0,001).
 
 Kesilgan qiymatlarni olib tashlash quruq quduqlarning eng chuqur holatlarini tanlanmadan chiqaradi, shuning uchun u tendensiyaning pastki chegarasini beradi. Kesilgan qiymatlarni saqlash esa haqiqiy sathni sayozroq koʻrsatadi, shu bilan birga yuqori chegaraga yaqin. Haqiqiy tendensiya shu ikki baho oraligʻida, yiliga 0,028–0,033 m atrofida yotadi. Chuqurlashish xulosasi kesilgan qiymatlarga chidamli, tezligi esa ±15 foiz aniqlik bilan baholanadi.
 
@@ -886,7 +862,7 @@ Yetti massivdan oltitasida sath statistik ahamiyatli ravishda chuqurlashgan, tez
 
 Z.M.Bobur massividagi sayozlashish meliorativ jihatdan xavfli: sathning 1,5 m atrofigacha koʻtarilishi Oʻzbekiston sharoitida qabul qilingan kritik chuqurlikka yaqinlashish demakdir: bu chuqurlikda kapillyar koʻtarilish orqali tuz toʻplanishi tezlashadi \[53, 68\]. Massivdagi oʻzgarish tumanning umumiy pogʻonasidan farqli vaqtda yuz bergan: 2009–2018-yillarda sath 1,65–1,95 m oraligʻida boʻlgan, 2019-yildan boshlab esa 1,27–1,71 m oraligʻiga koʻtarilgan va 2022-yilda 1,27 m ga yetgan. Shu sababli bu massiv drenaj tarmogʻini birinchi navbatda tekshirish talab etiladigan hudud sifatida ajratiladi (4.5-§).
 
-**Quduqlar kesimida.** Massiv ichidagi tafovutni koʻrish uchun tendensiya har bir quduq boʻyicha alohida hisoblandi. Bunda faqat panel quduqlari emas, kamida 8 yil yaroqli maʼlumotga ega barcha quduqlar olindi; ular 122 ta. Natijalar 21-ilova va 3.3-rasmda keltirilgan.
+**Quduqlar kesimida.** Massiv ichidagi tafovutni koʻrish uchun tendensiya har bir quduq boʻyicha alohida hisoblandi. Bunda faqat panel quduqlari emas, kamida 8 yil yaroqli maʼlumotga ega barcha quduqlar olindi; ular 122 ta. Natijalar 22-ilova va 3.3-rasmda keltirilgan.
 
 122 ta quduqdan 86 tasida (70 foiz) sath chuqurlashish tomon, 36 tasida sayozlashish tomon oʻzgargan. Statistik ahamiyatli tendensiya 54 ta quduqda chuqurlashish, 9 ta quduqda sayozlashish koʻrinishida aniqlandi. Tasodifan, yaʼni haqiqiy tendensiya boʻlmaganda 5 foizlik darajada 6 ta atrofida ahamiyatli natija kutiladi; koʻp testlar tuzatishidan (Benjamini–Hochberg \[36\], q < 0,05) keyin ham 37 ta quduqda chuqurlashish va 6 ta quduqda sayozlashish ahamiyatli qoladi. Sen qiyaligining medianasi yiliga 0,023 m, kvartillararo oraligʻi −0,009 dan +0,060 m gacha. Barqaror panelning 84 ta qudugʻi boʻyicha ham manzara oʻxshash: 65 tasida chuqurlashish, 19 tasida sayozlashish (ahamiyatli mos ravishda 44 va 5 ta). Hududiy oʻrtacha chuqurlashayotgan boʻlsa ham, quduqlarning taxminan toʻrtdan birida teskari jarayon kuzatiladi.
 
@@ -902,13 +878,13 @@ Sayozlashayotgan quduqlar hudud boʻyicha tasodifiy tarqalmagan (3.3-rasm). Ular
 
 Quduq tendensiyasining qaysi omillarga bogʻliqligi Spearman korrelyatsiyasi bilan tekshirildi. Eng kuchli bogʻlanish quduqning hozirgi sathi bilan: 2019–2024-yillardagi oʻrtacha sathi chuqur boʻlgan quduqlarda chuqurlashish tezroq (ρ = +0,55; p < 0,001). Bu bogʻlanishning bir qismi tabiiy: tez chuqurlashgan quduq oxirgi yillarda chuqur sath beradi. Shu bilan birga sathi allaqachon sayoz boʻlgan joylarda chuqurlashish deyarli kuzatilmaydi: tuman boʻyicha oʻrtacha yaxshilanish eng muammoli quduqlarga yetib bormagan. Kollektorgacha masofa bilan bogʻlanish kuchsizroq, lekin ahamiyatli (ρ = +0,25; p = 0,008): kollektordan uzoqdagi quduqlarda sath tezroq chuqurlashgan. Bu bogʻlanish 3.4-§ da batafsil koʻrib chiqiladi.
 
-**Mavsumiy dinamika.** Tozalangan qatorlar boʻyicha sathning yil ichidagi oʻrtacha yoʻli aniq mavsumiy xususiyatga ega (3.2-rasm, b). Sath yanvar–fevralda eng chuqur (2,03–2,04 m), mart oxiridan koʻtarila boshlaydi va iyul oxirida eng sayoz holatga yetadi (1,56 m). May oyining ikkinchi yarmidan avgust oxirigacha sath 1,56–1,62 m oraligʻida turadi, sentabrdan boshlab yana chuqurlashadi. Mavsumiy amplituda 0,48 m. Bu yoʻl sugʻorish mavsumi bilan mos keladi: 2.1-§ da koʻrsatilganidek, yogʻinlarning 65 foizi noyabr–aprelda tushadi, lekin sath aynan shu davrda eng chuqur. Yaʼni sathning koʻtarilishi yogʻin davriga emas, sugʻorish mavsumiga toʻgʻri keladi. Bu uni asosan sugʻorish va kanallardan filtratsiya belgilashi bilan mos keladi \[128\], lekin suv berish hajmi boʻyicha quduqlar darajasida maʼlumot yoʻqligi sababli bu bogʻlanish miqdoriy tekshirilmadi.
+**Mavsumiy dinamika.** Tozalangan qatorlar boʻyicha sathning yil ichidagi oʻrtacha yoʻli aniq mavsumiy xususiyatga ega (3.2-rasm, b). Sath yanvar–fevralda eng chuqur (2,03–2,04 m), mart oxiridan koʻtarila boshlaydi va iyul oxirida eng sayoz holatga yetadi (1,56 m). May oyining ikkinchi yarmidan avgust oxirigacha sath 1,56–1,62 m oraligʻida turadi, sentabrdan boshlab yana chuqurlashadi. Mavsumiy amplituda 0,48 m. Bu yoʻl sugʻorish mavsumi bilan mos keladi: 2.1-§ da koʻrsatilganidek, yogʻinlarning 65 foizi noyabr–aprelda tushadi, lekin sath shu davrda eng chuqur, koʻtarilish esa sugʻorish mavsumiga toʻgʻri keladi. Bu uni asosan sugʻorish va kanallardan filtratsiya belgilashi bilan mos keladi \[128\], lekin suv berish hajmi boʻyicha quduqlar darajasida maʼlumot yoʻqligi sababli bu bogʻlanish miqdoriy tekshirilmadi.
 
-Massivlar boʻyicha mavsumiy yoʻl bir-biridan sezilarli farq qiladi (22-ilova va 23-ilova). Mavsumiy amplituda 0,32 m dan (T.Mirzayev) 0,85 m gacha (U.Qoraboyev) oʻzgaradi.
+Massivlar boʻyicha mavsumiy yoʻl bir-biridan sezilarli farq qiladi (23-ilova va 24-ilova). Mavsumiy amplituda 0,32 m dan (T.Mirzayev) 0,85 m gacha (U.Qoraboyev) oʻzgaradi.
 
 Massivlarni mavsumiy yoʻl boʻyicha ikki guruhga ajratish mumkin. Birinchi guruhda (Istiqlol, M.Toʻjiboyev, U.Qoraboyev) sath sugʻorish mavsumining avjida, iyul oxirida eng sayoz holatga yetadi. Bu massivlarda amplituda katta (0,43–0,85 m) va sathning yozgi koʻtarilishi asosan sugʻorish suvining filtratsiyasi bilan bogʻliq. Ikkinchi guruhda (Mashʼal, T.Mirzayev, Z.M.Bobur) sath may oyida eng sayoz boʻladi va yozda koʻtarilish toʻxtaydi. Bunday yoʻl vegetatsiya oldidan oʻtkaziladigan shoʻr yuvish va bahorgi sugʻorishlarning taʼsiri kuchliroq ekanini, yozda esa drenaj tarmogʻi ortiqcha suvni olib keta olishini koʻrsatadi. Paxtakor massivi oraliq holatda: eng sayoz sath iyun oʻrtasida.
 
-U.Qoraboyev massivining yozgi eng sayoz sathi (1,45 m) tumandagi eng past koʻrsatkich, qishki eng chuqur sathi esa (2,29 m) eng chuqurlaridan biri. Yaʼni massivning yillik oʻrtacha sathi (3.1-jadval) qoniqarli koʻrinsa ham, yozda sath kritik chuqurlikka yetadi. Bu massivda yillik oʻrtacha sath eng tez chuqurlashgan (yiliga 0,053 m), shuning uchun yillik oʻrtacha koʻrsatkich undagi holatni haqiqatdagidan yaxshiroq koʻrsatadi. Shu sababli drenaj tizimi samaradorligini baholashda yillik oʻrtacha emas, yozgi eng sayoz holat asosiy mezon boʻlishi kerak.
+U.Qoraboyev massivining yozgi eng sayoz sathi (1,45 m) tumandagi eng past koʻrsatkich, qishki eng chuqur sathi esa (2,29 m) eng chuqurlaridan biri. Massivning yillik oʻrtacha sathi (3.1-jadval) qoniqarli koʻrinsa ham, yozda sath kritik chuqurlikka yetadi. Bu massivda yillik oʻrtacha sath eng tez chuqurlashgan (yiliga 0,053 m), shuning uchun yillik oʻrtacha koʻrsatkich undagi holatni haqiqatdagidan yaxshiroq koʻrsatadi. Shu sababli drenaj tizimi samaradorligini baholashda yillik oʻrtacha emas, yozgi eng sayoz holat asosiy mezon boʻlishi kerak.
 
 ## 3.3-§. Sizot suvi sathining geostatistik modeli va noaniqlik xaritasi
 
@@ -916,21 +892,21 @@ Kuzatuv quduqlari sathni faqat alohida nuqtalarda beradi, meliorativ qarorlar es
 
 **Boshlangʻich maʼlumotlar.** Modellashtirishga ikki koʻrsatkich kiritildi. Birinchisi har bir quduqning 2019–2024-yillardagi tozalangan oʻrtacha sathi; bunday quduqlar 168 ta. Ikkinchisi shu yillardagi iyul–avgust oylari oʻrtacha sathi (167 ta quduq). 3.2-§ da koʻrsatilganidek, drenaj tizimi samaradorligini baholashda yozgi sath asosiy mezon boʻlishi kerak, shuning uchun u alohida modellashtirildi. Koʻp yillik oʻrtachadan foydalanish bitta yilning tasodifiy xatolarini kamaytiradi. Qoʻshni quduqlar orasidagi masofaning medianasi 606 m.
 
-Ikkala koʻrsatkichning taqsimoti normal taqsimotdan farq qiladi (24-ilova). Oʻrtacha yillik sath boʻyicha oʻrtacha qiymat 2,39 m, mediana 2,25 m, asimmetriya koeffitsiyenti +1,31: taqsimot chuqur sath tomoniga choʻzilgan: sathi 4–6 m boʻlgan kam sonli quduqlar oʻrtachani oshiradi. Yozgi sath boʻyicha mediana 1,93 m, asimmetriya +1,59. Logarifmik oʻzgartirish asimmetriyani 0,36–0,46 gacha kamaytiradi, lekin taqsimotni toʻliq normallashtirmaydi (Shapiro–Uilk mezoni boʻyicha p = 0,009–0,016). Oddiy kriging taqsimotning normal boʻlishini talab qilmaydi, lekin ehtimollik xaritasini tuzishda bu holat hisobga olinadi.
+Ikkala koʻrsatkichning taqsimoti normal taqsimotdan farq qiladi (25-ilova). Oʻrtacha yillik sath boʻyicha oʻrtacha qiymat 2,39 m, mediana 2,25 m, asimmetriya koeffitsiyenti +1,31: taqsimot chuqur sath tomoniga choʻzilgan: sathi 4–6 m boʻlgan kam sonli quduqlar oʻrtachani oshiradi. Yozgi sath boʻyicha mediana 1,93 m, asimmetriya +1,59. Logarifmik oʻzgartirish asimmetriyani 0,36–0,46 gacha kamaytiradi, lekin taqsimotni toʻliq normallashtirmaydi (Shapiro–Uilk mezoni boʻyicha p = 0,009–0,016). Oddiy kriging taqsimotning normal boʻlishini talab qilmaydi, lekin ehtimollik xaritasini tuzishda bu holat hisobga olinadi.
 
-**Eksperimental variogramma.** Variogramma 500 m qadam bilan 10 km gacha boʻlgan masofada hisoblandi (25-ilova, a). Eng qisqa masofadagi (0,5–1,0 km) yarimvariogramma 0,52–0,57 m² ni tashkil etadi, bu maʼlumotlar umumiy dispersiyasining (0,97 m²) qariyb yarmi. Bu qoʻshni quduqlar sathi bir-biridan deyarli tasodifiy farq qilishini bildiradi: 500 m masofada joylashgan ikki quduq orasidagi sath farqi hudud boʻylab olingan ikki tasodifiy quduq orasidagi farqning yarmiga teng. Masofa ortishi bilan yarimvariogramma deyarli chiziqli oʻsadi va 7 km da maʼlumotlar dispersiyasiga yetadi, lekin plato hosil qilmaydi. Bunday shakl sathda tuman miqyosidagi umumiy yoʻnalish (trend) borligini koʻrsatadi \[95, 129\].
+**Eksperimental variogramma.** Variogramma 500 m qadam bilan 10 km gacha boʻlgan masofada hisoblandi (26-ilova, a). Eng qisqa masofadagi (0,5–1,0 km) yarimvariogramma 0,52–0,57 m² ni tashkil etadi, bu maʼlumotlar umumiy dispersiyasining (0,97 m²) qariyb yarmi. Bu qoʻshni quduqlar sathi bir-biridan deyarli tasodifiy farq qilishini bildiradi: 500 m masofada joylashgan ikki quduq orasidagi sath farqi hudud boʻylab olingan ikki tasodifiy quduq orasidagi farqning yarmiga teng. Masofa ortishi bilan yarimvariogramma deyarli chiziqli oʻsadi va 7 km da maʼlumotlar dispersiyasiga yetadi, lekin plato hosil qilmaydi. Bunday shakl sathda tuman miqyosidagi umumiy yoʻnalish (trend) borligini koʻrsatadi \[95, 129\].
 
 Trendning mavjudligi sath koordinatalar boʻyicha chiziqli regressiya bilan tasdiqlandi: u sath oʻzgaruvchanligining 18 foizini tushuntiradi (p < 0,001). Sath sharq tomonga har kilometrda 0,10 m, janub tomonga har kilometrda 0,07 m chuqurlashadi. Yozgi sath uchun ham manzara oʻxshash (R² = 0,15). Bu yoʻnalish tumanning umumiy relyefiga va 3.2-§ da aniqlangan massivlar farqiga mos keladi: sayoz sathli Z.M.Bobur, Istiqlol va Mashʼal massivlari tumanning shimoliy va gʻarbiy qismida, chuqur sathli Y.Oxunboboyev va T.Mirzayev massivlari janubda joylashgan.
 
-Yoʻnalishli variogrammalar (25-ilova, b) zaif anizotropiyani koʻrsatadi. Dastlabki 3 km masofada gʻarb–sharq yoʻnalishidagi oʻrtacha yarimvariogramma 0,52 m², qolgan uch yoʻnalishda 0,66–0,67 m². Yaʼni sath gʻarb–sharq yoʻnalishida biroz uzluksizroq oʻzgaradi. Biroq yoʻnalishlar boʻyicha juftliklar soni kam va farq qatordan qatorga barqaror emas, shuning uchun modelga anizotropiya kiritilmadi.
+Yoʻnalishli variogrammalar (26-ilova, b) zaif anizotropiyani koʻrsatadi. Dastlabki 3 km masofada gʻarb–sharq yoʻnalishidagi oʻrtacha yarimvariogramma 0,52 m², qolgan uch yoʻnalishda 0,66–0,67 m², yaʼni gʻarb–sharq yoʻnalishida sath biroz uzluksizroq oʻzgaradi. Biroq yoʻnalishlar boʻyicha juftliklar soni kam va farq qatordan qatorga barqaror emas, shuning uchun modelga anizotropiya kiritilmadi.
 
-**Variogramma modelini tanlash.** Eksperimental variogrammaga uchta nazariy model (sferik, eksponensial va Gauss) juftliklar soni boʻyicha vaznlangan eng kichik kvadratlar usulida moslashtirildi \[95\]. Moslashtirish 10 km gacha boʻlgan masofa bilan cheklandi, chunki kriging bahosini asosan eng yaqin quduqlar belgilaydi. Taqqoslash uchun dasturning avtomatik moslashtirishi (butun masofa diapazoni boʻyicha) natijasi ham keltirilgan. Har bir model bittadan chiqarib tashlash usulidagi kross-validatsiya bilan baholandi (26-ilova).
+**Variogramma modelini tanlash.** Eksperimental variogrammaga uchta nazariy model (sferik, eksponensial va Gauss) juftliklar soni boʻyicha vaznlangan eng kichik kvadratlar usulida moslashtirildi \[95\]. Moslashtirish 10 km gacha boʻlgan masofa bilan cheklandi, chunki kriging bahosini asosan eng yaqin quduqlar belgilaydi. Taqqoslash uchun dasturning avtomatik moslashtirishi (butun masofa diapazoni boʻyicha) natijasi ham keltirilgan. Har bir model bittadan chiqarib tashlash usulidagi kross-validatsiya bilan baholandi (27-ilova).
 
 Eng kichik xatoni ikkala eksponensial model berdi (0,813–0,819 m), ular orasidagi farq amaliy ahamiyatga ega emas. Biroq ular noaniqlikni turlicha baholaydi. Avtomatik moslashtirilgan modelda nagget dispersiyaning atigi 28 foizi, standartlashtirilgan xato esa 1,19 ga teng: model oʻz xatosini taxminan 20 foizga kam baholaydi. Eksperimental variogrammaga yaqin masofalarda moslashtirilgan modelda nagget 0,50 m², standartlashtirilgan xato 0,93; bu model noaniqlikni birmuncha ortiq, lekin haqiqatga yaqin baholaydi. Noaniqlik va ehtimollik xaritalari uchun aynan noaniqlikni toʻgʻri baholash muhim, shuning uchun keyingi barcha xaritalar shu model boʻyicha tuzildi. Sferik va eksponensial modellarda taʼsir radiusi hisob chegarasiga tiralib qoldi; bu yuqorida qayd etilgan trendning natijasi boʻlib, radius qiymati xulosa sifatida keltirilmaydi.
 
-**Trendni hisobga olgan modellar.** Trend mavjud boʻlgani uchun oddiy kriging yana ikki usul bilan solishtirildi. Birinchisi universal kriging: sathning koordinatalar boʻyicha chiziqli trendi kriging tizimiga qoʻshiladi \[46, 129\]. Ikkinchisi regressiya-kriging: sath avval drenaj tarmogʻi koʻrsatkichlari (eng yaqin kollektorgacha masofa logarifmi va 1 km radiusdagi kollektorlar uzunligi) boʻyicha regressiya bilan baholanadi, soʻng regressiya qoldiqlari kriging bilan interpolyatsiya qilinadi \[65\]. Ikkinchi usul tarmoq haqidagi bilimni xaritaga kiritish imkonini beradi. Qoʻshimcha ravishda ikki oddiy usul (eng yaqin quduq qiymati va barcha quduqlar oʻrtachasi) solishtirish uchun asos sifatida hisoblandi (27-ilova).
+**Trendni hisobga olgan modellar.** Trend mavjud boʻlgani uchun oddiy kriging yana ikki usul bilan solishtirildi. Birinchisi universal kriging: sathning koordinatalar boʻyicha chiziqli trendi kriging tizimiga qoʻshiladi \[46, 129\]. Ikkinchisi regressiya-kriging: sath avval drenaj tarmogʻi koʻrsatkichlari (eng yaqin kollektorgacha masofa logarifmi va 1 km radiusdagi kollektorlar uzunligi) boʻyicha regressiya bilan baholanadi, soʻng regressiya qoldiqlari kriging bilan interpolyatsiya qilinadi \[65\]. Ikkinchi usul tarmoq haqidagi bilimni xaritaga kiritish imkonini beradi. Qoʻshimcha ravishda ikki oddiy usul (eng yaqin quduq qiymati va barcha quduqlar oʻrtachasi) solishtirish uchun asos sifatida hisoblandi (28-ilova).
 
-Trendni yoki tarmoq koʻrsatkichlarini modelga kiritish bahoni yaxshilamaydi: farq 0,01–0,02 m ichida va oddiy kriging foydasiga. Yaʼni trend mavjud boʻlsa ham, uni oddiy kriging qoʻshni quduqlar orqali yetarli darajada hisobga oladi. Tarmoq koʻrsatkichlarining sath bilan bogʻliqligi (3.4-§) statistik ahamiyatli, lekin bashorat uchun juda kuchsiz. Eng yaqin quduq qiymati esa hududiy oʻrtachadan ham yomonroq baho beradi (1,052 m ga qarshi 0,991 m). Bu yuqorida qayd etilgan katta nagget samarasining amaliy ifodasidir: alohida quduq oʻz atrofi uchun vakil emas. Shu sababli bitta quduq oʻlchovi boʻyicha unga qoʻshni dalaning meliorativ holati haqida xulosa chiqarish xatoga olib keladi. Krigingning hududiy oʻrtachaga nisbatan yutugʻi 17 foizni tashkil etadi: yillik sath uchun 0,99 m dan 0,82 m gacha, yozgi sath uchun 0,93 m dan 0,77 m gacha.
+Trendni yoki tarmoq koʻrsatkichlarini modelga kiritish bahoni yaxshilamaydi: farq 0,01–0,02 m ichida va oddiy kriging foydasiga: trendni oddiy kriging qoʻshni quduqlar orqali yetarli hisobga oladi. Tarmoq koʻrsatkichlarining sath bilan bogʻliqligi (3.4-§) statistik ahamiyatli, lekin bashorat uchun juda kuchsiz. Eng yaqin quduq qiymati esa hududiy oʻrtachadan ham yomonroq baho beradi (1,052 m ga qarshi 0,991 m). Bu yuqorida qayd etilgan katta nagget samarasining amaliy ifodasidir: alohida quduq oʻz atrofi uchun vakil emas. Shu sababli bitta quduq oʻlchovi boʻyicha unga qoʻshni dalaning meliorativ holati haqida xulosa chiqarish xatoga olib keladi. Krigingning hududiy oʻrtachaga nisbatan yutugʻi 17 foizni tashkil etadi: yillik sath uchun 0,99 m dan 0,82 m gacha, yozgi sath uchun 0,93 m dan 0,77 m gacha.
 
 **Oʻrtacha yillik sath xaritasi.** Kriging natijasida ikki xarita olindi (3.4-rasm): sath xaritasi va bahoning standart xatosi xaritasi. Xaritalar tuman chegarasi ichida, faqat eng yaqin quduqqacha masofa 1,5 km dan oshmaydigan hudud uchun tuzildi; bu hudud tuman maydonining 82 foizini qamraydi. Unda baholangan sath 1,57–4,52 m oraligʻida, hududning 32 foizida sath 2,0 m dan sayoz. Sayoz sathli zona tumanning shimoli-sharqidan janubi-gʻarbiga choʻzilgan va kollektor tarmogʻi zich joylashgan hududga toʻgʻri keladi; chuqur sathli zonalar janubda va sharqda joylashgan. Standart xato 0,79–1,11 m oraligʻida oʻzgaradi va quduqlar siyrak joylarda, ayniqsa hudud chekkalarida eng katta. Noaniqlik xaritasi kuzatuv tarmogʻini toʻldirish uchun asos boʻladi: yangi quduq xato eng katta boʻlgan joyga qoʻyilganda eng koʻp maʼlumot beradi (4.5-§).
 
@@ -942,13 +918,13 @@ Trendni yoki tarmoq koʻrsatkichlarini modelga kiritish bahoni yaxshilamaydi: fa
 3.4-rasm. Oddiy kriging natijalari: a — sizot suvi sathining 2019–2024-yillardagi oʻrtacha xaritasi (chiziqlar — 0,5 m oraliqdagi izochuqurliklar); b — bahoning standart xatosi. Nuqtalar — kuzatuv quduqlari, yashil chiziqlar — kollektorlar
 :::
 
-**Kriging xaritasining silliqlash xususiyati.** Kriging bahosi qoʻshni quduqlar boʻyicha oʻrtachalashtirilgan qiymat boʻlgani uchun xarita haqiqiy sath maydonidan silliqroq boʻladi: eng sayoz va eng chuqur qiymatlar xaritada yoʻqoladi \[58, 69\]. Nagget katta boʻlgani uchun oʻrganilayotgan hududda bu xususiyat kuchli namoyon boʻladi. Masalan, yozgi sath boʻyicha 167 ta quduqdan 39 tasida (23 foiz) sath 1,5 m dan sayoz, kriging xaritasida esa bunday sathli maydon hududning atigi 1,1 foizini tashkil etadi. Yaʼni kriging xaritasi boʻyicha «sayoz sathli maydon» ni hisoblash muammoning koʻlamini oʻn baravardan ortiq kam koʻrsatadi. Bu farq quduqlarning sayoz joylarda zichroq joylashganidan kelib chiqmaydi: quduqlar 1×1 km va 2×2 km kataklar boʻyicha muvozanatlanganda ham sayoz quduqlar ulushi 20–24 foiz. Kesib tashlab tekshirishda (har bir quduq qolganlari boʻyicha baholanganda) esa kriging 167 ta quduqdan faqat bittasida sathni 1,5 m dan sayoz deb baholaydi; demak kamaytirib koʻrsatish xaritalash usulining oʻziga xos xususiyati. Bu xulosa kriging xaritalaridan meliorativ holatni baholashda foydalanadigan barcha ishlar uchun ahamiyatlidir.
+**Kriging xaritasining silliqlash xususiyati.** Kriging bahosi qoʻshni quduqlar boʻyicha oʻrtachalangan qiymat, shuning uchun xarita haqiqiy sath maydonidan silliqroq va eng sayoz hamda eng chuqur qiymatlar unda yoʻqoladi \[58, 69\]. Nagget katta boʻlgani uchun bu hududda silliqlash kuchli. Yozda 167 ta quduqdan 39 tasida (23 foiz) sath 1,5 m dan sayoz, kriging xaritasida esa bunday maydon hududning 1,1 foizi: xarita sayoz sathli maydonni oʻn baravardan ortiq kam koʻrsatadi. Farq quduqlarning sayoz joylarda zichroq joylashganidan emas: 1×1 km va 2×2 km kataklar boʻyicha muvozanatlanganda ham sayoz quduqlar ulushi 20–24 foiz. Kesib tashlab tekshirishda (har bir quduq qolganlari boʻyicha baholanganda) kriging 167 ta quduqdan faqat bittasida sathni 1,5 m dan sayoz deb baholaydi, demak kam koʻrsatish xaritalash usulining oʻzidan kelib chiqadi.
 
 **Sayoz sath ehtimoli xaritasi.** Silliqlash muammosini hal etish uchun xaritaga baho emas, ehtimol koʻrsatkichi chiqarildi. Har bir katak uchun yozgi sathning kritik chuqurlikdan (1,5 m) sayoz boʻlish ehtimoli kriging bahosi va uning standart xatosi orqali hisoblandi:
 
 $$P(z < z_{kr}) = \Phi\left(\frac{z_{kr} - \hat z}{\sigma_K}\right) \qquad\qquad (3.1)$$
 
-bu yerda ẑ — kriging bahosi, $\sigma_{K}$ — bahoning standart xatosi, $z_{\mathrm{kr}}$ = 1,5 m, Φ — standart normal taqsimot funksiyasi. Taqsimotning asimmetriyasi tufayli bu ehtimollik sayoz sath tomonida biroz oshirib baholanadi, shuning uchun natija ehtiyotkor baho sifatida talqin qilinadi. Natijalar 3.5-rasm va 28-ilovada keltirilgan.
+bu yerda ẑ — kriging bahosi, $\sigma_{K}$ — bahoning standart xatosi, $z_{\mathrm{kr}}$ = 1,5 m, Φ — standart normal taqsimot funksiyasi. Taqsimotning asimmetriyasi tufayli bu ehtimollik sayoz sath tomonida biroz oshirib baholanadi, shuning uchun natija ehtiyotkor baho sifatida talqin qilinadi. Natijalar 3.5-rasm va 29-ilovada keltirilgan.
 
 
 ![](figures/fig36_summer_prob.png){width=15.5cm}
@@ -962,11 +938,11 @@ Ehtimollik xaritasi boʻyicha Mashʼal, Z.M.Bobur va Istiqlol massivlari ajralib
 
 Massivlarni tartiblashda ehtimollik koʻrsatkichi sath bahosidan koʻra ishonchliroq natija beradi. Masalan, U.Qoraboyev massivida maydonning 45 foizida baholangan sath 2,0 m dan sayoz, lekin sathning 1,5 m dan sayoz boʻlish ehtimoli 0,3 dan katta boʻlgan maydon atigi 19 foiz. Istiqlol massivida esa bu ikki koʻrsatkich bir-biriga yaqin (61 va 55 foiz): U.Qoraboyevda sath koʻpincha 1,5–2,0 m oraligʻida turadi, Istiqlolda esa kritik chegaradan pastga tushadi. 3.2-§ dagi mavsumiy tahlil (U.Qoraboyevda yozgi minimum 1,45 m) bilan birga olinganda, U.Qoraboyev uchun xavf qisqa muddatli, Istiqlol, Mashʼal va Z.M.Bobur uchun esa barqaror ekani koʻrinadi.
 
-**Kritik chuqurlik va usulga sezgirlik.** 1,5 m chegarasi Oʻzbekiston sharoitidagi kritik chuqurlik boʻyicha adabiyotga tayanadi \[53, 68\], lekin u tuproq va minerallashuvga qarab 2,0–2,5 m gacha olinadi. Shu sababli natijalar 2,0 va 2,5 m uchun ham hisoblandi (28-ilova). Chegara 2,0 m boʻlganda yozda sathi undan sayoz quduqlar 55 foiz, ehtimoli 0,3 dan katta maydon tumanning 71 foizi, 2,5 m boʻlganda mos ravishda 78 va 86 foiz. Mutlaq koʻrsatkichlar chegaraga kuchli bogʻliq, lekin uchta usulda ham (oddiy kriging, log-kriging, indikator kriging) Mashʼal, Z.M.Bobur va Istiqlol massivlari birinchi uchta oʻrinni egallaydi. Indikator kriging xavfli maydonni ikki baravar kichik koʻrsatadi (tuman boʻyicha 19 foizga qarshi 40 foiz), shuning uchun massivlar boʻyicha foizlar taxminiy, ularning tartibi esa ishonchli natija sifatida qaraladi.
+**Kritik chuqurlik va usulga sezgirlik.** 1,5 m chegarasi Oʻzbekiston sharoitidagi kritik chuqurlik boʻyicha adabiyotdan olingan \[53, 68\], biroq tuproq va minerallashuvga qarab u 2,0–2,5 m gacha olinadi. Shu sababli hisob 2,0 va 2,5 m uchun ham bajarildi (29-ilova). Chegara 2,0 m boʻlganda yozda sathi undan sayoz quduqlar 55 foiz, ehtimoli 0,3 dan katta maydon tumanning 71 foizi; 2,5 m boʻlganda mos ravishda 78 va 86 foiz. Mutlaq koʻrsatkichlar chegaraga kuchli bogʻliq, massivlar tartibi esa yoʻq: oddiy, log- va indikator krigingda ham Mashʼal, Z.M.Bobur va Istiqlol birinchi uchta oʻrinda. Indikator kriging xavfli maydonni ikki baravar kichik koʻrsatadi (tuman boʻyicha 19 foizga qarshi 40 foiz), shuning uchun massivlar boʻyicha foizlar taxminiy, ularning tartibi esa ishonchli.
 
-**Kuzatuv tarmogʻi zichligining baho aniqligiga taʼsiri.** Kuzatuv tarmogʻini rejalashtirish (4.5-§) uchun asosiy savol: quduqlar soni koʻpaytirilsa, xarita qanchalik aniqlashadi? Bu savolga sunʼiy siyraklashtirish tajribasi bilan javob berildi. 168 ta quduqdan tasodifiy 34 tasi nazorat uchun ajratildi, qolgan 134 tasidan esa 25, 40, 55, 70, 85 va 100 foizi tanlanib, ular boʻyicha nazorat quduqlaridagi sath baholandi. Tajriba har bir zichlik uchun 40 marta takrorlandi. Natijalar 29-ilovada keltirilgan.
+**Kuzatuv tarmogʻi zichligining baho aniqligiga taʼsiri.** Kuzatuv tarmogʻini rejalashtirish (4.5-§) uchun asosiy savol: quduqlar soni koʻpaytirilsa, xarita qanchalik aniqlashadi? Bu savolga sunʼiy siyraklashtirish tajribasi bilan javob berildi. 168 ta quduqdan tasodifiy 34 tasi nazorat uchun ajratildi, qolgan 134 tasidan esa 25, 40, 55, 70, 85 va 100 foizi tanlanib, ular boʻyicha nazorat quduqlaridagi sath baholandi. Tajriba har bir zichlik uchun 40 marta takrorlandi. Natijalar 30-ilovada keltirilgan.
 
-34 ta quduq (qoʻshni quduqlar orasi 1,2 km) boʻyicha xato 0,98 m boʻlib, hududiy oʻrtacha bilan baholashdan farq qilmaydi. Quduqlar soni 54 taga (980 m) yetganda xato 0,90 m gacha, 94 taga (800 m) yetganda 0,86 m gacha kamayadi. Shundan keyin xato deyarli oʻzgarmaydi: 114 va 134 ta quduqda 0,84–0,86 m. Yaʼni mavjud tarmoq xarita aniqligi boʻyicha toʻyinish nuqtasidan oʻtgan: quduqlar orasini 800 m dan kamaytirish xaritani aniqlashtirmaydi. Bu natija katta nagget bilan izohlanadi: sathning 500 m dan kichik masofadagi oʻzgaruvchanligi quduqlar orasidagi masofani bir necha baravar qisqartirmasdan turib ushlanmaydi.
+34 ta quduq (qoʻshni quduqlar orasi 1,2 km) boʻyicha xato 0,98 m boʻlib, hududiy oʻrtacha bilan baholashdan farq qilmaydi. Quduqlar soni 54 taga (980 m) yetganda xato 0,90 m gacha, 94 taga (800 m) yetganda 0,86 m gacha kamayadi. Shundan keyin xato deyarli oʻzgarmaydi: 114 va 134 ta quduqda 0,84–0,86 m. Mavjud tarmoq xarita aniqligi boʻyicha toʻyinish nuqtasidan oʻtgan: quduqlar orasini 800 m dan kamaytirish xaritani aniqlashtirmaydi. Bu natija katta nagget bilan izohlanadi: sathning 500 m dan kichik masofadagi oʻzgaruvchanligi quduqlar orasidagi masofani bir necha baravar qisqartirmasdan turib ushlanmaydi.
 
 Kuzatuv tarmogʻini xarita aniqligi uchun bir tekis zichlashtirish samarasiz: mavjud quduqlar soni bilan hudud boʻyicha umumiy manzara olinadi, undan keyingi har bir yangi quduq xaritani deyarli yaxshilamaydi. Yangi quduqlarni muayyan meliorativ savolga javob beradigan joylarga qoʻyish kerak: taʼmirlangan kollektorlar yaqiniga (taʼmir samarasini oʻlchash uchun, 4.3-§), sayoz sath ehtimoli yuqori massivlarga va standart xato eng katta boʻlgan chekka hududlarga. Bu masala 4.5-§ da kuzatuv tarmogʻini maqbullashtirish tavsiyalariga asos qilib olinadi.
 
@@ -1008,25 +984,25 @@ Xaritada 3.2-jadvaldagi qonuniyat fazoviy koʻrinishda namoyon boʻladi. Yozda 1
 
 **Tarmoq zichligi.** Bogʻlanish zichlik bilan yanada kuchliroq: ρ = −0,47 (p < 0,0001). Regressiya boʻyicha quduq atrofidagi 1 km radiusda kollektor uzunligi har 1 km ga ortganda sath oʻrtacha 0,18 m ga sayozroq boʻladi. Zichlik yozgi sath bilan ham xuddi shunday bogʻlangan (ρ = −0,45).
 
-**Bogʻlanish shakli.** Sath va kollektorgacha masofa orasidagi bogʻlanish chiziqli emas (30-ilova, a). Boʻlinma regressiya bilan eng yaxshi uzilish nuqtasi 850 m da topildi: shu masofagacha sath har 100 m da oʻrtacha 0,12 m ga chuqurlashadi, undan keyin esa deyarli oʻzgarmaydi (har 100 m da 0,02 m). Boʻlinma model oddiy chiziqli modeldan statistik ahamiyatli yaxshiroq (F = 4,12; p = 0,018). Biroq uzilish nuqtasining bootstrap usulidagi 90 foizlik ishonch oraligʻi keng (100 m dan 1 075 m gacha), chunki 800 m dan uzoqda quduqlar kam (31 ta). Shuning uchun 850 m qiymati kollektor bilan bogʻliq hududning taxminiy kengligi sifatida qaraladi, aniq parametr sifatida emas.
+**Bogʻlanish shakli.** Sath va kollektorgacha masofa orasidagi bogʻlanish chiziqli emas (31-ilova, a). Boʻlinma regressiya bilan eng yaxshi uzilish nuqtasi 850 m da topildi: shu masofagacha sath har 100 m da oʻrtacha 0,12 m ga chuqurlashadi, undan keyin esa deyarli oʻzgarmaydi (har 100 m da 0,02 m). Boʻlinma model oddiy chiziqli modeldan statistik ahamiyatli yaxshiroq (F = 4,12; p = 0,018). Biroq uzilish nuqtasining bootstrap usulidagi 90 foizlik ishonch oraligʻi keng (100 m dan 1 075 m gacha), chunki 800 m dan uzoqda quduqlar kam (31 ta). Shuning uchun 850 m qiymati kollektor bilan bogʻliq hududning taxminiy kengligi sifatida qaraladi, aniq parametr sifatida emas.
 
 **Kanallar va relyef.** Kanalgacha masofa bilan bogʻlanish kuchsiz (ρ = −0,18; p = 0,02) va boshqa omillar hisobga olinganda ahamiyatini yoʻqotadi. Mutlaq balandlik bilan juft korrelyatsiya ham kuchsiz (ρ = +0,23; p = 0,003); balandlikning oʻzi sath oʻzgaruvchanligining atigi 2 foizini tushuntiradi. Bu natija tekis vodiy sharoitida mahalliy relyef farqlari sizot oqimining yoʻnalishini belgilasa ham, sath chuqurligini belgilamasligini koʻrsatadi.
 
-**Koʻp omilli model.** Uch omil birgalikda kiritilganda (31-ilova) faqat tarmoq koʻrsatkichi statistik ahamiyatli boʻlib qoladi. Model sath oʻzgaruvchanligining 15–20 foizini tushuntiradi. Koeffitsiyentlarning standart xatolari geteroskedastiklikka chidamli usulda hisoblandi.
+**Koʻp omilli model.** Uch omil birgalikda kiritilganda (32-ilova) faqat tarmoq koʻrsatkichi statistik ahamiyatli boʻlib qoladi. Model sath oʻzgaruvchanligining 15–20 foizini tushuntiradi. Koeffitsiyentlarning standart xatolari geteroskedastiklikka chidamli usulda hisoblandi.
 
-**Fazoviy bogʻliqlikka chidamlilik.** Quduqlar bir-biriga yaqin joylashgan va sath maydoni fazoviy bogʻlangan (3.3-§), shuning uchun kuzatuvlar mustaqil emas va oddiy testlar ahamiyatlilikni oshirib koʻrsatishi mumkin. Buni tekshirish uchun regressiya qoldiqlarida Moran indeksi \[92\] hisoblandi (32-ilova). Qoldiqlarda kuchsiz, lekin ahamiyatli avtokorrelyatsiya qoladi (I = 0,13–0,15; massiv omili kiritilganda 0,08–0,11). Shu sababli ahamiyatlilik ikki usulda qayta baholandi: 2×2 km kataklar boʻyicha blokli bootstrap va kataklar boʻyicha klasterli standart xato. Sath bilan masofa va zichlik orasidagi bogʻlanish ikkala usulda ham saqlanadi: ρ ning blokli ishonch oraligʻi +0,26 … +0,52 va −0,58 … −0,33, klasterli p < 0,001. Massivlar ichidagi yettita korrelyatsiyaga koʻp testlar tuzatishi (Benjamini–Hochberg) qoʻllanganda U.Qoraboyev va M.Toʻjiboyev massivlaridagi bogʻlanish ahamiyatli qoladi, Istiqlol va Z.M.Bobur massivlarida esa chegaraviy (q = 0,08). Tendensiya boʻyicha bogʻlanishning blokli ishonch oraligʻi masofa uchun nolga yaqin (+0,01 … +0,45), zichlik uchun aniqroq (−0,51 … −0,13); massiv omili kiritilganda qoldiqlardagi avtokorrelyatsiya yoʻqoladi.
+**Fazoviy bogʻliqlikka chidamlilik.** Sath maydoni fazoviy bogʻlangan (3.3-§), shuning uchun yaqin quduqlar mustaqil kuzatuv emas va oddiy testlar ahamiyatlilikni oshirib koʻrsatishi mumkin. Regressiya qoldiqlarida Moran indeksi \[92\] kuchsiz, lekin ahamiyatli avtokorrelyatsiyani koʻrsatadi (I = 0,13–0,15; massiv omili bilan 0,08–0,11; 33-ilova). Shu sababli ahamiyatlilik 2×2 km kataklar boʻyicha blokli bootstrap va klasterli standart xato bilan qayta baholandi. Sath bilan masofa va zichlik bogʻlanishi ikkala usulda saqlanadi: ρ ning blokli ishonch oraligʻi +0,26 … +0,52 va −0,58 … −0,33, klasterli p < 0,001. Massivlar ichidagi yettita korrelyatsiyaga Benjamini–Hochberg tuzatishi qoʻllanganda U.Qoraboyev va M.Toʻjiboyev massivlaridagi bogʻlanish ahamiyatli qoladi, Istiqlol va Z.M.Bobur massivlarida chegaraviy (q = 0,08). Tendensiya boʻyicha blokli ishonch oraligʻi masofa uchun nolga yaqin (+0,01 … +0,45), zichlik uchun torroq (−0,51 … −0,13); massiv omili kiritilganda qoldiqlardagi avtokorrelyatsiya yoʻqoladi.
 
-**Massivlar ichidagi bogʻlanish.** Topilgan bogʻlanish massivlar orasidagi farqning natijasi boʻlishi mumkin edi: masalan, Y.Oxunboboyev massivida quduqlar kollektordan oʻrtacha 3,2 km uzoqda va sath ham eng chuqur. Bu ehtimolni tekshirish uchun modelga massiv qatʼiy effektlari kiritildi \[32\]; bunda bogʻlanish faqat bir massiv ichidagi quduqlarni solishtirish orqali baholanadi (32-ilova).
+**Massivlar ichidagi bogʻlanish.** Topilgan bogʻlanish massivlar orasidagi farqning natijasi boʻlishi mumkin edi: masalan, Y.Oxunboboyev massivida quduqlar kollektordan oʻrtacha 3,2 km uzoqda va sath ham eng chuqur. Bu ehtimolni tekshirish uchun modelga massiv qatʼiy effektlari kiritildi \[32\]; bunda bogʻlanish faqat bir massiv ichidagi quduqlarni solishtirish orqali baholanadi (33-ilova).
 
 Massiv omili kiritilganda koeffitsiyentlar atigi 9–10 foizga kamayadi va ahamiyatli boʻlib qoladi, yaʼni bogʻlanishni massivlar orasidagi emas, massiv ichidagi farq belgilaydi. Massivlar boʻyicha alohida hisoblanganda kollektorgacha masofa bilan bogʻlanish toʻrtta massivda statistik ahamiyatli: U.Qoraboyev (ρ = +0,60; p = 0,003), M.Toʻjiboyev (ρ = +0,50; p = 0,007), Istiqlol (ρ = +0,40; p = 0,045) va Z.M.Bobur (ρ = +0,39; p = 0,048). T.Mirzayev massivida yoʻnalish xuddi shunday, lekin quduqlar kam (ρ = +0,42; p = 0,13). Mashʼal va Paxtakor massivlarida esa bogʻlanish yoʻq (ρ = −0,22 va −0,08). Mashʼal massivida sath 3.2-§ va 3.3-§ ga koʻra tumandagi eng sayozlar qatorida va quduqlar kollektorga yaqin joylashgan (oʻrtacha 284 m), Paxtakor esa eng kichik massiv (19 ta quduq). Bu massivlarda sathni kollektorlar joylashuvidan koʻra boshqa mahalliy omillar belgilaydi.
 
-**Mavsumiy koʻtarilish.** Agar kollektor sathning yozgi koʻtarilishini cheklasa, kollektorga yaqin quduqlarda mavsumiy koʻtarilish kichikroq boʻlishi kerak. Maʼlumotlarda shunday manzara kuzatiladi: kollektorgacha 150 m boʻlgan quduqlarda sath yanvar–fevraldan iyul–avgustgacha oʻrtacha 0,39 m ga, 800 m dan uzoqdagilarda 0,65 m ga koʻtariladi (3.2-jadval va 30-ilova, b). Biroq bu farqni kollektor taʼsiri deb talqin qilib boʻlmaydi. Mavsumiy koʻtarilish birinchi navbatda qishki sathga bogʻliq: sathi chuqur quduqda koʻtarilish uchun joy koʻp. Qishki sath va masofa birgalikda kiritilganda qishki sath har 1 m chuqurlashganda koʻtarilish 0,23 m ga ortadi (p < 0,001), masofaning taʼsiri esa yoʻqoladi (p = 0,86). Bundan tashqari, kollektordan uzoqdagi quduqlarda kesilgan oʻlchovlar ulushi ancha yuqori (9,9 foizga qarshi 29,7 foiz), shuning uchun u yerda qishki sath haqiqatda yanada chuqurroq va mavsumiy koʻtarilish kam baholangan. Mavjud maʼlumotlar kollektorlarning sath koʻtarilishini cheklash taʼsirini alohida ajratib koʻrsatishga imkon bermaydi.
+**Mavsumiy koʻtarilish.** Agar kollektor sathning yozgi koʻtarilishini cheklasa, kollektorga yaqin quduqlarda mavsumiy koʻtarilish kichikroq boʻlishi kerak. Maʼlumotlarda shunday manzara kuzatiladi: kollektorgacha 150 m boʻlgan quduqlarda sath yanvar–fevraldan iyul–avgustgacha oʻrtacha 0,39 m ga, 800 m dan uzoqdagilarda 0,65 m ga koʻtariladi (3.2-jadval va 31-ilova, b). Biroq bu farqni kollektor taʼsiri deb talqin qilib boʻlmaydi. Mavsumiy koʻtarilish birinchi navbatda qishki sathga bogʻliq: sathi chuqur quduqda koʻtarilish uchun joy koʻp. Qishki sath va masofa birgalikda kiritilganda qishki sath har 1 m chuqurlashganda koʻtarilish 0,23 m ga ortadi (p < 0,001), masofaning taʼsiri esa yoʻqoladi (p = 0,86). Bundan tashqari, kollektordan uzoqdagi quduqlarda kesilgan oʻlchovlar ulushi ancha yuqori (9,9 foizga qarshi 29,7 foiz), shuning uchun u yerda qishki sath haqiqatda yanada chuqurroq va mavsumiy koʻtarilish kam baholangan. Mavjud maʼlumotlar kollektorlarning sath koʻtarilishini cheklash taʼsirini alohida ajratib koʻrsatishga imkon bermaydi.
 
-**Kollektorlarning kadastr koʻrsatkichlari.** 87 ta quduq kadastrda nomi bilan aniqlangan 41 ta kollektordan 500 m gacha masofada joylashgan. Bu kollektorlar 1948–1985-yillarda ishga tushirilgan: yoshining medianasi 68 yil, kvartillari 59 va 76 yil. Loyiha drenaj moduli 0,40–1,54 l/(s·ga) oraligʻida (kvartillar), medianasi 0,83 l/(s·ga). Ushbu koʻrsatkichlarning hech biri quduqdagi sath bilan bogʻlanmagan: kollektor yoshi bilan ρ = +0,03 (p = 0,80), drenaj moduli bilan ρ = +0,11 (p = 0,30), solishtirma uzunlik bilan ρ = +0,04 (p = 0,75). Guruhlar boʻyicha oʻrtachalar ham bir tomonlama oʻzgarmaydi (33-ilova).
+**Kollektorlarning kadastr koʻrsatkichlari.** 87 ta quduq kadastrda nomi bilan aniqlangan 41 ta kollektordan 500 m gacha masofada joylashgan. Bu kollektorlar 1948–1985-yillarda ishga tushirilgan: yoshining medianasi 68 yil, kvartillari 59 va 76 yil. Loyiha drenaj moduli 0,40–1,54 l/(s·ga) oraligʻida (kvartillar), medianasi 0,83 l/(s·ga). Ushbu koʻrsatkichlarning hech biri quduqdagi sath bilan bogʻlanmagan: kollektor yoshi bilan ρ = +0,03 (p = 0,80), drenaj moduli bilan ρ = +0,11 (p = 0,30), solishtirma uzunlik bilan ρ = +0,04 (p = 0,75). Guruhlar boʻyicha oʻrtachalar ham bir tomonlama oʻzgarmaydi (34-ilova).
 
 Masofa, drenaj moduli va yosh birgalikda kiritilgan modelda ham faqat kollektorgacha masofa ahamiyatli (koeffitsiyent +0,58; p = 0,017), model esa sath oʻzgaruvchanligining atigi 5 foizini tushuntiradi. Kadastr koʻrsatkichlari kollektorning hozirgi ish holatini aks ettirmaydi: drenaj moduli loyihaviy qiymat boʻlib, kollektorning loyqa bosishi, oʻsimlik bilan qoplanishi va chiqish qismidagi suv sathi hisobga olinmagan. Kollektorning haqiqiy holatini baholash uchun gidrometrik oʻlchovlar (oqim sarfi, suv sathi) va texnik koʻrik maʼlumotlari zarur \[38, 126\]. Bu koʻrsatkichlarni monitoring tizimiga kiritish taklifi 4.5-§ da beriladi.
 
-**Tendensiya va tarmoq.** Sath tendensiyasi ham kollektorgacha masofaga bogʻliq (3.2-jadval va 30-ilova, c). Kollektordan 150 m gacha boʻlgan quduqlarda Sen qiyaligining medianasi yiliga 1,7 sm, 800 m dan uzoqdagilarda esa yiliga 6,3 sm: uzoqdagi quduqlarda sath qariyb toʻrt baravar tez chuqurlashgan. Medianalar farqi yiliga 4,7 sm, lekin uning bootstrap ishonch oraligʻi keng (0,4–7,8 sm; Mann–Whitney p = 0,006; 39 va 17 ta quduq), shuning uchun «toʻrt baravar» nisbati taxminiy. Bogʻlanish statistik ahamiyatli (masofa bilan ρ = +0,25; p = 0,008; tarmoq zichligi bilan ρ = −0,34; p < 0,001) va massiv qatʼiy effektlari kiritilganda ham saqlanadi (masofa logarifmi boʻyicha koeffitsiyent yiliga +0,032 m; p < 0,001).
+**Tendensiya va tarmoq.** Sath tendensiyasi ham kollektorgacha masofaga bogʻliq (3.2-jadval va 31-ilova, c). Kollektordan 150 m gacha boʻlgan quduqlarda Sen qiyaligining medianasi yiliga 1,7 sm, 800 m dan uzoqdagilarda esa yiliga 6,3 sm: uzoqdagi quduqlarda sath qariyb toʻrt baravar tez chuqurlashgan. Medianalar farqi yiliga 4,7 sm, lekin uning bootstrap ishonch oraligʻi keng (0,4–7,8 sm; Mann–Whitney p = 0,006; 39 va 17 ta quduq), shuning uchun «toʻrt baravar» nisbati taxminiy. Bogʻlanish statistik ahamiyatli (masofa bilan ρ = +0,25; p = 0,008; tarmoq zichligi bilan ρ = −0,34; p < 0,001) va massiv qatʼiy effektlari kiritilganda ham saqlanadi (masofa logarifmi boʻyicha koeffitsiyent yiliga +0,032 m; p < 0,001).
 
 Bu bogʻliqlik 3.2-§ da aniqlangan chuqurlashishning sababi haqida maʼlumot beradi. Agar chuqurlashish asosan 2016–2018-yillardagi kollektorlar taʼmirining natijasi boʻlganida, u kollektorlarga yaqin joylarda eng kuchli boʻlishi kerak edi. Kuzatuvda esa aksincha: chuqurlashish kollektordan uzoqda eng kuchli. Bunga ikki izoh bor. Birinchisi: chuqurlashishni tuman miqyosidagi omil, masalan sugʻorish suvi hajmi yoki sugʻorish rejimining oʻzgarishi belgilaydi va bu omil drenaj taʼsiridagi joylarda kamroq seziladi. Ikkinchisi: kollektor yaqinida sath kollektor tubining chuqurligi bilan cheklangan va u yerda sath kam oʻzgaradi, kollektordan uzoqda esa sath erkinroq oʻzgaradi. Ikkala izoh ham bir xulosaga olib keladi: tumandagi sath chuqurlashishini toʻgʻridan-toʻgʻri drenaj tarmogʻi taʼmiriga bogʻlab boʻlmaydi. Taʼmir samarasi 4.3-§ da alohida, nazorat guruhli usul bilan baholanadi.
 
@@ -1040,31 +1016,31 @@ Modellar sath oʻzgaruvchanligining 67–85 foizini tushuntirmaydi. Bu 3.3-§ da
 
 Sizot suvining xavfliligi faqat uning sathi bilan emas, minerallashuvi bilan ham belgilanadi: bir xil chuqurlikda minerallashgan suv chuchuk suvga qaraganda tuproqqa koʻp tuz olib chiqadi \[55, 68, 105\]. Shuning uchun meliorativ holatni baholashda sath va minerallashuv birgalikda qaraladi. Ushbu paragrafda minerallashuv qatorlari 3.1-§ dagi tartibda tekshiriladi, ishonchli davr boʻyicha uning fazoviy va vaqt boʻyicha oʻzgarishi tahlil qilinadi va sath bilan birgalikda shoʻrlanish xavfi baholanadi.
 
-**Maʼlumotlar va ularning tekshiruvi.** Minerallashuv boʻyicha ikki manba mavjud: 1999–2015-yillar uchun yiliga uch marta (1-aprel, 1-iyul, 1-oktabr holatiga) oʻlchangan qiymatlar jadvali (123 ta quduq, 4 961 ta qiymat) va 2009–2024-yillar uchun yillik qiymatlar. Har ikkisi 3.1-§ dagi qoidalar boʻyicha tekshirildi. Natijalar 34-ilovada keltirilgan.
+**Maʼlumotlar va ularning tekshiruvi.** Minerallashuv boʻyicha ikki manba mavjud: 1999–2015-yillar uchun yiliga uch marta (1-aprel, 1-iyul, 1-oktabr holatiga) oʻlchangan qiymatlar jadvali (123 ta quduq, 4 961 ta qiymat) va 2009–2024-yillar uchun yillik qiymatlar. Har ikkisi 3.1-§ dagi qoidalar boʻyicha tekshirildi. Natijalar 35-ilovada keltirilgan.
 
 Ikki manba bir-biri bilan ham solishtirildi. 2009-yilda bir xil quduqlar boʻyicha yillik qiymat va mavsumiy qiymatlar oʻrtachasi yaxshi mos keladi (Spearman ρ = 0,92; 105 ta quduq), 2010-yilda esa mos kelish kuchsiz (ρ = 0,37; 98 ta quduq), yaʼni yillik manba kamroq ishonchli. Natijada 26 yillik minerallashuv qatoridan faqat 2004–2010-yillar (7 yil, 122 ta quduq, 2 136 ta qiymat) ishonchli deb topildi va keyingi tahlil shu davr boʻyicha bajarildi.
 
-**Minerallashuv darajasi.** 2004–2010-yillarda oʻlchangan qiymatlarning 30,7 foizi 1 g/l dan kam (chuchuk suv), 60,4 foizi 1–3 g/l (kam minerallashgan), 8,8 foizi 3–5 g/l (oʻrtacha minerallashgan), atigi 0,2 foizi 5 g/l dan yuqori. Yillar boʻyicha taqsimot 35-ilovada keltirilgan. Sugʻorish suvi sifati mezonlari boʻyicha \[33\] 1–3 g/l minerallashuv sizot suvi kapillyar koʻtarilish orqali tuproqqa yetib kelganda oʻrtacha shoʻrlanish xavfini, 3 g/l dan yuqori minerallashuv esa jiddiy xavfni bildiradi.
+**Minerallashuv darajasi.** 2004–2010-yillarda oʻlchangan qiymatlarning 30,7 foizi 1 g/l dan kam (chuchuk suv), 60,4 foizi 1–3 g/l (kam minerallashgan), 8,8 foizi 3–5 g/l (oʻrtacha minerallashgan), atigi 0,2 foizi 5 g/l dan yuqori. Yillar boʻyicha taqsimot 36-ilovada keltirilgan. Sugʻorish suvi sifati mezonlari boʻyicha \[33\] 1–3 g/l minerallashuv sizot suvi kapillyar koʻtarilish orqali tuproqqa yetib kelganda oʻrtacha shoʻrlanish xavfini, 3 g/l dan yuqori minerallashuv esa jiddiy xavfni bildiradi.
 
 **Vaqt boʻyicha oʻzgarish.** Tuman boʻyicha yillik mediana 1,02–1,45 g/l oraligʻida oʻzgargan. 2004–2009-yillarda pasayish kuzatilgan (1,38 dan 1,02 g/l gacha), 2010-yilda esa mediana 1,35 g/l ga qaytgan. Mann–Kendall mezoni boʻyicha tendensiya statistik ahamiyatli emas (τ = −0,52; p = 0,13). Quduqlar kesimida esa pasayish yoʻnalishi ustun: kamida 12 ta qiymatli 102 ta quduqdan 76 tasida minerallashuv kamaygan, 24 tasida oshgan; statistik ahamiyatli pasayish 9 ta quduqda, ahamiyatli oʻsish 1 ta quduqda aniqlandi. Sen qiyaligining medianasi yiliga −0,05 g/l. Shu bilan birga bitta quduq ichida minerallashuvning oʻzgaruvchanligi katta: variatsiya koeffitsiyentining medianasi 39 foiz. Bunday oʻzgaruvchanlik sinamalarni olish va tahlil qilish xatoligi bilan ham bogʻliq boʻlishi mumkin, shuning uchun alohida yil boʻyicha xulosa chiqarishda ehtiyot boʻlish kerak.
 
 **Mavsumiy farq.** Tuman boʻyicha medianalar aprelda 1,27, iyulda 1,25, oktabrda 1,32 g/l. Bir xil quduq va yil boʻyicha juft solishtirishda (675 ta juftlik) iyuldagi qiymat aprelga nisbatan mediana boʻyicha atigi 0,04 g/l yuqori (Wilcoxon mezoni, p = 0,29), oktabrdagi qiymat iyulga nisbatan 0,05 g/l yuqori (p = 0,28). Minerallashuvda statistik ahamiyatli mavsumiy oʻzgarish yoʻq. Sathning mavsumiy yoʻli (3.2-§) bilan solishtirilganda farq aniq koʻrinadi: sath yozda 0,5 m atrofida koʻtarilsa ham, sugʻorish suvi kelishi minerallashuvni sezilarli suyultirmaydi. Bundan sizot suvining tuz zaxirasi katta va sugʻorish mavsumida u yangilanmasligi kelib chiqadi.
 
-**Massivlar boʻyicha farq.** Massivlar orasidagi farq katta (36-ilova va 3.7-rasm). Quduqlar boʻyicha minerallashuv medianasi Mashʼal massivida 2,47 g/l, U.Qoraboyev va T.Mirzayev massivlarida 0,80–0,84 g/l: eng ogʻir massiv bilan eng yengili orasida uch baravar farq bor. Massivlar orasidagi farq statistik ahamiyatli va katta (Kruskal–Wallis H = 75,6; p < 0,001; ε² = 0,68). Chuchuk sizot suvi tumanning sharqiy va janubiy qismlarida (U.Qoraboyev, M.Toʻjiboyev, T.Mirzayev), minerallashgan suv esa gʻarbiy va shimoliy qismlarida (Mashʼal, Z.M.Bobur) tarqalgan. 3 g/l dan yuqori minerallashuvli toʻrtta quduqning ikkitasi Mashʼal, ikkitasi Z.M.Bobur massivida joylashgan. Y.Oxunboboyev massivi boʻyicha 2004–2010-yillarda minerallashuv oʻlchovlari mavjud emas.
+**Massivlar boʻyicha farq.** Massivlar orasidagi farq katta (37-ilova va 3.7-rasm). Quduqlar boʻyicha minerallashuv medianasi Mashʼal massivida 2,47 g/l, U.Qoraboyev va T.Mirzayev massivlarida 0,80–0,84 g/l: eng ogʻir massiv bilan eng yengili orasida uch baravar farq bor. Massivlar orasidagi farq statistik ahamiyatli va katta (Kruskal–Wallis H = 75,6; p < 0,001; ε² = 0,68). Chuchuk sizot suvi tumanning sharqiy va janubiy qismlarida (U.Qoraboyev, M.Toʻjiboyev, T.Mirzayev), minerallashgan suv esa gʻarbiy va shimoliy qismlarida (Mashʼal, Z.M.Bobur) tarqalgan. 3 g/l dan yuqori minerallashuvli toʻrtta quduqning ikkitasi Mashʼal, ikkitasi Z.M.Bobur massivida joylashgan. Y.Oxunboboyev massivi boʻyicha 2004–2010-yillarda minerallashuv oʻlchovlari mavjud emas.
 
 
 ![](figures/fig310_mineralization.png){width=15.5cm}
 
 
 ::: {custom-style="Sarlavha-rasm"}
-3.7-rasm. Sizot suvlari minerallashuvi, 2004–2010-yillar: a — quduqlar boʻyicha medianasi (113 ta quduq); b — massivlar boʻyicha medianasi (36-ilova)
+3.7-rasm. Sizot suvlari minerallashuvi, 2004–2010-yillar: a — quduqlar boʻyicha medianasi (113 ta quduq); b — massivlar boʻyicha medianasi (37-ilova)
 :::
 
 **Minerallashuvning sath va tarmoq bilan bogʻliqligi.** Quduq darajasida minerallashuv sath bilan kuchsiz bogʻlangan: 2009–2016-yillardagi oʻrtacha sath bilan ρ = −0,16 (p = 0,09), 2019–2024-yillardagi yozgi sath bilan ρ = −0,12 (p = 0,19). Yoʻnalish kutilganidek: sath sayoz joyda minerallashuv biroz yuqori, lekin bogʻlanish ishonchli emas. Kollektorgacha masofa (ρ = −0,01), tarmoq zichligi (ρ = +0,07) va kanalgacha masofa (ρ = −0,04) bilan bogʻlanish umuman yoʻq. Minerallashuvning fazoviy taqsimotini massivlar miqyosidagi gidrogeologik sharoit (sizot oqimining yoʻnalishi, suvli qatlam tarkibi, sizot suvining hududda turib qolish vaqti) belgilaydi \[55, 68\]. Tumanning gʻarbiy qismida minerallashuvning yuqoriligi 3.3-§ da aniqlangan sath trendi bilan mos: sizot suvi shimoli-gʻarbiy qismda sayozroq va u yerda bugʻlanish orqali tuz toʻplanishi kuchliroq.
 
-**Shoʻrlanish xavfi.** Sath va minerallashuv birgalikda baholash uchun quduqlar ikki belgi boʻyicha guruhlandi: yozgi sath (2019–2024-yillar, iyul–avgust) va minerallashuv medianasi (2004–2010-yillar). Natijalar 37-ilovada keltirilgan.
+**Shoʻrlanish xavfi.** Sath va minerallashuv birgalikda baholash uchun quduqlar ikki belgi boʻyicha guruhlandi: yozgi sath (2019–2024-yillar, iyul–avgust) va minerallashuv medianasi (2004–2010-yillar). Natijalar 38-ilovada keltirilgan.
 
-Yozgi sath 2,0 m dan sayoz va minerallashuv 1 g/l dan yuqori boʻlgan quduqlar 56 ta (50 foiz); shundan 29 tasida (26 foiz) yozgi sath 1,5 m dan ham sayoz. Bu quduqlar shoʻrlanish xavfi eng yuqori nuqtalar hisoblanadi. Ular massivlar boʻyicha notekis taqsimlangan (36-ilova): Mashʼal va Z.M.Bobur massivlarida 17 tadan, Istiqlol massivida 12 ta, qolgan toʻrtta massivda jami 10 ta; xavfli quduqlarning 82 foizi uchta massivga toʻgʻri keladi. Bu taqsimot 3.3-§ dagi ehtimollik xaritasi bilan mos: oʻsha uchta massiv yozda sath kritik chuqurlikdan sayoz boʻlish ehtimoli eng yuqori massivlar sifatida ajratilgan edi. Sath va minerallashuv boʻyicha mustaqil baholar bir xil ustuvor hududlarni ajratadi.
+Yozgi sath 2,0 m dan sayoz va minerallashuv 1 g/l dan yuqori boʻlgan quduqlar 56 ta (50 foiz); shundan 29 tasida (26 foiz) yozgi sath 1,5 m dan ham sayoz. Bu quduqlar shoʻrlanish xavfi eng yuqori nuqtalar hisoblanadi. Ular massivlar boʻyicha notekis taqsimlangan (37-ilova): Mashʼal va Z.M.Bobur massivlarida 17 tadan, Istiqlol massivida 12 ta, qolgan toʻrtta massivda jami 10 ta; xavfli quduqlarning 82 foizi uchta massivga toʻgʻri keladi. Bu taqsimot 3.3-§ dagi ehtimollik xaritasi bilan mos: oʻsha uchta massiv yozda sath kritik chuqurlikdan sayoz boʻlish ehtimoli eng yuqori massivlar sifatida ajratilgan edi. Sath va minerallashuv boʻyicha mustaqil baholar bir xil ustuvor hududlarni ajratadi.
 
 Xavfli quduqlarning joylashuvi va massivlar boʻyicha ulushi 3.8-rasmda koʻrsatilgan. Xaritada sath va minerallashuv bitta ikki oʻzgaruvchili rang shkalasida berilgan, xavf guruhi esa belgi shakli bilan ajratilgan. Xavfli quduqlar ulushi Mashʼal massivida 81 foiz (21 tadan 17 tasi), Z.M.Bobur massivida 74 foiz, Istiqlolda 63 foiz, Paxtakor va M.Toʻjiboyev massivlarida 27–29 foiz, U.Qoraboyev va T.Mirzayev massivlarida esa 8–11 foiz. Y.Oxunboboyev massivi boʻyicha 2004–2010-yillarda minerallashuv oʻlchanmagan.
 
@@ -1084,7 +1060,7 @@ Bu bahoning cheklovi shundaki, sath va minerallashuv turli davrlarga tegishli. 2
 
 Oldingi paragraflarda olingan natijalar bitta tuman maʼlumotlariga asoslangan. Ularni umumlashtirish uchun ikki savolga javob berish kerak: Marhamat tumanidagi monitoring maʼlumotlarining sifati viloyat uchun odatiymi yoki istisnomi, va 3.1-§ da aniqlangan «chuqur sathli hududlarda maʼlumot ishonchliligi past» degan qonuniyat boshqa tumanlarda ham kuzatiladimi. Buning uchun meliorativ ekspeditsiyaning Andijon viloyatidagi 14 ta tuman boʻyicha 2009–2023-yillardagi kuzatuv jadvallari tahlil qilindi. Jadvallar Marhamat tumani jadvallari bilan bir xil shaklda: har bir quduq uchun yiliga 36 ta oʻn kunlik oʻlchov. Jami 2 052 ta quduq va 866 844 ta oʻlchov mavjud.
 
-Barcha tumanlarga 3.1-§ dagi tekshiruv qoidalari bir xil tartibda qoʻllanildi. Har bir tumanda 1–3 yil boʻyicha mustaqil kuzatuv maʼlumotlari mavjud emas, bu yillar tahlildan chiqarildi. Qolgan yillar boʻyicha yil ichidagi oʻzgarmas qatorlar (7 tadan ortiq oʻlchovi boʻlgan va barcha oʻlchovlari bir xil qiymatga ega quduq-yillar) va oʻlchov birligi xatolari aniqlandi. Qoʻshimcha koʻrsatkich sifatida bir xonali yaxlit qiymatlar (masalan, 2,0; 2,5; 3,0 m) ulushi hisoblandi: santimetr aniqligida oʻlchanadigan koʻrsatkichda bunday qiymatlarning koʻpligi oʻlchov taxminiy yozilganini bildirishi mumkin. Natijalar 38-ilovada keltirilgan. Marhamat tumani boʻyicha bu yerda olingan koʻrsatkichlar 3.1-§ dagilar bilan mos keladi (yaroqli oʻlchovlar ulushi 88,3 va 87,9 foiz), farq faqat davr chegarasi (2024-yil viloyat jadvalida yoʻq) bilan bogʻliq.
+Barcha tumanlarga 3.1-§ dagi tekshiruv qoidalari bir xil tartibda qoʻllanildi. Har bir tumanda 1–3 yil boʻyicha mustaqil kuzatuv maʼlumotlari mavjud emas, bu yillar tahlildan chiqarildi. Qolgan yillar boʻyicha yil ichidagi oʻzgarmas qatorlar (7 tadan ortiq oʻlchovi boʻlgan va barcha oʻlchovlari bir xil qiymatga ega quduq-yillar) va oʻlchov birligi xatolari aniqlandi. Qoʻshimcha koʻrsatkich sifatida bir xonali yaxlit qiymatlar (masalan, 2,0; 2,5; 3,0 m) ulushi hisoblandi: santimetr aniqligida oʻlchanadigan koʻrsatkichda bunday qiymatlarning koʻpligi oʻlchov taxminiy yozilganini bildirishi mumkin. Natijalar 39-ilovada keltirilgan. Marhamat tumani boʻyicha bu yerda olingan koʻrsatkichlar 3.1-§ dagilar bilan mos keladi (yaroqli oʻlchovlar ulushi 88,3 va 87,9 foiz), farq faqat davr chegarasi (2024-yil viloyat jadvalida yoʻq) bilan bogʻliq.
 
 **Maʼlumotlar sifatining tumanlar orasidagi farqi.** Tumanlar maʼlumotlar sifati boʻyicha katta farq qiladi. Oltinkoʻl, Boʻston, Shahrixon, Ulugʻnor, Buloqboshi va Baliqchi tumanlarida oʻzgarmas qatorlar 5 foizdan kam, yaroqli oʻlchovlar 96–100 foiz. Asaka, Paxtaobod, Qoʻrgʻontepa va Jalaquduq tumanlarida esa quduq-yillarning 22–29 foizida yil davomida bitta qiymat yozilgan. Marhamat tumani 14 ta tuman ichida 9-oʻrinda, viloyat medianasidan (10,4 foiz oʻzgarmas qator) biroz yomonroq. Marhamat tumanidagi maʼlumot nuqsonlari istisno emas: viloyatning toʻrtdan bir qismidan koʻprogʻida ular yanada jiddiyroq. Yaxlit qiymatlar ulushi oʻzgarmas qatorlar ulushi bilan bogʻlangan (ρ = +0,65; p = 0,011): maʼlumotlar sifati past tumanlarda oʻlchovlar ham taxminiyroq yozilgan.
 
@@ -1092,7 +1068,7 @@ Barcha tumanlarga 3.1-§ dagi tekshiruv qoidalari bir xil tartibda qoʻllanildi.
 
 Maʼlumotlar nuqsoni tasodifiy emas, tizimli: u aynan sath chuqur boʻlgan joylarda va yillarda toʻplanadi. Shuning uchun nuqsonli qiymatlarni oddiygina chiqarib tashlash sathni sayozroq koʻrsatadi, ularni tekshiruvsiz qoldirish esa shartli qiymatlarni haqiqiy oʻlchov sifatida qabul qilishga olib keladi. Ikkala holda ham xato bir tomonga yoʻnalgan. Bu muammoni faqat quduqlarni chuqurlashtirish yoki kesilgan qiymatlarni maxsus usullar bilan hisobga olish orqali hal etish mumkin \[63\].
 
-**Sizot rejimi koʻrsatkichlari.** Har bir tuman uchun 3.2-§ dagi tartibda barqaror panel tuzildi va koʻp yillik tendensiya, 2019–2023-yillardagi yozgi sath va mavsumiy amplituda hisoblandi (39-ilova va 3.9-rasm).
+**Sizot rejimi koʻrsatkichlari.** Har bir tuman uchun 3.2-§ dagi tartibda barqaror panel tuzildi va koʻp yillik tendensiya, 2019–2023-yillardagi yozgi sath va mavsumiy amplituda hisoblandi (40-ilova va 3.9-rasm).
 
 
 ![](figures/fig312_region.png){width=15.5cm}
@@ -1104,7 +1080,7 @@ Maʼlumotlar nuqsoni tasodifiy emas, tizimli: u aynan sath chuqur boʻlgan joyla
 
 Sath chuqurlashishi viloyat miqyosidagi hodisa: 14 ta tumanning 12 tasida barqaror panel boʻyicha statistik ahamiyatli chuqurlashish aniqlandi, qolgan ikkitasida (Oltinkoʻl, Boʻston) ham yoʻnalish shu, lekin ahamiyatli emas. Hech bir tumanda sath koʻtarilmagan. Tumanlar boʻyicha chuqurlashish tezligining medianasi yiliga 3,3 sm; Marhamat tumani (yiliga 3,3 sm) aynan viloyat medianasida turadi. Bu 3.2-§ va 3.4-§ dagi xulosani kuchaytiradi: Marhamat tumanidagi chuqurlashish tumanning oʻz drenaj tarmogʻidagi oʻzgarishlardan koʻra viloyat miqyosidagi omillar, xususan suv taʼminoti va sugʻorish rejimi bilan bogʻliq boʻlishi ehtimoli yuqori. Biroq bu qiyos taʼmir taʼsirini toʻliq istisno etmaydi, chunki boshqa tumanlarda ham shu yillarda kollektorlar taʼmiri olib borilgan boʻlishi mumkin va bu haqda viloyat boʻyicha maʼlumot tahlil qilinmadi; taʼmir samarasi 4.3-§ da alohida baholanadi.
 
-Chuqurlashish tezligi tumandagi yozgi sath medianasi bilan bogʻlangan (ρ = +0,76; 95 foizlik ishonch oraligʻi 0,32–0,93; p = 0,002): sathi allaqachon chuqur boʻlgan Paxtaobod (yiliga 10,6 sm) va Asaka (6,4 sm) tumanlarida sath eng tez chuqurlashmoqda, sathi sayoz Boʻston, Oltinkoʻl va Ulugʻnor tumanlarida esa deyarli oʻzgarmaydi. Bu 3.2-§ da quduqlar darajasida olingan natija bilan bir xil (chuqur quduqlarda chuqurlashish tezroq). Shu bilan birga chuqurlashish tezligi maʼlumotlar sifati bilan ham bogʻlangan (yaroqli oʻlchovlar ulushi bilan ρ = −0,74; p = 0,002). Yaʼni eng tez chuqurlashayotgan tumanlarning tendensiyasi eng kichik va eng ishonchsiz panellarga (24–57 ta quduq) tayanadi. Maʼlumotlar sifati hisobga olinganda (xususiy rang korrelyatsiyasi) tezlik va sath chuqurligi bogʻlanishi kuchsizlanadi va ahamiyatsiz boʻladi (r = 0,35; p = 0,22). 14 ta tuman boʻyicha korrelyatsiyalarning ishonch oraliqlari ham keng (masalan, ρ = +0,85 uchun 0,47–0,97). Bu tumanlar boʻyicha tendensiyani ehtiyotkorlik bilan talqin qilish kerak.
+Chuqurlashish tezligi tumandagi yozgi sath medianasi bilan bogʻlangan (ρ = +0,76; 95 foizlik ishonch oraligʻi 0,32–0,93; p = 0,002): sathi chuqur Paxtaobod (yiliga 10,6 sm) va Asaka (6,4 sm) tumanlarida sath eng tez chuqurlashmoqda, sathi sayoz Boʻston, Oltinkoʻl va Ulugʻnor tumanlarida deyarli oʻzgarmaydi; quduqlar darajasida ham (3.2-§) chuqur quduqlarda chuqurlashish tezroq. Biroq tezlik maʼlumotlar sifati bilan ham bogʻlangan (yaroqli oʻlchovlar ulushi bilan ρ = −0,74; p = 0,002): eng tez chuqurlashayotgan tumanlarning tendensiyasi eng kichik va eng ishonchsiz panellarga (24–57 ta quduq) tayanadi. Sifat hisobga olinganda (xususiy rang korrelyatsiyasi) tezlik va sath chuqurligi bogʻlanishi ahamiyatsiz (r = 0,35; p = 0,22), 14 ta tuman boʻyicha ishonch oraliqlari esa keng (masalan, ρ = +0,85 uchun 0,47–0,97). Bu tumanlar boʻyicha tendensiyani ehtiyotkorlik bilan talqin qilish kerak.
 
 Marhamat tumani yozgi sathning medianasi boʻyicha viloyatda oʻrtacha oʻrinda (1,95 m; 7-oʻrin), lekin sathi 1,5 m dan sayoz quduqlar ulushi boʻyicha Boʻston tumanidan keyin ikkinchi (21,9 foiz; viloyat jadvallari boʻyicha 2019–2023-yillar). Mavsumiy amplituda boʻyicha ham Marhamat Xoʻjaobod tumanidan keyin ikkinchi oʻrinda (0,48 m). Marhamat tumanining oʻziga xosligi sathning fazoviy va mavsumiy oʻzgaruvchanligida: tumanda bir vaqtning oʻzida sathi chuqur va sayoz hududlar mavjud, yozda esa sath boshqa tumanlarga qaraganda koʻproq koʻtariladi. Bu 3.2–3.3-§ larda massivlar boʻyicha aniqlangan farqlar bilan mos va tadqiqotda massivlar darajasidagi yondashuv tanlanganini asoslaydi.
 
@@ -1127,7 +1103,7 @@ Marhamat tumani yozgi sathning medianasi boʻyicha viloyatda oʻrtacha oʻrinda 
 
 
 ```{=openxml}
-<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+<w:p><w:pPr><w:spacing w:before="0" w:after="0" w:line="20" w:lineRule="exact"/><w:rPr><w:sz w:val="2"/></w:rPr></w:pPr><w:r><w:rPr><w:sz w:val="2"/></w:rPr><w:br w:type="page"/></w:r></w:p>
 ```
 
 
@@ -1137,13 +1113,13 @@ Ushbu bobda meliorativ tizim elementlarining ishonchliligi kadastr maʼlumotlari
 
 ## 4.1-§. Kollektor va zovurlarning yoshi, taʼmir tarixi va ishonchlilik koʻrsatkichlari
 
-Texnik obyektning ishonchliligi uning belgilangan vazifalarni berilgan sharoitda va talab etilgan muddat davomida bajarish xossasi sifatida taʼriflanadi \[8\]. Gidromeliorativ inshootlar uchun bu xossa toʻrt tarkibiy qismga ajratiladi: buzilmaslik, uzoq muddatlilik, taʼmirboplik va saqlanuvchanlik \[23, 24\]. Har bir tarkibiy qism oʻz miqdoriy koʻrsatkichlari bilan baholanadi, ularni hisoblash esa muayyan dastlabki maʼlumotlarni talab qiladi. Shuning uchun tadqiqotda avval mavjud maʼlumotlar qaysi koʻrsatkichlarni hisoblashga imkon berishi aniqlandi (40-ilova).
+Texnik obyektning ishonchliligi uning belgilangan vazifalarni berilgan sharoitda va talab etilgan muddat davomida bajarish xossasi sifatida taʼriflanadi \[8\]. Gidromeliorativ inshootlar uchun bu xossa toʻrt tarkibiy qismga ajratiladi: buzilmaslik, uzoq muddatlilik, taʼmirboplik va saqlanuvchanlik \[23, 24\]. Har bir tarkibiy qism oʻz miqdoriy koʻrsatkichlari bilan baholanadi, ularni hisoblash esa muayyan dastlabki maʼlumotlarni talab qiladi. Shuning uchun tadqiqotda avval mavjud maʼlumotlar qaysi koʻrsatkichlarni hisoblashga imkon berishi aniqlandi (41-ilova).
 
 Jadvaldan koʻrinib turibdiki, kadastr maʼlumotlari ishonchlilik nazariyasining klassik koʻrsatkichlarini (buzilmasdan ishlash ehtimoli, nosozliklar oqimi) hisoblashga imkon bermaydi. Shu sababli ushbu paragrafda ikki bilvosita koʻrsatkich qoʻllanildi: elementning yoshi (uzoq muddatlilik bahosi) va oxirgi taʼmirdan beri oʻtgan muddat (taʼmirboplik va xizmat koʻrsatish holati bahosi). Vazifaviy samaradorlik III bobda sath monitoringi boʻyicha baholangan. Barcha hisoblar 2021-yil 1-yanvar holatidagi meliorativ kadastr maʼlumotlari asosida bajarildi.
 
-**Kollektorlar.** Tumanda davlat hisobidagi 90 ta kollektor bor, umumiy uzunligi 265,8 km, xizmat koʻrsatadigan maydoni 11 079 ga. Ularning barchasi Meliorativ ekspeditsiya balansida. Kollektorlarning yoshi 36 yildan 103 yilgacha, medianasi 61 yil. Kollektorlarning 82 foizi (uzunlik boʻyicha 90 foizi) 50 yildan eski (41-ilova). Eng koʻp qurilish 1950–1960-yillarga toʻgʻri keladi: shu ikki oʻn yillikda 61 ta kollektor (159,3 km) foydalanishga topshirilgan. 1980-yillardan keyin tumanda yangi kollektor qurilmagan.
+**Kollektorlar.** Tumanda davlat hisobidagi 90 ta kollektor bor, umumiy uzunligi 265,8 km, xizmat koʻrsatadigan maydoni 11 079 ga. Ularning barchasi Meliorativ ekspeditsiya balansida. Kollektorlarning yoshi 36 yildan 103 yilgacha, medianasi 61 yil. Kollektorlarning 82 foizi (uzunlik boʻyicha 90 foizi) 50 yildan eski (42-ilova). Eng koʻp qurilish 1950–1960-yillarga toʻgʻri keladi: shu ikki oʻn yillikda 61 ta kollektor (159,3 km) foydalanishga topshirilgan. 1980-yillardan keyin tumanda yangi kollektor qurilmagan.
 
-Shu bilan birga kollektorlarning barchasi 2010–2020-yillar oraligʻida kamida bir marta taʼmirlangan. Oxirgi taʼmirdan beri oʻtgan muddatning medianasi 4 yil; uzunlikning 79,5 foizi soʻnggi besh yilda taʼmirlangan. Taʼmirlar vaqt boʻyicha notekis: 55 ta kollektor (124,7 km) 2016–2018-yillarda, yana 13 tasi (65,0 km) 2019-yilda taʼmirlangan; 2016–2019-yillarga umumiy uzunlikning 71 foizi toʻgʻri keladi (42-ilova). Kollektorlar eski, lekin ularga yaqinda xizmat koʻrsatilgan.
+Shu bilan birga kollektorlarning barchasi 2010–2020-yillar oraligʻida kamida bir marta taʼmirlangan. Oxirgi taʼmirdan beri oʻtgan muddatning medianasi 4 yil; uzunlikning 79,5 foizi soʻnggi besh yilda taʼmirlangan. Taʼmirlar vaqt boʻyicha notekis: 55 ta kollektor (124,7 km) 2016–2018-yillarda, yana 13 tasi (65,0 km) 2019-yilda taʼmirlangan; 2016–2019-yillarga umumiy uzunlikning 71 foizi toʻgʻri keladi (43-ilova). Kollektorlar eski, lekin ularga yaqinda xizmat koʻrsatilgan.
 
 **Taʼmir tartibi.** Ishonchlilik nazariyasiga koʻra profilaktik taʼmir elementning holatiga yoki yoshiga qarab rejalashtirilishi kerak: eski va eskirish belgilari koʻp elementlar birinchi navbatda taʼmirlanadi \[23, 126\]. Kadastr maʼlumotlarida bunday tartib kuzatilmaydi. Oxirgi taʼmir yili kollektorning yoshi bilan bogʻlanmagan (Spearman ρ = −0,06; p = 0,56), uzunligi (ρ = +0,17; p = 0,10) va oxiridagi sarfi (ρ = +0,07; p = 0,54) bilan ham bogʻlanmagan. 2016–2019-yillardagi taʼmirga kiritilgan 68 ta kollektorning yoshi medianasi 60,5 yil, qolgan 22 tasiniki 61 yil (Mann–Uitni mezoni, p = 0,49). Yosh guruhlari boʻyicha ham manzara bir xil: 55 yoshgacha, 55–65 yoshli va 65 yoshdan katta kollektorlarda oxirgi taʼmirdan beri oʻtgan muddatning medianasi 4 yil, soʻnggi besh yilda taʼmirlanganlar ulushi 77–80 foiz.
 
@@ -1151,7 +1127,7 @@ Taʼmirlar kollektorning holatiga qarab emas, taʼmir dasturlari boʻyicha oʻtk
 
 **Ichki zovurlar.** Xoʻjalik ichki tarmogʻida vaziyat boshqacha. 332 ta zovur (370,7 km) 1929–2012-yillarda qurilgan, yoshining medianasi kollektorlarniki bilan bir xil (61 yil); ularning 112 tasi (127,3 km) 1950-yillarda qurilgan. Zovurlarning 217 tasida (239,7 km, uzunlikning 64,7 foizi) taʼmir umuman qayd etilmagan. Qolgan 115 tasi faqat ikki yilda taʼmirlangan: 2017-yilda 87 ta (110,2 km) va 2018-yilda 28 ta (20,8 km). Taʼmirlangan va taʼmirlanmagan zovurlarning yoshi bir xil (medianasi 61 yil; p = 0,95), uzunligi ham deyarli farq qilmaydi (medianasi 1,0 va 0,9 km). Ichki zovurlarni taʼmirga tanlashda ham yosh yoki holat mezoni qoʻllanilmagan.
 
-Taʼmirsiz qolgan zovurlar ulushi tizimlar boʻyicha katta farq qiladi (43-ilova): Mashʼal massivida 21 foiz, Markaziy zovur tizimi va Y.Oxunboboyev massivida 100 foiz.
+Taʼmirsiz qolgan zovurlar ulushi tizimlar boʻyicha katta farq qiladi (44-ilova): Mashʼal massivida 21 foiz, Markaziy zovur tizimi va Y.Oxunboboyev massivida 100 foiz.
 
 Tizimning ishonchliligi boʻyicha eng zaif boʻgʻin kollektorlar emas, xoʻjalik ichki zovurlaridir: ular kadastrdagi ochiq tarmoq uzunligining 58 foizini tashkil etadi, uchdan ikki qismida esa taʼmir qayd etilmagan.
 
@@ -1167,7 +1143,7 @@ Taʼmir yillari massivlar boʻyicha bloklarga ajraladi. Mashʼal massivida kolle
 4.1-rasm. Kollektorlar: a — foydalanishga topshirilgan yil boʻyicha; b — oxirgi taʼmir yili boʻyicha (massiv yozuvlarida — taʼmir qayd etilmagan ichki zovurlar ulushi). Kadastrda nomi aniqlangan kollektorlar
 :::
 
-**Massivlar boʻyicha ishonchlilik koʻrsatkichlari.** Kadastr kollektorlarni massivlarga bogʻlamaydi, shuning uchun bu bogʻlanish geomaʼlumotlar bazasi orqali tiklandi: xaritadan raqamlashtirilgan kollektor boʻlaklari massiv chegaralari bilan kesishtirildi va kadastrda nomi aniqlangan boʻlaklarga kollektorning yoshi va taʼmir yili biriktirildi (2.3-§). Massivlarning sugʻoriladigan maydoni bilan birga bu maʼlumotlar har bir massiv uchun drenaj tarmogʻining solishtirma uzunligini va holatini baholash imkonini berdi (44-ilova va 45-ilova).
+**Massivlar boʻyicha ishonchlilik koʻrsatkichlari.** Kadastr kollektorlarni massivlarga bogʻlamaydi, shuning uchun bu bogʻlanish geomaʼlumotlar bazasi orqali tiklandi: xaritadan raqamlashtirilgan kollektor boʻlaklari massiv chegaralari bilan kesishtirildi va kadastrda nomi aniqlangan boʻlaklarga kollektorning yoshi va taʼmir yili biriktirildi (2.3-§). Massivlarning sugʻoriladigan maydoni bilan birga bu maʼlumotlar har bir massiv uchun drenaj tarmogʻining solishtirma uzunligini va holatini baholash imkonini berdi (45-ilova va 46-ilova).
 
 Massivlar drenaj tarmogʻining taʼminlanganligi va holati boʻyicha katta farq qiladi. Ochiq tarmoqning umumiy solishtirma uzunligi (kollektorlar va ichki zovurlar) Istiqlol massivida 48,6 m/ga, Mashʼal massivida 38,7 m/ga, M.Toʻjiboyev massivida esa atigi 6,8 m/ga. Ichki zovurlar holati boʻyicha Mashʼal massivi boshqalardan ajralib turadi: u yerda zovurlarning 79 foizi taʼmirlangan, qolgan massivlarda esa 0–53 foizi. Toʻrtta koʻrsatkich (tarmoq zichligi, taʼmirsiz ichki zovurlar ulushi, kollektorlar yoshi va oxirgi taʼmirdan beri oʻtgan muddat) boʻyicha massivlarning oʻrtacha oʻrni hisoblanganda eng zaif tarmoq Y.Oxunboboyev, M.Toʻjiboyev va Z.M.Bobur massivlarida, eng yaxshisi Mashʼal massivida ekani aniqlandi.
 
@@ -1197,7 +1173,7 @@ $$D = \beta \left[ \frac{N}{E_a} - N + \frac{N}{E_a E_c} - \frac{N}{E_a} \right]
 
 bu yerda N — sof sugʻorish talabi, mm; Eₐ — dalada sugʻorish samaradorligi; $E_{c}$ — xoʻjalik ichki tarmogʻining foydali ish koeffitsiyenti; β — yoʻqotishlarning sizot suviga yetib boradigan ulushi (0,7 qabul qilindi); D — drenaj yuklamasi, mm; T — hisobiy davr, sutka; $q_{t}$ — talab etiladigan drenaj moduli, l/(s·ga).
 
-Sof sugʻorish talabi FAO-56 usulida hisoblandi \[31\]: oylik etalon bugʻlanuvchanlik (2.1-§) ekin koeffitsiyentlariga koʻpaytirildi va undan samarali yogʻin ayirildi. Ekinlar tarkibi meliorativ kadastrning kontur jadvalidan olindi: 25 405 ga maydonning 36,6 foizi gʻoʻza, 42,5 foizi gʻalla, 20,9 foizi boshqa ekinlar (bogʻ, sabzavot, yem-xashak). Ekin koeffitsiyentlari FAO-56 tavsiyalari boʻyicha oylar kesimida berildi \[31\], samarali yogʻin USDA SCS usulida aniqlandi. Hisob natijalari 46-ilova va 47-ilovada keltirilgan.
+Sof sugʻorish talabi FAO-56 usulida hisoblandi \[31\]: oylik etalon bugʻlanuvchanlik (2.1-§) ekin koeffitsiyentlariga koʻpaytirildi va undan samarali yogʻin ayirildi. Ekinlar tarkibi meliorativ kadastrning kontur jadvalidan olindi: 25 405 ga maydonning 36,6 foizi gʻoʻza, 42,5 foizi gʻalla, 20,9 foizi boshqa ekinlar (bogʻ, sabzavot, yem-xashak). Ekin koeffitsiyentlari FAO-56 tavsiyalari boʻyicha oylar kesimida berildi \[31\], samarali yogʻin USDA SCS usulida aniqlandi. Hisob natijalari 47-ilova va 48-ilovada keltirilgan.
 
 Asosiy hisobda gʻalladan keyingi maydonlar iyul–sentabrda boʻsh deb qabul qilingan, shuning uchun iyul–avgustda oʻrtacha ekin koeffitsiyenti 0,62 ga tushadi. Amalda gʻalladan keyin takroriy ekinlar ekiladi; ular hisobga olinganda yillik ekinlar bugʻlanishi 891 mm ga, sof sugʻorish talabi 696 mm ga, iyuldagi talab esa 178 mm ga oshadi. Shu sababli hisob ikki variantda (takroriy ekinlarsiz va takroriy ekinlar bilan) hamda sugʻorish samaradorligining uch stsenariysi boʻyicha bajarildi (4.1-jadval).
 
@@ -1220,7 +1196,7 @@ Izoh: birinchi qiymat — takroriy ekinlarsiz, ikkinchisi — takroriy ekinlar b
 
 Yalpi sugʻorish hajmi stsenariylar boʻyicha 8,2–16,9 ming m³/ga ni tashkil etadi; oʻrta stsenariy (10,1–13,4 ming m³/ga) Fargʻona vodiysi uchun xos boʻlgan suv olish hajmlariga mos keladi \[49\]. Iyuldagi talab etiladigan drenaj moduli 0,16–0,66 l/(s·ga), oʻrta stsenariyda 0,26–0,43 l/(s·ga). Bu qiymatlar adabiyotda sugʻoriladigan quruq hududlar uchun tavsiya etilgan loyihaviy drenaj sarfi oraligʻiga (1–3 mm/sut yoki 0,12–0,35 l/(s·ga)) toʻgʻri keladi yoki undan biroz yuqori \[106, 120\]. Drenajga tushadigan yuklama sugʻorish samaradorligiga sezgir: samaradorlik pastdan yuqoriga oshirilganda talab etiladigan modul 2,5 baravar kamayadi. Drenaj muammosini sugʻorish samaradorligini oshirish orqali ham hal etish mumkin.
 
-**Haqiqiy va talab etiladigan modul qiyosi.** Kadastrdagi solishtirma sarf talab etiladigan modul bilan solishtirildi (47-ilova, b). Oʻrta stsenariy boʻyicha (0,26 l/(s·ga)) 90 ta kollektordan 27 tasining solishtirma sarfi talabdan past; ular 60,2 km uzunlikka va 2 863 ga xizmat maydoniga ega. Takroriy ekinlar hisobga olinganda (0,43 l/(s·ga)) talabdan past kollektorlar soni 38 taga (4 501 ga) yetadi, past samaradorlik stsenariysida esa 48 taga (5 845 ga, xizmat maydonining 53 foizi). Kadastr koʻrsatkichlari boʻyicha kollektorlarning uchdan biridan yarmigacha qismi sugʻorish mavsumining eng ogʻir oyida talab etilgan sarfni oʻtkazmaydi. Biroq bu xulosa kadastrdagi sarf qiymatining ishonchliligiga bogʻliq; uni tasdiqlash uchun kollektorlarda sarfni oʻlchash zarur (4.5-§).
+**Haqiqiy va talab etiladigan modul qiyosi.** Kadastrdagi solishtirma sarf talab etiladigan modul bilan solishtirildi (48-ilova, b). Oʻrta stsenariy boʻyicha (0,26 l/(s·ga)) 90 ta kollektordan 27 tasining solishtirma sarfi talabdan past; ular 60,2 km uzunlikka va 2 863 ga xizmat maydoniga ega. Takroriy ekinlar hisobga olinganda (0,43 l/(s·ga)) talabdan past kollektorlar soni 38 taga (4 501 ga) yetadi, past samaradorlik stsenariysida esa 48 taga (5 845 ga, xizmat maydonining 53 foizi). Kadastr koʻrsatkichlari boʻyicha kollektorlarning uchdan biridan yarmigacha qismi sugʻorish mavsumining eng ogʻir oyida talab etilgan sarfni oʻtkazmaydi. Biroq bu xulosa kadastrdagi sarf qiymatining ishonchliligiga bogʻliq; uni tasdiqlash uchun kollektorlarda sarfni oʻlchash zarur (4.5-§).
 
 **Talabni qoplamaydigan kollektorlarning joylashuvi.** Kadastr nomi xaritadagi boʻlaklarga biriktirilgan 60 ta kollektor solishtirma sarfi va talab etiladigan modul boʻyicha xaritaga tushirildi (4.2-rasm). Ulardan 10 tasining solishtirma sarfi oʻrta stsenariy talabidan ham past, 9 tasi takroriy ekinlar hisobga olinganda, 8 tasi esa past samaradorlik stsenariysida talabni qoplamaydi. 28 tasi barcha stsenariylarda talabni qoplaydi, 5 tasi tranzit kollektorlardir.
 
@@ -1240,9 +1216,9 @@ Talabdan past kollektorlar bitta massivda toʻplanmagan, tuman boʻylab tarqoq j
 
 $$Q = \frac{1}{n} \, \omega \, R^{2/3} \, i^{1/2} \qquad\qquad (4.3)$$
 
-bu yerda ω — jonli kesim yuzasi, m²; R — gidravlik radius, m; i — tub nishabligi; n — gʻadir-budurlik koeffitsiyenti. Kadastrda kollektorlarning koʻndalang kesim oʻlchamlari va tub nishabligi berilmagan, shuning uchun aniq kollektorlar boʻyicha hisob bajarib boʻlmaydi. Buning oʻrniga namunaviy trapetsiya kesim (tub kengligi 1,0 m, qiyalik koeffitsiyenti 1,5, chuqurligi 1,2 m) uchun oʻzan holatining oʻtkazish qobiliyatiga taʼsiri baholandi (48-ilova).
+bu yerda ω — jonli kesim yuzasi, m²; R — gidravlik radius, m; i — tub nishabligi; n — gʻadir-budurlik koeffitsiyenti. Kadastrda kollektorlarning koʻndalang kesim oʻlchamlari va tub nishabligi berilmagan, shuning uchun aniq kollektorlar boʻyicha hisob bajarib boʻlmaydi. Buning oʻrniga namunaviy trapetsiya kesim (tub kengligi 1,0 m, qiyalik koeffitsiyenti 1,5, chuqurligi 1,2 m) uchun oʻzan holatining oʻtkazish qobiliyatiga taʼsiri baholandi (49-ilova).
 
-Oʻzanni oʻsimlik qoplashi oʻtkazish qobiliyatini 29 foizga, oʻsimlik bilan birga 0,3 m loyqa qatlami 42 foizga, kuchli oʻsimlik va 0,5 m loyqa esa 61 foizga kamaytiradi. Yaʼni texnik xizmat koʻrsatilmagan kollektor toza holatdagi sarfning faqat 40–70 foizini oʻtkazadi. 4.1-§ ga koʻra taʼmir kollektor holatiga qarab rejalashtirilmaydi, shuning uchun taʼmirlar orasidagi 10 yil atrofidagi davrda kollektorlarning bir qismi loyihaviy oʻtkazish qobiliyatining ancha qismini yoʻqotishi mumkin. Shuning uchun kollektorlarning texnik holatini (oʻsimlik bilan qoplanish, loyqa qatlami qalinligi) muntazam qayd etish va uni taʼmir navbatini aniqlash mezoni sifatida qoʻllash taklif etiladi (4.5-§).
+Oʻzanni oʻsimlik qoplashi oʻtkazish qobiliyatini 29 foizga, oʻsimlik bilan birga 0,3 m loyqa qatlami 42 foizga, kuchli oʻsimlik va 0,5 m loyqa esa 61 foizga kamaytiradi: texnik xizmat koʻrsatilmagan kollektor toza holatdagi sarfning faqat 40–70 foizini oʻtkazadi. 4.1-§ ga koʻra taʼmir kollektor holatiga qarab rejalashtirilmaydi, shuning uchun taʼmirlar orasidagi 10 yil atrofidagi davrda kollektorlarning bir qismi loyihaviy oʻtkazish qobiliyatining ancha qismini yoʻqotishi mumkin. Shuning uchun kollektorlarning texnik holatini (oʻsimlik bilan qoplanish, loyqa qatlami qalinligi) muntazam qayd etish va uni taʼmir navbatini aniqlash mezoni sifatida qoʻllash taklif etiladi (4.5-§).
 
 **Cheklovlar.** Hisob uchta taxminga tayanadi: ekinlar tarkibi kadastr kontur jadvali boʻyicha olingan; sugʻorish samaradorligi va yoʻqotishlarning sizot suviga yetib borish ulushi stsenariy sifatida berilgan; suv beruvchanlik koeffitsiyenti adabiyotdagi oraliqdan olingan. Ushbu taxminlar natijani 2–3 baravar oraligʻida oʻzgartiradi, lekin asosiy xulosalarni (kadastrdagi sarflar tarqoqligi, tarmoqning bir qismi talabni qoplamasligi, oʻzan holatining oʻtkazish qobiliyatiga taʼsiri) oʻzgartirmaydi. Hisobni aniqlashtirish uchun kanallardan suv olish hajmlari, kollektorlardagi oʻlchangan sarflar va kollektorlar kesimining oʻlchamlari kerak.
 
@@ -1291,7 +1267,7 @@ Hech bir variantda taʼmirdan keyin sath chuqurlashgani aniqlanmadi. Asosiy mode
 
 Variantlar orasida ishora oʻzgaradi, bu barqaror taʼsir yoʻqligini bildiradi. Bitta variantdagi manfiy va ahamiyatli baho (−0,20 m) nazorat guruhining 2018-yildan keyin kuchliroq chuqurlashgani bilan bogʻliq va taʼmir taʼsiri sifatida talqin qilinmaydi; bu natija 3.4-§ dagi «kollektordan uzoqda sath tezroq chuqurlashgan» degan xulosa bilan mos keladi. Plasebo testida (taʼmir yili sunʼiy ravishda 3 yil oldinga surilib, faqat haqiqiy taʼmirdan oldingi yillar olinganda) taʼsir nolga yaqin (+0,04 m; p = 0,51) va model yolgʻon taʼsir koʻrsatmaydi.
 
-**Bosqichli dizaynga chidamli baholar.** Kollektorlar 2010–2020-yillarda turli yillarda taʼmirlangani uchun ikki tomonlama qatʼiy effektli model taʼsir vaqt oʻtishi bilan oʻzgarganda siljigan baho berishi mumkin: unda oldin taʼmirlangan quduqlar keyin taʼmirlanganlar uchun bilvosita nazorat vazifasini bajaradi \[57\]. Shu sababli taʼsir yana ikki usulda baholandi. Birinchisida har bir taʼmir yili kogortasi faqat hech qachon taʼmir taʼsiriga tushmagan quduqlar bilan, taʼmirdan oldingi eng yaqin yilga nisbatan solishtirildi va kogorta-yil baholari quduqlar soni boʻyicha oʻrtachalandi (Callaway va SantʼAnna yondashuvi \[41\]). Ikkinchisida quduq va yil effektlari faqat taʼmirdan oldingi va nazorat kuzatuvlari boʻyicha baholanib, taʼmirdan keyingi yillar uchun kontrfaktual sath tiklandi (imputatsiya bahosi \[37\]). Taʼmirdan keyingi 0–3 yil boʻyicha kogortalar bahosi −0,11 m (−0,29 … +0,10 m), imputatsiya bahosi −0,18 m (−0,39 … +0,02 m), yaʼni asosiy model bilan mos. Barcha keyingi yillar olinganda baho −0,27 m gacha ortadi va ahamiyatli boʻladi; bu farq quyida koʻrsatilgan dinamik bahodagi uzoq muddatli koeffitsiyent bilan bir xil manbaga ega. Hech bir usul taʼmirdan keyin sath chuqurlashganini koʻrsatmaydi.
+**Bosqichli dizaynga chidamli baholar.** Kollektorlar 2010–2020-yillarda turli yillarda taʼmirlangan; bunday dizaynda ikki tomonlama qatʼiy effektli model taʼsir vaqt bilan oʻzgarsa siljigan baho beradi, chunki oldin taʼmirlangan quduqlar keyin taʼmirlanganlar uchun nazorat boʻlib qoladi \[57\]. Shu sababli taʼsir yana ikki usulda baholandi. Callaway va SantʼAnna yondashuvida \[41\] har bir taʼmir yili kogortasi faqat hech qachon taʼsirga tushmagan quduqlar bilan, taʼmirdan oldingi eng yaqin yilga nisbatan solishtirildi va kogorta-yil baholari quduqlar soni boʻyicha oʻrtachalandi. Imputatsiya bahosida \[37\] quduq va yil effektlari faqat taʼmirdan oldingi va nazorat kuzatuvlari boʻyicha baholanib, taʼmirdan keyingi yillar uchun kontrfaktual sath tiklandi. Taʼmirdan keyingi 0–3 yil boʻyicha kogortalar bahosi −0,11 m (−0,29 … +0,10 m), imputatsiya bahosi −0,18 m (−0,39 … +0,02 m), asosiy model bilan mos. Barcha keyingi yillar olinganda baho −0,27 m gacha ortadi va ahamiyatli boʻladi; uning manbai quyidagi dinamik bahodagi uzoq muddatli koeffitsiyent bilan bir xil. Hech bir usul taʼmirdan keyin sath chuqurlashganini koʻrsatmaydi.
 
 **Dinamik baho.** Taʼmir taʼsiri vaqt oʻtishi bilan namoyon boʻlishi mumkin, shuning uchun taʼmir yiliga nisbatan har bir yil uchun alohida koeffitsiyent baholandi (4.3-rasm). Taʼmirdan oldingi yillarda taʼsir va nazorat guruhlari farqi statistik jihatdan nolga teng (−4, −3 va −2-yillar koeffitsiyentlari birgalikda: F = 1,67; p = 0,18). Bu parallel tendensiyalar shartini qoʻllab-quvvatlaydi. Taʼmir yili va undan keyingi uch yilda koeffitsiyentlar −0,07 … −0,10 m oraligʻida va ahamiyatsiz. Faqat taʼmirdan 4 va undan koʻp yil oʻtgan kuzatuvlarda koeffitsiyent −0,25 m (p = 0,04): sath nazoratga nisbatan biroz sayozlashgan. Bu baho asosan 2010–2015-yillarda taʼmirlangan oz sonli kollektorlar yonidagi quduqlarga tayanadi va sakkizta koeffitsiyentdan bittasining tasodifan ahamiyatli chiqishi kutiladigan holat; shuning uchun u taʼmir taʼsiri sifatida talqin qilinmaydi.
 
@@ -1318,38 +1294,15 @@ Tumanda 2017–2020-yillarda taʼmirga 2026-yil narxlarida 48,2 mlrd soʻm sarfl
 
 Taʼmir xarajatlari meliorativ tizim samaradorligining iqtisodiy tomonini tavsiflaydi: qancha mablagʻ sarflangani, u tarmoqning qaysi qismiga yoʻnaltirilgani va sarflangan mablagʻ qanday natija bergani \[38, 126\]. Ushbu paragrafda kadastrdagi xarajat maʼlumotlari uch jihatdan tahlil qilinadi: 1 km taʼmir narxi va unga taʼsir etuvchi omillar, xarajatlarning balans qiymati va xizmat maydoniga nisbati hamda xarajatlarning massivlar boʻyicha taqsimoti va uning meliorativ ehtiyojga mosligi.
 
-**Umumiy koʻrsatkichlar.** Kadastrda 53 ta kollektor boʻyicha 2017–2020-yillardagi taʼmir xarajati va taʼmirlangan uchastka (piketlar) koʻrsatilgan. Jami 163,3 km uchastkaga kadastrda oʻsha yillarning narxlarida 21 314 mln soʻm sarflangan. Turli yillardagi xarajatlarni solishtirish va bugungi rejalashtirishda qoʻllash uchun ular 2026-yil oktabr narxlariga keltirildi. Buning uchun isteʼmol narxlari indeksidan foydalanildi (yillik inflyatsiya 2017-yilda 14,4, 2018-yilda 14,3, 2019-yilda 15,2, 2020-yilda 11,1, 2021–2025-yillarda 7,3–12,3 foiz, 2026-yil yanvar–oktabrida 4,8 foiz) \[137\]. Har bir taʼmir yilining xarajati shu yilning oʻrtacha narxlarida deb olindi; qayta hisoblash koeffitsiyenti 2017-yil uchun 2,60, 2018-yil uchun 2,27, 2019-yil uchun 1,98, 2020-yil uchun 1,75. 2026-yil narxlarida xarajat 48 176 mln soʻmni tashkil etadi. Uzunlik boʻyicha tortilgan oʻrtacha narx 295 mln soʻm/km, mediana 348 mln soʻm/km. Bundan keyin barcha xarajatlar 2026-yil narxlarida keltiriladi; yillar boʻyicha taqsimot ikkala narxda 49-ilovada berilgan.
+**Umumiy koʻrsatkichlar.** Kadastrda 53 ta kollektor boʻyicha 2017–2020-yillardagi taʼmir xarajati va taʼmirlangan uchastka (piketlar) koʻrsatilgan. Jami 163,3 km uchastkaga kadastrda oʻsha yillarning narxlarida 21 314 mln soʻm sarflangan. Turli yillardagi xarajatlarni solishtirish va bugungi rejalashtirishda qoʻllash uchun ular 2026-yil oktabr narxlariga keltirildi. Buning uchun isteʼmol narxlari indeksidan foydalanildi (yillik inflyatsiya 2017-yilda 14,4, 2018-yilda 14,3, 2019-yilda 15,2, 2020-yilda 11,1, 2021–2025-yillarda 7,3–12,3 foiz, 2026-yil yanvar–oktabrida 4,8 foiz) \[137\]. Har bir taʼmir yilining xarajati shu yilning oʻrtacha narxlarida deb olindi; qayta hisoblash koeffitsiyenti 2017-yil uchun 2,60, 2018-yil uchun 2,27, 2019-yil uchun 1,98, 2020-yil uchun 1,75. 2026-yil narxlarida xarajat 48 176 mln soʻmni tashkil etadi. Uzunlik boʻyicha tortilgan oʻrtacha narx 295 mln soʻm/km, mediana 348 mln soʻm/km. Bundan keyin barcha xarajatlar 2026-yil narxlarida keltiriladi; yillar boʻyicha taqsimot ikkala narxda 50-ilovada berilgan.
 
 **Narx tarkibi.** Narxlar ikki guruhga aniq ajraladi. 2019-yilda taʼmirlangan sakkizta kollektorda (Qushchi, Nayman, Gʻarbiy, ND-2-1, Shoʻr qishloq, Ambarquloq, Marhamat, ND-7) narx 29–59 mln soʻm/km; bu yengil tozalash ishlariga mos keladi. Qolgan 45 ta kollektorda narx asosan 270–680 mln soʻm/km oraligʻida; bu mexanizmlar bilan chuqurlashtirish va tiklash ishlariga mos keladi. Ikki guruhning oʻrtacha narxi taxminan oʻn baravar farq qiladi (34 va 368 mln soʻm/km). Eng yuqori narx ZKD-6-1-1 kollektorida qayd etilgan: 1 335 mln soʻm/km.
 
 Narx kollektorning suv sarfi bilan bogʻliq emas (logarifmik korrelyatsiya −0,20) va yoshi bilan ham bogʻlanmagan (ρ = −0,20; p = 0,14). Biroq taʼmirlangan uchastka uzunligi bilan aniq bogʻliqlik bor: 1 km dan qisqa uchastkalarda narx medianasi 586 mln soʻm/km, 1–3 km uchastkalarda 348 mln soʻm/km, 3 km dan uzunlarida 289 mln soʻm/km. Logarifmik regressiya boʻyicha uchastka uzunligi ikki baravar oshganda 1 km narxi taxminan 28 foizga kamayadi (darajali koʻrsatkich −0,47; p = 0,001). Bu hajm samarasi ish hajmiga bogʻliq boʻlmagan doimiy xarajatlar (texnikani tashish, tayyorlov ishlari) bilan izohlanadi. Shu sababli qoʻshni kichik kollektorlarni bitta shartnoma doirasida birgalikda taʼmirlash xarajatni kamaytiradi.
 
-**Balans qiymati va xizmat maydoniga nisbat.** Taʼmirlangan kollektorlarda taʼmir xarajati (oʻsha yillarning narxlarida) kadastrdagi balans qiymatining medianasi boʻyicha 33 foizini (kvartillar 24 va 43 foiz) tashkil etadi. Yaʼni bitta taʼmir kollektor qiymatining uchdan bir qismiga teng; bunday nisbat taʼmirning koʻpchilik hollarda yengil tozalash emas, kapital tiklash xususiyatida boʻlganini tasdiqlaydi. Balans qiymati qayta baholanmagan boʻlishi mumkinligi sababli bu nisbat taxminiy. Xizmat maydoniga nisbatan taʼmir xarajati 53 ta kollektor boʻyicha (7 909 ga) oʻrtacha 6,09 mln soʻm/ga, kollektorlar boʻyicha mediana 9,28 mln soʻm/ga.
+**Balans qiymati va xizmat maydoniga nisbat.** Taʼmirlangan kollektorlarda taʼmir xarajati (oʻsha yillarning narxlarida) kadastrdagi balans qiymatining medianasi boʻyicha 33 foizini (kvartillar 24 va 43 foiz) tashkil etadi, yaʼni bitta taʼmir kollektor qiymatining uchdan biriga teng; bunday nisbat taʼmirning koʻpchilik hollarda yengil tozalash emas, kapital tiklash xususiyatida boʻlganini tasdiqlaydi. Balans qiymati qayta baholanmagan boʻlishi mumkinligi sababli bu nisbat taxminiy. Xizmat maydoniga nisbatan taʼmir xarajati 53 ta kollektor boʻyicha (7 909 ga) oʻrtacha 6,09 mln soʻm/ga, kollektorlar boʻyicha mediana 9,28 mln soʻm/ga.
 
-**Xarajatlarning massivlar boʻyicha taqsimoti.** Kadastr xarajatlarni massivlar boʻyicha koʻrsatmaydi, shuning uchun taqsimot geomaʼlumotlar bazasi orqali tiklandi: har bir kollektorning xarajati uning xaritadagi boʻlaklari massivlar boʻyicha uzunligiga mutanosib taqsimlandi (4.1-§). Bu usul 36 ta kollektor va umumiy xarajatning 80 foizi (38 582 mln soʻm) uchun bajarildi. Natijalar 4.3-jadval va 4.4-rasmda III bobda aniqlangan meliorativ xavf koʻrsatkichlari bilan birga keltirilgan.
-
-
-::: {custom-style="Jadval-raqam"}
-4.3-jadval
-:::
-
-::: {custom-style="Sarlavha-jadval"}
-**Kollektorlar taʼmir xarajatlarining massivlar boʻyicha taqsimoti (2017–2020-yillar) va meliorativ xavf koʻrsatkichlari**
-:::
-
-| Massiv | Sugʻoriladigan maydon, ga | Taʼmirlangan kollektorlar\* | Xarajat, mln soʻm (2026-yil narxlarida) | Xarajat, ming soʻm/ga (2026-yil narxlarida) | Yozgi sayoz sath ehtimoli 0,3 dan katta maydon, % (3.3-§) | Shoʻrlanish xavfli quduqlar (3.5-§) |
-| --- | --- | --- | --- | --- | --- | --- |
-| Istiqlol | 2 146 | 6 | 7 828 | 3 648 | 55 | 12 |
-| U.Qoraboyev | 2 420 | 9 | 6 570 | 2 715 | 19 | 1 |
-| Mashʼal | 3 790 | 13 | 9 187 | 2 424 | 71 | 17 |
-| Z.M.Bobur | 3 610 | 6 | 6 472 | 1 793 | 58 | 17 |
-| T.Mirzayev | 3 371 | 5 | 5 525 | 1 639 | 28 | 1 |
-| Paxtakor | 1 601 | 5 | 2 338 | 1 461 | 21 | 4 |
-| M.Toʻjiboyev | 2 532 | 3 | 662 | 261 | 17 | 4 |
-| Y.Oxunboboyev | 1 191 | 0 | 0 | 0 | 0 | — |
-| Jami | 20 661 | 36 | 38 582 | 1 867 | — | 56 |
-
-Izoh: \* — bir kollektor bir necha massivdan oʻtishi mumkin, shuning uchun massivlar boʻyicha sonlar yigʻindisi jami sondan katta.
+**Xarajatlarning massivlar boʻyicha taqsimoti.** Kadastr xarajatlarni massivlar boʻyicha koʻrsatmaydi, shuning uchun taqsimot geomaʼlumotlar bazasi orqali tiklandi: har bir kollektorning xarajati uning xaritadagi boʻlaklari massivlar boʻyicha uzunligiga mutanosib taqsimlandi (4.1-§). Bu usul 36 ta kollektor va umumiy xarajatning 80 foizi (38 582 mln soʻm) uchun bajarildi. Natijalar 51-ilova va 4.4-rasmda III bobda aniqlangan meliorativ xavf koʻrsatkichlari bilan birga keltirilgan.
 
 
 ![](figures/map7_repair_cost.png){width=15.5cm}
@@ -1367,7 +1320,7 @@ Taʼmir xarajatlari massivlar orasida 14 baravar farq qiladi: 1 ga sugʻoriladig
 
 ## 4.5-§. Monitoring tizimini takomillashtirish va amaliy tavsiyalar
 
-III bob va 4.1–4.4-§ natijalariga koʻra meliorativ tizim samaradorligini taʼminlash uchun avvalo uni oʻlchash tizimini yoʻlga qoʻyish kerak. Hozirgi monitoring tizimi sizot suvi sathini qayd etadi, lekin bu maʼlumotlarning sifati nazorat qilinmaydi, drenaj tarmogʻining holati va taʼmirlar esa sath bilan bogʻlanmagan holda hisobga olinadi. Natijada 2026-yil narxlarida 48,2 mlrd soʻmlik taʼmir ishlarining meliorativ natijasini baholab boʻlmaydi (4.3-§), mablagʻlar esa meliorativ ehtiyojga mos taqsimlanmaydi (4.4-§). Shu uzilishni bartaraf etish uchun 15 ta tavsiya ishlab chiqildi; ularning toʻliq roʻyxati va har birining tadqiqotdagi asosi 50-ilovada keltirilgan. Tavsiyalar uch guruhga boʻlingan.
+III bob va 4.1–4.4-§ natijalariga koʻra meliorativ tizim samaradorligini taʼminlash uchun avvalo uni oʻlchash tizimini yoʻlga qoʻyish kerak. Hozirgi monitoring tizimi sizot suvi sathini qayd etadi, lekin bu maʼlumotlarning sifati nazorat qilinmaydi, drenaj tarmogʻining holati va taʼmirlar esa sath bilan bogʻlanmagan holda hisobga olinadi. Natijada 2026-yil narxlarida 48,2 mlrd soʻmlik taʼmir ishlarining meliorativ natijasini baholab boʻlmaydi (4.3-§), mablagʻlar esa meliorativ ehtiyojga mos taqsimlanmaydi (4.4-§). Shu uzilishni bartaraf etish uchun 15 ta tavsiya ishlab chiqildi; ularning toʻliq roʻyxati va har birining tadqiqotdagi asosi 52-ilovada keltirilgan. Tavsiyalar uch guruhga boʻlingan.
 
 Maʼlumotlar sifati boʻyicha (T-1 – T-4): monitoring jadvallarini qabul qilishda tekshiruv tartibini majburiy qoʻllash, quruq quduq holatini qiymat oʻrniga maxsus belgi bilan qayd etish, kuzatuv tarmogʻidagi oʻzgarishlarni sanasi bilan hujjatlashtirish va hisobotlarda barqaror panel hamda yozgi eng sayoz sathni alohida koʻrsatish.
 
@@ -1375,11 +1328,11 @@ Kuzatuv tarmogʻi boʻyicha (T-5 – T-9): sath chuqur hududlarda quduqlarni 5�
 
 Tizimni boshqarish boʻyicha (T-10 – T-15): taʼmir va nosozliklar daftarini yuritish, taʼmir navbatini kollektor holati va meliorativ xavf boʻyicha aniqlash, qoʻshni kollektorlarni birgalikda taʼmirlash va taʼmir turini oʻzan holatiga qarab tanlash, taʼmir rejasini monitoring bilan muvofiqlashtirish, ichki zovurlarni inventarizatsiya qilish va sugʻorish samaradorligini oshirish.
 
-**Ustuvor massivlar.** III bob va 4.1–4.4-§ dagi koʻrsatkichlar massivlar boʻyicha birlashtirildi (4.4-jadval). Meliorativ xavf (yozgi sayoz sath ehtimoli, shoʻrlanish xavfi, sath tendensiyasi), tarmoq holati va 2017–2020-yillardagi xarajatlar (2026-yil narxlarida) birgalikda qaralganda massivlar uchta ustuvorlik guruhiga ajraladi. Guruhlash qoidasi quyidagicha. Meliorativ xavf yuqori deb hisoblanadi, agar yozgi sayoz sath ehtimoli 0,3 dan katta maydon 50 foizdan ortiq yoki shoʻrlanish xavfli quduqlar 10 tadan koʻp boʻlsa. I guruh — xavf yuqori va tarmoq holati zaif yoki oʻrta; II guruh — xavf yuqori, tarmoq holati yaxshi; III guruh — xavf past; maʼlumotlarining yarmidan koʻpi yaroqsiz massiv alohida (monitoring) guruhga ajratiladi. Guruhlar bu chegaralarga sezgir emas: ehtimollik chegarasi 29–54 foiz, quduqlar soni chegarasi 5–11 oraligʻida olinganda ham, ehtimollik log-kriging yoki indikator kriging bilan hisoblanganda ham (28-ilova) tarkib oʻzgarmaydi. Kritik chuqurlik 2,0 m olinganda Paxtakor massivi ehtimollik boʻyicha yuqori xavf chegarasidan oʻtadi, lekin shoʻrlanish xavfli quduqlar soni (4 ta) boʻyicha past boʻlib qoladi.
+**Ustuvor massivlar.** III bob va 4.1–4.4-§ koʻrsatkichlari massivlar boʻyicha birlashtirildi (4.3-jadval): meliorativ xavf (yozgi sayoz sath ehtimoli, shoʻrlanish xavfi, sath tendensiyasi), tarmoq holati va 2017–2020-yillardagi xarajatlar (2026-yil narxlarida). Xavf yuqori deb olindi, agar ehtimoli 0,3 dan katta maydon 50 foizdan ortiq yoki shoʻrlanish xavfli quduqlar 10 tadan koʻp boʻlsa. I guruh: xavf yuqori, tarmoq zaif yoki oʻrta; II guruh: xavf yuqori, tarmoq yaxshi; III guruh: xavf past; maʼlumotlarining yarmidan koʻpi yaroqsiz massiv alohida (monitoring) guruhda. Ehtimollik chegarasi 29–54 foiz, quduqlar soni chegarasi 5–11 oraligʻida olinganda, shuningdek log- yoki indikator kriging bilan (29-ilova) guruhlar tarkibi oʻzgarmaydi. Kritik chuqurlik 2,0 m olinganda Paxtakor massivi ehtimollik boʻyicha yuqori xavf chegarasidan oʻtadi, lekin shoʻrlanish xavfli quduqlar soni (4 ta) boʻyicha past qoladi.
 
 
 ::: {custom-style="Jadval-raqam"}
-4.4-jadval
+4.3-jadval
 :::
 
 ::: {custom-style="Sarlavha-jadval"}
@@ -1406,22 +1359,22 @@ Birinchi ustuvorlik guruhiga Z.M.Bobur va Istiqlol massivlari kiradi. Ularda mel
 
 
 ::: {custom-style="Sarlavha-rasm"}
-4.5-rasm. Massivlarning ustuvorlik guruhlari (a) va birinchi navbatdagi chora-tadbirlar joylashuvi (b); T-5, T-8, T-9, T-10, T-14 — 50-ilovadagi tavsiyalar
+4.5-rasm. Massivlarning ustuvorlik guruhlari (a) va birinchi navbatdagi chora-tadbirlar joylashuvi (b); T-5, T-8, T-9, T-10, T-14 — 52-ilovadagi tavsiyalar
 :::
 
-**Taʼmir samarasini aniqlash uchun zarur quduqlar soni.** 4.3-§ dagi modelning standart xatosi 0,105 m, taʼsir guruhida 36 ta quduq. 5 foizlik ahamiyat darajasi va 80 foizlik quvvat uchun aniqlanadigan eng kichik taʼsir standart xatoning 2,8 baravariga teng va hozir 0,29 m ni tashkil etadi. Simulyatsiya (2.4-§; 51-ilova) bu bahoni tasdiqlaydi: hozirgi tarmoqda 0,30 m lik taʼsir 82 foiz, 0,20 m lik taʼsir atigi 47 foiz ehtimol bilan aniqlanadi. Oddiy formula zarur quduqlar sonini kam koʻrsatadi (0,20 m uchun 78 ta, simulyatsiyada bu sonda quvvat 75 foiz); 80 foizlik quvvat uchun taʼsir guruhida taxminan 95 ta quduq kerak.
+**Taʼmir samarasini aniqlash uchun zarur quduqlar soni.** 4.3-§ dagi modelning standart xatosi 0,105 m, taʼsir guruhida 36 ta quduq. 5 foizlik ahamiyat darajasi va 80 foizlik quvvatda aniqlanadigan eng kichik taʼsir standart xatoning 2,8 baravari, yaʼni 0,29 m. Simulyatsiya (2.4-§; 53-ilova) buni tasdiqlaydi: hozirgi tarmoqda 0,30 m lik taʼsir 82 foiz, 0,20 m lik taʼsir 47 foiz ehtimol bilan aniqlanadi. Oddiy formula zarur quduqlar sonini kam koʻrsatadi (0,20 m uchun 78 ta, simulyatsiyada bu sonda quvvat 75 foiz); 80 foizlik quvvatga taʼsir guruhida taxminan 95 ta quduq bilan erishiladi.
 
 Tumanda kollektorlardan 300 m gacha masofada 108 ta quduq bor, lekin ulardan faqat 36 tasi nomi va taʼmir yili aniqlangan kollektor yonida. 0,20 m lik taʼsirni aniqlash uchun yangi quduq qurish shart emas: barcha kollektorlar boʻyicha taʼmir daftarini yuritish (T-10) va xaritada kollektor nomlarini toʻliq koʻrsatish yetarli boʻlishi mumkin. 0,10 m lik taʼsirni aniqlash esa mavjud tarmoq bilan imkonsiz.
 
 Bu hisob taxminiy: u quduqlar bir-biridan mustaqil va taʼsir mahalliy degan farazga tayanadi. Taʼsir hududiy boʻlsa (4.3-§), quduqlar sonini oshirish yetarli emas; bunday holda taʼmirni bosqichma-bosqich, tumanning bir qismida oldin, boshqa qismida keyin oʻtkazish va shu ikki qismni solishtirish kerak boʻladi.
 
-**Monitoring tizimining GAT asosidagi tuzilmasi.** Yuqoridagi tavsiyalarni amalga oshirish uchun dissertatsiyada yaratilgan geomaʼlumotlar bazasi (2.3-§) monitoring tizimining asosi sifatida taklif etiladi. Unda toʻrtta oʻzaro bogʻlangan qatlam boʻlishi kerak: kuzatuv quduqlari (pasport maʼlumotlari, oʻlchovlar qatori va har bir oʻlchovning sifat belgisi bilan), kollektor va zovurlar (kadastr koʻrsatkichlari, taʼmir va nosozliklar daftari, oʻzan holati bilan), massivlar (maydon, ekinlar tarkibi, meliorativ xavf koʻrsatkichlari bilan) va kanallar. Har yili yangi oʻlchovlar kiritilganda tekshiruv tartibi (T-1) avtomatik qoʻllanadi, barqaror panel boʻyicha tendensiya, sayoz sath ehtimoli xaritasi va massivlar boʻyicha 4.4-jadvaldagi koʻrsatkichlar qayta hisoblanadi. Dissertatsiyada qoʻllanilgan barcha hisoblar ochiq dasturiy taʼminotda (Python) bajarilgan va takrorlanadigan skriptlar shaklida saqlangan, shuning uchun ularni boshqa tumanlarga ham qoʻllash mumkin; 3.6-§ dagi viloyat tahlili buning amaliy namunasidir.
+**Monitoring tizimining GAT asosidagi tuzilmasi.** Yuqoridagi tavsiyalarni amalga oshirish uchun dissertatsiyada yaratilgan geomaʼlumotlar bazasi (2.3-§) monitoring tizimining asosi sifatida taklif etiladi. Unda toʻrtta oʻzaro bogʻlangan qatlam boʻlishi kerak: kuzatuv quduqlari (pasport maʼlumotlari, oʻlchovlar qatori va har bir oʻlchovning sifat belgisi bilan), kollektor va zovurlar (kadastr koʻrsatkichlari, taʼmir va nosozliklar daftari, oʻzan holati bilan), massivlar (maydon, ekinlar tarkibi, meliorativ xavf koʻrsatkichlari bilan) va kanallar. Har yili yangi oʻlchovlar kiritilganda tekshiruv tartibi (T-1) avtomatik qoʻllanadi, barqaror panel boʻyicha tendensiya, sayoz sath ehtimoli xaritasi va massivlar boʻyicha 4.3-jadvaldagi koʻrsatkichlar qayta hisoblanadi. Dissertatsiyada qoʻllanilgan barcha hisoblar ochiq dasturiy taʼminotda (Python) bajarilgan va takrorlanadigan skriptlar shaklida saqlangan, shuning uchun ularni boshqa tumanlarga ham qoʻllash mumkin; 3.6-§ dagi viloyat tahlili buning amaliy namunasidir.
 
 ## 4.6-§. Iqtisodiy samaradorlik
 
 Tavsiyalarning iqtisodiy maʼnosi sarflanayotgan mablagʻ bilan uning natijasini oʻlchash xarajati orasidagi nisbatda koʻrinadi. Tumanda birgina 2017–2020-yillarda 53 ta kollektorni taʼmirlashga 2026-yil narxlarida 48,2 mlrd soʻm (yiliga oʻrtacha 12,0 mlrd soʻm) sarflangan. Bu mablagʻning meliorativ natijasi oʻlchanmagan (4.3-§), uning massivlar boʻyicha taqsimoti esa meliorativ ehtiyojga mos kelmagan (4.4-§).
 
-**Tavsiyalarni joriy qilish xarajatlari.** 50-ilovadagi 15 ta tavsiyaning toʻqqiztasi (T-1, T-2, T-3, T-4, T-7, T-10, T-11, T-12, T-13) qoʻshimcha mablagʻ talab qilmaydi: ular hisobot yuritish, maʼlumotlarni qayta ishlash va taʼmirni rejalashtirish tartibini oʻzgartiradi. Tekshiruv tartibi dasturiy ravishda amalga oshirilgan va bir tuman maʼlumotini bir necha daqiqada tekshiradi; 3.6-§ da u viloyatning 14 ta tumani boʻyicha 866 844 ta oʻlchovga qoʻllanildi. Mablagʻ talab qiladigan tavsiyalar: kuzatuv quduqlarini chuqurlashtirish va maqsadli joylashtirish (T-5, T-6), minerallashuvni oʻlchash (T-8), kollektorlarda sarfni oʻlchash (T-9), ichki zovurlarni inventarizatsiya qilish (T-14) va sugʻorish samaradorligini oshirish (T-15). Ularning qiymati quduq qurish va chuqurlashtirish, laboratoriya tahlili, gidrometrik oʻlchov va inventarizatsiya ishlarining smetasi asosida aniqlanadi; bu smetalar ushbu ishda tuzilmagan.
+**Tavsiyalarni joriy qilish xarajatlari.** 52-ilovadagi 15 ta tavsiyaning toʻqqiztasi (T-1, T-2, T-3, T-4, T-7, T-10, T-11, T-12, T-13) qoʻshimcha mablagʻ talab qilmaydi: ular hisobot yuritish, maʼlumotlarni qayta ishlash va taʼmirni rejalashtirish tartibini oʻzgartiradi. Tekshiruv tartibi dasturiy ravishda amalga oshirilgan va bir tuman maʼlumotini bir necha daqiqada tekshiradi; 3.6-§ da u viloyatning 14 ta tumani boʻyicha 866 844 ta oʻlchovga qoʻllanildi. Mablagʻ talab qiladigan tavsiyalar: kuzatuv quduqlarini chuqurlashtirish va maqsadli joylashtirish (T-5, T-6), minerallashuvni oʻlchash (T-8), kollektorlarda sarfni oʻlchash (T-9), ichki zovurlarni inventarizatsiya qilish (T-14) va sugʻorish samaradorligini oshirish (T-15). Ularning qiymati quduq qurish va chuqurlashtirish, laboratoriya tahlili, gidrometrik oʻlchov va inventarizatsiya ishlarining smetasi asosida aniqlanadi; bu smetalar ushbu ishda tuzilmagan.
 
 **Taʼmir xarajatlarini kamaytirish imkoniyatlari.** Mavjud maʼlumotlar ikki yoʻnalishdagi tejash imkoniyatini miqdoriy baholashga imkon beradi.
 
@@ -1436,17 +1389,17 @@ Samarani soʻmda toʻliq ifodalash uchun taʼmir turlarining haqiqiy meliorativ 
 ## IV bob boʻyicha xulosalar
 
 1. Meliorativ kadastr maʼlumotlari ishonchlilik nazariyasining klassik koʻrsatkichlarini (buzilmasdan ishlash ehtimoli, nosozliklar oqimi) hisoblashga imkon bermaydi, chunki nosozliklar va taʼmirlar tarixi qayd etilmaydi.
-2. Tumandagi 90 ta kollektorning (265,8 km) yoshi medianasi 61 yil, uzunlikning 90 foizi 50 yildan eski; barcha kollektorlar 2010–2020-yillarda taʼmirlangan, uzunlikning 71 foizi 2016–2019-yillarda. Taʼmir yili kollektor yoshi, uzunligi va sarfi bilan bogʻlanmagan (ρ = −0,06; p = 0,56): taʼmir holatga qarab emas, dasturlar boʻyicha bir vaqtda oʻtkazilgan. Xoʻjalik ichki zovurlarining 64,7 foizida taʼmir qayd etilmagan.
+2. Tumandagi 90 ta kollektorning (265,8 km) yoshi medianasi 61 yil, uzunlikning 90 foizi 50 yildan eski; barcha kollektorlar 2010–2020-yillarda taʼmirlangan, uzunlikning 71 foizi 2016–2019-yillarda. Taʼmir yili kollektor yoshi, uzunligi va sarfi bilan bogʻlanmagan (ρ = −0,06; p = 0,56). Xoʻjalik ichki zovurlarining 64,7 foizida taʼmir qayd etilmagan.
 3. Ochiq tarmoqning solishtirma uzunligi massivlar boʻyicha 6,8 m/ga dan 48,6 m/ga gacha; eng zaif tarmoq Y.Oxunboboyev, M.Toʻjiboyev va Z.M.Bobur massivlarida, eng yaxshisi Mashʼal massivida.
-4. Suv balansi boʻyicha iyuldagi talab etiladigan drenaj moduli 0,16–0,66 l/(s·ga), oʻrta stsenariyda 0,26–0,43 l/(s·ga); sugʻorish samaradorligi oshirilganda u 2,5 baravar kamayadi. Kadastrdagi sarf qiymatlari toʻgʻri deb qabul qilinganda 90 ta kollektordan 27–48 tasining (stsenariyga qarab) solishtirma sarfi talabdan past. Sizot suvining mavsumiy koʻtarilishi boʻyicha drenaj quvvatidagi taqchillik talabning 5–45 foizi.
-5. Kollektor taʼmiridan keyin sizot sathining nazorat quduqlariga nisbatan chuqurlashgani aniqlanmadi: asosiy baho −0,12 m (95 foizlik ishonch oraligʻi −0,33 … +0,09 m); bosqichli dizaynga chidamli baholar va boshqa tekshiruvlar ham chuqurlashishni koʻrsatmadi, lekin 0,2 m atrofidagi taʼsirni istisno qilib boʻlmaydi. Bu taʼmir samarasizligini emas, mavjud maʼlumot bilan uni oʻlchab boʻlmasligini koʻrsatadi; 0,20 m lik taʼsirni aniqlash uchun taʼsir guruhida taxminan 95 ta quduq kerak (hozir 36 ta).
+4. Suv balansi boʻyicha iyuldagi talab etiladigan drenaj moduli 0,16–0,66 l/(s·ga), oʻrta stsenariyda 0,26–0,43 l/(s·ga); sugʻorish samaradorligi oshirilganda u 2,5 baravar kamayadi. Kadastrdagi sarf qiymatlari toʻgʻri deb qabul qilinganda 90 ta kollektordan 27–48 tasining (stsenariyga qarab) solishtirma sarfi talabdan past.
+5. Kollektor taʼmiridan keyin sath nazorat quduqlariga nisbatan chuqurlashmagan (−0,12 m; 95 foizlik ishonch oraligʻi −0,33 … +0,09 m; bosqichli dizaynga chidamli baholar ham shunday), lekin 0,2 m atrofidagi taʼsir istisno qilinmaydi: uni aniqlash uchun taʼsir guruhida taxminan 95 ta quduq kerak (hozir 36 ta). Bu taʼmir samarasizligini emas, mavjud monitoring bilan uni oʻlchab boʻlmasligini koʻrsatadi.
 6. Taʼmirning 2026-yil narxlaridagi haqiqiy narxi medianasi 348 mln soʻm/km; yengil tozalash va kapital taʼmir orasida taxminan oʻn baravar farq bor. 2017–2020-yillarda sarflangan 48,2 mlrd soʻmning massivlar boʻyicha taqsimoti meliorativ xavf bilan bogʻlanmagan: xavf eng yuqori Z.M.Bobur massiviga tuman oʻrtachasidan kam mablagʻ ajratilgan. Stsenariy boʻyicha tejash imkoniyati 22–44 foiz.
 7. Monitoring tizimini takomillashtirish boʻyicha 15 ta tavsiya ishlab chiqildi (toʻqqiztasi mablagʻ talab qilmaydi).
 
 
 
 ```{=openxml}
-<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+<w:p><w:pPr><w:spacing w:before="0" w:after="0" w:line="20" w:lineRule="exact"/><w:rPr><w:sz w:val="2"/></w:rPr></w:pPr><w:r><w:rPr><w:sz w:val="2"/></w:rPr><w:br w:type="page"/></w:r></w:p>
 ```
 
 
@@ -1469,7 +1422,7 @@ Samarani soʻmda toʻliq ifodalash uchun taʼmir turlarining haqiqiy meliorativ 
 13. Massivlar meliorativ xavf, drenaj tarmogʻi holati va xarajatlar boʻyicha uchta ustuvorlik guruhiga ajratildi: birinchi navbatda Z.M.Bobur va Istiqlol massivlarida drenaj tarmogʻining texnik holatini tekshirish va taʼmir qilish, Mashʼal massivida esa sugʻorish samaradorligini oshirish va minerallashuv monitoringini tiklash tavsiya etiladi.
 14. Monitoring tizimini takomillashtirish boʻyicha 15 ta tavsiya ishlab chiqildi: maʼlumotlarni majburiy tekshirish, quruq quduqlarni maxsus belgilash, sath chuqur hududlarda kuzatuv quduqlarini chuqurlashtirish, yangi quduqlarni maqsadli joylashtirish, sayoz sath ehtimoli xaritalaridan foydalanish, kollektorlarda sarfni oʻlchash, taʼmir va nosozliklar daftarini yuritish, taʼmir navbatini holat va xavf boʻyicha aniqlash va boshqalar. Tavsiyalarning toʻqqiztasi qoʻshimcha mablagʻ talab qilmaydi. Ularni amalga oshirish uchun dissertatsiyada yaratilgan geomaʼlumotlar bazasi va takrorlanadigan hisob dasturlari asos boʻladi.
 
-**Tadqiqotni davom ettirish yoʻnalishlari.** Dissertatsiyadagi bir nechta kuzatish uchun raqib izohlarni mavjud maʼlumotlar bilan toʻliq ajratib boʻlmaydi. Ular, ajratuvchi bashoratlar va zarur maʼlumotlar 52-ilovada keltirilgan. Shunga koʻra keyingi tadqiqotlar quyidagi yoʻnalishlarda olib borilishi kerak:
+**Tadqiqotni davom ettirish yoʻnalishlari.** Dissertatsiyadagi bir nechta kuzatish uchun raqib izohlarni mavjud maʼlumotlar bilan toʻliq ajratib boʻlmaydi. Ular, ajratuvchi bashoratlar va zarur maʼlumotlar 54-ilovada keltirilgan. Shunga koʻra keyingi tadqiqotlar quyidagi yoʻnalishlarda olib borilishi kerak:
 
 - sathning 2016–2018-yillardagi pogʻonali chuqurlashishini sugʻorish suvi hajmi, iqlim anomaliyalari va oʻlchash tartibi oʻzgarishidan qaysi biri belgilaganini yillik suv olish va meteorologik qatorlar bilan aniqlash;
 - taʼmirni bosqichma-bosqich oʻtkazish va juft quduqlar orqali uning mahalliy va hududiy taʼsirini oʻlchash;
@@ -1481,7 +1434,7 @@ Samarani soʻmda toʻliq ifodalash uchun taʼmir turlarining haqiqiy meliorativ 
 
 
 ```{=openxml}
-<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+<w:p><w:pPr><w:spacing w:before="0" w:after="0" w:line="20" w:lineRule="exact"/><w:rPr><w:sz w:val="2"/></w:rPr></w:pPr><w:r><w:rPr><w:sz w:val="2"/></w:rPr><w:br w:type="page"/></w:r></w:p>
 ```
 
 
@@ -1775,7 +1728,7 @@ Samarani soʻmda toʻliq ifodalash uchun taʼmir turlarining haqiqiy meliorativ 
 
 
 ```{=openxml}
-<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+<w:p><w:pPr><w:spacing w:before="0" w:after="0" w:line="20" w:lineRule="exact"/><w:rPr><w:sz w:val="2"/></w:rPr></w:pPr><w:r><w:rPr><w:sz w:val="2"/></w:rPr><w:br w:type="page"/></w:r></w:p>
 ```
 
 
@@ -1830,6 +1783,27 @@ Samarani soʻmda toʻliq ifodalash uchun taʼmir turlarining haqiqiy meliorativ 
 
 
 ::: {custom-style="Sarlavha-jadval"}
+**Tadqiqot obyektining massivlar boʻyicha tavsifi**
+:::
+
+| Massiv | Kuzatuv quduqlari (pasport) | Quduqlarga biriktirilgan maydon, ga | Median balandlik, m | Ichki zovurlar, km | Bonitet balli |
+| --- | --- | --- | --- | --- | --- |
+| Z.M.Bobur | 27 | 2 376 | 565 | 35,2 | 67,9 |
+| Paxtakor | 19 | 1 588 | 587 | 41,9 | 64,1 |
+| Mashʼal | 29 | 3 134 | 596 | 92,0 | 59,7 |
+| U.Qoraboyev | 26 | 1 944 | 601 | 21,9 | 60,8 |
+| M.Toʻjiboyev | 33 | 2 027 | 603 | —\* | 58,8 |
+| T.Mirzayev | 20 | 1 982 | 610 | 30,4 | 63,3 |
+| Istiqlol | 27 | 2 400 | 614 | 70,2 | 62,9 |
+| Y.Oxunboboyev | 7 | 534 | 641 | 20,1 | 41,3 |
+| Jami | 188 | 15 985 | 597 |  | 59,7 |
+
+Izoh: \* — kadastrda M.Toʻjiboyev massivi boʻyicha ichki zovurlar alohida koʻrsatilmagan.
+
+## 4-ilova
+
+
+::: {custom-style="Sarlavha-jadval"}
 **Andijon meteostansiyasining iqlim koʻrsatkichlari (1961–1990) va hisoblangan etalon bugʻlanuvchanlik**
 :::
 
@@ -1849,7 +1823,7 @@ Samarani soʻmda toʻliq ifodalash uchun taʼmir turlarining haqiqiy meliorativ 
 | Dekabr | 4 | −4 | 0,0 | 28 | 19 | −9 |
 | Yil | — | — | 12,6 | 323 | 1 185 | 862 |
 
-## 4-ilova
+## 5-ilova
 
 
 ::: {custom-style="Sarlavha-jadval"}
@@ -1858,7 +1832,7 @@ Samarani soʻmda toʻliq ifodalash uchun taʼmir turlarining haqiqiy meliorativ 
 
 ![](figures/ch2_climate.png){width=15.5cm}
 
-## 5-ilova
+## 6-ilova
 
 
 ::: {custom-style="Sarlavha-jadval"}
@@ -1874,7 +1848,7 @@ Samarani soʻmda toʻliq ifodalash uchun taʼmir turlarining haqiqiy meliorativ 
 | 3,0–5,0 m | 22,5 |
 | 5,0 m dan chuqur | 5,5 |
 
-## 6-ilova
+## 7-ilova
 
 
 ::: {custom-style="Sarlavha-jadval"}
@@ -1890,7 +1864,7 @@ Samarani soʻmda toʻliq ifodalash uchun taʼmir turlarining haqiqiy meliorativ 
 | 10,0 dan ortiq | 1 |  | 1,0 dan ortiq | 5 |
 | Jami | 90 |  | Jami | 90 |
 
-## 7-ilova
+## 8-ilova
 
 
 ::: {custom-style="Sarlavha-jadval"}
@@ -1910,7 +1884,7 @@ Samarani soʻmda toʻliq ifodalash uchun taʼmir turlarining haqiqiy meliorativ 
 | OD-2 | 6,70 | 0,30 | 151 | 1957 | 2016 |
 | Shoʻr | 6,70 | 0,20 | 619 | 1951 | 2019 |
 
-## 8-ilova
+## 9-ilova
 
 
 ::: {custom-style="Sarlavha-jadval"}
@@ -1929,7 +1903,7 @@ Samarani soʻmda toʻliq ifodalash uchun taʼmir turlarining haqiqiy meliorativ 
 | Boshqalar | — | 13 | 13 |
 | Jami | 290 | 165 | 455 |
 
-## 9-ilova
+## 10-ilova
 
 
 ::: {custom-style="Sarlavha-jadval"}
@@ -1943,7 +1917,7 @@ Samarani soʻmda toʻliq ifodalash uchun taʼmir turlarining haqiqiy meliorativ 
 | 2013–2016 | 120 | Polietilen | 3,2 |
 | Jami | 188 |  | 3,2 |
 
-## 10-ilova
+## 11-ilova
 
 
 ::: {custom-style="Sarlavha-jadval"}
@@ -1957,7 +1931,7 @@ Samarani soʻmda toʻliq ifodalash uchun taʼmir turlarining haqiqiy meliorativ 
 | Meliorativ kadastr, 2021 | Jadvallar | Yoʻq | Kollektorlar, zovurlar, quduqlar pasporti |
 | Monitoring jadvallari, 2009–2024 | Jadvallar | Yoʻq | Oʻn kunlik sath va yillik minerallashuv |
 
-## 11-ilova
+## 12-ilova
 
 
 ::: {custom-style="Sarlavha-jadval"}
@@ -1973,7 +1947,7 @@ Samarani soʻmda toʻliq ifodalash uchun taʼmir turlarining haqiqiy meliorativ 
 | 5. Atributlarni biriktirish | Kollektor nomlari yozuvlari chiziq boʻlaklariga biriktirildi va kadastr yozuvlari bilan bogʻlandi | 60 ta kollektor, 114,8 km |
 | 6. Massiv chegaralarini tiklash | Chegara chizigʻi boʻlaklari va quduqlarning massivga mansubligi asosida poligonlar qurildi | 8 ta massiv poligoni |
 
-## 12-ilova
+## 13-ilova
 
 
 ::: {custom-style="Sarlavha-jadval"}
@@ -1990,7 +1964,7 @@ Samarani soʻmda toʻliq ifodalash uchun taʼmir turlarining haqiqiy meliorativ 
 | Aniqlangan piksel oʻlchami | 4,232 m |
 | 1:50 000 masshtab va 300 nuqta/dyuym uchun nazariy piksel oʻlchami | 4,233 m |
 
-## 13-ilova
+## 14-ilova
 
 
 ::: {custom-style="Sarlavha-jadval"}
@@ -1999,7 +1973,7 @@ Samarani soʻmda toʻliq ifodalash uchun taʼmir turlarining haqiqiy meliorativ 
 
 ![](figures/ch2_georef_residuals.png){width=15.5cm}
 
-## 14-ilova
+## 15-ilova
 
 
 ::: {custom-style="Sarlavha-jadval"}
@@ -2018,7 +1992,7 @@ Samarani soʻmda toʻliq ifodalash uchun taʼmir turlarining haqiqiy meliorativ 
 | Y.Oxunboboyev | 5 677 | 1 191 | 0,0 | 0,0 |
 | Jami | 32 872 | 20 662 | 214,6 | 10,4 |
 
-## 15-ilova
+## 16-ilova
 
 
 ::: {custom-style="Sarlavha-jadval"}
@@ -2034,7 +2008,7 @@ Samarani soʻmda toʻliq ifodalash uchun taʼmir turlarining haqiqiy meliorativ 
 | Taʼmir taʼsiri | Quduq va yil qatʼiy effektli panel modeli | 4.3 |
 | Zarur kuzatuvlar soni | Statistik quvvat hisobi | 4.5 |
 
-## 16-ilova
+## 17-ilova
 
 
 ::: {custom-style="Sarlavha-jadval"}
@@ -2058,7 +2032,7 @@ Samarani soʻmda toʻliq ifodalash uchun taʼmir turlarining haqiqiy meliorativ 
 | 2024 | 196 | 7 092 | 792 | 88,8 | 657 | 3,9 |
 | Jami | 196 | 75 200 | 9 107 | 87,9 | 5 326 | — |
 
-## 17-ilova
+## 18-ilova
 
 
 ::: {custom-style="Sarlavha-jadval"}
@@ -2074,7 +2048,7 @@ Samarani soʻmda toʻliq ifodalash uchun taʼmir turlarining haqiqiy meliorativ 
 | 5,4 | 10 |
 | 2,5 | 9 |
 
-## 18-ilova
+## 19-ilova
 
 
 ::: {custom-style="Sarlavha-jadval"}
@@ -2102,7 +2076,7 @@ Samarani soʻmda toʻliq ifodalash uchun taʼmir turlarining haqiqiy meliorativ 
 | Shoʻrlanish xavfi | 113 | minerallashuv va yozgi sath bor | 3.5-§, 4.5-§ |
 | Taʼmir taʼsiri (taʼsir / nazorat) | 36 / 49 | kollektordan 300 m gacha / 600 m dan uzoq | 4.3-§ |
 
-## 19-ilova
+## 20-ilova
 
 
 ::: {custom-style="Sarlavha-jadval"}
@@ -2120,7 +2094,7 @@ Samarani soʻmda toʻliq ifodalash uchun taʼmir turlarining haqiqiy meliorativ 
 | T.Mirzayev | 18 | 7 414 | 60,0 | 20,8 | 3,16 |
 | Y.Oxunboboyev | 7 | 2 844 | 50,3 | 29,2 | 3,36 |
 
-## 20-ilova
+## 21-ilova
 
 
 ::: {custom-style="Sarlavha-jadval"}
@@ -2132,7 +2106,7 @@ Samarani soʻmda toʻliq ifodalash uchun taʼmir turlarining haqiqiy meliorativ 
 | Yillik oʻrtacha | 1,60 | 1,53 | 1,69 | 1,60 | 1,62 | 1,73 | 1,85 | 1,82 | 1,95 | 2,03 | 1,88 | 1,93 | 1,99 |
 | Iyul–avgust | 1,44 | 1,32 | 1,47 | 1,37 | 1,38 | 1,55 | 1,69 | 1,60 | 1,67 | 1,92 | 1,69 | 1,71 | 1,80 |
 
-## 21-ilova
+## 22-ilova
 
 
 ::: {custom-style="Sarlavha-jadval"}
@@ -2151,7 +2125,7 @@ Samarani soʻmda toʻliq ifodalash uchun taʼmir turlarining haqiqiy meliorativ 
 | Z.M.Bobur | 23 | −0,019 | 22 | 1 |
 | Jami | 122 | +0,023 | 70 | 54 |
 
-## 22-ilova
+## 23-ilova
 
 
 ::: {custom-style="Sarlavha-jadval"}
@@ -2168,7 +2142,7 @@ Samarani soʻmda toʻliq ifodalash uchun taʼmir turlarining haqiqiy meliorativ 
 | U.Qoraboyev | 1,45 | iyul, 3-dekada | 2,29 | fevral, 2-dekada | 0,85 |
 | Z.M.Bobur | 1,46 | may, 2-dekada | 1,97 | yanvar, 3-dekada | 0,51 |
 
-## 23-ilova
+## 24-ilova
 
 
 ::: {custom-style="Sarlavha-jadval"}
@@ -2177,7 +2151,7 @@ Samarani soʻmda toʻliq ifodalash uchun taʼmir turlarining haqiqiy meliorativ 
 
 ![](figures/ch3_season_massif.png){width=15.5cm}
 
-## 24-ilova
+## 25-ilova
 
 
 ::: {custom-style="Sarlavha-jadval"}
@@ -2189,7 +2163,7 @@ Samarani soʻmda toʻliq ifodalash uchun taʼmir turlarining haqiqiy meliorativ 
 | Oʻrtacha yillik sath, 2019–2024 | 168 | 2,39 | 2,25 | 0,99 | +1,31 | +0,36 | 28 | 40 |
 | Iyul–avgust sathi, 2019–2024 | 167 | 2,14 | 1,93 | 0,92 | +1,59 | +0,46 | 39 | 55 |
 
-## 25-ilova
+## 26-ilova
 
 
 ::: {custom-style="Sarlavha-jadval"}
@@ -2198,7 +2172,7 @@ Samarani soʻmda toʻliq ifodalash uchun taʼmir turlarining haqiqiy meliorativ 
 
 ![](figures/ch3_variogram.png){width=15.5cm}
 
-## 26-ilova
+## 27-ilova
 
 
 ::: {custom-style="Sarlavha-jadval"}
@@ -2212,7 +2186,7 @@ Samarani soʻmda toʻliq ifodalash uchun taʼmir turlarining haqiqiy meliorativ 
 | Gauss | 0,601 | 0,62 | 7,5 | −0,001 | 0,860 | 1,04 |
 | Eksponensial (avtomatik moslashtirish) | 0,267 | 0,28 | > 19 | +0,005 | 0,813 | 1,19 |
 
-## 27-ilova
+## 28-ilova
 
 
 ::: {custom-style="Sarlavha-jadval"}
@@ -2227,7 +2201,7 @@ Samarani soʻmda toʻliq ifodalash uchun taʼmir turlarining haqiqiy meliorativ 
 | Universal kriging (chiziqli trend) | 0,828 | 0,96 | 0,782 | 0,97 |
 | Regressiya-kriging (tarmoq koʻrsatkichlari) | 0,817 | 0,95 | 0,780 | 0,97 |
 
-## 28-ilova
+## 29-ilova
 
 
 ::: {custom-style="Sarlavha-jadval"}
@@ -2259,7 +2233,7 @@ Samarani soʻmda toʻliq ifodalash uchun taʼmir turlarining haqiqiy meliorativ 
 | Boshqa massivlar (oraliq) | 0–28 | 0–95 | 29–100 | 0–25 | 0–13 |
 | Shoʻrlanish xavfli quduqlar | 29 | 56 | 73 | — | — |
 
-## 29-ilova
+## 30-ilova
 
 
 ::: {custom-style="Sarlavha-jadval"}
@@ -2268,7 +2242,7 @@ Samarani soʻmda toʻliq ifodalash uchun taʼmir turlarining haqiqiy meliorativ 
 
 ![](figures/ch3_density.png){width=15.5cm}
 
-## 30-ilova
+## 31-ilova
 
 
 ::: {custom-style="Sarlavha-jadval"}
@@ -2277,7 +2251,7 @@ Samarani soʻmda toʻliq ifodalash uchun taʼmir turlarining haqiqiy meliorativ 
 
 ![](figures/ch3_network.png){width=15.5cm}
 
-## 31-ilova
+## 32-ilova
 
 
 ::: {custom-style="Sarlavha-jadval"}
@@ -2294,7 +2268,7 @@ Samarani soʻmda toʻliq ifodalash uchun taʼmir turlarining haqiqiy meliorativ 
 
 Izoh: standart xatolar HC3 usulida. Qoldiqlar oʻngga qiyshiq (asimmetriya 1,1–1,3; Shapiro–Wilk p < 0,001), 2-modelda geteroskedastiklik bor (Breusch–Pagan p = 0,009); VIF ≤ 1,12. Sath logarifmi boʻyicha modelda qoldiqlar normal taqsimotdan farq qilmaydi (p = 0,22) va kollektorgacha masofa koeffitsiyenti ahamiyatli qoladi (+0,29; 95 % ishonch oraligʻi 0,19–0,40). Kuk masofasi 4/n dan katta 6–10 ta quduq chiqarilganda koeffitsiyentlar 10–18 foizga kamayadi va ahamiyatli qoladi.
 
-## 32-ilova
+## 33-ilova
 
 
 ::: {custom-style="Sarlavha-jadval"}
@@ -2322,7 +2296,7 @@ Izoh: standart xatolar HC3 usulida. Qoldiqlar oʻngga qiyshiq (asimmetriya 1,1�
 
 Massivlar ichidagi korrelyatsiyalar (yettita test) uchun Benjamini–Hochberg tuzatishidan keyin (q < 0,05) U.Qoraboyev (q = 0,021) va M.Toʻjiboyev (q = 0,025) massivlaridagi bogʻlanish ahamiyatli qoladi; Istiqlol va Z.M.Bobur massivlarida q = 0,083.
 
-## 33-ilova
+## 34-ilova
 
 
 ::: {custom-style="Sarlavha-jadval"}
@@ -2338,7 +2312,7 @@ Massivlar ichidagi korrelyatsiyalar (yettita test) uchun Benjamini–Hochberg tu
 | Drenaj moduli oʻrta (0,71–1,43 l/(s·ga)) | 28 | — | 2,42 | 2,26 |
 | Drenaj moduli yuqori (1,48–10,2 l/(s·ga)) | 29 | — | 2,26 | 2,10 |
 
-## 34-ilova
+## 35-ilova
 
 
 ::: {custom-style="Sarlavha-jadval"}
@@ -2355,7 +2329,7 @@ Massivlar ichidagi korrelyatsiyalar (yettita test) uchun Benjamini–Hochberg tu
 | 2023 | Barcha 188 ta quduqda bitta qiymat: 0,20 g/l | Yaroqsiz |
 | 2024 | Qiymatlar kam xilma-xil, mediana 0,20 g/l | Shubhali |
 
-## 35-ilova
+## 36-ilova
 
 
 ::: {custom-style="Sarlavha-jadval"}
@@ -2373,7 +2347,7 @@ Massivlar ichidagi korrelyatsiyalar (yettita test) uchun Benjamini–Hochberg tu
 | 2010 | 26,3 | 64,0 | 9,8 | 0,0 | 1,35 |
 | 2004–2010 | 30,7 | 60,4 | 8,8 | 0,2 | — |
 
-## 36-ilova
+## 37-ilova
 
 
 ::: {custom-style="Sarlavha-jadval"}
@@ -2393,7 +2367,7 @@ Massivlar ichidagi korrelyatsiyalar (yettita test) uchun Benjamini–Hochberg tu
 
 Izoh: minerallashuv — 2004–2010-yillar, yozgi sath — 2019–2024-yillar (iyul–avgust) boʻyicha.
 
-## 37-ilova
+## 38-ilova
 
 
 ::: {custom-style="Sarlavha-jadval"}
@@ -2408,7 +2382,7 @@ Izoh: minerallashuv — 2004–2010-yillar, yozgi sath — 2019–2024-yillar (i
 | 3,0 va chuqur | 1 | 8 | 0 | 9 |
 | Jami | 27 | 82 | 4 | 113 |
 
-## 38-ilova
+## 39-ilova
 
 
 ::: {custom-style="Sarlavha-jadval"}
@@ -2435,7 +2409,7 @@ Izoh: minerallashuv — 2004–2010-yillar, yozgi sath — 2019–2024-yillar (i
 
 Izoh: Boʻston va Paxtaobod tumanlari boʻyicha 14 yillik, Buloqboshi tumani boʻyicha 13 yillik jadvallar mavjud.
 
-## 39-ilova
+## 40-ilova
 
 
 ::: {custom-style="Sarlavha-jadval"}
@@ -2459,7 +2433,7 @@ Izoh: Boʻston va Paxtaobod tumanlari boʻyicha 14 yillik, Buloqboshi tumani bo�
 | Paxtaobod | 32 | +10,6 | < 0,001 | 2,65 | 4,2 | 17,9 | 0,44 |
 | Asaka | 31 | +6,4 | < 0,001 | 2,75 | 0,0 | 14,9 | 0,33 |
 
-## 40-ilova
+## 41-ilova
 
 
 ::: {custom-style="Sarlavha-jadval"}
@@ -2474,7 +2448,7 @@ Izoh: Boʻston va Paxtaobod tumanlari boʻyicha 14 yillik, Buloqboshi tumani bo�
 | Saqlanuvchanlik | — | — | Ochiq kollektorlar uchun qoʻllanilmaydi |
 | Vazifaviy samaradorlik | Sizot suvi sathining meʼyoriy chuqurlikda ushlanishi | Sath monitoringi | Mavjud (III bob) |
 
-## 41-ilova
+## 42-ilova
 
 
 ::: {custom-style="Sarlavha-jadval"}
@@ -2490,7 +2464,7 @@ Izoh: Boʻston va Paxtaobod tumanlari boʻyicha 14 yillik, Buloqboshi tumani bo�
 | 1970-yillar | 15 | 22,5 |
 | 1980-yillar | 3 | 6,0 |
 
-## 42-ilova
+## 43-ilova
 
 
 ::: {custom-style="Sarlavha-jadval"}
@@ -2499,7 +2473,7 @@ Izoh: Boʻston va Paxtaobod tumanlari boʻyicha 14 yillik, Buloqboshi tumani bo�
 
 ![](figures/ch4_reliability_costs.png){width=15.5cm}
 
-## 43-ilova
+## 44-ilova
 
 
 ::: {custom-style="Sarlavha-jadval"}
@@ -2518,7 +2492,7 @@ Izoh: Boʻston va Paxtaobod tumanlari boʻyicha 14 yillik, Buloqboshi tumani bo�
 | Y.Oxunboboyev massivi | 12 | 20,1 | 100 % |
 | Xoʻjaliklararo boʻrdoqichilik bazasi | 7 | 6,1 | 100 % |
 
-## 44-ilova
+## 45-ilova
 
 
 ::: {custom-style="Sarlavha-jadval"}
@@ -2538,7 +2512,7 @@ Izoh: Boʻston va Paxtaobod tumanlari boʻyicha 14 yillik, Buloqboshi tumani bo�
 
 Izoh: \* — kadastrda nomi aniqlangan kollektor boʻlaklari boʻyicha uzunlik bilan vaznlangan oʻrtacha (massivdagi kollektorlar uzunligining 35–90 foizi). Markaziy zovur tizimi (52,8 km) va boʻrdoqichilik bazasi zovurlari (6,1 km) kadastrda massivlarga bogʻlanmagan.
 
-## 45-ilova
+## 46-ilova
 
 
 ::: {custom-style="Sarlavha-jadval"}
@@ -2547,7 +2521,7 @@ Izoh: \* — kadastrda nomi aniqlangan kollektor boʻlaklari boʻyicha uzunlik b
 
 ![](figures/ch4_massif_reliability.png){width=15.5cm}
 
-## 46-ilova
+## 47-ilova
 
 
 ::: {custom-style="Sarlavha-jadval"}
@@ -2566,7 +2540,7 @@ Izoh: \* — kadastrda nomi aniqlangan kollektor boʻlaklari boʻyicha uzunlik b
 | Oktabr | 70 | 0,54 | 38 | 32 | 30 | 7 |
 | Yil boʻyicha | 1 185 | — | 719 | 323 | 306 | 524 |
 
-## 47-ilova
+## 48-ilova
 
 
 ::: {custom-style="Sarlavha-jadval"}
@@ -2575,7 +2549,7 @@ Izoh: \* — kadastrda nomi aniqlangan kollektor boʻlaklari boʻyicha uzunlik b
 
 ![](figures/ch4_hydraulic.png){width=15.5cm}
 
-## 48-ilova
+## 49-ilova
 
 
 ::: {custom-style="Sarlavha-jadval"}
@@ -2589,7 +2563,7 @@ Izoh: \* — kadastrda nomi aniqlangan kollektor boʻlaklari boʻyicha uzunlik b
 | Oʻsimlik va loyqa | 0,035 | 0,3 | 1,28 | 1,81 | 58 |
 | Kuchli oʻsimlik va loyqa | 0,040 | 0,5 | 0,87 | 1,23 | 39 |
 
-## 49-ilova
+## 50-ilova
 
 
 ::: {custom-style="Sarlavha-jadval"}
@@ -2606,7 +2580,28 @@ Izoh: \* — kadastrda nomi aniqlangan kollektor boʻlaklari boʻyicha uzunlik b
 
 Izoh: qayta hisoblash isteʼmol narxlari indeksi boʻyicha (4.4-§); taʼmir yili xarajati shu yilning oʻrtacha narxlarida deb olingan.
 
-## 50-ilova
+## 51-ilova
+
+
+::: {custom-style="Sarlavha-jadval"}
+**Kollektorlar taʼmir xarajatlarining massivlar boʻyicha taqsimoti (2017–2020-yillar) va meliorativ xavf koʻrsatkichlari**
+:::
+
+| Massiv | Sugʻoriladigan maydon, ga | Taʼmirlangan kollektorlar\* | Xarajat, mln soʻm (2026-yil narxlarida) | Xarajat, ming soʻm/ga (2026-yil narxlarida) | Yozgi sayoz sath ehtimoli 0,3 dan katta maydon, % (3.3-§) | Shoʻrlanish xavfli quduqlar (3.5-§) |
+| --- | --- | --- | --- | --- | --- | --- |
+| Istiqlol | 2 146 | 6 | 7 828 | 3 648 | 55 | 12 |
+| U.Qoraboyev | 2 420 | 9 | 6 570 | 2 715 | 19 | 1 |
+| Mashʼal | 3 790 | 13 | 9 187 | 2 424 | 71 | 17 |
+| Z.M.Bobur | 3 610 | 6 | 6 472 | 1 793 | 58 | 17 |
+| T.Mirzayev | 3 371 | 5 | 5 525 | 1 639 | 28 | 1 |
+| Paxtakor | 1 601 | 5 | 2 338 | 1 461 | 21 | 4 |
+| M.Toʻjiboyev | 2 532 | 3 | 662 | 261 | 17 | 4 |
+| Y.Oxunboboyev | 1 191 | 0 | 0 | 0 | 0 | — |
+| Jami | 20 661 | 36 | 38 582 | 1 867 | — | 56 |
+
+Izoh: \* — bir kollektor bir necha massivdan oʻtishi mumkin, shuning uchun massivlar boʻyicha sonlar yigʻindisi jami sondan katta.
+
+## 52-ilova
 
 
 ::: {custom-style="Sarlavha-jadval"}
@@ -2634,7 +2629,7 @@ Izoh: qayta hisoblash isteʼmol narxlari indeksi boʻyicha (4.4-§); taʼmir yil
 | T-14 | Xoʻjalik ichki zovurlarini inventarizatsiya qilish va taʼmir rejasiga kiritish | 64,7 foizida taʼmir qayd etilmagan (4.1-§) |
 | T-15 | Drenaj yuklamasini kamaytirish uchun sugʻorish samaradorligini oshirish tadbirlarini ustuvor massivlarda qoʻllash | Samaradorlik oshirilganda talab etiladigan drenaj moduli 2,5 baravar kamayadi (4.2-§) |
 
-## 51-ilova
+## 53-ilova
 
 
 ::: {custom-style="Sarlavha-jadval"}
@@ -2654,7 +2649,7 @@ Izoh: qayta hisoblash isteʼmol narxlari indeksi boʻyicha (4.4-§); taʼmir yil
 
 Izoh: jadvalda quvvat (taʼsirni aniqlash ehtimoli) berilgan; Monte Karlo xatosi ±0,03 dan oshmaydi. Δ = 0 da (36 / 49) birinchi tur xato 0,050 (95 % oraliq 0,041–0,060). Simulyatsiya haqiqiy quduq qatorlarini qayta tanlashga asoslangan, shuning uchun taʼsir mahalliy va quduqlar mustaqil degan faraz saqlanadi.
 
-## 52-ilova
+## 54-ilova
 
 
 ::: {custom-style="Sarlavha-jadval"}

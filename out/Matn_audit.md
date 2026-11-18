@@ -50,7 +50,7 @@
 | 11 | 4.3-§, 4.5-§ | 08, 25, 48, 52 | ch4_repair_ext.json, did_staggered.json, did_power_sim.json |
 | 12 | 4.4-§, 4.6-§ | 26, 36, 37 | ch4_cost_ext.json, cost_2026.json |
 | 13 | 4.5-§ | 38 | (qoidasi 4.5-§ matnida) |
-| 14 | 4.5-§, 46-ilova | — | — |
+| 14 | 4.5-§, 52-ilova | — | — |
 
 ## 5. Muallif tasdiqlashi kerak bo'lgan joylar
 

@@ -14,7 +14,7 @@ Bu hujjat dissertatsiyaning asosiy kuzatishlarini va ularning raqib izohlarini a
 
 ## 2. Raqib izohlar va ajratuvchi bashoratlar
 
-To'liq jadval dissertatsiyaning 52-ilovasida. Bu yerda faqat bajarilgan tekshiruvlar keltirilgan.
+To'liq jadval dissertatsiyaning 54-ilovasida. Bu yerda faqat bajarilgan tekshiruvlar keltirilgan.
 
 **K4 — o'zgarmas qatorlar.**
 - **Izoh A:** quruq quduqda shartli qiymat yoziladi.
@@ -55,6 +55,6 @@ Tekshiruvlar oldindan ro'yxatdan o'tkazilishi va ma'lumot ko'rilgunga qadar qayd
 ## 4. Dissertatsiyadagi o'zgarishlar
 
 - **3.1-§:** o'zgarmas qatorlar bo'yicha raqib izohlar tekshiruvi qo'shildi.
-- **52-ilova** (yangi): kuzatishlar, raqib izohlar, ajratuvchi bashoratlar va ularning holati jadvali.
+- **54-ilova** (yangi): kuzatishlar, raqib izohlar, ajratuvchi bashoratlar va ularning holati jadvali.
 - **Umumiy xulosalardagi «Tadqiqotni davom ettirish yo'nalishlari»** farazlar asosida qayta yozildi.
 - **Kirish:** ilovalar soni 52 ga yangilandi.

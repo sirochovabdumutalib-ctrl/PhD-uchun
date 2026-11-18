@@ -41,7 +41,25 @@
 
 ## 3-ilova
 
-*3-ilova. Andijon meteostansiyasining iqlim ko’rsatkichlari (1961–1990) va hisoblangan etalon bug’lanuvchanlik*
+*3-ilova. Tadqiqot obyektining massivlar bo’yicha tavsifi*
+
+| Massiv | Kuzatuv quduqlari (pasport) | Quduqlarga biriktirilgan maydon, ga | Median balandlik, m | Ichki zovurlar, km | Bonitet balli |
+| --- | --- | --- | --- | --- | --- |
+| Z.M.Bobur | 27 | 2 376 | 565 | 35,2 | 67,9 |
+| Paxtakor | 19 | 1 588 | 587 | 41,9 | 64,1 |
+| Mash’al | 29 | 3 134 | 596 | 92,0 | 59,7 |
+| U.Qoraboyev | 26 | 1 944 | 601 | 21,9 | 60,8 |
+| M.To’jiboyev | 33 | 2 027 | 603 | —\* | 58,8 |
+| T.Mirzayev | 20 | 1 982 | 610 | 30,4 | 63,3 |
+| Istiqlol | 27 | 2 400 | 614 | 70,2 | 62,9 |
+| Y.Oxunboboyev | 7 | 534 | 641 | 20,1 | 41,3 |
+| Jami | 188 | 15 985 | 597 |  | 59,7 |
+
+Izoh: \* — kadastrda M.To’jiboyev massivi bo’yicha ichki zovurlar alohida ko’rsatilmagan.
+
+## 4-ilova
+
+*4-ilova. Andijon meteostansiyasining iqlim ko’rsatkichlari (1961–1990) va hisoblangan etalon bug’lanuvchanlik*
 
 | Oy | O’rtacha maksimal harorat, °C | O’rtacha minimal harorat, °C | O’rtacha harorat, °C | Yog’in, mm | ET₀, mm | Namlik tanqisligi (ET₀ − yog’in), mm |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -59,15 +77,15 @@
 | Dekabr | 4 | −4 | 0,0 | 28 | 19 | −9 |
 | Yil | — | — | 12,6 | 323 | 1 185 | 862 |
 
-## 4-ilova
+## 5-ilova
 
-*4-ilova. Andijon meteostansiyasi bo’yicha iqlimning yillik yo’li (1961–1990): a — oylik yog’in va hisoblangan etalon bug’lanuvchanlik; b — o’rtacha oylik harorat*
+*5-ilova. Andijon meteostansiyasi bo’yicha iqlimning yillik yo’li (1961–1990): a — oylik yog’in va hisoblangan etalon bug’lanuvchanlik; b — o’rtacha oylik harorat*
 
 &#91;image: Andijon meteostansiyasi bo’yicha yog’in, bug’lanuvchanlik va haroratning yillik yo’li\]
 
-## 5-ilova
+## 6-ilova
 
-*5-ilova. Sizot suvlari sathining kuzatuv quduqlari bo’yicha taqsimoti (2024-yil 1-aprel, 182 ta quduq)*
+*6-ilova. Sizot suvlari sathining kuzatuv quduqlari bo’yicha taqsimoti (2024-yil 1-aprel, 182 ta quduq)*
 
 | Sath chuqurligi | Quduqlar ulushi, % |
 | --- | --- |
@@ -78,9 +96,9 @@
 | 3,0–5,0 m | 22,5 |
 | 5,0 m dan chuqur | 5,5 |
 
-## 6-ilova
+## 7-ilova
 
-*6-ilova. Davlat hisobidagi kollektorlarning uzunlik va suv sarfi bo’yicha taqsimoti*
+*7-ilova. Davlat hisobidagi kollektorlarning uzunlik va suv sarfi bo’yicha taqsimoti*
 
 | Uzunlik, km | Kollektorlar soni |  | Oxiridagi sarf, m³/s | Kollektorlar soni |
 | --- | --- | --- | --- | --- |
@@ -91,9 +109,9 @@
 | 10,0 dan ortiq | 1 |  | 1,0 dan ortiq | 5 |
 | Jami | 90 |  | Jami | 90 |
 
-## 7-ilova
+## 8-ilova
 
-*7-ilova. Uzunligi bo’yicha eng yirik o’nta kollektor*
+*8-ilova. Uzunligi bo’yicha eng yirik o’nta kollektor*
 
 | Kollektor | Uzunligi, km | Oxiridagi sarf, m³/s | Xizmat maydoni, ga | Foydalanishga topshirilgan yil | Oxirgi ta’mir yili |
 | --- | --- | --- | --- | --- | --- |
@@ -108,9 +126,9 @@
 | OD-2 | 6,70 | 0,30 | 151 | 1957 | 2016 |
 | Sho’r | 6,70 | 0,20 | 619 | 1951 | 2019 |
 
-## 8-ilova
+## 9-ilova
 
-*8-ilova. Kollektor-drenaj tarmog’idagi gidrotexnik inshootlar (kadastr, 2021)*
+*9-ilova. Kollektor-drenaj tarmog’idagi gidrotexnik inshootlar (kadastr, 2021)*
 
 | Inshoot turi | Davlat hisobida | Suv iste’molchilari uyushmalari hisobida | Jami |
 | --- | --- | --- | --- |
@@ -124,9 +142,9 @@
 | Boshqalar | — | 13 | 13 |
 | Jami | 290 | 165 | 455 |
 
-## 9-ilova
+## 10-ilova
 
-*9-ilova. Kuzatuv quduqlarining qurilish davri, materiali va chuqurligi*
+*10-ilova. Kuzatuv quduqlarining qurilish davri, materiali va chuqurligi*
 
 | Qurilish davri | Quduqlar soni | Material | Chuqurlik medianasi, m |
 | --- | --- | --- | --- |
@@ -135,9 +153,9 @@
 | 2013–2016 | 120 | Polietilen | 3,2 |
 | Jami | 188 |  | 3,2 |
 
-## 10-ilova
+## 11-ilova
 
-*10-ilova. Geoma’lumotlar bazasi uchun boshlang’ich manbalar*
+*11-ilova. Geoma’lumotlar bazasi uchun boshlang’ich manbalar*
 
 | Manba | Shakli | Fazoviy ma’lumot | Atribut ma’lumot |
 | --- | --- | --- | --- |
@@ -146,9 +164,9 @@
 | Meliorativ kadastr, 2021 | Jadvallar | Yo’q | Kollektorlar, zovurlar, quduqlar pasporti |
 | Monitoring jadvallari, 2009–2024 | Jadvallar | Yo’q | O’n kunlik sath va yillik minerallashuv |
 
-## 11-ilova
+## 12-ilova
 
-*11-ilova. Geoma’lumotlar bazasini shakllantirish bosqichlari*
+*12-ilova. Geoma’lumotlar bazasini shakllantirish bosqichlari*
 
 | Bosqich | Mazmuni | Natija |
 | --- | --- | --- |
@@ -159,9 +177,9 @@
 | 5. Atributlarni biriktirish | Kollektor nomlari yozuvlari chiziq bo’laklariga biriktirildi va kadastr yozuvlari bilan bog’landi | 60 ta kollektor, 114,8 km |
 | 6. Massiv chegaralarini tiklash | Chegara chizig’i bo’laklari va quduqlarning massivga mansubligi asosida poligonlar qurildi | 8 ta massiv poligoni |
 
-## 12-ilova
+## 13-ilova
 
-*12-ilova. Xaritani joyiga bog’lash aniqligi*
+*13-ilova. Xaritani joyiga bog’lash aniqligi*
 
 | Ko’rsatkich | Qiymat |
 | --- | --- |
@@ -173,15 +191,15 @@
 | Aniqlangan piksel o’lchami | 4,232 m |
 | 1:50 000 masshtab va 300 nuqta/dyuym uchun nazariy piksel o’lchami | 4,233 m |
 
-## 13-ilova
+## 14-ilova
 
-*13-ilova. Xaritani joyiga bog’lash qoldiqlari (190 ta tayanch nuqta): a — 10 m gacha bo’lgan qoldiqlar taqsimoti; b — barcha qoldiqlar, logarifmik shkala*
+*14-ilova. Xaritani joyiga bog’lash qoldiqlari (190 ta tayanch nuqta): a — 10 m gacha bo’lgan qoldiqlar taqsimoti; b — barcha qoldiqlar, logarifmik shkala*
 
 &#91;image: Xaritani joyiga bog’lash qoldiqlarining taqsimoti\]
 
-## 14-ilova
+## 15-ilova
 
-*14-ilova. Xarita bo’yicha massivlar maydoni va kollektorlar zichligi*
+*15-ilova. Xarita bo’yicha massivlar maydoni va kollektorlar zichligi*
 
 | Massiv | Umumiy maydon, ga | Sug’oriladigan maydon, ga | Kollektorlar (xaritada), km | Kollektor zichligi, m/ga |
 | --- | --- | --- | --- | --- |
@@ -195,9 +213,9 @@
 | Y.Oxunboboyev | 5 677 | 1 191 | 0,0 | 0,0 |
 | Jami | 32 872 | 20 662 | 214,6 | 10,4 |
 
-## 15-ilova
+## 16-ilova
 
-*15-ilova. Qo’llanilgan tahlil usullari*
+*16-ilova. Qo’llanilgan tahlil usullari*
 
 | Masala | Usul | Paragraf |
 | --- | --- | --- |
@@ -208,9 +226,9 @@
 | Ta’mir ta’siri | Quduq va yil qat’iy effektli panel modeli | 4.3 |
 | Zarur kuzatuvlar soni | Statistik quvvat hisobi | 4.5 |
 
-## 16-ilova
+## 17-ilova
 
-*16-ilova. Monitoring ma’lumotlarining yillar bo’yicha tekshiruvi*
+*17-ilova. Monitoring ma’lumotlarining yillar bo’yicha tekshiruvi*
 
 | Yil | Quduqlar | O’lchovlar | O’zgarmas qatordagi o’lchovlar | Yaroqli o’lchovlar, % | Kesilgan o’lchovlar | 5 m dan chuqur o’lchovlar, % |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -229,9 +247,9 @@
 | 2024 | 196 | 7 092 | 792 | 88,8 | 657 | 3,9 |
 | Jami | 196 | 75 200 | 9 107 | 87,9 | 5 326 | — |
 
-## 17-ilova
+## 18-ilova
 
-*17-ilova. O’zgarmas qatorlarda eng ko’p uchraydigan qiymatlar*
+*18-ilova. O’zgarmas qatorlarda eng ko’p uchraydigan qiymatlar*
 
 | Yozilgan qiymat, m | Quduq-yillar soni |
 | --- | --- |
@@ -242,9 +260,9 @@
 | 5,4 | 10 |
 | 2,5 | 9 |
 
-## 18-ilova
+## 19-ilova
 
-*18-ilova. Monitoring tarmog’i yillar bo’yicha: a — kuzatilgan quduqlar soni; b — yaroqsiz o’lchovlar ulushi; c — 5 m dan chuqur o’lchovlar ulushi (uzuq chiziq — tarmoq tarkibi o’zgargan yil)*
+*19-ilova. Monitoring tarmog’i yillar bo’yicha: a — kuzatilgan quduqlar soni; b — yaroqsiz o’lchovlar ulushi; c — 5 m dan chuqur o’lchovlar ulushi (uzuq chiziq — tarmoq tarkibi o’zgargan yil)*
 
 &#91;image: Kuzatuv tarmog’i tarkibi va yaroqsiz o’lchovlar ulushi yillar bo’yicha\]
 
@@ -267,9 +285,9 @@
 | Sho'rlanish xavfi | 113 | minerallashuv va yozgi sath bor | 3.5-§, 4.5-§ |
 | Ta'mir ta'siri (ta'sir / nazorat) | 36 / 49 | kollektordan 300 m gacha / 600 m dan uzoq | 4.3-§ |
 
-## 19-ilova
+## 20-ilova
 
-*19-ilova. Monitoring ma’lumotlari ishonchliligining massivlar bo’yicha ko’rsatkichlari*
+*20-ilova. Monitoring ma’lumotlari ishonchliligining massivlar bo’yicha ko’rsatkichlari*
 
 | Massiv | Quduqlar | O’lchovlar | Yaroqli o’lchovlar, % | Yaroqli o’lchovlar ichida kesilganlar, % | O’rtacha sath, 2019–2024, m |
 | --- | --- | --- | --- | --- | --- |
@@ -282,18 +300,18 @@
 | T.Mirzayev | 18 | 7 414 | 60,0 | 20,8 | 3,16 |
 | Y.Oxunboboyev | 7 | 2 844 | 50,3 | 29,2 | 3,36 |
 
-## 20-ilova
+## 21-ilova
 
-*20-ilova. Barqaror panel (84 ta quduq) bo'yicha sizot suvining o'rtacha sathi, m*
+*21-ilova. Barqaror panel (84 ta quduq) bo'yicha sizot suvining o'rtacha sathi, m*
 
 | Yil | 2009 | 2011 | 2012 | 2014 | 2015 | 2016 | 2018 | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Yillik o'rtacha | 1,60 | 1,53 | 1,69 | 1,60 | 1,62 | 1,73 | 1,85 | 1,82 | 1,95 | 2,03 | 1,88 | 1,93 | 1,99 |
 | Iyul–avgust | 1,44 | 1,32 | 1,47 | 1,37 | 1,38 | 1,55 | 1,69 | 1,60 | 1,67 | 1,92 | 1,69 | 1,71 | 1,80 |
 
-## 21-ilova
+## 22-ilova
 
-*21-ilova. Quduqlar bo'yicha sizot suvi sathi tendensiyasining massivlardagi taqsimoti (kamida 8 yil ma'lumotli quduqlar)*
+*22-ilova. Quduqlar bo'yicha sizot suvi sathi tendensiyasining massivlardagi taqsimoti (kamida 8 yil ma'lumotli quduqlar)*
 
 | Massiv | Quduqlar soni | Sen qiyaligi medianasi, m/yil | Chuqurlashayotgan quduqlar ulushi, % | Ahamiyatli chuqurlashish (p < 0,05), quduq |
 | --- | --- | --- | --- | --- |
@@ -307,9 +325,9 @@
 | Z.M.Bobur | 23 | −0,019 | 22 | 1 |
 | Jami | 122 | +0,023 | 70 | 54 |
 
-## 22-ilova
+## 23-ilova
 
-*22-ilova. Sizot suvi sathining massivlar bo'yicha mavsumiy ko'rsatkichlari (barqaror panel quduqlari, 2009–2024-yillar o'rtachasi)*
+*23-ilova. Sizot suvi sathining massivlar bo'yicha mavsumiy ko'rsatkichlari (barqaror panel quduqlari, 2009–2024-yillar o'rtachasi)*
 
 | Massiv | Eng sayoz sath, m | Eng sayoz davr | Eng chuqur sath, m | Eng chuqur davr | Amplituda, m |
 | --- | --- | --- | --- | --- | --- |
@@ -321,30 +339,30 @@
 | U.Qoraboyev | 1,45 | iyul, 3-dekada | 2,29 | fevral, 2-dekada | 0,85 |
 | Z.M.Bobur | 1,46 | may, 2-dekada | 1,97 | yanvar, 3-dekada | 0,51 |
 
-## 23-ilova
+## 24-ilova
 
-*23-ilova. Sizot suvi sathining massivlar bo'yicha yil ichidagi o'rtacha yo'li (barqaror panel quduqlari, 36 dekada)*
+*24-ilova. Sizot suvi sathining massivlar bo'yicha yil ichidagi o'rtacha yo'li (barqaror panel quduqlari, 36 dekada)*
 
 &#91;image: Sizot suvi sathining massivlar bo'yicha mavsumiy yo'li\]
 
-## 24-ilova
+## 25-ilova
 
-*24-ilova. Kriging uchun boshlang'ich ma'lumotlarning statistik tavsifi*
+*25-ilova. Kriging uchun boshlang'ich ma'lumotlarning statistik tavsifi*
 
 | Ko'rsatkich | Quduqlar soni | O'rtacha, m | Mediana, m | Standart og'ish, m | Asimmetriya | Asimmetriya (logarifm) | 1,5 m dan sayoz quduqlar soni | 2,0 m dan sayoz quduqlar ulushi, % |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | O'rtacha yillik sath, 2019–2024 | 168 | 2,39 | 2,25 | 0,99 | +1,31 | +0,36 | 28 | 40 |
 | Iyul–avgust sathi, 2019–2024 | 167 | 2,14 | 1,93 | 0,92 | +1,59 | +0,46 | 39 | 55 |
 
-## 25-ilova
+## 26-ilova
 
-*25-ilova. Sizot suvi sathining (2019–2024-yillar o'rtachasi) variogrammalari: a — yo'nalishsiz eksperimental variogramma va nazariy modellar; b — to'rt yo'nalish bo'yicha variogrammalar*
+*26-ilova. Sizot suvi sathining (2019–2024-yillar o'rtachasi) variogrammalari: a — yo'nalishsiz eksperimental variogramma va nazariy modellar; b — to'rt yo'nalish bo'yicha variogrammalar*
 
 &#91;image: Sizot suvi sathining eksperimental va nazariy variogrammalari\]
 
-## 26-ilova
+## 27-ilova
 
-*26-ilova. Variogramma modellarining qiyosi va kross-validatsiya natijalari (o'rtacha yillik sath, n = 168)*
+*27-ilova. Variogramma modellarining qiyosi va kross-validatsiya natijalari (o'rtacha yillik sath, n = 168)*
 
 | Model | Nagget, m² | Nagget / dispersiya | Ta'sir radiusi, km | O'rtacha xato (ME), m | O'rtacha kvadratik xato (RMSE), m | Standartlashtirilgan xato (RMSSE) |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -353,9 +371,9 @@
 | Gauss | 0,601 | 0,62 | 7,5 | −0,001 | 0,860 | 1,04 |
 | Eksponensial (avtomatik moslashtirish) | 0,267 | 0,28 | > 19 | +0,005 | 0,813 | 1,19 |
 
-## 27-ilova
+## 28-ilova
 
-*27-ilova. Fazoviy baholash usullarining kross-validatsiya natijalari*
+*28-ilova. Fazoviy baholash usullarining kross-validatsiya natijalari*
 
 | Usul | O'rtacha yillik sath: RMSE, m | RMSSE | Iyul–avgust sathi: RMSE, m | RMSSE |
 | --- | --- | --- | --- | --- |
@@ -365,9 +383,9 @@
 | Universal kriging (chiziqli trend) | 0,828 | 0,96 | 0,782 | 0,97 |
 | Regressiya-kriging (tarmoq ko'rsatkichlari) | 0,817 | 0,95 | 0,780 | 0,97 |
 
-## 28-ilova
+## 29-ilova
 
-*28-ilova. Yozgi sizot suvi sathining massivlar bo'yicha xarita ko'rsatkichlari*
+*29-ilova. Yozgi sizot suvi sathining massivlar bo'yicha xarita ko'rsatkichlari*
 
 | Massiv | Xarita bilan qoplangan maydon, % | Baholangan o'rtacha sath, m | Sathi 2,0 m dan sayoz maydon, % | Sayoz sath ehtimoli 0,3 dan katta maydon, % | Quduqlar: jami / 1,5 m dan sayoz | Standart xato, m |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -394,21 +412,21 @@
 | Boshqa massivlar (oraliq) | 0–28 | 0–95 | 29–100 | 0–25 | 0–13 |
 | Sho'rlanish xavfli quduqlar | 29 | 56 | 73 | — | — |
 
-## 29-ilova
+## 30-ilova
 
-*29-ilova. Modelga kiritilgan quduqlar soni va nazorat quduqlaridagi baholash xatosi (40 ta takrorlash o'rtachasi va standart og'ishi). Raqamlar — qo'shni quduqlar orasidagi masofaning medianasi*
+*30-ilova. Modelga kiritilgan quduqlar soni va nazorat quduqlaridagi baholash xatosi (40 ta takrorlash o'rtachasi va standart og'ishi). Raqamlar — qo'shni quduqlar orasidagi masofaning medianasi*
 
 &#91;image: Kuzatuv tarmog'i zichligining kriging aniqligiga ta'siri\]
 
-## 30-ilova
+## 31-ilova
 
-*30-ilova. Sizot suvi sathining kollektorgacha masofaga bog'liqligi: a — o'rtacha sath va bo'linma regressiya chizig'i; b — qishki va yozgi sath (A — mavsumiy ko'tarilish); c — quduqlar bo'yicha Sen qiyaligining medianasi*
+*31-ilova. Sizot suvi sathining kollektorgacha masofaga bog'liqligi: a — o'rtacha sath va bo'linma regressiya chizig'i; b — qishki va yozgi sath (A — mavsumiy ko'tarilish); c — quduqlar bo'yicha Sen qiyaligining medianasi*
 
 &#91;image: Sizot suvi sathining kollektorgacha masofaga bog'liqligi\]
 
-## 31-ilova
+## 32-ilova
 
-*31-ilova. Sizot suvi sathining ko'p omilli regressiya modellari (n = 168)*
+*32-ilova. Sizot suvi sathining ko'p omilli regressiya modellari (n = 168)*
 
 | Omil | 1-model: koeffitsiyent | p | 2-model: koeffitsiyent | p |
 | --- | --- | --- | --- | --- |
@@ -420,9 +438,9 @@
 
 Izoh: standart xatolar HC3 usulida. Qoldiqlar o'ngga qiyshiq (asimmetriya 1,1–1,3; Shapiro–Wilk p < 0,001), 2-modelda geteroskedastiklik bor (Breusch–Pagan p = 0,009); VIF ≤ 1,12. Sath logarifmi bo'yicha modelda qoldiqlar normal taqsimotdan farq qilmaydi (p = 0,22) va kollektorgacha masofa koeffitsiyenti ahamiyatli qoladi (+0,29; 95 % ishonch oralig'i 0,19–0,40). Kuk masofasi 4/n dan katta 6–10 ta quduq chiqarilganda koeffitsiyentlar 10–18 foizga kamayadi va ahamiyatli qoladi.
 
-## 32-ilova
+## 33-ilova
 
-*32-ilova. Sath va tarmoq ko'rsatkichlari bog'lanishining massiv omilini hisobga olgan holda bahosi (n = 168)*
+*33-ilova. Sath va tarmoq ko'rsatkichlari bog'lanishining massiv omilini hisobga olgan holda bahosi (n = 168)*
 
 | Model | Koeffitsiyent | p | R² |
 | --- | --- | --- | --- |
@@ -445,9 +463,9 @@ Izoh: standart xatolar HC3 usulida. Qoldiqlar o'ngga qiyshiq (asimmetriya 1,1–
 
 Massivlar ichidagi korrelyatsiyalar (yettita test) uchun Benjamini–Hochberg tuzatishidan keyin (q < 0,05) U.Qoraboyev (q = 0,021) va M.To'jiboyev (q = 0,025) massivlaridagi bog'lanish ahamiyatli qoladi; Istiqlol va Z.M.Bobur massivlarida q = 0,083.
 
-## 33-ilova
+## 34-ilova
 
-*33-ilova. Kollektordan 500 m gacha masofadagi quduqlarda sizot suvi sathi kollektorning kadastr ko'rsatkichlari bo'yicha*
+*34-ilova. Kollektordan 500 m gacha masofadagi quduqlarda sizot suvi sathi kollektorning kadastr ko'rsatkichlari bo'yicha*
 
 | Guruh | Quduqlar soni | Kollektorlar soni | Yillik o'rtacha sath, m | Iyul–avgust sathi, m |
 | --- | --- | --- | --- | --- |
@@ -458,9 +476,9 @@ Massivlar ichidagi korrelyatsiyalar (yettita test) uchun Benjamini–Hochberg tu
 | Drenaj moduli o'rta (0,71–1,43 l/(s·ga)) | 28 | — | 2,42 | 2,26 |
 | Drenaj moduli yuqori (1,48–10,2 l/(s·ga)) | 29 | — | 2,26 | 2,10 |
 
-## 34-ilova
+## 35-ilova
 
-*34-ilova. Minerallashuv qatorlarining tekshiruvi*
+*35-ilova. Minerallashuv qatorlarining tekshiruvi*
 
 | Davr | Holat | Baho |
 | --- | --- | --- |
@@ -472,9 +490,9 @@ Massivlar ichidagi korrelyatsiyalar (yettita test) uchun Benjamini–Hochberg tu
 | 2023 | Barcha 188 ta quduqda bitta qiymat: 0,20 g/l | Yaroqsiz |
 | 2024 | Qiymatlar kam xilma-xil, mediana 0,20 g/l | Shubhali |
 
-## 35-ilova
+## 36-ilova
 
-*35-ilova. Sizot suvlari minerallashuvi sinflarining yillar bo'yicha ulushi, %*
+*36-ilova. Sizot suvlari minerallashuvi sinflarining yillar bo'yicha ulushi, %*
 
 | Yil | 1 g/l dan kam | 1–3 g/l | 3–5 g/l | 5 g/l va ortiq | Mediana, g/l |
 | --- | --- | --- | --- | --- | --- |
@@ -487,9 +505,9 @@ Massivlar ichidagi korrelyatsiyalar (yettita test) uchun Benjamini–Hochberg tu
 | 2010 | 26,3 | 64,0 | 9,8 | 0,0 | 1,35 |
 | 2004–2010 | 30,7 | 60,4 | 8,8 | 0,2 | — |
 
-## 36-ilova
+## 37-ilova
 
-*36-ilova. Sizot suvlari minerallashuvi va sho'rlanish xavfining massivlar bo'yicha ko'rsatkichlari*
+*37-ilova. Sizot suvlari minerallashuvi va sho'rlanish xavfining massivlar bo'yicha ko'rsatkichlari*
 
 | Massiv | Quduqlar soni | Minerallashuv medianasi, g/l | 3 g/l dan yuqori quduqlar, % | Aprel, g/l | Iyul, g/l | Oktabr, g/l | Xavfli quduqlar (yozgi sath < 2,0 m, minerallashuv ≥ 1 g/l) | Shundan yozgi sath < 1,5 m |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -504,9 +522,9 @@ Massivlar ichidagi korrelyatsiyalar (yettita test) uchun Benjamini–Hochberg tu
 
 Izoh: minerallashuv — 2004–2010-yillar, yozgi sath — 2019–2024-yillar (iyul–avgust) bo'yicha.
 
-## 37-ilova
+## 38-ilova
 
-*37-ilova. Quduqlarning yozgi sath va minerallashuv bo'yicha taqsimoti (quduqlar soni, n = 113)*
+*38-ilova. Quduqlarning yozgi sath va minerallashuv bo'yicha taqsimoti (quduqlar soni, n = 113)*
 
 | Yozgi sath, m | 1 g/l dan kam | 1–3 g/l | 3 g/l va ortiq | Jami |
 | --- | --- | --- | --- | --- |
@@ -516,9 +534,9 @@ Izoh: minerallashuv — 2004–2010-yillar, yozgi sath — 2019–2024-yillar (i
 | 3,0 va chuqur | 1 | 8 | 0 | 9 |
 | Jami | 27 | 82 | 4 | 113 |
 
-## 38-ilova
+## 39-ilova
 
-*38-ilova. Andijon viloyati tumanlarida monitoring ma'lumotlarining ishonchlilik ko'rsatkichlari, 2009–2023-yillar*
+*39-ilova. Andijon viloyati tumanlarida monitoring ma'lumotlarining ishonchlilik ko'rsatkichlari, 2009–2023-yillar*
 
 | Tuman | Quduqlar soni | Mustaqil ma'lumoti yo'q yillar | O'zgarmas qatorlar, quduq-yillarning %i | Yaroqli o'lchovlar, % | Yaxlit qiymatlar, % |
 | --- | --- | --- | --- | --- | --- |
@@ -540,9 +558,9 @@ Izoh: minerallashuv — 2004–2010-yillar, yozgi sath — 2019–2024-yillar (i
 
 Izoh: Bo'ston va Paxtaobod tumanlari bo'yicha 14 yillik, Buloqboshi tumani bo'yicha 13 yillik jadvallar mavjud.
 
-## 39-ilova
+## 40-ilova
 
-*39-ilova. Andijon viloyati tumanlarida sizot suvi rejimining asosiy ko'rsatkichlari*
+*40-ilova. Andijon viloyati tumanlarida sizot suvi rejimining asosiy ko'rsatkichlari*
 
 | Tuman | Barqaror panel, quduq | Sen qiyaligi, sm/yil | p | Iyul–avgust sathi medianasi, m | Yozda 1,5 m dan sayoz quduqlar, % | Yozda 2,0 m dan sayoz quduqlar, % | Mavsumiy amplituda, m |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -561,9 +579,9 @@ Izoh: Bo'ston va Paxtaobod tumanlari bo'yicha 14 yillik, Buloqboshi tumani bo'yi
 | Paxtaobod | 32 | +10,6 | < 0,001 | 2,65 | 4,2 | 17,9 | 0,44 |
 | Asaka | 31 | +6,4 | < 0,001 | 2,75 | 0,0 | 14,9 | 0,33 |
 
-## 40-ilova
+## 41-ilova
 
-*40-ilova. Drenaj tarmog'i ishonchliligi ko'rsatkichlari va ularni hisoblash uchun ma'lumotlarning mavjudligi*
+*41-ilova. Drenaj tarmog'i ishonchliligi ko'rsatkichlari va ularni hisoblash uchun ma'lumotlarning mavjudligi*
 
 | Ishonchlilik xossasi | Ko'rsatkich | Talab etiladigan ma'lumot | Meliorativ kadastrda mavjudligi |
 | --- | --- | --- | --- |
@@ -573,9 +591,9 @@ Izoh: Bo'ston va Paxtaobod tumanlari bo'yicha 14 yillik, Buloqboshi tumani bo'yi
 | Saqlanuvchanlik | — | — | Ochiq kollektorlar uchun qo'llanilmaydi |
 | Vazifaviy samaradorlik | Sizot suvi sathining me'yoriy chuqurlikda ushlanishi | Sath monitoringi | Mavjud (III bob) |
 
-## 41-ilova
+## 42-ilova
 
-*41-ilova. Kollektorlarning foydalanishga topshirilgan davri bo'yicha taqsimoti*
+*42-ilova. Kollektorlarning foydalanishga topshirilgan davri bo'yicha taqsimoti*
 
 | Davr | Kollektorlar soni | Uzunligi, km |
 | --- | --- | --- |
@@ -586,15 +604,15 @@ Izoh: Bo'ston va Paxtaobod tumanlari bo'yicha 14 yillik, Buloqboshi tumani bo'yi
 | 1970-yillar | 15 | 22,5 |
 | 1980-yillar | 3 | 6,0 |
 
-## 42-ilova
+## 43-ilova
 
-*42-ilova. Kollektorlar uzunligining taqsimoti: a — foydalanishga topshirilgan o'n yillik bo'yicha; b — oxirgi ta'mir yili bo'yicha; c — 1 km ta'mir narxining 2026-yil narxlaridagi taqsimoti (uzuq chiziq — mediana)*
+*43-ilova. Kollektorlar uzunligining taqsimoti: a — foydalanishga topshirilgan o'n yillik bo'yicha; b — oxirgi ta'mir yili bo'yicha; c — 1 km ta'mir narxining 2026-yil narxlaridagi taqsimoti (uzuq chiziq — mediana)*
 
 &#91;image: Kollektorlarning yoshi, ta'mir yillari va ta'mir narxi\]
 
-## 43-ilova
+## 44-ilova
 
-*43-ilova. Ichki zovurlarning tizimlar bo'yicha holati*
+*44-ilova. Ichki zovurlarning tizimlar bo'yicha holati*
 
 | Tizim | Zovurlar soni | Uzunligi, km | Ta'mir qayd etilmagan uzunlik ulushi |
 | --- | --- | --- | --- |
@@ -608,9 +626,9 @@ Izoh: Bo'ston va Paxtaobod tumanlari bo'yicha 14 yillik, Buloqboshi tumani bo'yi
 | Y.Oxunboboyev massivi | 12 | 20,1 | 100 % |
 | Xo'jaliklararo bo'rdoqichilik bazasi | 7 | 6,1 | 100 % |
 
-## 44-ilova
+## 45-ilova
 
-*44-ilova. Massivlar bo'yicha drenaj tarmog'ining ishonchlilik ko'rsatkichlari*
+*45-ilova. Massivlar bo'yicha drenaj tarmog'ining ishonchlilik ko'rsatkichlari*
 
 | Massiv | Sug'oriladigan maydon, ga | Kollektorlar, km | Kollektorlar, m/ga | Kollektorlarning o'rtacha yoshi, yil\* | Oxirgi ta'mirdan beri, yil\* | Ichki zovurlar, km | Ichki zovurlar, m/ga | Ta'mirsiz ichki zovurlar, % |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -625,15 +643,15 @@ Izoh: Bo'ston va Paxtaobod tumanlari bo'yicha 14 yillik, Buloqboshi tumani bo'yi
 
 Izoh: \* — kadastrda nomi aniqlangan kollektor bo'laklari bo'yicha uzunlik bilan vaznlangan o'rtacha (massivdagi kollektorlar uzunligining 35–90 foizi). Markaziy zovur tizimi (52,8 km) va bo'rdoqichilik bazasi zovurlari (6,1 km) kadastrda massivlarga bog'lanmagan.
 
-## 45-ilova
+## 46-ilova
 
-*45-ilova. Massivlar bo'yicha: a — kollektorlar va ichki zovurlarning solishtirma uzunligi; b — ta'mir qayd etilmagan ichki zovurlar ulushi (to'q sariq, xoch bilan — 70 foizdan ortiq)*
+*46-ilova. Massivlar bo'yicha: a — kollektorlar va ichki zovurlarning solishtirma uzunligi; b — ta'mir qayd etilmagan ichki zovurlar ulushi (to'q sariq, xoch bilan — 70 foizdan ortiq)*
 
 &#91;image: Massivlar bo'yicha drenaj tarmog'ining solishtirma uzunligi va ichki zovurlar holati\]
 
-## 46-ilova
+## 47-ilova
 
-*46-ilova. Marhamat tumani bo'yicha oylik suv balansi tarkibiy qismlari, mm*
+*47-ilova. Marhamat tumani bo'yicha oylik suv balansi tarkibiy qismlari, mm*
 
 | Oy | Etalon bug'lanuvchanlik ET₀ | O'rtacha ekin koeffitsiyenti | Ekinlar bug'lanishi ETc | Yog'in | Samarali yog'in | Sof sug'orish talabi |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -647,15 +665,15 @@ Izoh: \* — kadastrda nomi aniqlangan kollektor bo'laklari bo'yicha uzunlik bil
 | Oktabr | 70 | 0,54 | 38 | 32 | 30 | 7 |
 | Yil bo'yicha | 1 185 | — | 719 | 323 | 306 | 524 |
 
-## 47-ilova
+## 48-ilova
 
-*47-ilova. a — oylik ekinlar bug'lanishi, samarali yog'in va sof sug'orish talabi; b — kollektorlarning kadastr bo'yicha solishtirma sarfi va iyuldagi talab etiladigan drenaj moduli (takroriy ekinlarsiz variant)*
+*48-ilova. a — oylik ekinlar bug'lanishi, samarali yog'in va sof sug'orish talabi; b — kollektorlarning kadastr bo'yicha solishtirma sarfi va iyuldagi talab etiladigan drenaj moduli (takroriy ekinlarsiz variant)*
 
 &#91;image: Suv balansi va talab etiladigan drenaj moduli\]
 
-## 48-ilova
+## 49-ilova
 
-*48-ilova. Namunaviy kollektor kesimining o'zan holatiga qarab o'tkazish qobiliyati*
+*49-ilova. Namunaviy kollektor kesimining o'zan holatiga qarab o'tkazish qobiliyati*
 
 | O'zan holati | g'adir-budurlik n | Loyqa qatlami, m | Q (i = 0,0005), m³/s | Q (i = 0,001), m³/s | Toza o'zanga nisbatan, % |
 | --- | --- | --- | --- | --- | --- |
@@ -664,9 +682,9 @@ Izoh: \* — kadastrda nomi aniqlangan kollektor bo'laklari bo'yicha uzunlik bil
 | O'simlik va loyqa | 0,035 | 0,3 | 1,28 | 1,81 | 58 |
 | Kuchli o'simlik va loyqa | 0,040 | 0,5 | 0,87 | 1,23 | 39 |
 
-## 49-ilova
+## 50-ilova
 
-*49-ilova. Kollektorlarni ta'mirlash xarajatlari yillar bo'yicha (kadastrdagi narxlarda va 2026-yil oktabr narxlarida)*
+*50-ilova. Kollektorlarni ta'mirlash xarajatlari yillar bo'yicha (kadastrdagi narxlarda va 2026-yil oktabr narxlarida)*
 
 | Yil | Kollektorlar soni | Ta'mirlangan uzunlik, km | Xarajat, mln so'm (kadastr) | O'rtacha narx, mln so'm/km (kadastr) | Qayta hisoblash koeffitsiyenti | Xarajat, mln so'm (2026-yil narxlarida) | O'rtacha narx, mln so'm/km (2026-yil narxlarida) |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -678,9 +696,27 @@ Izoh: \* — kadastrda nomi aniqlangan kollektor bo'laklari bo'yicha uzunlik bil
 
 Izoh: qayta hisoblash iste'mol narxlari indeksi bo'yicha (4.4-§); ta'mir yili xarajati shu yilning o'rtacha narxlarida deb olingan.
 
-## 50-ilova
+## 51-ilova
 
-*50-ilova. Amaliy tavsiyalar va ularning asosi*
+*51-ilova. Kollektorlar ta'mir xarajatlarining massivlar bo'yicha taqsimoti (2017–2020-yillar) va meliorativ xavf ko'rsatkichlari*
+
+| Massiv | Sug'oriladigan maydon, ga | Ta'mirlangan kollektorlar\* | Xarajat, mln so'm (2026-yil narxlarida) | Xarajat, ming so'm/ga (2026-yil narxlarida) | Yozgi sayoz sath ehtimoli 0,3 dan katta maydon, % (3.3-§) | Sho'rlanish xavfli quduqlar (3.5-§) |
+| --- | --- | --- | --- | --- | --- | --- |
+| Istiqlol | 2 146 | 6 | 7 828 | 3 648 | 55 | 12 |
+| U.Qoraboyev | 2 420 | 9 | 6 570 | 2 715 | 19 | 1 |
+| Mash'al | 3 790 | 13 | 9 187 | 2 424 | 71 | 17 |
+| Z.M.Bobur | 3 610 | 6 | 6 472 | 1 793 | 58 | 17 |
+| T.Mirzayev | 3 371 | 5 | 5 525 | 1 639 | 28 | 1 |
+| Paxtakor | 1 601 | 5 | 2 338 | 1 461 | 21 | 4 |
+| M.To'jiboyev | 2 532 | 3 | 662 | 261 | 17 | 4 |
+| Y.Oxunboboyev | 1 191 | 0 | 0 | 0 | 0 | — |
+| Jami | 20 661 | 36 | 38 582 | 1 867 | — | 56 |
+
+Izoh: \* — bir kollektor bir necha massivdan o'tishi mumkin, shuning uchun massivlar bo'yicha sonlar yig'indisi jami sondan katta.
+
+## 52-ilova
+
+*52-ilova. Amaliy tavsiyalar va ularning asosi*
 
 | № | Tavsiya | Asos |
 | --- | --- | --- |
@@ -703,9 +739,9 @@ Izoh: qayta hisoblash iste'mol narxlari indeksi bo'yicha (4.4-§); ta'mir yili x
 | T-14 | Xo'jalik ichki zovurlarini inventarizatsiya qilish va ta'mir rejasiga kiritish | 64,7 foizida ta'mir qayd etilmagan (4.1-§) |
 | T-15 | Drenaj yuklamasini kamaytirish uchun sug'orish samaradorligini oshirish tadbirlarini ustuvor massivlarda qo'llash | Samaradorlik oshirilganda talab etiladigan drenaj moduli 2,5 baravar kamayadi (4.2-§) |
 
-## 51-ilova
+## 53-ilova
 
-*51-ilova. Ta'mir ta'sirini aniqlash quvvati (Monte Karlo simulyatsiyasi, har bir variant 1 000 takror, ikki tomonlama α = 0,05)*
+*53-ilova. Ta'mir ta'sirini aniqlash quvvati (Monte Karlo simulyatsiyasi, har bir variant 1 000 takror, ikki tomonlama α = 0,05)*
 
 | Ta'sir / nazorat quduqlari | Standart xato, m | Δ = 0,10 m | Δ = 0,15 m | Δ = 0,20 m | Δ = 0,30 m |
 | --- | --- | --- | --- | --- | --- |
@@ -720,9 +756,9 @@ Izoh: qayta hisoblash iste'mol narxlari indeksi bo'yicha (4.4-§); ta'mir yili x
 
 Izoh: jadvalda quvvat (ta'sirni aniqlash ehtimoli) berilgan; Monte Karlo xatosi ±0,03 dan oshmaydi. Δ = 0 da (36 / 49) birinchi tur xato 0,050 (95 % oraliq 0,041–0,060). Simulyatsiya haqiqiy quduq qatorlarini qayta tanlashga asoslangan, shuning uchun ta'sir mahalliy va quduqlar mustaqil degan faraz saqlanadi.
 
-## 52-ilova
+## 54-ilova
 
-*52-ilova. Asosiy kuzatishlarning raqib izohlari, ajratuvchi bashoratlar va ularning holati*
+*54-ilova. Asosiy kuzatishlarning raqib izohlari, ajratuvchi bashoratlar va ularning holati*
 
 | Kuzatish | Raqib izoh | Ajratuvchi bashorat | Mavjud dalil (holat) | Keyingi tekshiruv |
 | --- | --- | --- | --- | --- |
