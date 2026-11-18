@@ -17,10 +17,11 @@
 13. Massivlar meliorativ xavf, drenaj tarmog'i holati va xarajatlar bo'yicha uchta ustuvorlik guruhiga ajratildi: birinchi navbatda Z.M.Bobur va Istiqlol massivlarida drenaj tarmog'ining texnik holatini tekshirish va ta'mir qilish, Mash'al massivida esa sug'orish samaradorligini oshirish va minerallashuv monitoringini tiklash tavsiya etiladi.
 14. Monitoring tizimini takomillashtirish bo'yicha 15 ta tavsiya ishlab chiqildi: ma'lumotlarni majburiy tekshirish, quruq quduqlarni maxsus belgilash, sath chuqur hududlarda kuzatuv quduqlarini chuqurlashtirish, yangi quduqlarni maqsadli joylashtirish, sayoz sath ehtimoli xaritalaridan foydalanish, kollektorlarda sarfni o'lchash, ta'mir va nosozliklar daftarini yuritish, ta'mir navbatini holat va xavf bo'yicha aniqlash va boshqalar. Tavsiyalarning to'qqiztasi qo'shimcha mablag' talab qilmaydi. Ularni amalga oshirish uchun dissertatsiyada yaratilgan geoma'lumotlar bazasi va takrorlanadigan hisob dasturlari asos bo'ladi.
 
-**Tadqiqotni davom ettirish yo'nalishlari:**
+**Tadqiqotni davom ettirish yo'nalishlari.** Dissertatsiyadagi bir nechta kuzatish uchun raqib izohlarni mavjud ma'lumotlar bilan to'liq ajratib bo'lmaydi. Ular, ajratuvchi bashoratlar va zarur ma'lumotlar 52-ilovada keltirilgan. Shunga ko'ra keyingi tadqiqotlar quyidagi yo'nalishlarda olib borilishi kerak:
 
-- sayoz sath ehtimoli va sho'rlanish xavfi xaritalarini Andijon viloyatining barcha tumanlari uchun tuzish (monitoring jadvallari butun viloyat bo'yicha mavjud va tekshirilgan);
-- masofadan zondlash ma'lumotlari (sho'rlanish va o'simlik indekslari) bilan monitoring ma'lumotlarini mustaqil tekshirish;
+- sathning 2016–2018-yillardagi pog'onali chuqurlashishini sug'orish suvi hajmi, iqlim anomaliyalari va o'lchash tartibi o'zgarishidan qaysi biri belgilaganini yillik suv olish va meteorologik qatorlar bilan aniqlash;
 - ta'mirni bosqichma-bosqich o'tkazish va juft quduqlar orqali uning mahalliy va hududiy ta'sirini o'lchash;
+- Z.M.Bobur massividagi sath ko'tarilishining sababini (drenaj quvvati yoki yer foydalanish o'zgarishi) kollektorlarda sarfni o'lchash va masofadan zondlash ma'lumotlari bilan aniqlash;
+- sayoz sath ehtimoli va sho'rlanish xavfi xaritalarini Andijon viloyatining barcha tumanlari uchun tuzish;
 - kollektorlar kesimi va sarflarini o'lchash asosida gidravlik hisobni aniqlashtirish;
 - xo'jalik ichki zovurlarining raqamli qatlamini yaratish.

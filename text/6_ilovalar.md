@@ -719,3 +719,24 @@ Izoh: qayta hisoblash iste'mol narxlari indeksi bo'yicha (4.4-§); ta'mir yili x
 | 150 / 100 | 0,055 | 0,43 | 0,78 | 0,96 | 1,00 |
 
 Izoh: jadvalda quvvat (ta'sirni aniqlash ehtimoli) berilgan; Monte Karlo xatosi ±0,03 dan oshmaydi. Δ = 0 da (36 / 49) birinchi tur xato 0,050 (95 % oraliq 0,041–0,060). Simulyatsiya haqiqiy quduq qatorlarini qayta tanlashga asoslangan, shuning uchun ta'sir mahalliy va quduqlar mustaqil degan faraz saqlanadi.
+
+## 52-ilova
+
+*52-ilova. Asosiy kuzatishlarning raqib izohlari, ajratuvchi bashoratlar va ularning holati*
+
+| Kuzatish | Raqib izoh | Ajratuvchi bashorat | Mavjud dalil (holat) | Keyingi tekshiruv |
+| --- | --- | --- | --- | --- |
+| Sathning 2016–2018-yillardagi pog'onali chuqurlashishi (0,30 m) | A. Hududiy suv ta'minoti va sug'orish rejimining o'zgarishi | Pog'ona suv olishning kamayishi bilan bir vaqtda va ko'p tumanlarda | 14 ta tumanning 12 tasida chuqurlashish (mos) | 2009–2024-yillar suv olish hajmlari bilan yillik regressiya |
+| | B. Kollektorlar ta'miri | Kollektor yaqinida kuchliroq chuqurlashish | Uzoqdagi quduqlarda tezroq; ta'mirdan keyin chuqurlashish aniqlanmadi (qarshi, quvvat past) | Bosqichma-bosqich ta'mir va juft quduqlar |
+| | C. 2018-yilda o'lchash tartibining o'zgarishi | Pog'ona barcha quduqlarda bir yilda, mavsumiy yo'l shakli o'zgaradi | Barqaror panelda ham pog'ona bor (A va C ni ajratmaydi) | Kuzatuvchi jurnallari, nazorat o'lchovlari |
+| | D. Yog'in va bug'lanish anomaliyasi | Pog'ona iqlim anomaliyasi bilan bir vaqtda | Tekshirilmagan: faqat ko'p yillik normalar mavjud | 2009–2024-yillar meteorologik qatorlari |
+| Kollektorga yaqin joyda sath sayozroq | A. Teskari bog'liqlik: kollektorlar zax joylarga qurilgan | Bog'lanish qurilishdan oldin ham bo'lgan; massiv ichida saqlanadi | Massiv ichida saqlanadi; relyef kuchsiz (mos) | Qurilishgacha bo'lgan xaritalar va arxiv o'lchovlari |
+| | B. Loyqa bosgan kollektor sathni ko'taradi | Ta'mirdan keyin kollektor yaqinida sath chuqurlashadi | Chuqurlashish aniqlanmadi (zaif qarshi dalil) | Ta'mir oldidan va keyin o'zan holati va sarf o'lchovi |
+| Z.M.Bobur massivida sathning ko'tarilishi | A. Drenaj quvvatining yetishmasligi | Ko'tarilish sug'orish mavsumida kuchliroq | Qishda −0,16 m (−0,49 … +0,17), yozda −0,07 m (−0,29 … +0,15): noaniq | Massiv kollektorlarining oxiridagi sarf, o'zan ko'rigi |
+| | B. Sug'oriladigan maydon yoki ekin tarkibining o'zgarishi | Ko'tarilish yer foydalanish o'zgarishi bilan bir vaqtda | Tekshirilmagan | Masofadan zondlash (o'simlik indekslari), kontur jadvallari |
+| | C. Kuzatuv tarmog'i tarkibining o'zgarishi | Bir xil quduqlarda ko'tarilish yo'q | Barqaror panelda ham ko'tarilish (p = 0,024): qisman istisno qilingan | — |
+| Yil bo'yi o'zgarmas qatorlar | A. Quruq quduqda shartli qiymat yozilishi | O'zgarmas qator quduq tubigacha zaxira kichik bo'lganda | Zaxira 0,5 m dan kam: 44 %, 1,5–2,0 m: 2 %; OR = 0,31 / m (mos) | Quduqlarni chuqurlashtirish va natijani kuzatish |
+| | B. Kuzatuvchining hisobot amaliyoti | O'zgarmas qatorlar zaxiradan qat'i nazar to'planadi | Zaxira 2 m dan katta quduqlarda ham 9 % (qisman) | Kuzatuvchilar bo'yicha tahlil |
+
+Izoh: «mos» — dalil izohga zid emas, lekin uni isbotlamaydi; raqib izohlar bir vaqtda ta'sir qilishi mumkin. Tekshiruvlar: 57-skript (results/hypothesis_checks.json).
+

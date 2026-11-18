@@ -212,7 +212,7 @@ Tadqiqot natijalarining amaliy ahamiyati suv xoʻjaligi tashkilotlariga monitori
 
 **Tadqiqot natijalarining eʼlon qilinganligi.** Dissertatsiya mavzusi boʻyicha jami [\[soni\]]{custom-style="Toldirish"} ta ilmiy ish chop etilgan, shulardan Oʻzbekiston Respublikasi Oliy attestatsiya komissiyasining dissertatsiyalar asosiy ilmiy natijalarini chop etish tavsiya etilgan ilmiy nashrlarida [\[soni\]]{custom-style="Toldirish"} ta maqola, jumladan [\[soni\]]{custom-style="Toldirish"} tasi respublika va [\[soni\]]{custom-style="Toldirish"} tasi xorijiy jurnallarda nashr etilgan.
 
-**Dissertatsiyaning tuzilishi va hajmi.** Dissertatsiya kirish, toʻrtta bob, umumiy xulosalar, 137 nomdagi foydalanilgan adabiyotlar roʻyxati va ilovalardan iborat. Dissertatsiyaning asosiy matni 120 betni tashkil etadi, unda 11 ta jadval, 16 ta rasm (shundan 14 tasi GAT asosida tuzilgan xarita va sxema) va 21 ta formula keltirilgan; yordamchi jadval va rasmlar 51 ta ilovada berilgan.
+**Dissertatsiyaning tuzilishi va hajmi.** Dissertatsiya kirish, toʻrtta bob, umumiy xulosalar, 137 nomdagi foydalanilgan adabiyotlar roʻyxati va ilovalardan iborat. Dissertatsiyaning asosiy matni 120 betni tashkil etadi, unda 11 ta jadval, 16 ta rasm (shundan 14 tasi GAT asosida tuzilgan xarita va sxema) va 21 ta formula keltirilgan; yordamchi jadval va rasmlar 52 ta ilovada berilgan.
 
 Birinchi bobda meliorativ tizimlar ishonchliligi va samaradorligini baholashning mavjud usullari, meliorativ monitoringda GAT va geostatistik usullarning qoʻllanilishi tahlil qilingan, hal etilmagan masalalar aniqlangan hamda tadqiqotning maqsad va vazifalari belgilangan.
 
@@ -798,7 +798,7 @@ Maʼlumotlar 2.4-§ da bayon etilgan uchta qoida boʻyicha tekshirildi: yil ichi
 
 **Yil ichidagi oʻzgarmaslik.** 270 ta quduq-yilda (9 107 ta oʻlchov) yil davomidagi barcha qiymatlar bir xil. Sugʻoriladigan hududda sath mavsumiy tebranadi (3.2-§), shuning uchun bunday qator haqiqiy oʻlchov emas. Oʻzgarmas qatorlar 56 ta quduqda uchraydi, shundan 36 tasida kamida uch yil davomida.
 
-Oʻzgarmas qatorlarda yozilgan qiymatlarning oʻzi ularning tabiatini koʻrsatadi (17-ilova). Eng koʻp 3,0 m qiymati uchraydi (65 ta quduq-yil), undan keyin 2,8; 3,2 va 2,6 m. Bu yaxlit qiymatlar kuzatuv quduqlarining odatiy chuqurligiga mos keladi (2.2-§). Pasporti bor quduqlar boʻyicha tekshirilganda oʻzgarmas qatorlarning 53 foizida yozilgan qiymat quduq chuqurligidan 0,3 m dan kam farq qiladi; farqning medianasi 0,25 m. Oʻzgarmas qatorlarning yarmidan koʻpida quduq qurigan holatda uning chuqurligi yoki shunga yaqin shartli qiymat yozilgan.
+Oʻzgarmas qatorlarda yozilgan qiymatlarning oʻzi ularning tabiatini koʻrsatadi (17-ilova). Eng koʻp 3,0 m qiymati uchraydi (65 ta quduq-yil), undan keyin 2,8; 3,2 va 2,6 m. Bu yaxlit qiymatlar kuzatuv quduqlarining odatiy chuqurligiga mos keladi (2.2-§). Pasporti bor quduqlar boʻyicha tekshirilganda oʻzgarmas qatorlarning 53 foizida yozilgan qiymat quduq chuqurligidan 0,3 m dan kam farq qiladi; farqning medianasi 0,25 m. Oʻzgarmas qatorlarning yarmidan koʻpida quduq qurigan holatda uning chuqurligi yoki shunga yaqin shartli qiymat yozilgan. Bu izohni raqib izoh — kuzatuvchining hisobot amaliyoti bilan ajratish uchun oʻzgarmas qator ehtimoli quduq tubigacha zaxira (pasport chuqurligi va oʻsha quduqning oʻzgaruvchan yillardagi oʻrtacha sathi farqi) bilan solishtirildi. Zaxira 0,5 m dan kam boʻlgan quduq-yillarning 44 foizida qator oʻzgarmas, zaxira 1,5–2,0 m boʻlganda esa 2 foizida; zaxiraning har 1 m ortishi oʻzgarmas qator ehtimoli nisbatini 0,31 ga kamaytiradi (p < 0,001), massiv omili hisobga olinganda ham 0,41 ga (1 924 ta quduq-yil). Shu bilan birga zaxirasi 2 m dan katta quduqlarda ham 9 foiz oʻzgarmas qator bor, yaʼni ularning bir qismi hisobot amaliyoti bilan bogʻliq.
 
 **Kesilgan qiymatlar.** Oʻzgarmas qatorlardan tashqari, oʻzgaruvchan qatorlarda ham quduq qurigan holatlar uchraydi: bir necha oʻn kunlik davomida sath quduq tubiga yetib, keyin yana koʻtariladi. Pasportda chuqurligi koʻrsatilgan quduqlarning yaroqli oʻlchovlari orasida 5 326 tasi (8,2 foiz) quduq chuqurligidan 0,1 m dan kamroq farq qiladi. Bu oʻlchovlar haqiqiy sathni emas, «sath quduq tubidan chuqur» degan holatni aks ettiradi. Kesilgan oʻlchovlar 2018-yildan keyin keskin koʻpaygan: 2009–2016-yillarda yiliga 29–155 ta, 2018–2024-yillarda 500–1 023 ta.
 
@@ -1469,11 +1469,12 @@ Samarani soʻmda toʻliq ifodalash uchun taʼmir turlarining haqiqiy meliorativ 
 13. Massivlar meliorativ xavf, drenaj tarmogʻi holati va xarajatlar boʻyicha uchta ustuvorlik guruhiga ajratildi: birinchi navbatda Z.M.Bobur va Istiqlol massivlarida drenaj tarmogʻining texnik holatini tekshirish va taʼmir qilish, Mashʼal massivida esa sugʻorish samaradorligini oshirish va minerallashuv monitoringini tiklash tavsiya etiladi.
 14. Monitoring tizimini takomillashtirish boʻyicha 15 ta tavsiya ishlab chiqildi: maʼlumotlarni majburiy tekshirish, quruq quduqlarni maxsus belgilash, sath chuqur hududlarda kuzatuv quduqlarini chuqurlashtirish, yangi quduqlarni maqsadli joylashtirish, sayoz sath ehtimoli xaritalaridan foydalanish, kollektorlarda sarfni oʻlchash, taʼmir va nosozliklar daftarini yuritish, taʼmir navbatini holat va xavf boʻyicha aniqlash va boshqalar. Tavsiyalarning toʻqqiztasi qoʻshimcha mablagʻ talab qilmaydi. Ularni amalga oshirish uchun dissertatsiyada yaratilgan geomaʼlumotlar bazasi va takrorlanadigan hisob dasturlari asos boʻladi.
 
-**Tadqiqotni davom ettirish yoʻnalishlari:**
+**Tadqiqotni davom ettirish yoʻnalishlari.** Dissertatsiyadagi bir nechta kuzatish uchun raqib izohlarni mavjud maʼlumotlar bilan toʻliq ajratib boʻlmaydi. Ular, ajratuvchi bashoratlar va zarur maʼlumotlar 52-ilovada keltirilgan. Shunga koʻra keyingi tadqiqotlar quyidagi yoʻnalishlarda olib borilishi kerak:
 
-- sayoz sath ehtimoli va shoʻrlanish xavfi xaritalarini Andijon viloyatining barcha tumanlari uchun tuzish (monitoring jadvallari butun viloyat boʻyicha mavjud va tekshirilgan);
-- masofadan zondlash maʼlumotlari (shoʻrlanish va oʻsimlik indekslari) bilan monitoring maʼlumotlarini mustaqil tekshirish;
+- sathning 2016–2018-yillardagi pogʻonali chuqurlashishini sugʻorish suvi hajmi, iqlim anomaliyalari va oʻlchash tartibi oʻzgarishidan qaysi biri belgilaganini yillik suv olish va meteorologik qatorlar bilan aniqlash;
 - taʼmirni bosqichma-bosqich oʻtkazish va juft quduqlar orqali uning mahalliy va hududiy taʼsirini oʻlchash;
+- Z.M.Bobur massividagi sath koʻtarilishining sababini (drenaj quvvati yoki yer foydalanish oʻzgarishi) kollektorlarda sarfni oʻlchash va masofadan zondlash maʼlumotlari bilan aniqlash;
+- sayoz sath ehtimoli va shoʻrlanish xavfi xaritalarini Andijon viloyatining barcha tumanlari uchun tuzish;
 - kollektorlar kesimi va sarflarini oʻlchash asosida gidravlik hisobni aniqlashtirish;
 - xoʻjalik ichki zovurlarining raqamli qatlamini yaratish.
 
@@ -2652,3 +2653,27 @@ Izoh: qayta hisoblash isteʼmol narxlari indeksi boʻyicha (4.4-§); taʼmir yil
 | 150 / 100 | 0,055 | 0,43 | 0,78 | 0,96 | 1,00 |
 
 Izoh: jadvalda quvvat (taʼsirni aniqlash ehtimoli) berilgan; Monte Karlo xatosi ±0,03 dan oshmaydi. Δ = 0 da (36 / 49) birinchi tur xato 0,050 (95 % oraliq 0,041–0,060). Simulyatsiya haqiqiy quduq qatorlarini qayta tanlashga asoslangan, shuning uchun taʼsir mahalliy va quduqlar mustaqil degan faraz saqlanadi.
+
+## 52-ilova
+
+
+::: {custom-style="Sarlavha-jadval"}
+**Asosiy kuzatishlarning raqib izohlari, ajratuvchi bashoratlar va ularning holati**
+:::
+
+| Kuzatish | Raqib izoh | Ajratuvchi bashorat | Mavjud dalil (holat) | Keyingi tekshiruv |
+| --- | --- | --- | --- | --- |
+| Sathning 2016–2018-yillardagi pogʻonali chuqurlashishi (0,30 m) | A. Hududiy suv taʼminoti va sugʻorish rejimining oʻzgarishi | Pogʻona suv olishning kamayishi bilan bir vaqtda va koʻp tumanlarda | 14 ta tumanning 12 tasida chuqurlashish (mos) | 2009–2024-yillar suv olish hajmlari bilan yillik regressiya |
+| | B. Kollektorlar taʼmiri | Kollektor yaqinida kuchliroq chuqurlashish | Uzoqdagi quduqlarda tezroq; taʼmirdan keyin chuqurlashish aniqlanmadi (qarshi, quvvat past) | Bosqichma-bosqich taʼmir va juft quduqlar |
+| | C. 2018-yilda oʻlchash tartibining oʻzgarishi | Pogʻona barcha quduqlarda bir yilda, mavsumiy yoʻl shakli oʻzgaradi | Barqaror panelda ham pogʻona bor (A va C ni ajratmaydi) | Kuzatuvchi jurnallari, nazorat oʻlchovlari |
+| | D. Yogʻin va bugʻlanish anomaliyasi | Pogʻona iqlim anomaliyasi bilan bir vaqtda | Tekshirilmagan: faqat koʻp yillik normalar mavjud | 2009–2024-yillar meteorologik qatorlari |
+| Kollektorga yaqin joyda sath sayozroq | A. Teskari bogʻliqlik: kollektorlar zax joylarga qurilgan | Bogʻlanish qurilishdan oldin ham boʻlgan; massiv ichida saqlanadi | Massiv ichida saqlanadi; relyef kuchsiz (mos) | Qurilishgacha boʻlgan xaritalar va arxiv oʻlchovlari |
+| | B. Loyqa bosgan kollektor sathni koʻtaradi | Taʼmirdan keyin kollektor yaqinida sath chuqurlashadi | Chuqurlashish aniqlanmadi (zaif qarshi dalil) | Taʼmir oldidan va keyin oʻzan holati va sarf oʻlchovi |
+| Z.M.Bobur massivida sathning koʻtarilishi | A. Drenaj quvvatining yetishmasligi | Koʻtarilish sugʻorish mavsumida kuchliroq | Qishda −0,16 m (−0,49 … +0,17), yozda −0,07 m (−0,29 … +0,15): noaniq | Massiv kollektorlarining oxiridagi sarf, oʻzan koʻrigi |
+| | B. Sugʻoriladigan maydon yoki ekin tarkibining oʻzgarishi | Koʻtarilish yer foydalanish oʻzgarishi bilan bir vaqtda | Tekshirilmagan | Masofadan zondlash (oʻsimlik indekslari), kontur jadvallari |
+| | C. Kuzatuv tarmogʻi tarkibining oʻzgarishi | Bir xil quduqlarda koʻtarilish yoʻq | Barqaror panelda ham koʻtarilish (p = 0,024): qisman istisno qilingan | — |
+| Yil boʻyi oʻzgarmas qatorlar | A. Quruq quduqda shartli qiymat yozilishi | Oʻzgarmas qator quduq tubigacha zaxira kichik boʻlganda | Zaxira 0,5 m dan kam: 44 %, 1,5–2,0 m: 2 %; OR = 0,31 / m (mos) | Quduqlarni chuqurlashtirish va natijani kuzatish |
+| | B. Kuzatuvchining hisobot amaliyoti | Oʻzgarmas qatorlar zaxiradan qatʼi nazar toʻplanadi | Zaxira 2 m dan katta quduqlarda ham 9 % (qisman) | Kuzatuvchilar boʻyicha tahlil |
+
+Izoh: «mos» — dalil izohga zid emas, lekin uni isbotlamaydi; raqib izohlar bir vaqtda taʼsir qilishi mumkin. Tekshiruvlar: 57-skript (results/hypothesis_checks.json).
+
