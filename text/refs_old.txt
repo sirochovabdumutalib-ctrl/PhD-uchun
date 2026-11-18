@@ -10,8 +10,8 @@
 10. Abrol I.P., Yadav J.S.P., Massoud F.I. Salt-Affected Soils and Their Management. FAO Soils Bulletin 39. – Rome: FAO, 1988. – 131 p.
 11. Akinci H., Özalp A.Y., Turgut B. Agricultural land use suitability analysis using GIS and AHP technique // Computers and Electronics in Agriculture. – 2013. – Vol. 97. – P. 71–82.
 12. Akramkhanov A., Lamers J.P.A., Martius C. Conversion factors to estimate soil salinity from electrical conductivity measurements. – Aleppo: ICARDA, 2010.
-13. Akramkhanov A., Vlek P.L.G. The assessment of spatial distribution of soil salinity risk using neural network // Environmental Monitoring and Assessment. – 2012. – Vol. 184, No. 4. – P. 2475–2485.
-14. Allbed A., Kumar L. Soil salinity mapping and monitoring in arid and semi-arid regions using remote sensing technology: a review // Advances in Remote Sensing. – 2013. – Vol. 2, No. 4. – P. 373–385.
+13. Akramkhanov A., Vlek P.L.G. The assessment of spatial distribution of soil salinity risk using neural network // Environmental Monitoring and Assessment. – 2012. – Vol. 184, No. 4. – P. 2475–2485. – https://doi.org/10.1007/s10661-011-2132-5
+14. Allbed A., Kumar L. Soil salinity mapping and monitoring in arid and semi-arid regions using remote sensing technology: a review // Advances in Remote Sensing. – 2013. – Vol. 2, No. 4. – P. 373–385. – https://doi.org/10.4236/ars.2013.24040
 15. Allen R.G., Pereira L.S., Raes D., Smith M. Crop Evapotranspiration: Guidelines for Computing Crop Water Requirements. FAO Irrigation and Drainage Paper 56. – Rome: FAO, 1998. – 300 p.
 16. Anselin L. Local indicators of spatial association –- LISA // Geographical Analysis. – 1995. – Vol. 27, No. 2. – P. 93–115.
 17. Ayers R.S., Westcot D.W. Water Quality for Agriculture. FAO Irrigation and Drainage Paper 29 (Rev. 1). – Rome: FAO, 1985. – 174 p.
@@ -22,84 +22,84 @@
 22. Burgess T.M., Webster R. Optimal interpolation and isarithmic mapping of soil properties. I. The semi-variogram and punctual kriging // Journal of Soil Science. – 1980. – Vol. 31, No. 2. – P. 315–331.
 23. Burrough P.A., McDonnell R.A. Principles of Geographical Information Systems. – Oxford: Oxford University Press, 1998. – 333 p.
 24. Burrough P.A., McDonnell R.A., Lloyd C.D. Principles of Geographical Information Systems. – 3rd ed. – Oxford: Oxford University Press, 2015. – 352 p.
-25. Cambardella C.A., Moorman T.B., Novak J.M. et al. Field-scale variability of soil properties in central Iowa soils // Soil Science Society of America Journal. – 1994. – Vol. 58, No. 5. – P. 1501–1511.
+25. Cambardella C.A., Moorman T.B., Novak J.M. et al. Field-scale variability of soil properties in central Iowa soils // Soil Science Society of America Journal. – 1994. – Vol. 58, No. 5. – P. 1501–1511. – https://doi.org/10.2136/sssaj1994.03615995005800050033x
 26. Chilès J.-P., Delfiner P. Geostatistics: Modeling Spatial Uncertainty. – 2nd ed. – Hoboken: John Wiley & Sons, 2012. – 699 p.
-27. Corwin D.L., Lesch S.M. Apparent soil electrical conductivity measurements in agriculture // Computers and Electronics in Agriculture. – 2005. – Vol. 46, No. 1–3. – P. 11–43.
-28. Corwin D.L., Scudiero E. Review of soil salinity assessment for agriculture across multiple scales using proximal and/or remote sensors // Advances in Agronomy. – 2019. – Vol. 158. – P. 1–130.
+27. Corwin D.L., Lesch S.M. Apparent soil electrical conductivity measurements in agriculture // Computers and Electronics in Agriculture. – 2005. – Vol. 46, No. 1–3. – P. 11–43. – https://doi.org/10.1016/j.compag.2004.10.005
+28. Corwin D.L., Scudiero E. Review of soil salinity assessment for agriculture across multiple scales using proximal and/or remote sensors // Advances in Agronomy. – 2019. – Vol. 158. – P. 1–130. – https://doi.org/10.1016/bs.agron.2019.07.001
 29. Cressie N.A.C. Statistics for Spatial Data. – Rev. ed. – New York: John Wiley & Sons, 1993. – 900 p.
 30. Densham P.J. Spatial decision support systems // Geographical Information Systems: Principles and Applications. – London: Longman, 1991. – P. 403–412.
 31. Deutsch C.V., Journel A.G. GSLIB: Geostatistical Software Library and User's Guide. – 2nd ed. – New York: Oxford University Press, 1998. – 369 p.
 32. Doorenbos J., Pruitt W.O. Crop Water Requirements. FAO Irrigation and Drainage Paper 24. – Rome: FAO, 1977. – 144 p.
 33. Eastman J.R. Multi-criteria evaluation and GIS // Geographical Information Systems: Principles, Techniques, Management and Applications. – New York: John Wiley & Sons, 1999. – P. 493–502.
 34. Ernst L.F. Groundwater flow in the saturated zone and its calculation when horizontal parallel open conduits are present. – Wageningen, 1962.
-35. Farifteh J., Farshad A., George R.J. Assessing salt-affected soils using remote sensing, solute modelling, and geophysics // Geoderma. – 2006. – Vol. 130, No. 3–4. – P. 191–206.
+35. Farifteh J., Farshad A., George R.J. Assessing salt-affected soils using remote sensing, solute modelling, and geophysics // Geoderma. – 2006. – Vol. 130, No. 3–4. – P. 191–206. – https://doi.org/10.1016/j.geoderma.2005.02.003
 36. Farr T.G., Rosen P.A., Caro E. et al. The Shuttle Radar Topography Mission // Reviews of Geophysics. – 2007. – Vol. 45, No. 2. – RG2004.
-37. Forkutsa I., Sommer R., Shirokova Y.I. et al. Modeling irrigated cotton with shallow groundwater in the Aral Sea Basin of Uzbekistan // Irrigation Science. – 2009. – Vol. 27, No. 4. – P. 331–346.
+37. Forkutsa I., Sommer R., Shirokova Y.I. et al. Modeling irrigated cotton with shallow groundwater in the Aral Sea Basin of Uzbekistan // Irrigation Science. – 2009. – Vol. 27, No. 4. – P. 331–346. – https://doi.org/10.1007/s00271-009-0148-1
 38. Freeze R.A., Cherry J.A. Groundwater. – Englewood Cliffs: Prentice-Hall, 1979. – 604 p.
 39. Geary R.C. The contiguity ratio and statistical mapping // The Incorporated Statistician. – 1954. – Vol. 5, No. 3. – P. 115–146.
 40. Getis A., Ord J.K. The analysis of spatial association by use of distance statistics // Geographical Analysis. – 1992. – Vol. 24, No. 3. – P. 189–206.
 41. Ghassemi F., Jakeman A.J., Nix H.A. Salinisation of Land and Water Resources: Human Causes, Extent, Management and Case Studies. – Sydney: University of New South Wales Press, 1995. – 526 p.
 42. Gini C. Variabilità e mutabilità: contributo allo studio delle distribuzioni e delle relazioni statistiche. – Bologna: Tipografia di Paolo Cuppini, 1912.
-43. Goodchild M.F. Geographical information science // International Journal of Geographical Information Systems. – 1992. – Vol. 6, No. 1. – P. 31–45.
+43. Goodchild M.F. Geographical information science // International Journal of Geographical Information Systems. – 1992. – Vol. 6, No. 1. – P. 31–45. – https://doi.org/10.1080/02693799208901893
 44. Goovaerts P. Geostatistics for Natural Resources Evaluation. – New York: Oxford University Press, 1997. – 483 p.
 45. Guptill S.C., Morrison J.L. (eds.). Elements of Spatial Data Quality. – Oxford: Elsevier, 1995. – 202 p.
-46. Hamed K.H., Rao A.R. A modified Mann-Kendall trend test for autocorrelated data // Journal of Hydrology. – 1998. – Vol. 204, No. 1–4. – P. 182–196.
+46. Hamed K.H., Rao A.R. A modified Mann-Kendall trend test for autocorrelated data // Journal of Hydrology. – 1998. – Vol. 204, No. 1–4. – P. 182–196. – https://doi.org/10.1016/s0022-1694(97)00125-x
 47. Helsel D.R., Hirsch R.M. Statistical Methods in Water Resources. – Amsterdam: Elsevier, 1992. – 522 p.
 48. Hengl T. A Practical Guide to Geostatistical Mapping. – Amsterdam, 2009. – 291 p.
-49. Hirsch R.M., Slack J.R., Smith R.A. Techniques of trend analysis for monthly water quality data // Water Resources Research. – 1982. – Vol. 18, No. 1. – P. 107–121.
+49. Hirsch R.M., Slack J.R., Smith R.A. Techniques of trend analysis for monthly water quality data // Water Resources Research. – 1982. – Vol. 18, No. 1. – P. 107–121. – https://doi.org/10.1029/wr018i001p00107
 50. Hirschman A.O. The paternity of an index // The American Economic Review. – 1964. – Vol. 54, No. 5. – P. 761–762.
 51. Hooghoudt S.B. Bijdragen tot de kennis van eenige natuurkundige grootheden van den grond. – Verslagen van Landbouwkundige Onderzoekingen, 1940. – No. 46. – P. 515–707.
 52. Hwang C.-L., Yoon K. Multiple Attribute Decision Making: Methods and Applications. – Berlin: Springer, 1981. – 269 p.
-53. Ibrakhimov M., Khamzina A., Forkutsa I. et al. Groundwater table and salinity: Spatial and temporal distribution and influence on soil salinization in Khorezm region (Uzbekistan, Aral Sea Basin) // Irrigation and Drainage Systems. – 2007. – Vol. 21, No. 3–4. – P. 219–236.
+53. Ibrakhimov M., Khamzina A., Forkutsa I. et al. Groundwater table and salinity: Spatial and temporal distribution and influence on soil salinization in Khorezm region (Uzbekistan, Aral Sea Basin) // Irrigation and Drainage Systems. – 2007. – Vol. 21, No. 3–4. – P. 219–236. – https://doi.org/10.1007/s10795-007-9033-3
 54. Isaaks E.H., Srivastava R.M. An Introduction to Applied Geostatistics. – New York: Oxford University Press, 1989. – 561 p.
 55. Jenks G.F. The data model concept in statistical mapping // International Yearbook of Cartography. – 1967. – Vol. 7. – P. 186–190.
 56. Jensen J.R. Remote Sensing of the Environment: An Earth Resource Perspective. – 2nd ed. – Upper Saddle River: Prentice Hall, 2007. – 592 p.
 57. Jenson S.K., Domingue J.O. Extracting topographic structure from digital elevation data for geographic information system analysis // Photogrammetric Engineering and Remote Sensing. – 1988. – Vol. 54, No. 11. – P. 1593–1600.
 58. Journel A.G., Huijbregts C.J. Mining Geostatistics. – London: Academic Press, 1978. – 600 p.
 59. Kendall M.G. Rank Correlation Methods. – 4th ed. – London: Charles Griffin, 1975. – 202 p.
-60. Kenjabaev Sh., Sultanov M., Bauer Ch., Abduraimova D., Akhmedkhodjaeva I., Ibragimova Z. Assessment of the land reclamation condition using GIS techniques and environmental variables: case study in Kulavat canal irrigation system, Khorezm // InterCarto. InterGIS. GI support of sustainable development of territories: Proceedings of the International Conference. – Moscow: Moscow University Press, 2020. – Vol. 26, Part 3. – P. 264–270. – DOI: 10.35595/2414-9179-2020-3-26-264-270.
+60. Kenjabaev Sh., Sultanov M., Bauer Ch., Abduraimova D., Akhmedkhodjaeva I., Ibragimova Z. Assessment of the land reclamation condition using GIS techniques and environmental variables: case study in Kulavat canal irrigation system, Khorezm // InterCarto. InterGIS. GI support of sustainable development of territories: Proceedings of the International Conference. – Moscow: Moscow University Press, 2020. – Vol. 26, Part 3. – P. 264–270. – https://doi.org/10.35595/2414-9179-2020-3-26-264-270
 61. Kenjabaev Sh., Sultonov M. Estimation of groundwater contribution to crop water use in Kulavat irrigation command area in Khorezm, Uzbekistan // International Journal of Agricultural Policy and Research. – 2016. – Vol. 4, No. 11. – P. 249–255.
 62. Kirkham D. Theory of land drainage // Drainage of Agricultural Lands. – Madison: American Society of Agronomy, 1957. – P. 139–181.
 63. Krige D.G. A statistical approach to some basic mine valuation problems on the Witwatersrand // Journal of the Chemical, Metallurgical and Mining Society of South Africa. – 1951. – Vol. 52, No. 6. – P. 119–139.
-64. Kulmatov R. Problems of sustainable use and management of water and land resources in Uzbekistan // Journal of Water Resource and Protection. – 2014. – Vol. 6, No. 1. – P. 35–42.
-65. Li J., Heap A.D. A review of comparative studies of spatial interpolation methods in environmental sciences // Ecological Informatics. – 2011. – Vol. 6, No. 3–4. – P. 228–241.
+64. Kulmatov R. Problems of sustainable use and management of water and land resources in Uzbekistan // Journal of Water Resource and Protection. – 2014. – Vol. 6, No. 1. – P. 35–42. – https://doi.org/10.4236/jwarp.2014.61006
+65. Li J., Heap A.D. A review of comparative studies of spatial interpolation methods in environmental sciences: Performance and impact factors // Ecological Informatics. – 2011. – Vol. 6, No. 3–4. – P. 228–241. – https://doi.org/10.1016/j.ecoinf.2010.12.003
 66. Longley P.A., Goodchild M.F., Maguire D.J., Rhind D.W. Geographic Information Systems and Science. – 2nd ed. – Chichester: John Wiley & Sons, 2005. – 517 p.
 67. Lorenz M.O. Methods of measuring the concentration of wealth // Publications of the American Statistical Association. – 1905. – Vol. 9, No. 70. – P. 209–219.
 68. Luthin J.N. Drainage Engineering. – New York: John Wiley & Sons, 1966. – 250 p.
-69. Maas E.V., Hoffman G.J. Crop salt tolerance –- current assessment // Journal of the Irrigation and Drainage Division, ASCE. – 1977. – Vol. 103, No. 2. – P. 115–134.
+69. Maas E.V., Hoffman G.J. Crop salt tolerance – current assessment // Journal of the Irrigation and Drainage Division, ASCE. – 1977. – Vol. 103, No. 2. – P. 115–134. – https://doi.org/10.1061/JRCEA4.0001137
 70. Malczewski J. GIS and Multicriteria Decision Analysis. – New York: John Wiley & Sons, 1999. – 392 p.
-71. Malczewski J. GIS-based multicriteria decision analysis: a survey of the literature // International Journal of Geographical Information Science. – 2006. – Vol. 20, No. 7. – P. 703–726.
+71. Malczewski J. GIS-based multicriteria decision analysis: a survey of the literature // International Journal of Geographical Information Science. – 2006. – Vol. 20, No. 7. – P. 703–726. – https://doi.org/10.1080/13658810600661508
 72. Malczewski J., Rinner C. Multicriteria Decision Analysis in Geographic Information Science. – Berlin: Springer, 2015. – 331 p.
-73. Mann H.B. Nonparametric tests against trend // Econometrica. – 1945. – Vol. 13, No. 3. – P. 245–259.
-74. Matheron G. Principles of geostatistics // Economic Geology. – 1963. – Vol. 58, No. 8. – P. 1246–1266.
+73. Mann H.B. Nonparametric tests against trend // Econometrica. – 1945. – Vol. 13, No. 3. – P. 245–259. – https://doi.org/10.2307/1907187
+74. Matheron G. Principles of geostatistics // Economic Geology. – 1963. – Vol. 58, No. 8. – P. 1246–1266. – https://doi.org/10.2113/gsecongeo.58.8.1246
 75. McDonald M.G., Harbaugh A.W. A Modular Three-Dimensional Finite-Difference Ground-Water Flow Model. – Reston: U.S. Geological Survey, 1988.
-76. Metternicht G.I., Zinck J.A. Remote sensing of soil salinity: potentials and constraints // Remote Sensing of Environment. – 2003. – Vol. 85, No. 1. – P. 1–20.
+76. Metternicht G.I., Zinck J.A. Remote sensing of soil salinity: potentials and constraints // Remote Sensing of Environment. – 2003. – Vol. 85, No. 1. – P. 1–20. – https://doi.org/10.1016/s0034-4257(02)00188-8
 77. Moore I.D., Grayson R.B., Ladson A.R. Digital terrain modelling: a review of hydrological, geomorphological, and biological applications // Hydrological Processes. – 1991. – Vol. 5, No. 1. – P. 3–30.
 78. Moran P.A.P. Notes on continuous stochastic phenomena // Biometrika. – 1950. – Vol. 37, No. 1–2. – P. 17–23.
 79. Nardo M., Saisana M., Saltelli A. et al. Handbook on Constructing Composite Indicators: Methodology and User Guide. – Paris: OECD Publishing, 2008. – 158 p.
-80. Oliver M.A., Webster R. A tutorial guide to geostatistics: Computing and modelling variograms and kriging // Catena. – 2014. – Vol. 113. – P. 56–69.
-81. Oliver M.A., Webster R. Kriging: a method of interpolation for geographical information systems // International Journal of Geographical Information Systems. – 1990. – Vol. 4, No. 3. – P. 313–332.
+80. Oliver M.A., Webster R. A tutorial guide to geostatistics: Computing and modelling variograms and kriging // Catena. – 2014. – Vol. 113. – P. 56–69. – https://doi.org/10.1016/j.catena.2013.09.006
+81. Oliver M.A., Webster R. Kriging: a method of interpolation for geographical information systems // International Journal of Geographical Information Systems. – 1990. – Vol. 4, No. 3. – P. 313–332. – https://doi.org/10.1080/02693799008941549
 82. Oosterbaan R.J. SALTMOD: Description of Principles, User Manual and Examples of Application. – Wageningen: ILRI, 2000. – 68 p.
-83. Pereira L.S., Oweis T., Zairi A. Irrigation management under water scarcity // Agricultural Water Management. – 2002. – Vol. 57, No. 3. – P. 175–206.
-84. Pulatov A., Khamidov A., Akhmatov D., Pulatov B., Vasenev V. Soil salinity mapping by different interpolation methods in Mirzaabad district, Syrdarya Province // IOP Conference Series: Materials Science and Engineering. – 2020. – Vol. 883. – 012089. – DOI: 10.1088/1757-899X/883/1/012089.
-85. Qadir M., Ghafoor A., Murtaza G. Amelioration strategies for saline soils: a review // Land Degradation & Development. – 2000. – Vol. 11, No. 6. – P. 501–521.
-86. Rengasamy P. World salinization with emphasis on Australia // Journal of Experimental Botany. – 2006. – Vol. 57, No. 5. – P. 1017–1023.
+83. Pereira L.S., Oweis T., Zairi A. Irrigation management under water scarcity // Agricultural Water Management. – 2002. – Vol. 57, No. 3. – P. 175–206. – https://doi.org/10.1016/s0378-3774(02)00075-6
+84. Pulatov A., Khamidov A., Akhmatov D., Pulatov B., Vasenev V. Soil salinity mapping by different interpolation methods in Mirzaabad district, Syrdarya Province // IOP Conference Series: Materials Science and Engineering. – 2020. – Vol. 883. – Art. 012089. – https://doi.org/10.1088/1757-899X/883/1/012089
+85. Qadir M., Ghafoor A., Murtaza G. Amelioration strategies for saline soils: a review // Land Degradation & Development. – 2000. – Vol. 11, No. 6. – P. 501–521. – https://doi.org/10.1002/1099-145x(200011/12)11:6<501::aid-ldr405>3.0.co;2-s
+86. Rengasamy P. World salinization with emphasis on Australia // Journal of Experimental Botany. – 2006. – Vol. 57, No. 5. – P. 1017–1023. – https://doi.org/10.1093/jxb/erj108
 87. Rhoades J.D., Chanduvi F., Lesch S. Soil Salinity Assessment: Methods and Interpretation of Electrical Conductivity Measurements. FAO Irrigation and Drainage Paper 57. – Rome: FAO, 1999. – 150 p.
 88. Richards L.A. (ed.). Diagnosis and Improvement of Saline and Alkali Soils. USDA Agriculture Handbook No. 60. – Washington: U.S. Government Printing Office, 1954. – 160 p.
 89. Ritzema H.P. (ed.). Drainage Principles and Applications. ILRI Publication 16. – Wageningen: International Institute for Land Reclamation and Improvement, 2006. – 1125 p.
 90. Ritzema H.P., Nijland H.J., Croon F.W. Subsurface drainage practices: From manual analysis to computer-based design // Agricultural Water Management. – 2006. – Vol. 86, No. 1–2. – P. 60–71.
 91. Rouse J.W., Haas R.H., Schell J.A., Deering D.W. Monitoring vegetation systems in the Great Plains with ERTS // Third ERTS Symposium, NASA SP-351. – Washington, 1974. – Vol. 1. – P. 309–317.
-92. Saaty T.L. Decision making with the analytic hierarchy process // International Journal of Services Sciences. – 2008. – Vol. 1, No. 1. – P. 83–98.
-93. Saaty T.L. How to make a decision: The Analytic Hierarchy Process // European Journal of Operational Research. – 1990. – Vol. 48, No. 1. – P. 9–26.
+92. Saaty T.L. Decision making with the analytic hierarchy process // International Journal of Services Sciences. – 2008. – Vol. 1, No. 1. – P. 83–98. – https://doi.org/10.1504/ijssci.2008.017590
+93. Saaty T.L. How to make a decision: The Analytic Hierarchy Process // European Journal of Operational Research. – 1990. – Vol. 48, No. 1. – P. 9–26. – https://doi.org/10.1016/0377-2217(90)90057-i
 94. Saaty T.L. The Analytic Hierarchy Process: Planning, Priority Setting, Resource Allocation. – New York: McGraw-Hill, 1980. – 287 p.
 95. Saaty T.L., Vargas L.G. Models, Methods, Concepts and Applications of the Analytic Hierarchy Process. – 2nd ed. – New York: Springer, 2012. – 346 p.
 96. Saltelli A., Ratto M., Andres T. et al. Global Sensitivity Analysis: The Primer. – Chichester: John Wiley & Sons, 2008. – 292 p.
-97. Sen P.K. Estimates of the regression coefficient based on Kendall's tau // Journal of the American Statistical Association. – 1968. – Vol. 63, No. 324. – P. 1379–1389.
+97. Sen P.K. Estimates of the regression coefficient based on Kendall's tau // Journal of the American Statistical Association. – 1968. – Vol. 63, No. 324. – P. 1379–1389. – https://doi.org/10.1080/01621459.1968.10480934
 98. Shahid S.A., Zaman M., Heng L. Soil Salinity: Historical Perspectives and a World Overview of the Problem // Guideline for Salinity Assessment, Mitigation and Adaptation. – Cham: Springer, 2018. – P. 43–53.
 99. Shepard D. A two-dimensional interpolation function for irregularly-spaced data // Proceedings of the 23rd ACM National Conference. – New York, 1968. – P. 517–524.
 100. Singh A. Decision support for on-farm water management and long-term agricultural sustainability in a semi-arid region of India // Journal of Hydrology. – 2012. – Vol. 391, No. 1–2. – P. 63–76.
 101. Skaggs R.W. A water management model for shallow water table soils. – Raleigh: Water Resources Research Institute, 1978.
-102. Skaggs R.W., Youssef M.A., Chescheir G.M. DRAINMOD: Model use, calibration and validation // Transactions of the ASABE. – 2012. – Vol. 55, No. 4. – P. 1509–1522.
+102. Skaggs R.W., Youssef M.A., Chescheir G.M. DRAINMOD: Model use, calibration and validation // Transactions of the ASABE. – 2012. – Vol. 55, No. 4. – P. 1509–1522. – https://doi.org/10.13031/2013.42259
 103. Smedema L.K., Vlotman W.F., Rycroft D.W. Modern Land Drainage: Planning, Design and Management of Agricultural Drainage Systems. – Leiden: A.A. Balkema Publishers, 2004. – 446 p.
 104. Sys C., Van Ranst E., Debaveye J. Land Evaluation. Part I: Principles in Land Evaluation and Crop Production Calculations. Agricultural Publications No. 7. – Brussels: General Administration for Development Cooperation, 1991. – 274 p.
 105. Szabolcs I. Salt-Affected Soils. – Boca Raton: CRC Press, 1989. – 274 p.
@@ -133,8 +133,8 @@
 133. FAO. Global status of salt-affected soils – Main report. – Rome: FAO, 2024. – https://doi.org/10.4060/cd3044en
 134. O'zbekiston Respublikasi Prezidentining «“O'zbekiston — 2030” strategiyasi to'g'risida»gi PF-158-son Farmoni. – Toshkent, 2023-yil 11-sentabr. [Elektron resurs]. – URL: https://lex.uz
 135. O'zbekiston Respublikasi Prezidentining «O'zbekiston Respublikasida suv resurslarini boshqarish va irrigatsiya sektorini rivojlantirishning 2025–2028-yillarga mo'ljallangan dasturini tasdiqlash to'g'risida»gi PQ-250-son qarori. – Toshkent, 2025-yil 15-avgust. [Elektron resurs]. – URL: https://www.lex.uz/uz/docs/7686130
-136. Dukhovny V., Umarov P., Yakubov H., Madramootoo C.A. Drainage in the Aral Sea Basin // Irrigation and Drainage. – 2007. – Vol. 56, No. S1. – P. S91–S100.
-137. Okuda Y., Onishi J., Omori K., Oya T., Fukuo A., Kurvantaev R., Shirokova Y., Nasonov V.G. Current status and problems of the drainage system in Uzbekistan // Journal of Arid Land Studies. – 2015. – Vol. 25, No. 3. – P. 81–84.
+136. Dukhovny V., Umarov P., Yakubov H., Madramootoo C.A. Drainage in the Aral Sea Basin // Irrigation and Drainage. – 2007. – Vol. 56, No. S1. – P. S91–S100. – https://doi.org/10.1002/ird.367
+137. Okuda Y., Onishi J., Omori K., Oya T., Fukuo A., Kurvantaev R., Shirokova Y., Nasonov V.G. Current status and problems of the drainage system in Uzbekistan // Journal of Arid Land Studies. – 2015. – Vol. 25, No. 3. – P. 81–84. – https://doi.org/10.14976/jals.25.3_81
 138. Мирцхулава Ц.Е. Надёжность гидромелиоративных сооружений. – М.: Колос, 1974. – 424 с.
 139. Мирцхулава Ц.Е. О надёжности крупных каналов. – М.: Колос, 1981. – 318 с.
 140. Bos M.G., Burton M.A., Molden D.J. Irrigation and Drainage Performance Assessment: Practical Guidelines. – Wallingford: CABI Publishing, 2005. – 176 p.
@@ -142,19 +142,23 @@
 142. Tilekeyev K., Kirbasheva D. Rehabilitating the Irrigation Canals in Southern Kyrgyzstan: An Impact Evaluation Study. Working Paper No. 69. – Bishkek: University of Central Asia, 2022.
 143. Angrist J.D., Pischke J.-S. Mostly Harmless Econometrics: An Empiricist's Companion. – Princeton: Princeton University Press, 2009. – 373 p.
 144. ГОСТ 27.002-2015. Надёжность в технике. Термины и определения. – М.: Стандартинформ, 2016.
-145. Loáiciga H.A., Charbeneau R.J., Everett L.G., Fogg G.E., Hobbs B.F., Rouhani S. Review of ground-water quality monitoring network design // Journal of Hydraulic Engineering. – 1992. – Vol. 118, No. 1. – P. 11–37.
+145. Loáiciga H.A., Charbeneau R.J., Everett L.G., Fogg G.E., Hobbs B.F., Rouhani S. Review of ground-water quality monitoring network design // Journal of Hydraulic Engineering. – 1992. – Vol. 118, No. 1. – P. 11–37. – https://doi.org/10.1061/(ASCE)0733-9429(1992)118:1(11)
 146. Hamidov A., Khamidov M., Ishchanov J. Impact of climate change on groundwater management in the northwestern part of Uzbekistan // Agronomy. – 2020. – Vol. 10, No. 8. – Art. 1173. – https://doi.org/10.3390/agronomy10081173
-147. Kholdorov Sh., Lakshmi G., Jabbarov Z., Yamaguchi T., Yamashita M., Samatov N., Katsura K. Analysis of irrigated salt-affected soils in the Central Fergana Valley, Uzbekistan, using Landsat 8 and Sentinel-2 satellite images, laboratory studies, and spectral index-based approaches // Eurasian Soil Science. – 2023. – Vol. 56, No. 8. – P. 1178–1189.
-148. Wang J., Khan S., O'Connell N. Quantifying rainfall and flooding impacts on groundwater levels in irrigation areas: GIS approach // Journal of Irrigation and Drainage Engineering. – 2007. – Vol. 133, No. 4. – P. 359–367.
+147. Kholdorov Sh., Lakshmi G., Jabbarov Z., Yamaguchi T., Yamashita M., Samatov N., Katsura K. Analysis of irrigated salt-affected soils in the Central Fergana Valley, Uzbekistan, using Landsat 8 and Sentinel-2 satellite images, laboratory studies, and spectral index-based approaches // Eurasian Soil Science. – 2023. – Vol. 56, No. 8. – P. 1178–1189. – https://doi.org/10.1134/s1064229323600185
+148. Wang J., Khan S., O'Connell N. Quantifying rainfall and flooding impacts on groundwater levels in irrigation areas: GIS approach // Journal of Irrigation and Drainage Engineering. – 2007. – Vol. 133, No. 4. – P. 359–367. – https://doi.org/10.1061/(asce)0733-9437(2007)133:4(359)
 149. World Meteorological Organization. Guide to Hydrological Practices. Vol. I: Hydrology – From Measurement to Hydrological Information. WMO-No. 168. – 6th ed. – Geneva: WMO, 2008.
-150. Pettitt A.N. A non-parametric approach to the change-point problem // Journal of the Royal Statistical Society. Series C (Applied Statistics). – 1979. – Vol. 28, No. 2. – P. 126–135.
-151. Alexandersson H. A homogeneity test applied to precipitation data // Journal of Climatology. – 1986. – Vol. 6, No. 6. – P. 661–675.
+150. Pettitt A.N. A non-parametric approach to the change-point problem // Journal of the Royal Statistical Society. Series C (Applied Statistics). – 1979. – Vol. 28, No. 2. – P. 126–135. – https://doi.org/10.2307/2346729
+151. Alexandersson H. A homogeneity test applied to precipitation data // Journal of Climatology. – 1986. – Vol. 6, No. 6. – P. 661–675. – https://doi.org/10.1002/joc.3370060607
 152. Helsel D.R. Nondetects and Data Analysis: Statistics for Censored Environmental Data. – Hoboken: John Wiley & Sons, 2005. – 250 p.
 153. Marhamat District // Wikipedia. [Elektron resurs]. – URL: https://en.wikipedia.org/wiki/Marhamat_District (murojaat sanasi: 16.11.2026); Мархаматский район // Википедия. – URL: https://ru.wikipedia.org/wiki/Мархаматский_район
 154. Андижан: климат (данные 1961–1990 гг.) // Метео-ТВ. [Elektron resurs]. – URL: https://meteo-tv.ru/uzbekistan/andizhan/weather/climate/ (murojaat sanasi: 16.11.2026)
 155. Marhamat tumani meliorativ tizimi: interaktiv xarita // GIS Cloud. [Elektron resurs]. – URL: https://editor.giscloud.com/map/3370958 (yaratilgan sana: 16.11.2026)
-156. Goodman-Bacon A. Difference-in-differences with variation in treatment timing // Journal of Econometrics. – 2021. – Vol. 225, No. 2. – P. 254–277.
-157. Roth J., Sant'Anna P.H.C., Bilinski A., Poe J. What's trending in difference-in-differences? A synthesis of the recent econometrics literature // Journal of Econometrics. – 2023. – Vol. 235, No. 2. – P. 2218–2244.
+156. Goodman-Bacon A. Difference-in-differences with variation in treatment timing // Journal of Econometrics. – 2021. – Vol. 225, No. 2. – P. 254–277. – https://doi.org/10.1016/j.jeconom.2021.03.014
+157. Roth J., Sant'Anna P.H.C., Bilinski A., Poe J. What's trending in difference-in-differences? A synthesis of the recent econometrics literature // Journal of Econometrics. – 2023. – Vol. 235, No. 2. – P. 2218–2244. – https://doi.org/10.1016/j.jeconom.2023.03.008
 158. Copernicus DEM – Global and European Digital Elevation Model (COP-DEM), GLO-30 // European Space Agency. [Elektron resurs]. – URL: https://doi.org/10.5270/ESA-c5d3d65 (murojaat sanasi: 17.11.2026).
-159. Runfola D., Anderson A., Baier H. et al. geoBoundaries: A global database of political administrative boundaries // PLoS ONE. – 2020. – Vol. 15, No. 4. – e0231866.
+159. Runfola D., Anderson A., Baier H. et al. geoBoundaries: A global database of political administrative boundaries // PLoS ONE. – 2020. – Vol. 15, No. 4. – Art. e0231866. – https://doi.org/10.1371/journal.pone.0231866
 160. Iste’mol narxlari indeksi: 2017–2026-yillar bo‘yicha oylik va yillik press-relizlar // O‘zbekiston Respublikasi Prezidenti huzuridagi Statistika agentligi. [Elektron resurs]. – URL: https://stat.uz (murojaat sanasi: 17.11.2026).
+161. Callaway B., Sant'Anna P.H.C. Difference-in-differences with multiple time periods // Journal of Econometrics. – 2021. – Vol. 225, No. 2. – P. 200–230. – https://doi.org/10.1016/j.jeconom.2020.12.001
+162. Borusyak K., Jaravel X., Spiess J. Revisiting event-study designs: robust and efficient estimation // Review of Economic Studies. – 2024. – Vol. 91, No. 6. – P. 3253–3285. – https://doi.org/10.1093/restud/rdae007
+163. Benjamini Y., Hochberg Y. Controlling the false discovery rate: a practical and powerful approach to multiple testing // Journal of the Royal Statistical Society: Series B (Methodological). – 1995. – Vol. 57, No. 1. – P. 289–300. – https://doi.org/10.1111/j.2517-6161.1995.tb02031.x
+164. Moran P.A.P. Notes on continuous stochastic phenomena // Biometrika. – 1950. – Vol. 37, No. 1–2. – P. 17–23. – https://doi.org/10.1093/biomet/37.1-2.17
