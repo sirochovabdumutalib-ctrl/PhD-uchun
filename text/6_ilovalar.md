@@ -702,11 +702,17 @@ Izoh: qayta hisoblash iste'mol narxlari indeksi bo'yicha (4.4-§); ta'mir yili x
 
 ## 51-ilova
 
-*51-ilova. Ta'mir ta'sirini aniqlash uchun ta'sir guruhida zarur quduqlar soni*
+*51-ilova. Ta'mir ta'sirini aniqlash quvvati (Monte Karlo simulyatsiyasi, har bir variant 1 000 takror, ikki tomonlama α = 0,05)*
 
-| Aniqlanishi kerak bo'lgan ta'sir, m | Zarur quduqlar soni | Hozirgiga nisbatan |
-| --- | --- | --- |
-| 0,29 | 36 | hozirgi holat |
-| 0,20 | 78 | 2,2 baravar |
-| 0,15 | 139 | 3,9 baravar |
-| 0,10 | 312 | 8,7 baravar |
+| Ta'sir / nazorat quduqlari | Standart xato, m | Δ = 0,10 m | Δ = 0,15 m | Δ = 0,20 m | Δ = 0,30 m |
+| --- | --- | --- | --- | --- | --- |
+| 36 / 49 (hozirgi) | 0,104 | 0,16 | 0,31 | 0,47 | 0,82 |
+| 60 / 49 | 0,085 | 0,22 | 0,42 | 0,66 | 0,94 |
+| 78 / 49 | 0,076 | 0,25 | 0,52 | 0,75 | 0,97 |
+| 78 / 78 | 0,073 | 0,26 | 0,52 | 0,78 | 0,98 |
+| 100 / 49 | 0,068 | 0,33 | 0,59 | 0,82 | 0,99 |
+| 100 / 100 | 0,065 | 0,33 | 0,67 | 0,87 | 0,99 |
+| 120 / 60 | 0,062 | 0,35 | 0,68 | 0,89 | 0,99 |
+| 150 / 100 | 0,055 | 0,43 | 0,78 | 0,96 | 1,00 |
+
+Izoh: jadvalda quvvat (ta'sirni aniqlash ehtimoli) berilgan; Monte Karlo xatosi ±0,03 dan oshmaydi. Δ = 0 da (36 / 49) birinchi tur xato 0,050 (95 % oraliq 0,041–0,060). Simulyatsiya haqiqiy quduq qatorlarini qayta tanlashga asoslangan, shuning uchun ta'sir mahalliy va quduqlar mustaqil degan faraz saqlanadi.

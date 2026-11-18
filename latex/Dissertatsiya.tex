@@ -2040,8 +2040,11 @@ quduqlar soni
 n_{zarur} = n_0 \left( \frac{2{,}8 \, SE_0}{\Delta} \right)^2
 \end{equation}
 
-formula bilan baholanadi, bu yerda n₀ va SE₀ --- mavjud taʼsir
-guruhidagi quduqlar soni va modelning standart xatosi.
+formula bilan dastlabki baholanadi, bu yerda n₀ va SE₀ --- mavjud taʼsir
+guruhidagi quduqlar soni va modelning standart xatosi. Formula nazorat
+guruhini va vaqt boʻyicha bogʻliqlikni hisobga olmaydi, shuning uchun
+natija haqiqiy quduq qatorlarini qayta tanlashga asoslangan Monte Karlo
+simulyatsiyasi (1 000 takror) bilan aniqlashtiriladi.
 
 \textbf{Dasturiy taʼminot.} Barcha hisoblar Python tilida bajarildi:
 jadvallar bilan ishlash uchun pandas, statistik modellar uchun
@@ -4266,8 +4269,11 @@ chora-tadbirlar joylashuvi (b); T-5, T-8, T-9, T-10, T-14 ---
 dagi modelning standart xatosi 0,105 m, taʼsir guruhida 36 ta quduq. 5
 foizlik ahamiyat darajasi va 80 foizlik quvvat uchun aniqlanadigan eng
 kichik taʼsir standart xatoning 2,8 baravariga teng va hozir 0,29 m ni
-tashkil etadi. Standart xato quduqlar sonining kvadrat ildiziga teskari
-mutanosib deb olinsa, zarur quduqlar soni quyidagicha (51-ilova).
+tashkil etadi. Simulyatsiya (2.4-§; 51-ilova) bu bahoni tasdiqlaydi:
+hozirgi tarmoqda 0,30 m lik taʼsir 82 foiz, 0,20 m lik taʼsir atigi 47
+foiz ehtimol bilan aniqlanadi. Oddiy formula zarur quduqlar sonini kam
+koʻrsatadi (0,20 m uchun 78 ta, simulyatsiyada bu sonda quvvat 75 foiz);
+80 foizlik quvvat uchun taʼsir guruhida taxminan 95 ta quduq kerak.
 
 Tumanda kollektorlardan 300 m gacha masofada 108 ta quduq bor, lekin
 ulardan faqat 36 tasi nomi va taʼmir yili aniqlangan kollektor yonida.
@@ -4395,8 +4401,7 @@ bosqichda faqat xarajatlarni kamaytirish imkoniyati baholandi.
   qiymatlari toʻgʻri deb qabul qilinganda 90 ta kollektordan 27--48
   tasining (stsenariyga qarab) solishtirma sarfi talabdan past. Sizot
   suvining mavsumiy koʻtarilishi boʻyicha drenaj quvvatidagi taqchillik
-  talabning 5--45 foizi. Oʻzandagi oʻsimlik va loyqa oʻtkazish
-  qobiliyatini 29--61 foizga kamaytiradi.
+  talabning 5--45 foizi.
 \item
   Kollektor taʼmiridan keyin sizot sathining nazorat quduqlariga
   nisbatan chuqurlashgani aniqlanmadi: asosiy baho −0,12 m (95 foizlik
@@ -4404,21 +4409,18 @@ bosqichda faqat xarajatlarni kamaytirish imkoniyati baholandi.
   baholar va boshqa tekshiruvlar ham chuqurlashishni koʻrsatmadi, lekin
   0,2 m atrofidagi taʼsirni istisno qilib boʻlmaydi. Bu taʼmir
   samarasizligini emas, mavjud maʼlumot bilan uni oʻlchab boʻlmasligini
-  koʻrsatadi; 0,20 m lik taʼsirni aniqlash uchun taʼsir guruhida kamida
-  78 ta quduq kerak (hozir 36 ta).
+  koʻrsatadi; 0,20 m lik taʼsirni aniqlash uchun taʼsir guruhida
+  taxminan 95 ta quduq kerak (hozir 36 ta).
 \item
   Taʼmirning 2026-yil narxlaridagi haqiqiy narxi medianasi 349 mln
   soʻm/km; yengil tozalash va kapital taʼmir orasida taxminan oʻn
-  baravar farq bor, uchastka uzunligi ikki baravar oshganda 1 km narxi
-  28 foizga kamayadi. 2017--2020-yillarda sarflangan 48,2 mlrd soʻmning
-  (2026-yil narxlarida) massivlar boʻyicha taqsimoti meliorativ xavf
-  bilan bogʻlanmagan (ρ = +0,46; p = 0,29): xavf eng yuqori Z.M.Bobur
-  massiviga tuman oʻrtachasidan kam mablagʻ ajratilgan. Stsenariy
-  boʻyicha taʼmirlarni birlashtirish va taʼmir turini oʻzan holatiga
-  qarab tanlash xarajatlarni 22--44 foizga kamaytirishi mumkin.
+  baravar farq bor. 2017--2020-yillarda sarflangan 48,2 mlrd soʻmning
+  massivlar boʻyicha taqsimoti meliorativ xavf bilan bogʻlanmagan: xavf
+  eng yuqori Z.M.Bobur massiviga tuman oʻrtachasidan kam mablagʻ
+  ajratilgan. Stsenariy boʻyicha tejash imkoniyati 22--44 foiz.
 \item
   Monitoring tizimini takomillashtirish boʻyicha 15 ta tavsiya ishlab
-  chiqildi, ulardan toʻqqiztasi qoʻshimcha mablagʻ talab qilmaydi.
+  chiqildi (toʻqqiztasi mablagʻ talab qilmaydi).
 \end{enumerate}
 
 \oakbob{UMUMIY XULOSALAR}
@@ -4539,10 +4541,11 @@ quyidagi xulosalar taqdim etildi:
   atrofidagi taʼsirni istisno qilmaydi; taʼsir guruhining kollektorgacha
   masofa boʻyicha taxminiy aniqlanishi bahoni nolga tomon kamaytiradi.
   Bu taʼmir samarasizligini emas, mavjud monitoring tizimi bilan uni
-  oʻlchab boʻlmasligini koʻrsatadi; 0,20 m lik taʼsirni aniqlash uchun
-  taʼsir guruhida kamida 78 ta quduq kerak (hozir 36 ta). Tumandagi
-  pogʻonali chuqurlashish taʼmirdan koʻra hududiy omillar bilan
-  yaxshiroq mos keladi, lekin bu omillar alohida oʻlchanmagan.
+  oʻlchab boʻlmasligini koʻrsatadi; 0,20 m lik taʼsirni 80 foizlik
+  quvvat bilan aniqlash uchun taʼsir guruhida taxminan 95 ta quduq kerak
+  (hozir 36 ta; simulyatsiya bahosi). Tumandagi pogʻonali chuqurlashish
+  taʼmirdan koʻra hududiy omillar bilan yaxshiroq mos keladi, lekin bu
+  omillar alohida oʻlchanmagan.
 \item
   Taʼmirning 2026-yil narxlaridagi haqiqiy narxi medianasi 349 mln
   soʻm/km; yengil tozalash va kapital taʼmir orasida taxminan oʻn
@@ -6944,31 +6947,47 @@ oshirilganda talab etiladigan drenaj moduli 2,5 baravar kamayadi
 
 \oakilova{51-ilova}
 
-\oakilovanom{\textbf{Taʼmir taʼsirini aniqlash uchun taʼsir guruhida zarur quduqlar
-soni}}
+\oakilovanom{\textbf{Taʼmir taʼsirini aniqlash quvvati (Monte Karlo simulyatsiyasi,
+har bir variant 1 000 takror, ikki tomonlama α = 0,05)}}
 
 {\fontsize{12}{14}\selectfont\setlength{\tabcolsep}{4pt}
 
 \noindent\begin{longtable}[]{|
-  >{\raggedright\arraybackslash}p{(\columnwidth - 6\tabcolsep - 4\arrayrulewidth) * \real{0.3875}}|>{\raggedright\arraybackslash}p{(\columnwidth - 6\tabcolsep - 4\arrayrulewidth) * \real{0.2711}}|>{\raggedright\arraybackslash}p{(\columnwidth - 6\tabcolsep - 4\arrayrulewidth) * \real{0.3414}}|}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 12\tabcolsep - 7\arrayrulewidth) * \real{0.3219}}|>{\raggedright\arraybackslash}p{(\columnwidth - 12\tabcolsep - 7\arrayrulewidth) * \real{0.2106}}|>{\raggedright\arraybackslash}p{(\columnwidth - 12\tabcolsep - 7\arrayrulewidth) * \real{0.1169}}|>{\raggedright\arraybackslash}p{(\columnwidth - 12\tabcolsep - 7\arrayrulewidth) * \real{0.1169}}|>{\raggedright\arraybackslash}p{(\columnwidth - 12\tabcolsep - 7\arrayrulewidth) * \real{0.1169}}|>{\raggedright\arraybackslash}p{(\columnwidth - 12\tabcolsep - 7\arrayrulewidth) * \real{0.1169}}|}
 \hline
 \begin{minipage}[b]{\linewidth}\raggedright
-\textbf{Aniqlanishi kerak boʻlgan taʼsir, m}
+\textbf{Taʼsir / nazorat quduqlari}
 \end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
-\textbf{Zarur quduqlar soni}
+\textbf{Standart xato, m}
 \end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
-\textbf{Hozirgiga nisbatan}
+\textbf{Δ = 0,10 m}
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+\textbf{Δ = 0,15 m}
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+\textbf{Δ = 0,20 m}
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+\textbf{Δ = 0,30 m}
 \end{minipage} \\
 \hline
 \endhead
 \hline
 \endlastfoot
-0,29 & 36 & hozirgi holat \\ \hline
-0,20 & 78 & 2,2 baravar \\ \hline
-0,15 & 139 & 3,9 baravar \\ \hline
-0,10 & 312 & 8,7 baravar \\
+36 / 49 (hozirgi) & 0,104 & 0,16 & 0,31 & 0,47 & 0,82 \\ \hline
+60 / 49 & 0,085 & 0,22 & 0,42 & 0,66 & 0,94 \\ \hline
+78 / 49 & 0,076 & 0,25 & 0,52 & 0,75 & 0,97 \\ \hline
+78 / 78 & 0,073 & 0,26 & 0,52 & 0,78 & 0,98 \\ \hline
+100 / 49 & 0,068 & 0,33 & 0,59 & 0,82 & 0,99 \\ \hline
+100 / 100 & 0,065 & 0,33 & 0,67 & 0,87 & 0,99 \\ \hline
+120 / 60 & 0,062 & 0,35 & 0,68 & 0,89 & 0,99 \\ \hline
+150 / 100 & 0,055 & 0,43 & 0,78 & 0,96 & 1,00 \\
 \end{longtable}
 
 }
+
+Izoh: jadvalda quvvat (taʼsirni aniqlash ehtimoli) berilgan; Monte Karlo
+xatosi ±0,03 dan oshmaydi. Δ = 0 da (36 / 49) birinchi tur xato 0,050
+(95 \% oraliq 0,041--0,060). Simulyatsiya haqiqiy quduq qatorlarini
+qayta tanlashga asoslangan, shuning uchun taʼsir mahalliy va quduqlar
+mustaqil degan faraz saqlanadi.
 
 \end{document}

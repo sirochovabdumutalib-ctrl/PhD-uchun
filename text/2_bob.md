@@ -301,7 +301,7 @@ Modelning asosiy farazi — parallel yo’nalish: ta’mir bo’lmaganida ta’s
 n_{zarur} = n_0 \left( \frac{2{,}8 \, SE_0}{\Delta} \right)^2
 ```
 
-formula bilan baholanadi, bu yerda n₀ va SE₀ — mavjud ta’sir guruhidagi quduqlar soni va modelning standart xatosi.
+formula bilan dastlabki baholanadi, bu yerda n₀ va SE₀ — mavjud ta’sir guruhidagi quduqlar soni va modelning standart xatosi. Formula nazorat guruhini va vaqt bo’yicha bog’liqlikni hisobga olmaydi, shuning uchun natija haqiqiy quduq qatorlarini qayta tanlashga asoslangan Monte Karlo simulyatsiyasi (1 000 takror) bilan aniqlashtiriladi.
 
 **Dasturiy ta’minot.** Barcha hisoblar Python tilida bajarildi: jadvallar bilan ishlash uchun pandas, statistik modellar uchun statsmodels, tendensiya testlari uchun pymannkendall, kriging uchun pykrige, fazoviy amallar uchun shapely va pyproj, tasvirlarni qayta ishlash uchun scikit-image kutubxonalari ishlatildi. Interaktiv xarita GIS Cloud platformasida shakllantirildi \[155\]. Hisob skriptlari va tekshirilgan ma’lumotlar dissertatsiya ilovasida keltiriladi; bu natijalarni mustaqil takrorlash imkonini beradi.
 

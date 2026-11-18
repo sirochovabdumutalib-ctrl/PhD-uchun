@@ -16,3 +16,19 @@ Skript: `scripts/51_stat_audit.py` → `results/stat_audit.json`. Avvalgi bosqic
 **Opponent so'rashi mumkin bo'lgan ochiq nuqtalar**
 - Pre-whitening testida trend ahamiyatsiz (p = 0,11). Javob: qisqa (13 yil) va pog'onali qatorda bu usul kuchni yo'qotadi; pog'ona bahosi va quduqlar bo'yicha bootstrap oralig'i mustaqil dalil.
 - Viloyat bo'yicha «chuqur tumanlarda tezroq chuqurlashadi» xulosasi ma'lumot sifatidan ajratib bo'lmaydi — matnda shunday yozildi.
+
+# Quvvat tahlili (2-band: statistical-power)
+
+Skript: `scripts/52_did_power_sim.py` → `results/did_power_sim.json`. Usul: haqiqiy 85 ta quduq qatorlari quduqlar bo'yicha qaytariladigan tanlov bilan olinadi, "ta'sir" quduqlariga haqiqiy taqsimotdan ta'mir yili beriladi, ta'mirdan keyingi yillarga Δ qo'shiladi, asosiy model (quduq va yil qat'iy effektlari, klasterli xato, G−1 erkinlik darajasi) bilan baholanadi. Har bir variant 1 000 takror; Δ = 0 da I tur xato 0,050 (0,041–0,060) — test to'g'ri sozlangan.
+
+| Ta'sir / nazorat | Δ = 0,10 | 0,15 | 0,20 | 0,30 |
+| --- | --- | --- | --- | --- |
+| 36 / 49 (hozirgi) | 0,16 | 0,31 | 0,47 | 0,82 |
+| 78 / 49 | 0,25 | 0,52 | 0,75 | 0,97 |
+| 100 / 49 | 0,33 | 0,59 | 0,82 | 0,99 |
+| 100 / 100 | 0,33 | 0,67 | 0,87 | 0,99 |
+| 150 / 100 | 0,43 | 0,78 | 0,96 | 1,00 |
+
+**Xulosa.** Hozirgi tarmoqda aniqlanadigan eng kichik ta'sir (80 % quvvat) ≈ 0,29–0,30 m — dissertatsiyadagi baho tasdiqlandi. 0,20 m uchun ilgari yozilgan 78 ta quduq yetarli emas (quvvat 75 %); taxminan 95 ta ta'sir qudug'i (nazorat 49 ta) yoki ikki guruhda 85 tadan kerak. 0,15 m ni mavjud tarmoq miqyosida (150/100) ham 80 % quvvat bilan aniqlab bo'lmaydi. Kuzatilgan ta'sir bo'yicha "kuzatilgan quvvat" hisoblanmadi (u p-qiymatni takrorlaydi); o'rniga sezgirlik tahlili berildi.
+
+**Cheklov.** Simulyatsiya ta'sirni mahalliy va quduqlarni mustaqil deb oladi; ta'sir hududiy bo'lsa yoki ta'sir guruhi noto'g'ri tasniflangan bo'lsa, haqiqiy quvvat bundan past.

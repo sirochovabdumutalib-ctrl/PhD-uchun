@@ -765,7 +765,7 @@ Modelning asosiy farazi — parallel yoʻnalish: taʼmir boʻlmaganida taʼsir v
 
 $$n_{zarur} = n_0 \left( \frac{2{,}8 \, SE_0}{\Delta} \right)^2 \qquad\qquad (2.11)$$
 
-formula bilan baholanadi, bu yerda n₀ va SE₀ — mavjud taʼsir guruhidagi quduqlar soni va modelning standart xatosi.
+formula bilan dastlabki baholanadi, bu yerda n₀ va SE₀ — mavjud taʼsir guruhidagi quduqlar soni va modelning standart xatosi. Formula nazorat guruhini va vaqt boʻyicha bogʻliqlikni hisobga olmaydi, shuning uchun natija haqiqiy quduq qatorlarini qayta tanlashga asoslangan Monte Karlo simulyatsiyasi (1 000 takror) bilan aniqlashtiriladi.
 
 **Dasturiy taʼminot.** Barcha hisoblar Python tilida bajarildi: jadvallar bilan ishlash uchun pandas, statistik modellar uchun statsmodels, tendensiya testlari uchun pymannkendall, kriging uchun pykrige, fazoviy amallar uchun shapely va pyproj, tasvirlarni qayta ishlash uchun scikit-image kutubxonalari ishlatildi. Interaktiv xarita GIS Cloud platformasida shakllantirildi \[123\]. Hisob skriptlari va tekshirilgan maʼlumotlar dissertatsiya ilovasida keltiriladi; bu natijalarni mustaqil takrorlash imkonini beradi.
 
@@ -1409,7 +1409,7 @@ Birinchi ustuvorlik guruhiga Z.M.Bobur va Istiqlol massivlari kiradi. Ularda mel
 4.5-rasm. Massivlarning ustuvorlik guruhlari (a) va birinchi navbatdagi chora-tadbirlar joylashuvi (b); T-5, T-8, T-9, T-10, T-14 — 50-ilovadagi tavsiyalar
 :::
 
-**Taʼmir samarasini aniqlash uchun zarur quduqlar soni.** 4.3-§ dagi modelning standart xatosi 0,105 m, taʼsir guruhida 36 ta quduq. 5 foizlik ahamiyat darajasi va 80 foizlik quvvat uchun aniqlanadigan eng kichik taʼsir standart xatoning 2,8 baravariga teng va hozir 0,29 m ni tashkil etadi. Standart xato quduqlar sonining kvadrat ildiziga teskari mutanosib deb olinsa, zarur quduqlar soni quyidagicha (51-ilova).
+**Taʼmir samarasini aniqlash uchun zarur quduqlar soni.** 4.3-§ dagi modelning standart xatosi 0,105 m, taʼsir guruhida 36 ta quduq. 5 foizlik ahamiyat darajasi va 80 foizlik quvvat uchun aniqlanadigan eng kichik taʼsir standart xatoning 2,8 baravariga teng va hozir 0,29 m ni tashkil etadi. Simulyatsiya (2.4-§; 51-ilova) bu bahoni tasdiqlaydi: hozirgi tarmoqda 0,30 m lik taʼsir 82 foiz, 0,20 m lik taʼsir atigi 47 foiz ehtimol bilan aniqlanadi. Oddiy formula zarur quduqlar sonini kam koʻrsatadi (0,20 m uchun 78 ta, simulyatsiyada bu sonda quvvat 75 foiz); 80 foizlik quvvat uchun taʼsir guruhida taxminan 95 ta quduq kerak.
 
 Tumanda kollektorlardan 300 m gacha masofada 108 ta quduq bor, lekin ulardan faqat 36 tasi nomi va taʼmir yili aniqlangan kollektor yonida. 0,20 m lik taʼsirni aniqlash uchun yangi quduq qurish shart emas: barcha kollektorlar boʻyicha taʼmir daftarini yuritish (T-10) va xaritada kollektor nomlarini toʻliq koʻrsatish yetarli boʻlishi mumkin. 0,10 m lik taʼsirni aniqlash esa mavjud tarmoq bilan imkonsiz.
 
@@ -1438,10 +1438,10 @@ Samarani soʻmda toʻliq ifodalash uchun taʼmir turlarining haqiqiy meliorativ 
 1. Meliorativ kadastr maʼlumotlari ishonchlilik nazariyasining klassik koʻrsatkichlarini (buzilmasdan ishlash ehtimoli, nosozliklar oqimi) hisoblashga imkon bermaydi, chunki nosozliklar va taʼmirlar tarixi qayd etilmaydi.
 2. Tumandagi 90 ta kollektorning (265,8 km) yoshi medianasi 61 yil, uzunlikning 90 foizi 50 yildan eski; barcha kollektorlar 2010–2020-yillarda taʼmirlangan, uzunlikning 71 foizi 2016–2019-yillarda. Taʼmir yili kollektor yoshi, uzunligi va sarfi bilan bogʻlanmagan (ρ = −0,06; p = 0,56): taʼmir holatga qarab emas, dasturlar boʻyicha bir vaqtda oʻtkazilgan. Xoʻjalik ichki zovurlarining 64,7 foizida taʼmir qayd etilmagan.
 3. Ochiq tarmoqning solishtirma uzunligi massivlar boʻyicha 6,8 m/ga dan 48,6 m/ga gacha; eng zaif tarmoq Y.Oxunboboyev, M.Toʻjiboyev va Z.M.Bobur massivlarida, eng yaxshisi Mashʼal massivida.
-4. Suv balansi boʻyicha iyuldagi talab etiladigan drenaj moduli 0,16–0,66 l/(s·ga), oʻrta stsenariyda 0,26–0,43 l/(s·ga); sugʻorish samaradorligi oshirilganda u 2,5 baravar kamayadi. Kadastrdagi sarf qiymatlari toʻgʻri deb qabul qilinganda 90 ta kollektordan 27–48 tasining (stsenariyga qarab) solishtirma sarfi talabdan past. Sizot suvining mavsumiy koʻtarilishi boʻyicha drenaj quvvatidagi taqchillik talabning 5–45 foizi. Oʻzandagi oʻsimlik va loyqa oʻtkazish qobiliyatini 29–61 foizga kamaytiradi.
-5. Kollektor taʼmiridan keyin sizot sathining nazorat quduqlariga nisbatan chuqurlashgani aniqlanmadi: asosiy baho −0,12 m (95 foizlik ishonch oraligʻi −0,33 … +0,09 m); bosqichli dizaynga chidamli baholar va boshqa tekshiruvlar ham chuqurlashishni koʻrsatmadi, lekin 0,2 m atrofidagi taʼsirni istisno qilib boʻlmaydi. Bu taʼmir samarasizligini emas, mavjud maʼlumot bilan uni oʻlchab boʻlmasligini koʻrsatadi; 0,20 m lik taʼsirni aniqlash uchun taʼsir guruhida kamida 78 ta quduq kerak (hozir 36 ta).
-6. Taʼmirning 2026-yil narxlaridagi haqiqiy narxi medianasi 349 mln soʻm/km; yengil tozalash va kapital taʼmir orasida taxminan oʻn baravar farq bor, uchastka uzunligi ikki baravar oshganda 1 km narxi 28 foizga kamayadi. 2017–2020-yillarda sarflangan 48,2 mlrd soʻmning (2026-yil narxlarida) massivlar boʻyicha taqsimoti meliorativ xavf bilan bogʻlanmagan (ρ = +0,46; p = 0,29): xavf eng yuqori Z.M.Bobur massiviga tuman oʻrtachasidan kam mablagʻ ajratilgan. Stsenariy boʻyicha taʼmirlarni birlashtirish va taʼmir turini oʻzan holatiga qarab tanlash xarajatlarni 22–44 foizga kamaytirishi mumkin.
-7. Monitoring tizimini takomillashtirish boʻyicha 15 ta tavsiya ishlab chiqildi, ulardan toʻqqiztasi qoʻshimcha mablagʻ talab qilmaydi.
+4. Suv balansi boʻyicha iyuldagi talab etiladigan drenaj moduli 0,16–0,66 l/(s·ga), oʻrta stsenariyda 0,26–0,43 l/(s·ga); sugʻorish samaradorligi oshirilganda u 2,5 baravar kamayadi. Kadastrdagi sarf qiymatlari toʻgʻri deb qabul qilinganda 90 ta kollektordan 27–48 tasining (stsenariyga qarab) solishtirma sarfi talabdan past. Sizot suvining mavsumiy koʻtarilishi boʻyicha drenaj quvvatidagi taqchillik talabning 5–45 foizi.
+5. Kollektor taʼmiridan keyin sizot sathining nazorat quduqlariga nisbatan chuqurlashgani aniqlanmadi: asosiy baho −0,12 m (95 foizlik ishonch oraligʻi −0,33 … +0,09 m); bosqichli dizaynga chidamli baholar va boshqa tekshiruvlar ham chuqurlashishni koʻrsatmadi, lekin 0,2 m atrofidagi taʼsirni istisno qilib boʻlmaydi. Bu taʼmir samarasizligini emas, mavjud maʼlumot bilan uni oʻlchab boʻlmasligini koʻrsatadi; 0,20 m lik taʼsirni aniqlash uchun taʼsir guruhida taxminan 95 ta quduq kerak (hozir 36 ta).
+6. Taʼmirning 2026-yil narxlaridagi haqiqiy narxi medianasi 349 mln soʻm/km; yengil tozalash va kapital taʼmir orasida taxminan oʻn baravar farq bor. 2017–2020-yillarda sarflangan 48,2 mlrd soʻmning massivlar boʻyicha taqsimoti meliorativ xavf bilan bogʻlanmagan: xavf eng yuqori Z.M.Bobur massiviga tuman oʻrtachasidan kam mablagʻ ajratilgan. Stsenariy boʻyicha tejash imkoniyati 22–44 foiz.
+7. Monitoring tizimini takomillashtirish boʻyicha 15 ta tavsiya ishlab chiqildi (toʻqqiztasi mablagʻ talab qilmaydi).
 
 
 
@@ -1464,7 +1464,7 @@ Samarani soʻmda toʻliq ifodalash uchun taʼmir turlarining haqiqiy meliorativ 
 8. Sizot suvlari minerallashuvi boʻyicha faqat 2004–2010-yillar maʼlumotlari ishonchli. Bu davrda massivlar orasidagi farq uch baravarga yetadi (Mashʼalda 2,47 g/l, T.Mirzayev va U.Qoraboyevda 0,80–0,84 g/l). 2019–2024-yillardagi yozgi sath va 2004–2010-yillardagi minerallashuv birgalikda baholanganda quduqlarning yarmi (113 tadan 56 tasi) shoʻrlanish xavfi ostida (minerallashuv keyingi yillarda oʻzgargan boʻlishi mumkin, shuning uchun bu baho uni qayta oʻlchashni talab qiladi), ularning 82 foizi Mashʼal, Z.M.Bobur va Istiqlol massivlarida joylashgan.
 9. Tumandagi 90 ta kollektorning (265,8 km) uzunlik boʻyicha 90 foizi 50 yildan eski; barcha kollektorlar 2010–2020-yillarda taʼmirlangan, lekin taʼmir yili kollektor yoshi, uzunligi va sarfi bilan bogʻlanmagan, yaʼni taʼmir holatga qarab emas, dasturlar boʻyicha oʻtkazilgan. Eng zaif boʻgʻin xoʻjalik ichki zovurlari: ularning 64,7 foizida taʼmir qayd etilmagan. Kadastr maʼlumotlari ishonchlilik nazariyasining klassik koʻrsatkichlarini hisoblashga imkon bermaydi.
 10. Suv balansi boʻyicha iyuldagi talab etiladigan drenaj moduli 0,16–0,66 l/(s·ga), oʻrta stsenariyda 0,26–0,43 l/(s·ga); sugʻorish samaradorligi oshirilganda u 2,5 baravar kamayadi. Kadastrdagi sarf qiymatlari toʻgʻri deb qabul qilinganda 90 ta kollektordan 27–48 tasining (stsenariyga qarab) solishtirma sarfi talabdan past, sizot suvining mavsumiy koʻtarilishi boʻyicha drenaj quvvatidagi taqchillik talabning 5–45 foizi. Oʻzandagi oʻsimlik va loyqa kollektorning oʻtkazish qobiliyatini 29–61 foizga kamaytiradi.
-11. Mavjud monitoring maʼlumotlarida kollektor taʼmiridan keyin sizot sathining nazorat quduqlariga nisbatan chuqurlashgani aniqlanmadi: asosiy baho −0,12 m, 95 foizlik ishonch oraligʻi −0,33 dan +0,09 m gacha; parallel tendensiyalar testi, plasebo testi, dinamik baho va bosqichli dizaynga chidamli baholar (−0,11 … −0,18 m) ham chuqurlashishni koʻrsatmaydi. Ishonch oraliqlari keng va 0,2 m atrofidagi taʼsirni istisno qilmaydi; taʼsir guruhining kollektorgacha masofa boʻyicha taxminiy aniqlanishi bahoni nolga tomon kamaytiradi. Bu taʼmir samarasizligini emas, mavjud monitoring tizimi bilan uni oʻlchab boʻlmasligini koʻrsatadi; 0,20 m lik taʼsirni aniqlash uchun taʼsir guruhida kamida 78 ta quduq kerak (hozir 36 ta). Tumandagi pogʻonali chuqurlashish taʼmirdan koʻra hududiy omillar bilan yaxshiroq mos keladi, lekin bu omillar alohida oʻlchanmagan.
+11. Mavjud monitoring maʼlumotlarida kollektor taʼmiridan keyin sizot sathining nazorat quduqlariga nisbatan chuqurlashgani aniqlanmadi: asosiy baho −0,12 m, 95 foizlik ishonch oraligʻi −0,33 dan +0,09 m gacha; parallel tendensiyalar testi, plasebo testi, dinamik baho va bosqichli dizaynga chidamli baholar (−0,11 … −0,18 m) ham chuqurlashishni koʻrsatmaydi. Ishonch oraliqlari keng va 0,2 m atrofidagi taʼsirni istisno qilmaydi; taʼsir guruhining kollektorgacha masofa boʻyicha taxminiy aniqlanishi bahoni nolga tomon kamaytiradi. Bu taʼmir samarasizligini emas, mavjud monitoring tizimi bilan uni oʻlchab boʻlmasligini koʻrsatadi; 0,20 m lik taʼsirni 80 foizlik quvvat bilan aniqlash uchun taʼsir guruhida taxminan 95 ta quduq kerak (hozir 36 ta; simulyatsiya bahosi). Tumandagi pogʻonali chuqurlashish taʼmirdan koʻra hududiy omillar bilan yaxshiroq mos keladi, lekin bu omillar alohida oʻlchanmagan.
 12. Taʼmirning 2026-yil narxlaridagi haqiqiy narxi medianasi 349 mln soʻm/km; yengil tozalash va kapital taʼmir orasida taxminan oʻn baravar farq bor, uchastka uzunligi ikki baravar oshganda 1 km narxi 28 foizga kamayadi. 2017–2020-yillarda sarflangan 48,2 mlrd soʻmning (2026-yil narxlarida) massivlar boʻyicha taqsimoti meliorativ xavf bilan bogʻlanmagan: xavf eng yuqori Z.M.Bobur massiviga tuman oʻrtachasidan kam mablagʻ ajratilgan. Taʼmirlarni birlashtirish va taʼmir turini oʻzan holatiga qarab tanlash orqali xarajatlarni kamaytirish mumkin: kapital taʼmirning 25–50 foizini tozalash bilan almashtirish stsenariysida tejash 22–44 foizni tashkil etadi; haqiqiy ulush oʻzan holati qayd etilgandan keyin aniqlanadi.
 13. Massivlar meliorativ xavf, drenaj tarmogʻi holati va xarajatlar boʻyicha uchta ustuvorlik guruhiga ajratildi: birinchi navbatda Z.M.Bobur va Istiqlol massivlarida drenaj tarmogʻining texnik holatini tekshirish va taʼmir qilish, Mashʼal massivida esa sugʻorish samaradorligini oshirish va minerallashuv monitoringini tiklash tavsiya etiladi.
 14. Monitoring tizimini takomillashtirish boʻyicha 15 ta tavsiya ishlab chiqildi: maʼlumotlarni majburiy tekshirish, quruq quduqlarni maxsus belgilash, sath chuqur hududlarda kuzatuv quduqlarini chuqurlashtirish, yangi quduqlarni maqsadli joylashtirish, sayoz sath ehtimoli xaritalaridan foydalanish, kollektorlarda sarfni oʻlchash, taʼmir va nosozliklar daftarini yuritish, taʼmir navbatini holat va xavf boʻyicha aniqlash va boshqalar. Tavsiyalarning toʻqqiztasi qoʻshimcha mablagʻ talab qilmaydi. Ularni amalga oshirish uchun dissertatsiyada yaratilgan geomaʼlumotlar bazasi va takrorlanadigan hisob dasturlari asos boʻladi.
@@ -2610,12 +2610,18 @@ Izoh: qayta hisoblash isteʼmol narxlari indeksi boʻyicha (4.4-§); taʼmir yil
 
 
 ::: {custom-style="Sarlavha-jadval"}
-**Taʼmir taʼsirini aniqlash uchun taʼsir guruhida zarur quduqlar soni**
+**Taʼmir taʼsirini aniqlash quvvati (Monte Karlo simulyatsiyasi, har bir variant 1 000 takror, ikki tomonlama α = 0,05)**
 :::
 
-| Aniqlanishi kerak boʻlgan taʼsir, m | Zarur quduqlar soni | Hozirgiga nisbatan |
-| --- | --- | --- |
-| 0,29 | 36 | hozirgi holat |
-| 0,20 | 78 | 2,2 baravar |
-| 0,15 | 139 | 3,9 baravar |
-| 0,10 | 312 | 8,7 baravar |
+| Taʼsir / nazorat quduqlari | Standart xato, m | Δ = 0,10 m | Δ = 0,15 m | Δ = 0,20 m | Δ = 0,30 m |
+| --- | --- | --- | --- | --- | --- |
+| 36 / 49 (hozirgi) | 0,104 | 0,16 | 0,31 | 0,47 | 0,82 |
+| 60 / 49 | 0,085 | 0,22 | 0,42 | 0,66 | 0,94 |
+| 78 / 49 | 0,076 | 0,25 | 0,52 | 0,75 | 0,97 |
+| 78 / 78 | 0,073 | 0,26 | 0,52 | 0,78 | 0,98 |
+| 100 / 49 | 0,068 | 0,33 | 0,59 | 0,82 | 0,99 |
+| 100 / 100 | 0,065 | 0,33 | 0,67 | 0,87 | 0,99 |
+| 120 / 60 | 0,062 | 0,35 | 0,68 | 0,89 | 0,99 |
+| 150 / 100 | 0,055 | 0,43 | 0,78 | 0,96 | 1,00 |
+
+Izoh: jadvalda quvvat (taʼsirni aniqlash ehtimoli) berilgan; Monte Karlo xatosi ±0,03 dan oshmaydi. Δ = 0 da (36 / 49) birinchi tur xato 0,050 (95 % oraliq 0,041–0,060). Simulyatsiya haqiqiy quduq qatorlarini qayta tanlashga asoslangan, shuning uchun taʼsir mahalliy va quduqlar mustaqil degan faraz saqlanadi.
