@@ -72,6 +72,8 @@ section p { font-size: 30px; line-height: 1.4; color: var(--soft); }
 .li p { font-size: 38px; color: var(--ink); line-height: 1.35; }
 
 table { font-size: 28px; color: var(--ink); width: 100%; }
+.chart { display: grid; grid-template-columns: 1180px 1fr; gap: 48px; align-items: start; }
+.chart img { width: 1180px; height: 590px; object-fit: contain; background: #FFFFFF; border-radius: 12px; }
 .wide img { width: 1664px; height: 340px; object-fit: contain; background: #FFFFFF; border-radius: 12px; }
 
 @keyframes rise { from { opacity: 0; transform: translateY(24px); } to { opacity: 1; transform: translateY(0); } }
