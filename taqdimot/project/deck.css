@@ -1,0 +1,78 @@
+:root {
+  --dark: #13293D;
+  --light: #F6F4EE;
+  --panel: #EAE6DA;
+  --ink: #1F2D3A;
+  --soft: #46566A;
+  --teal: #17706B;
+  --orange: #B85F12;
+  --pale: #C9D6DF;
+}
+body { font-family: 'Noto Sans', Arial, sans-serif; color: var(--ink); }
+section {
+  background: var(--light);
+  padding: 128px 128px 160px;
+  display: flex;
+  flex-direction: column;
+  gap: 36px;
+  counter-increment: page;
+}
+section h2 { font-family: 'Noto Serif', Georgia, serif; font-size: 60px; font-weight: 600; color: var(--dark); line-height: 1.12; }
+section h3 { font-family: 'Noto Sans', Arial, sans-serif; font-size: 36px; font-weight: 700; color: var(--dark); line-height: 1.2; }
+section p { font-size: 30px; line-height: 1.4; color: var(--soft); }
+.eyebrow { font-size: 24px; font-weight: 700; letter-spacing: 3px; text-transform: uppercase; color: var(--teal); }
+.pageno { position: absolute; right: 128px; bottom: 64px; width: 200px; text-align: right; font-size: 24px; color: var(--soft); }
+.dark .pageno { color: var(--pale); }
+.src { position: absolute; left: 128px; bottom: 64px; width: 1300px; font-size: 24px; color: var(--soft); }
+
+/* cover and statement slides */
+.dark { background: var(--dark); }
+.dark h1, .dark h2 { color: var(--light); }
+.dark p { color: var(--pale); }
+.dark .eyebrow { color: #E9A35E; }
+.cover { justify-content: space-between; padding: 128px; }
+.cover h1 { font-family: 'Noto Serif', Georgia, serif; font-size: 72px; font-weight: 700; line-height: 1.15; color: var(--light); width: 1600px; }
+.cover .sub { font-size: 36px; color: var(--pale); }
+.cover .meta { display: flex; justify-content: space-between; align-items: flex-end; }
+.cover .meta p { font-size: 28px; color: var(--pale); }
+.cover .who { font-size: 36px; font-weight: 700; color: var(--light); }
+
+/* two-column map slide */
+.split { display: grid; grid-template-columns: 760px 1fr; gap: 56px; align-items: start; }
+.split img { width: 848px; height: 690px; object-fit: contain; background: #FFFFFF; border-radius: 12px; }
+.split.short img { height: 540px; }
+.facts { display: flex; flex-direction: column; gap: 24px; }
+.fact { display: flex; flex-direction: column; gap: 4px; padding-left: 24px; border-left: 6px solid var(--teal); }
+.fact .num { font-family: 'Noto Serif', Georgia, serif; font-size: 44px; font-weight: 700; color: var(--dark); line-height: 1.1; }
+.fact .lbl { font-size: 26px; color: var(--soft); line-height: 1.35; }
+.fact.warn { border-left-color: var(--orange); }
+
+/* card rows */
+.cards { display: grid; grid-template-columns: 1fr 1fr; gap: 28px; }
+.cards3 { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 28px; }
+.card { background: var(--panel); border-radius: 12px; padding: 32px 36px; display: flex; flex-direction: column; gap: 12px; }
+.card p { font-size: 28px; color: var(--ink); line-height: 1.4; }
+.card .tag { font-size: 24px; font-weight: 700; color: var(--teal); }
+.card .big { font-family: 'Noto Serif', Georgia, serif; font-size: 52px; font-weight: 700; color: var(--dark); line-height: 1.05; }
+.card.accent { background: var(--dark); }
+.card.accent p { color: var(--pale); }
+.card.accent .big { color: var(--light); }
+.card.accent .tag { color: #E9A35E; }
+
+/* big contrast numbers */
+.contrast { display: flex; flex-direction: column; gap: 40px; }
+.contrast .cnum { font-family: 'Noto Serif', Georgia, serif; font-size: 140px; font-weight: 700; line-height: 1; color: var(--light); }
+.contrast .cnum.o { color: #E9A35E; }
+.contrast p { font-size: 32px; color: var(--pale); }
+
+/* lists */
+.list { display: flex; flex-direction: column; gap: 40px; }
+.li { display: flex; gap: 24px; align-items: flex-start; }
+.li .n { font-family: 'Noto Serif', Georgia, serif; font-size: 48px; font-weight: 700; color: var(--teal); width: 72px; flex-shrink: 0; line-height: 1.1; }
+.li p { font-size: 38px; color: var(--ink); line-height: 1.35; }
+
+table { font-size: 28px; color: var(--ink); width: 100%; }
+.wide img { width: 1664px; height: 340px; object-fit: contain; background: #FFFFFF; border-radius: 12px; }
+
+@keyframes rise { from { opacity: 0; transform: translateY(24px); } to { opacity: 1; transform: translateY(0); } }
+.fact, .card, .li { animation: rise 520ms ease-out both; animation-delay: calc(var(--i, 0) * 110ms); }
