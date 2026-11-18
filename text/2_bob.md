@@ -6,7 +6,7 @@ Ushbu bobda tadqiqot obyekti tavsiflanadi, ishlatilgan ma'lumot manbalari va geo
 
 **Geografik o’rni va ma’muriy tuzilishi.** Marhamat tumani Andijon viloyatining janubiy qismida, Farg’ona vodiysining sharqiy chekkasida joylashgan. Tumanning maydoni 321 km², aholisi 2025-yil holatiga 197,8 ming kishi; tuman tarkibida Marhamat shahri, o’nta shaharcha va beshta qishloq fuqarolar yig’ini bor \[153\]. Andijon viloyati sharq va janubdan Qirg’iziston Respublikasining Jalolobod va O’sh viloyatlari bilan chegaradosh \[153\]. Tadqiqotda qamrab olingan kuzatuv quduqlari 72°12′ dan 72°24′ gacha sharqiy uzunlik va 40°27′ dan 40°37′ gacha shimoliy kenglik oralig’ida joylashgan. Tumanning viloyatdagi o’rni, relyefi va meliorativ tizimning asosiy elementlari 2.1-rasmda ko’rsatilgan; xarita tiklangan geoma’lumotlar bazasi (2.3-§), Copernicus GLO-30 raqamli relyef modeli \[158\] va geoBoundaries ma’muriy chegaralari \[159\] asosida tuzildi.
 
-Sug’oriladigan yerlar ma’muriy-xo’jalik jihatdan sakkizta massivga bo’lingan: Z.M.Bobur, Mash’al, Istiqlol, Paxtakor, M.Tojiboyev, T.Mirzaev, U.Qoraboyev va Y.Oxunboboyev. Meliorativ monitoring, kadastr va ekin joylashtirish ma’lumotlari shu massivlar kesimida yuritiladi. Massivlarning asosiy tavsifi 2.1-jadvalda, ularning xarita bo’yicha maydoni va chegaralari 2.3-§ da keltirilgan.
+Sug’oriladigan yerlar ma’muriy-xo’jalik jihatdan sakkizta massivga bo’lingan: Z.M.Bobur, Mash’al, Istiqlol, Paxtakor, M.To’jiboyev, T.Mirzayev, U.Qoraboyev va Y.Oxunboboyev. Meliorativ monitoring, kadastr va ekin joylashtirish ma’lumotlari shu massivlar kesimida yuritiladi. Massivlarning asosiy tavsifi 2.1-jadvalda, ularning xarita bo’yicha maydoni va chegaralari 2.3-§ da keltirilgan.
 
 &#91;image: Marhamat tumanining joylashuvi, relyefi va meliorativ tizimi\]
 
@@ -46,15 +46,15 @@ Relyefning meliorativ ahamiyati shundaki, u sizot suvlarining umumiy oqim yo’n
 | Paxtakor | 19 | 1 588 | 587 | 41,9 | 64,1 |
 | Mash’al | 29 | 3 134 | 596 | 92,0 | 59,7 |
 | U.Qoraboyev | 26 | 1 944 | 601 | 21,9 | 60,8 |
-| M.Tojiboyev | 33 | 2 027 | 603 | —\* | 58,8 |
-| T.Mirzaev | 20 | 1 982 | 610 | 30,4 | 63,3 |
+| M.To’jiboyev | 33 | 2 027 | 603 | —\* | 58,8 |
+| T.Mirzayev | 20 | 1 982 | 610 | 30,4 | 63,3 |
 | Istiqlol | 27 | 2 400 | 614 | 70,2 | 62,9 |
 | Y.Oxunboboyev | 7 | 534 | 641 | 20,1 | 41,3 |
 | Jami | 188 | 15 985 | 597 |  | 59,7 |
 
 Izoh: \* — kadastrda M.To’jiboyev massivi bo’yicha ichki zovurlar alohida ko’rsatilmagan.
 
-Massivlar median balandlik o’sishi tartibida joylashtirilgan. Bonitet balli 2021-yilgi ekin joylashtirish jadvalidagi 1 607 ta kontur bo’yicha maydonga tortilgan o’rtacha sifatida hisoblandi; ichki zovurlar uzunligi kadastr bo’yicha keltirilgan. Kadastrda ichki zovurlarning bir qismi massivga emas, «Markaziy zovur tizimi»ga (52,8 km) biriktirilgan, shuning uchun M.Tojiboyev massivi bo’yicha ichki zovurlar uzunligi alohida ko’rsatilmagan.
+Massivlar median balandlik o’sishi tartibida joylashtirilgan. Bonitet balli 2021-yilgi ekin joylashtirish jadvalidagi 1 607 ta kontur bo’yicha maydonga tortilgan o’rtacha sifatida hisoblandi; ichki zovurlar uzunligi kadastr bo’yicha keltirilgan. Kadastrda ichki zovurlarning bir qismi massivga emas, «Markaziy zovur tizimi»ga (52,8 km) biriktirilgan, shuning uchun M.To’jiboyev massivi bo’yicha ichki zovurlar uzunligi alohida ko’rsatilmagan.
 
 **Gidrografiya va sug’orish manbalari.** Tuman hududidan Aravonsoy daryosi hamda Shahrixonsoy, Karkidon va Janubiy Farg’ona kanallari o’tadi \[153\]; tumanning sharqiy qismida Qoradaryo joylashgan. Meliorativ ekspeditsiya xaritasidan vektorlangan sug’orish kanallari uzunligi 170,9 km ni tashkil etadi (2.3-§). Sug’orish asosan egatlab amalga oshiriladi; bu usulda sug’orish suvining bir qismi dala chegarasidan pastga sizib, sizot suvlarini to’yintiradi \[116, 124\].
 
@@ -66,7 +66,7 @@ Meliorativ ekspeditsiyaning 2024-yil 1-aprel holatiga tuzilgan xaritasi bo’yic
 
 Aprel boshida, ya’ni sug’orish mavsumi oldidan, quduqlarning 19,2 foizida sath 1,5 m dan sayoz bo’lgan; medianasi 2,34 m. Bu ko’rsatkich yillik eng sayoz holat emas: ko’p yillik ma’lumotlarga ko’ra iyul–avgustda sath aprel boshiga nisbatan o’rtacha yana 0,2 m ko’tariladi (3.2-§).
 
-Sizot suvlarining minerallashuvi 2004–2010-yillar ma’lumotlari bo’yicha tuman bo’yicha medianasi 1,02–1,45 g/l oralig’ida bo’lib, massivlar orasida sezilarli farq qiladi: quduqlar bo’yicha medianasi Mash’al massivida 2,47 g/l, U.Qoraboyev va T.Mirzaev massivlarida 0,80–0,84 g/l (3.5-§).
+Sizot suvlarining minerallashuvi 2004–2010-yillar ma’lumotlari bo’yicha tuman bo’yicha medianasi 1,02–1,45 g/l oralig’ida bo’lib, massivlar orasida sezilarli farq qiladi: quduqlar bo’yicha medianasi Mash’al massivida 2,47 g/l, U.Qoraboyev va T.Mirzayev massivlarida 0,80–0,84 g/l (3.5-§).
 
 **Tuproqlar.** Andijon viloyatining sug’oriladigan tuproqlari asosan och tusli bo’z tuproqlar va o’tloqi-bo’z tuproqlardan iborat. Tuproq sifatining umumlashgan ko’rsatkichi — bonitet balli tuman bo’yicha o’rtacha 59,7 ni tashkil etadi; konturlarning 10 foizida ball 40 dan past, 16 foizida 70 dan yuqori. Eng past ball Y.Oxunboboyev massivida (41,3), eng yuqori ball Z.M.Bobur massivida (67,9) qayd etilgan (2.1-jadval).
 
@@ -106,7 +106,7 @@ Kollektorlarning yoshi va ta’mir tarixi ishonchlilik ko’rsatkichi sifatida 4
 
 **Xo’jalik ichki zovurlari.** Kadastrning ichki zovurlar ro’yxatida tuman bo’yicha 332 ta yozuv bor, ularning umumiy uzunligi 370,7 km; yig’ma jadvalda esa 330 ta zovur va 355,3 km ko’rsatilgan. 15,4 km lik farq ro’yxat va yig’ma jadval turli sanalarda yangilangani bilan bog’liq bo’lishi mumkin. Ro’yxatda zovurlar massivlar va «Markaziy zovur tizimi» bo’yicha guruhlangan; har bir zovur uchun uzunligi, oxiridagi sarf, xizmat maydoni, foydalanishga topshirilgan yili va ta’mir yili berilgan. Ichki zovurlar dala bilan bevosita bog’langan quyi bo’g’in bo’lib, sizot suvlarini bevosita qabul qiladi; ularning holati 4.1-§ da tahlil qilinadi.
 
-**Yopiq-yotiq drenaj.** Kadastrga ko’ra tumanda 14 ta yopiq-yotiq drenaj tizimi bor, umumiy uzunligi 91,7 km. Ro’yxatda M.Tojiboyev massividagi 6,82 km uzunlikdagi yopiq drenaj alohida qayd etilgan; u 2016-yilda foydalanishga topshirilgan va 60 ga maydonga xizmat ko’rsatadi. Yopiq drenaj yer ostida joylashgani uchun meliorativ ekspeditsiya xaritasida ko’rsatilmagan va mazkur tadqiqotdagi fazoviy tahlilga kiritilmagan.
+**Yopiq-yotiq drenaj.** Kadastrga ko’ra tumanda 14 ta yopiq-yotiq drenaj tizimi bor, umumiy uzunligi 91,7 km. Ro’yxatda M.To’jiboyev massividagi 6,82 km uzunlikdagi yopiq drenaj alohida qayd etilgan; u 2016-yilda foydalanishga topshirilgan va 60 ga maydonga xizmat ko’rsatadi. Yopiq drenaj yer ostida joylashgani uchun meliorativ ekspeditsiya xaritasida ko’rsatilmagan va mazkur tadqiqotdagi fazoviy tahlilga kiritilmagan.
 
 **Gidrotexnik inshootlar.** Kollektor-drenaj tarmog’ida jami 455 ta inshoot qayd etilgan (8-ilova). Ularning yarmidan ko’pi (238 ta) davlat hisobidagi nazorat tarmog’i inshootlaridir. Inshootlar tarmoq ishonchliligida muhim o’rin tutadi: ko’prik va quvurli o’tish joylari ostida loyqa tez to’planadi va ular kollektorning o’tkazish qobiliyatini cheklovchi «tor joy» bo’lib qolishi mumkin \[89, 103\].
 

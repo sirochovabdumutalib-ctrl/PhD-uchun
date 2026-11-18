@@ -1,0 +1,345 @@
+{
+ "Barqaror panel quduqlari": {
+  "values": {
+   "84": [
+    "2_bob.md",
+    "3_bob.md",
+    "5_xulosa.md",
+    "6_ilovalar.md"
+   ]
+  },
+  "source": 84,
+  "source_note": "ch3_dyn_ext.panel",
+  "consistent": true,
+  "matches_source": true
+ },
+ "Panel boshlang'ich sath 2009": {
+  "values": {
+   "1,60": [
+    "3_bob.md",
+    "5_xulosa.md"
+   ],
+   "1,89": [
+    "3_bob.md"
+   ]
+  },
+  "source": 1.6,
+  "source_note": "district.first",
+  "consistent": false,
+  "matches_source": false
+ },
+ "Panel oxirgi sath 2024": {
+  "values": {
+   "1,99": [
+    "3_bob.md",
+    "5_xulosa.md"
+   ],
+   "2,47": [
+    "3_bob.md"
+   ]
+  },
+  "source": 1.99,
+  "source_note": "district.last",
+  "consistent": false,
+  "matches_source": false
+ },
+ "Mann–Kendall τ (panel)": {
+  "values": {
+   "0,744": [
+    "3_bob.md",
+    "5_xulosa.md"
+   ],
+   "0,718": [
+    "3_bob.md"
+   ]
+  },
+  "source": 0.744,
+  "source_note": "district.tau",
+  "consistent": false,
+  "matches_source": false
+ },
+ "Sen qiyaligi, panel": {
+  "values": {
+   "0,033": [
+    "3_bob.md"
+   ],
+   "0,031": [
+    "3_bob.md"
+   ]
+  },
+  "source": 0.033,
+  "source_note": "district.sen",
+  "consistent": false,
+  "matches_source": true
+ },
+ "Pog'onaga uzilish p": {
+  "values": {
+   "0,023": [
+    "3_bob.md",
+    "5_xulosa.md"
+   ]
+  },
+  "source": null,
+  "source_note": "17-skript",
+  "consistent": true,
+  "matches_source": null
+ },
+ "Sho'rlanish xavfli quduqlar": {
+  "values": {
+   "56": [
+    "0_kirish.md",
+    "3_bob.md",
+    "4_bob.md",
+    "5_xulosa.md",
+    "6_ilovalar.md"
+   ]
+  },
+  "source": 56,
+  "source_note": "risk_total.high",
+  "consistent": true,
+  "matches_source": true
+ },
+ "Sho'rlanish: jami quduqlar": {
+  "values": {
+   "113": [
+    "3_bob.md",
+    "5_xulosa.md"
+   ]
+  },
+  "source": 113,
+  "source_note": "risk_n",
+  "consistent": true,
+  "matches_source": true
+ },
+ "Yozda sayoz quduqlar ulushi, %": {
+  "values": {
+   "19": [
+    "2_bob.md"
+   ],
+   "23": [
+    "3_bob.md",
+    "5_xulosa.md"
+   ]
+  },
+  "source": 23,
+  "source_note": "39/167",
+  "consistent": false,
+  "matches_source": false
+ },
+ "Kriging xaritasida sayoz maydon, %": {
+  "values": {
+   "3,5": [
+    "2_bob.md",
+    "3_bob.md"
+   ],
+   "1,6": [
+    "2_bob.md"
+   ],
+   "5,4": [
+    "2_bob.md"
+   ],
+   "9,2": [
+    "2_bob.md"
+   ],
+   "8,2": [
+    "3_bob.md",
+    "5_xulosa.md",
+    "6_ilovalar.md"
+   ],
+   "0,1": [
+    "3_bob.md"
+   ],
+   "1,5": [
+    "3_bob.md"
+   ],
+   "1,7": [
+    "3_bob.md"
+   ],
+   "7,9": [
+    "3_bob.md",
+    "5_xulosa.md"
+   ],
+   "9,7": [
+    "3_bob.md"
+   ],
+   "0,7": [
+    "3_bob.md"
+   ],
+   "0,4": [
+    "3_bob.md"
+   ],
+   "8,8": [
+    "3_bob.md"
+   ],
+   "0,2": [
+    "3_bob.md"
+   ],
+   "1,9": [
+    "3_bob.md"
+   ],
+   "1,1": [
+    "3_bob.md",
+    "5_xulosa.md"
+   ],
+   "9,5": [
+    "4_bob.md"
+   ],
+   "4,7": [
+    "4_bob.md",
+    "5_xulosa.md",
+    "6_ilovalar.md"
+   ],
+   "6,6": [
+    "4_bob.md"
+   ],
+   "2,5": [
+    "4_bob.md"
+   ],
+   "0,9": [
+    "4_bob.md"
+   ],
+   "2,3": [
+    "4_bob.md"
+   ],
+   "4,8": [
+    "4_bob.md"
+   ],
+   "2,1": [
+    "6_ilovalar.md"
+   ]
+  },
+  "source": null,
+  "source_note": "",
+  "consistent": false,
+  "matches_source": null
+ },
+ "Ta'mir ta'siri, asosiy baho": {
+  "values": {
+   "−0,12": [
+    "4_bob.md",
+    "5_xulosa.md"
+   ]
+  },
+  "source": -0.12,
+  "source_note": "4.3-§ asosiy model",
+  "consistent": true,
+  "matches_source": true
+ },
+ "Zarur quduqlar (0,20 m)": {
+  "values": {
+   "95": [
+    "4_bob.md",
+    "5_xulosa.md"
+   ]
+  },
+  "source": 95,
+  "source_note": "did_power_sim (interpolyatsiya)",
+  "consistent": true,
+  "matches_source": true
+ },
+ "Ta'mir narxi medianasi, mln so'm/km": {
+  "values": {
+   "349": [
+    "0_kirish.md",
+    "4_bob.md",
+    "5_xulosa.md"
+   ],
+   "586": [
+    "4_bob.md"
+   ]
+  },
+  "source": null,
+  "source_note": "cost_2026",
+  "consistent": false,
+  "matches_source": null
+ },
+ "Jami xarajat 2026 narxida, mlrd": {
+  "values": {
+   "48,2": [
+    "0_kirish.md",
+    "4_bob.md",
+    "5_xulosa.md"
+   ],
+   "12,0": [
+    "4_bob.md"
+   ],
+   "10,7": [
+    "4_bob.md"
+   ],
+   "21,3": [
+    "4_bob.md"
+   ]
+  },
+  "source": 48.2,
+  "source_note": "cost_2026",
+  "consistent": false,
+  "matches_source": false
+ },
+ "Viloyat ρ (o'zgarmas qator–sath)": {
+  "values": {
+   "0,85": [
+    "3_bob.md",
+    "5_xulosa.md",
+    "6_ilovalar.md"
+   ]
+  },
+  "source": null,
+  "source_note": "ch3_region",
+  "consistent": true,
+  "matches_source": null
+ },
+ "Viloyat quduqlari": {
+  "values": {
+   "2 052": [
+    "3_bob.md",
+    "5_xulosa.md"
+   ]
+  },
+  "source": null,
+  "source_note": "",
+  "consistent": true,
+  "matches_source": null
+ },
+ "Kollektorlar soni": {
+  "values": {
+   "90": [
+    "0_kirish.md",
+    "1_bob.md",
+    "2_bob.md",
+    "3_bob.md",
+    "4_bob.md",
+    "5_xulosa.md"
+   ],
+   "68": [
+    "4_bob.md"
+   ]
+  },
+  "source": 90,
+  "source_note": "kadastr",
+  "consistent": false,
+  "matches_source": false
+ },
+ "Joyiga bog'lash quduqlari": {
+  "values": {
+   "181": [
+    "2_bob.md",
+    "5_xulosa.md"
+   ]
+  },
+  "source": 181,
+  "source_note": "04-skript",
+  "consistent": true,
+  "matches_source": true
+ },
+ "Kuzatuv tarmog'i to'yinishi": {
+  "values": {
+   "94": [
+    "3_bob.md"
+   ]
+  },
+  "source": 94,
+  "source_note": "18-skript",
+  "consistent": true,
+  "matches_source": true
+ }
+}

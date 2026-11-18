@@ -184,8 +184,8 @@
 | --- | --- | --- | --- | --- |
 | Mash’al | 5 100 | 3 790 | 54,8 | 14,5 |
 | Z.M.Bobur | 3 928 | 3 610 | 39,2 | 10,9 |
-| T.Mirzaev | 4 553 | 3 371 | 24,0 | 7,1 |
-| M.Tojiboyev | 4 603 | 2 532 | 17,3 | 6,8 |
+| T.Mirzayev | 4 553 | 3 371 | 24,0 | 7,1 |
+| M.To'jiboyev | 4 603 | 2 532 | 17,3 | 6,8 |
 | U.Qoraboyev | 2 698 | 2 420 | 32,2 | 13,3 |
 | Istiqlol | 4 458 | 2 146 | 34,1 | 15,9 |
 | Paxtakor | 1 854 | 1 601 | 12,9 | 8,0 |
@@ -274,9 +274,9 @@
 | Istiqlol | 25 | 9 539 | 97,2 | 5,8 | 2,08 |
 | Paxtakor | 19 | 7 806 | 93,9 | 5,6 | 2,39 |
 | Z.M.Bobur | 26 | 10 384 | 92,4 | 5,8 | 2,08 |
-| M.Tojiboyev | 28 | 10 154 | 87,8 | 10,5 | 2,36 |
+| M.To'jiboyev | 28 | 10 154 | 87,8 | 10,5 | 2,36 |
 | U.Qoraboyev | 22 | 8 545 | 84,1 | 13,3 | 2,94 |
-| T.Mirzaev | 18 | 7 414 | 60,0 | 20,8 | 3,16 |
+| T.Mirzayev | 18 | 7 414 | 60,0 | 20,8 | 3,16 |
 | Y.Oxunboboyev | 7 | 2 844 | 50,3 | 29,2 | 3,36 |
 
 ## 20-ilova
@@ -298,7 +298,7 @@
 | M.To'jiboyev | 13 | +0,041 | 77 | 6 |
 | Mash'al | 21 | +0,034 | 86 | 13 |
 | Paxtakor | 14 | +0,022 | 79 | 7 |
-| T.Mirzaev | 7 | +0,037 | 86 | 5 |
+| T.Mirzayev | 7 | +0,037 | 86 | 5 |
 | U.Qoraboyev | 13 | +0,034 | 92 | 9 |
 | Y.Oxunboboyev | 2 | +0,068 | 100 | 1 |
 | Z.M.Bobur | 23 | −0,019 | 22 | 1 |
@@ -314,7 +314,7 @@
 | M.To'jiboyev | 1,55 | iyul, 3-dekada | 1,98 | fevral, 1-dekada | 0,43 |
 | Mash'al | 1,48 | may, 2-dekada | 1,84 | yanvar, 3-dekada | 0,36 |
 | Paxtakor | 1,82 | iyun, 2-dekada | 2,47 | yanvar, 3-dekada | 0,65 |
-| T.Mirzaev | 1,53 | may, 1-dekada | 1,86 | dekabr, 3-dekada | 0,32 |
+| T.Mirzayev | 1,53 | may, 1-dekada | 1,86 | dekabr, 3-dekada | 0,32 |
 | U.Qoraboyev | 1,45 | iyul, 3-dekada | 2,29 | fevral, 2-dekada | 0,85 |
 | Z.M.Bobur | 1,46 | may, 2-dekada | 1,97 | yanvar, 3-dekada | 0,51 |
 
@@ -372,7 +372,7 @@
 | M.To'jiboyev | 81 | 2,43 | 20 | 17 | 27 / 4 | 0,81 |
 | Mash'al | 86 | 1,84 | 80 | 71 | 27 / 9 | 0,82 |
 | Paxtakor | 100 | 2,03 | 44 | 21 | 19 / 1 | 0,78 |
-| T.Mirzaev | 81 | 2,66 | 30 | 28 | 14 / 1 | 0,84 |
+| T.Mirzayev | 81 | 2,66 | 30 | 28 | 14 / 1 | 0,84 |
 | U.Qoraboyev | 96 | 2,43 | 45 | 19 | 22 / 2 | 0,80 |
 | Y.Oxunboboyev | 57 | 3,15 | 0 | 0 | 7 / 0 | 0,85 |
 | Z.M.Bobur | 85 | 2,00 | 61 | 58 | 26 / 12 | 0,82 |
@@ -496,7 +496,7 @@ Massivlar ichidagi korrelyatsiyalar (yettita test) uchun Benjamini–Hochberg tu
 | Istiqlol | 19 | 1,22 | 0 | 1,15 | 1,22 | 1,25 | 12 | 8 |
 | M.To'jiboyev | 14 | 1,03 | 0 | 1,10 | 1,07 | 1,00 | 4 | 2 |
 | U.Qoraboyev | 12 | 0,84 | 0 | 0,84 | 0,90 | 0,86 | 1 | 0 |
-| T.Mirzaev | 9 | 0,80 | 0 | 1,02 | 0,74 | 0,80 | 1 | 0 |
+| T.Mirzayev | 9 | 0,80 | 0 | 1,02 | 0,74 | 0,80 | 1 | 0 |
 | Jami | 113 | — | — | 1,27 | 1,25 | 1,32 | 56 | 29 |
 
 Izoh: minerallashuv — 2004–2010-yillar, yozgi sath — 2019–2024-yillar (iyul–avgust) bo'yicha.
@@ -596,7 +596,7 @@ Izoh: Bo'ston va Paxtaobod tumanlari bo'yicha 14 yillik, Buloqboshi tumani bo'yi
 | Tizim | Zovurlar soni | Uzunligi, km | Ta'mir qayd etilmagan uzunlik ulushi |
 | --- | --- | --- | --- |
 | Mash'al massivi | 72 | 92,0 | 21 % |
-| T.Mirzaev massivi | 36 | 30,4 | 47 % |
+| T.Mirzayev massivi | 36 | 30,4 | 47 % |
 | U.Qoraboyev massivi | 29 | 21,9 | 72 % |
 | Istiqlol massivi | 57 | 70,2 | 74 % |
 | Paxtakor massivi | 33 | 41,9 | 74 % |
@@ -616,7 +616,7 @@ Izoh: Bo'ston va Paxtaobod tumanlari bo'yicha 14 yillik, Buloqboshi tumani bo'yi
 | U.Qoraboyev | 2 420 | 32,2 | 13,3 | 64 | 4,2 | 21,9 | 9,1 | 72 |
 | Z.M.Bobur | 3 610 | 39,3 | 10,9 | 67 | 4,9 | 35,2 | 9,8 | 82 |
 | Paxtakor | 1 601 | 12,9 | 8,0 | 72 | 5,0 | 41,9 | 26,2 | 74 |
-| T.Mirzaev | 3 371 | 24,0 | 7,1 | 62 | 4,6 | 30,4 | 9,0 | 47 |
+| T.Mirzayev | 3 371 | 24,0 | 7,1 | 62 | 4,6 | 30,4 | 9,0 | 47 |
 | M.To'jiboyev | 2 532 | 17,3 | 6,8 | 66 | 5,8 | — | — | — |
 | Y.Oxunboboyev | 1 191 | 0,0 | 0,0 | — | — | 20,1 | 16,9 | 100 |
 

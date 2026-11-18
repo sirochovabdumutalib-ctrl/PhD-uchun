@@ -185,7 +185,7 @@ Narx kollektorning suv sarfi bilan bog'liq emas (logarifmik korrelyatsiya −0,2
 | U.Qoraboyev | 2 420 | 9 | 6 570 | 2 715 | 19 | 1 |
 | Mash'al | 3 790 | 13 | 9 187 | 2 424 | 71 | 17 |
 | Z.M.Bobur | 3 610 | 6 | 6 472 | 1 793 | 58 | 17 |
-| T.Mirzaev | 3 371 | 5 | 5 525 | 1 639 | 28 | 1 |
+| T.Mirzayev | 3 371 | 5 | 5 525 | 1 639 | 28 | 1 |
 | Paxtakor | 1 601 | 5 | 2 338 | 1 461 | 21 | 4 |
 | M.To'jiboyev | 2 532 | 3 | 662 | 261 | 17 | 4 |
 | Y.Oxunboboyev | 1 191 | 0 | 0 | 0 | 0 | — |
@@ -223,7 +223,7 @@ Tizimni boshqarish bo'yicha (T-10 – T-15): ta'mir va nosozliklar daftarini yur
 | Istiqlol | 55 | 12 | +0,047 | o'rta: zich, lekin eski, ichki zovurlarning 74 % ta'mirsiz | 3 648 | I |
 | Mash'al | 71 | 17 | +0,031 | yaxshi | 2 424 | II |
 | U.Qoraboyev | 19 | 1 | +0,053 | o'rta | 2 715 | III |
-| T.Mirzaev | 28 | 1 | +0,051 | o'rta | 1 639 | III |
+| T.Mirzayev | 28 | 1 | +0,051 | o'rta | 1 639 | III |
 | Paxtakor | 21 | 4 | +0,041 | o'rta | 1 461 | III |
 | M.To'jiboyev | 17 | 4 | +0,040 | zaif (siyrak) | 261 | III |
 | Y.Oxunboboyev | 0 | — | — | zaif (kollektor yo'q) | 0 | monitoring |
