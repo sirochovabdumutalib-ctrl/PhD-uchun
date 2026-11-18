@@ -1,0 +1,48 @@
+{
+  "notice": "Export completed with explicit settings. This report does not establish visual, accessibility, scientific-integrity, or journal-submission compliance.",
+  "outputs": [
+    {
+      "format": "pdf",
+      "kind": "vector-container",
+      "path": "/home/user/PhD-uchun/figures/ch3_density.pdf",
+      "size_bytes": 14889
+    },
+    {
+      "format": "png",
+      "kind": "raster",
+      "path": "/home/user/PhD-uchun/figures/ch3_density.png",
+      "size_bytes": 210713
+    }
+  ],
+  "provenance": {
+    "missing_data": "—",
+    "raw_data": "results/ch3_geo_ext.json density (18-skript)",
+    "transformations": [
+      "34 ta nazorat qudugʻi; qolganlardan 25–100 % tanlab olish"
+    ],
+    "uncertainty": "±1 SD, har bir zichlik uchun 40 tasodifiy takror"
+  },
+  "schema_version": "1.0",
+  "settings": {
+    "bbox_inches": null,
+    "dpi": 600.0,
+    "facecolor": "white",
+    "figure_size_inches": [
+      3.783464566929134,
+      2.559055118110236
+    ],
+    "font_mode": "truetype",
+    "formats": [
+      "pdf",
+      "png"
+    ],
+    "pad_inches": 0.1,
+    "tiff_rgb": false,
+    "transparent": false
+  },
+  "versions": {
+    "matplotlib": "3.11.2",
+    "pillow": "12.3.0"
+  },
+  "warnings": []
+}

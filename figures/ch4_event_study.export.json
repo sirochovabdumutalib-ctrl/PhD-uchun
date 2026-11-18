@@ -1,0 +1,49 @@
+{
+  "notice": "Export completed with explicit settings. This report does not establish visual, accessibility, scientific-integrity, or journal-submission compliance.",
+  "outputs": [
+    {
+      "format": "pdf",
+      "kind": "vector-container",
+      "path": "/home/user/PhD-uchun/figures/ch4_event_study.pdf",
+      "size_bytes": 16084
+    },
+    {
+      "format": "png",
+      "kind": "raster",
+      "path": "/home/user/PhD-uchun/figures/ch4_event_study.png",
+      "size_bytes": 183205
+    }
+  ],
+  "provenance": {
+    "missing_data": "mustaqil maʼlumoti boʻlmagan yillar chiqarilgan",
+    "raw_data": "data/repair_panel.csv; results/ch4_repair_ext.json (25-skript)",
+    "transformations": [
+      "quduq va yil qatʼiy effektlari",
+      "asos: taʼmirdan bir yil oldin"
+    ],
+    "uncertainty": "95 % ishonch oraligʻi, quduqlar boʻyicha klasterlangan standart xato"
+  },
+  "schema_version": "1.0",
+  "settings": {
+    "bbox_inches": null,
+    "dpi": 600.0,
+    "facecolor": "white",
+    "figure_size_inches": [
+      3.9665354330708666,
+      2.4803149606299213
+    ],
+    "font_mode": "truetype",
+    "formats": [
+      "pdf",
+      "png"
+    ],
+    "pad_inches": 0.1,
+    "tiff_rgb": false,
+    "transparent": false
+  },
+  "versions": {
+    "matplotlib": "3.11.2",
+    "pillow": "12.3.0"
+  },
+  "warnings": []
+}

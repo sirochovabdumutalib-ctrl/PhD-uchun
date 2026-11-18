@@ -61,7 +61,7 @@
 
 ## 4-ilova
 
-*4-ilova. Andijon meteostansiyasi bo’yicha oylik yog’in, hisoblangan etalon bug’lanuvchanlik va o’rtacha haroratning yillik yo’li (1961–1990)*
+*4-ilova. Andijon meteostansiyasi bo’yicha iqlimning yillik yo’li (1961–1990): a — oylik yog’in va hisoblangan etalon bug’lanuvchanlik; b — o’rtacha oylik harorat*
 
 &#91;image: Andijon meteostansiyasi bo’yicha yog’in, bug’lanuvchanlik va haroratning yillik yo’li\]
 
@@ -175,7 +175,7 @@
 
 ## 13-ilova
 
-*13-ilova. Xaritani joyiga bog’lash qoldiqlarining taqsimoti (190 ta tayanch nuqta; 130 m dan katta qoldiqlar oxirgi ustunga qo’shilgan)*
+*13-ilova. Xaritani joyiga bog’lash qoldiqlari (190 ta tayanch nuqta): a — 10 m gacha bo’lgan qoldiqlar taqsimoti; b — barcha qoldiqlar, logarifmik shkala*
 
 &#91;image: Xaritani joyiga bog’lash qoldiqlarining taqsimoti\]
 
@@ -244,7 +244,7 @@
 
 ## 18-ilova
 
-*18-ilova. Kuzatilgan quduqlar soni va 5 m dan chuqur o’lchovlar ulushi (chapda), yaroqsiz o’lchovlar ulushi (o’ngda) yillar bo’yicha*
+*18-ilova. Monitoring tarmog’i yillar bo’yicha: a — kuzatilgan quduqlar soni; b — yaroqsiz o’lchovlar ulushi; c — 5 m dan chuqur o’lchovlar ulushi (uzuq chiziq — tarmoq tarkibi o’zgargan yil)*
 
 &#91;image: Kuzatuv tarmog’i tarkibi va yaroqsiz o’lchovlar ulushi yillar bo’yicha\]
 
@@ -338,7 +338,7 @@
 
 ## 25-ilova
 
-*25-ilova. Sizot suvi sathining (2019–2024-yillar o'rtachasi) yo'nalishsiz eksperimental variogrammasi va nazariy modellar (chapda) hamda to'rt yo'nalish bo'yicha variogrammalar (o'ngda)*
+*25-ilova. Sizot suvi sathining (2019–2024-yillar o'rtachasi) variogrammalari: a — yo'nalishsiz eksperimental variogramma va nazariy modellar; b — to'rt yo'nalish bo'yicha variogrammalar*
 
 &#91;image: Sizot suvi sathining eksperimental va nazariy variogrammalari\]
 
@@ -588,7 +588,7 @@ Izoh: Bo'ston va Paxtaobod tumanlari bo'yicha 14 yillik, Buloqboshi tumani bo'yi
 
 ## 42-ilova
 
-*42-ilova. Kollektorlar uzunligining foydalanishga topshirilgan davr bo'yicha (chapda) va oxirgi ta'mir yili bo'yicha (o'rtada) taqsimoti; 1 km ta'mir narxining 2026-yil narxlaridagi taqsimoti (o'ngda)*
+*42-ilova. Kollektorlar uzunligining taqsimoti: a — foydalanishga topshirilgan o'n yillik bo'yicha; b — oxirgi ta'mir yili bo'yicha; c — 1 km ta'mir narxining 2026-yil narxlaridagi taqsimoti (uzuq chiziq — mediana)*
 
 &#91;image: Kollektorlarning yoshi, ta'mir yillari va ta'mir narxi\]
 
@@ -627,7 +627,7 @@ Izoh: \* — kadastrda nomi aniqlangan kollektor bo'laklari bo'yicha uzunlik bil
 
 ## 45-ilova
 
-*45-ilova. Massivlar bo'yicha: a — kollektorlar va ichki zovurlarning solishtirma uzunligi; b — ta'mir qayd etilmagan ichki zovurlar ulushi (qizil — 70 foizdan ortiq)*
+*45-ilova. Massivlar bo'yicha: a — kollektorlar va ichki zovurlarning solishtirma uzunligi; b — ta'mir qayd etilmagan ichki zovurlar ulushi (to'q sariq, xoch bilan — 70 foizdan ortiq)*
 
 &#91;image: Massivlar bo'yicha drenaj tarmog'ining solishtirma uzunligi va ichki zovurlar holati\]
 

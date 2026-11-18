@@ -1,0 +1,49 @@
+{
+  "notice": "Export completed with explicit settings. This report does not establish visual, accessibility, scientific-integrity, or journal-submission compliance.",
+  "outputs": [
+    {
+      "format": "pdf",
+      "kind": "vector-container",
+      "path": "/home/user/PhD-uchun/figures/ch2_georef_residuals.pdf",
+      "size_bytes": 20754
+    },
+    {
+      "format": "png",
+      "kind": "raster",
+      "path": "/home/user/PhD-uchun/figures/ch2_georef_residuals.png",
+      "size_bytes": 226962
+    }
+  ],
+  "provenance": {
+    "missing_data": "jadval koordinatasi yoʻq quduqlar kiritilmagan; jami 190 ta nuqta",
+    "raw_data": "data/wells_map_2024.csv (xaritadagi va jadvaldagi koordinatalar)",
+    "transformations": [
+      "WGS84 → UTM 43N",
+      "qoldiq = Evklid masofasi"
+    ],
+    "uncertainty": "—"
+  },
+  "schema_version": "1.0",
+  "settings": {
+    "bbox_inches": null,
+    "dpi": 600.0,
+    "facecolor": "white",
+    "figure_size_inches": [
+      6.102362204724409,
+      2.3622047244094486
+    ],
+    "font_mode": "truetype",
+    "formats": [
+      "pdf",
+      "png"
+    ],
+    "pad_inches": 0.1,
+    "tiff_rgb": false,
+    "transparent": false
+  },
+  "versions": {
+    "matplotlib": "3.11.2",
+    "pillow": "12.3.0"
+  },
+  "warnings": []
+}

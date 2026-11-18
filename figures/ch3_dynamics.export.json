@@ -1,0 +1,50 @@
+{
+  "notice": "Export completed with explicit settings. This report does not establish visual, accessibility, scientific-integrity, or journal-submission compliance.",
+  "outputs": [
+    {
+      "format": "pdf",
+      "kind": "vector-container",
+      "path": "/home/user/PhD-uchun/figures/ch3_dynamics.pdf",
+      "size_bytes": 22464
+    },
+    {
+      "format": "png",
+      "kind": "raster",
+      "path": "/home/user/PhD-uchun/figures/ch3_dynamics.png",
+      "size_bytes": 308794
+    }
+  ],
+  "provenance": {
+    "missing_data": "mustaqil maʼlumoti boʻlmagan yillar (2010, 2013, 2017) oʻqda yoʻq",
+    "raw_data": "results/ch3.json trend, season (10-skript)",
+    "transformations": [
+      "yillik oʻrtacha",
+      "oʻzgarmas qatorlar chiqarilgan",
+      "barqaror panel"
+    ],
+    "uncertainty": "koʻrsatilmagan; tendensiya bahosi va oraligʻi matnda"
+  },
+  "schema_version": "1.0",
+  "settings": {
+    "bbox_inches": null,
+    "dpi": 600.0,
+    "facecolor": "white",
+    "figure_size_inches": [
+      6.102362204724409,
+      2.4803149606299213
+    ],
+    "font_mode": "truetype",
+    "formats": [
+      "pdf",
+      "png"
+    ],
+    "pad_inches": 0.1,
+    "tiff_rgb": false,
+    "transparent": false
+  },
+  "versions": {
+    "matplotlib": "3.11.2",
+    "pillow": "12.3.0"
+  },
+  "warnings": []
+}

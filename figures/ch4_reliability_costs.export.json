@@ -1,0 +1,49 @@
+{
+  "notice": "Export completed with explicit settings. This report does not establish visual, accessibility, scientific-integrity, or journal-submission compliance.",
+  "outputs": [
+    {
+      "format": "pdf",
+      "kind": "vector-container",
+      "path": "/home/user/PhD-uchun/figures/ch4_reliability_costs.pdf",
+      "size_bytes": 20001
+    },
+    {
+      "format": "png",
+      "kind": "raster",
+      "path": "/home/user/PhD-uchun/figures/ch4_reliability_costs.png",
+      "size_bytes": 264023
+    }
+  ],
+  "provenance": {
+    "missing_data": "narxi koʻrsatilmagan kollektorlar c panelga kiritilmagan",
+    "raw_data": "data/collectors.csv; results/ch4_repair_costs.csv; results/cost_2026.json (37-skript)",
+    "transformations": [
+      "oʻn yillik va yillar boʻyicha uzunlik yigʻindisi",
+      "2026-yil narxlariga isteʼmol narxlari indeksi bilan keltirish"
+    ],
+    "uncertainty": "—"
+  },
+  "schema_version": "1.0",
+  "settings": {
+    "bbox_inches": null,
+    "dpi": 600.0,
+    "facecolor": "white",
+    "figure_size_inches": [
+      6.102362204724409,
+      2.4803149606299213
+    ],
+    "font_mode": "truetype",
+    "formats": [
+      "pdf",
+      "png"
+    ],
+    "pad_inches": 0.1,
+    "tiff_rgb": false,
+    "transparent": false
+  },
+  "versions": {
+    "matplotlib": "3.11.2",
+    "pillow": "12.3.0"
+  },
+  "warnings": []
+}

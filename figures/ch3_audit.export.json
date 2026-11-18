@@ -1,0 +1,48 @@
+{
+  "notice": "Export completed with explicit settings. This report does not establish visual, accessibility, scientific-integrity, or journal-submission compliance.",
+  "outputs": [
+    {
+      "format": "pdf",
+      "kind": "vector-container",
+      "path": "/home/user/PhD-uchun/figures/ch3_audit.pdf",
+      "size_bytes": 20149
+    },
+    {
+      "format": "png",
+      "kind": "raster",
+      "path": "/home/user/PhD-uchun/figures/ch3_audit.png",
+      "size_bytes": 282643
+    }
+  ],
+  "provenance": {
+    "missing_data": "2010, 2013 va 2017-yillar oʻqda yoʻq",
+    "raw_data": "results/ch3_audit_ext.json (16-skript)",
+    "transformations": [
+      "yillar boʻyicha jamlash; mustaqil maʼlumoti boʻlmagan yillar tahlilga kiritilmagan"
+    ],
+    "uncertainty": "—"
+  },
+  "schema_version": "1.0",
+  "settings": {
+    "bbox_inches": null,
+    "dpi": 600.0,
+    "facecolor": "white",
+    "figure_size_inches": [
+      6.102362204724409,
+      3.7401574803149606
+    ],
+    "font_mode": "truetype",
+    "formats": [
+      "pdf",
+      "png"
+    ],
+    "pad_inches": 0.1,
+    "tiff_rgb": false,
+    "transparent": false
+  },
+  "versions": {
+    "matplotlib": "3.11.2",
+    "pillow": "12.3.0"
+  },
+  "warnings": []
+}

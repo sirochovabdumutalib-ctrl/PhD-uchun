@@ -198,7 +198,7 @@ Marhamat tumani meliorativ tizimining geomaʼlumotlar bazasi shakllantirilgan: k
 
 sizot suvi sathi, bahoning noaniqlik va yozgi sayoz sath ehtimoli xaritalari tuzilgan, 2019–2024-yillardagi yozgi sath va 2004–2010-yillardagi minerallashuv boʻyicha shoʻrlanish xavfi ostidagi 56 ta quduq aniqlangan va massivlar uchta ustuvorlik guruhiga ajratilgan (birinchi navbatda Z.M.Bobur va Istiqlol massivlari);
 
-kollektorlarni taʼmirlashning 2026-yil narxlaridagi haqiqiy narxi (medianasi 349 mln soʻm/km), taʼmir turlari orasidagi narx farqi va hajm samarasi aniqlangan, taʼmir turini oʻzan holatiga qarab tanlash stsenariysida xarajatlarni kamaytirish imkoniyati 2017–2020-yillar xarajatlarining 22–44 foizi deb baholangan;
+kollektorlarni taʼmirlashning 2026-yil narxlaridagi haqiqiy narxi (medianasi 348 mln soʻm/km), taʼmir turlari orasidagi narx farqi va hajm samarasi aniqlangan, taʼmir turini oʻzan holatiga qarab tanlash stsenariysida xarajatlarni kamaytirish imkoniyati 2017–2020-yillar xarajatlarining 22–44 foizi deb baholangan;
 
 monitoring tizimini takomillashtirish, taʼmir navbatini aniqlash va taʼmir samarasini oʻlchash boʻyicha 15 ta tavsiya ishlab chiqilgan.
 
@@ -845,7 +845,7 @@ Panel boʻyicha yillik oʻrtacha sath 2009-yildagi 1,60 m dan 2024-yilda 1,99 m 
 
 
 ::: {custom-style="Sarlavha-rasm"}
-3.2-rasm. Sizot suvi sathining koʻp yillik dinamikasi (chapda: xom maʼlumot va barqaror panel) hamda yil ichidagi oʻrtacha yoʻli (oʻngda)
+3.2-rasm. Sizot suvi sathi: a — koʻp yillik dinamika (xom maʼlumot va tekshirilgan barqaror panel); b — yil ichidagi oʻrtacha yoʻli oʻn kunliklar boʻyicha
 :::
 
 **Pogʻonali oʻzgarish.** Qatorning tuzilishi bir tekis tendensiyadan koʻra pogʻonali oʻzgarishga yaqin. 2009–2016-yillarda oʻrtacha sath 1,63 m, 2018–2024-yillarda 1,92 m; ikki davr orasidagi farq 0,30 m. Har bir davr ichida esa tendensiya statistik ahamiyatli emas: 2009–2016-yillarda Sen qiyaligi yiliga 0,021 m (p = 0,26), 2018–2024-yillarda yiliga 0,022 m (p = 0,23). Pettitt mezoni \[100\] qatordagi eng ehtimoliy uzilish nuqtasini 2016-yildan keyin koʻrsatadi (K = 42; p = 0,023). Yozgi qatorda ham uzilish nuqtasi aynan shu yerda. Oʻzgarishning asosiy qismi 2016 va 2018-yillar orasida yuz bergan; 2017-yil boʻyicha mustaqil kuzatuv maʼlumotlari mavjud emasligi sababli uzilishni bir yil aniqligida belgilab boʻlmaydi.
@@ -902,7 +902,7 @@ Sayozlashayotgan quduqlar hudud boʻyicha tasodifiy tarqalmagan (3.3-rasm). Ular
 
 Quduq tendensiyasining qaysi omillarga bogʻliqligi Spearman korrelyatsiyasi bilan tekshirildi. Eng kuchli bogʻlanish quduqning hozirgi sathi bilan: 2019–2024-yillardagi oʻrtacha sathi chuqur boʻlgan quduqlarda chuqurlashish tezroq (ρ = +0,55; p < 0,001). Bu bogʻlanishning bir qismi tabiiy: tez chuqurlashgan quduq oxirgi yillarda chuqur sath beradi. Shu bilan birga sathi allaqachon sayoz boʻlgan joylarda chuqurlashish deyarli kuzatilmaydi: tuman boʻyicha oʻrtacha yaxshilanish eng muammoli quduqlarga yetib bormagan. Kollektorgacha masofa bilan bogʻlanish kuchsizroq, lekin ahamiyatli (ρ = +0,25; p = 0,008): kollektordan uzoqdagi quduqlarda sath tezroq chuqurlashgan. Bu bogʻlanish 3.4-§ da batafsil koʻrib chiqiladi.
 
-**Mavsumiy dinamika.** Tozalangan qatorlar boʻyicha sathning yil ichidagi oʻrtacha yoʻli aniq mavsumiy xususiyatga ega (3.2-rasm, oʻngda). Sath yanvar–fevralda eng chuqur (2,03–2,04 m), mart oxiridan koʻtarila boshlaydi va iyul oxirida eng sayoz holatga yetadi (1,56 m). May oyining ikkinchi yarmidan avgust oxirigacha sath 1,56–1,62 m oraligʻida turadi, sentabrdan boshlab yana chuqurlashadi. Mavsumiy amplituda 0,48 m. Bu yoʻl sugʻorish mavsumi bilan mos keladi: 2.1-§ da koʻrsatilganidek, yogʻinlarning 65 foizi noyabr–aprelda tushadi, lekin sath aynan shu davrda eng chuqur. Yaʼni sathning koʻtarilishi yogʻin davriga emas, sugʻorish mavsumiga toʻgʻri keladi. Bu uni asosan sugʻorish va kanallardan filtratsiya belgilashi bilan mos keladi \[128\], lekin suv berish hajmi boʻyicha quduqlar darajasida maʼlumot yoʻqligi sababli bu bogʻlanish miqdoriy tekshirilmadi.
+**Mavsumiy dinamika.** Tozalangan qatorlar boʻyicha sathning yil ichidagi oʻrtacha yoʻli aniq mavsumiy xususiyatga ega (3.2-rasm, b). Sath yanvar–fevralda eng chuqur (2,03–2,04 m), mart oxiridan koʻtarila boshlaydi va iyul oxirida eng sayoz holatga yetadi (1,56 m). May oyining ikkinchi yarmidan avgust oxirigacha sath 1,56–1,62 m oraligʻida turadi, sentabrdan boshlab yana chuqurlashadi. Mavsumiy amplituda 0,48 m. Bu yoʻl sugʻorish mavsumi bilan mos keladi: 2.1-§ da koʻrsatilganidek, yogʻinlarning 65 foizi noyabr–aprelda tushadi, lekin sath aynan shu davrda eng chuqur. Yaʼni sathning koʻtarilishi yogʻin davriga emas, sugʻorish mavsumiga toʻgʻri keladi. Bu uni asosan sugʻorish va kanallardan filtratsiya belgilashi bilan mos keladi \[128\], lekin suv berish hajmi boʻyicha quduqlar darajasida maʼlumot yoʻqligi sababli bu bogʻlanish miqdoriy tekshirilmadi.
 
 Massivlar boʻyicha mavsumiy yoʻl bir-biridan sezilarli farq qiladi (22-ilova va 23-ilova). Mavsumiy amplituda 0,32 m dan (T.Mirzayev) 0,85 m gacha (U.Qoraboyev) oʻzgaradi.
 
@@ -918,11 +918,11 @@ Kuzatuv quduqlari sathni faqat alohida nuqtalarda beradi, meliorativ qarorlar es
 
 Ikkala koʻrsatkichning taqsimoti normal taqsimotdan farq qiladi (24-ilova). Oʻrtacha yillik sath boʻyicha oʻrtacha qiymat 2,39 m, mediana 2,25 m, asimmetriya koeffitsiyenti +1,31: taqsimot chuqur sath tomoniga choʻzilgan: sathi 4–6 m boʻlgan kam sonli quduqlar oʻrtachani oshiradi. Yozgi sath boʻyicha mediana 1,93 m, asimmetriya +1,59. Logarifmik oʻzgartirish asimmetriyani 0,36–0,46 gacha kamaytiradi, lekin taqsimotni toʻliq normallashtirmaydi (Shapiro–Uilk mezoni boʻyicha p = 0,009–0,016). Oddiy kriging taqsimotning normal boʻlishini talab qilmaydi, lekin ehtimollik xaritasini tuzishda bu holat hisobga olinadi.
 
-**Eksperimental variogramma.** Variogramma 500 m qadam bilan 10 km gacha boʻlgan masofada hisoblandi (25-ilova, chapda). Eng qisqa masofadagi (0,5–1,0 km) yarimvariogramma 0,52–0,57 m² ni tashkil etadi, bu maʼlumotlar umumiy dispersiyasining (0,97 m²) qariyb yarmi. Bu qoʻshni quduqlar sathi bir-biridan deyarli tasodifiy farq qilishini bildiradi: 500 m masofada joylashgan ikki quduq orasidagi sath farqi hudud boʻylab olingan ikki tasodifiy quduq orasidagi farqning yarmiga teng. Masofa ortishi bilan yarimvariogramma deyarli chiziqli oʻsadi va 7 km da maʼlumotlar dispersiyasiga yetadi, lekin plato hosil qilmaydi. Bunday shakl sathda tuman miqyosidagi umumiy yoʻnalish (trend) borligini koʻrsatadi \[95, 129\].
+**Eksperimental variogramma.** Variogramma 500 m qadam bilan 10 km gacha boʻlgan masofada hisoblandi (25-ilova, a). Eng qisqa masofadagi (0,5–1,0 km) yarimvariogramma 0,52–0,57 m² ni tashkil etadi, bu maʼlumotlar umumiy dispersiyasining (0,97 m²) qariyb yarmi. Bu qoʻshni quduqlar sathi bir-biridan deyarli tasodifiy farq qilishini bildiradi: 500 m masofada joylashgan ikki quduq orasidagi sath farqi hudud boʻylab olingan ikki tasodifiy quduq orasidagi farqning yarmiga teng. Masofa ortishi bilan yarimvariogramma deyarli chiziqli oʻsadi va 7 km da maʼlumotlar dispersiyasiga yetadi, lekin plato hosil qilmaydi. Bunday shakl sathda tuman miqyosidagi umumiy yoʻnalish (trend) borligini koʻrsatadi \[95, 129\].
 
 Trendning mavjudligi sath koordinatalar boʻyicha chiziqli regressiya bilan tasdiqlandi: u sath oʻzgaruvchanligining 18 foizini tushuntiradi (p < 0,001). Sath sharq tomonga har kilometrda 0,10 m, janub tomonga har kilometrda 0,07 m chuqurlashadi. Yozgi sath uchun ham manzara oʻxshash (R² = 0,15). Bu yoʻnalish tumanning umumiy relyefiga va 3.2-§ da aniqlangan massivlar farqiga mos keladi: sayoz sathli Z.M.Bobur, Istiqlol va Mashʼal massivlari tumanning shimoliy va gʻarbiy qismida, chuqur sathli Y.Oxunboboyev va T.Mirzayev massivlari janubda joylashgan.
 
-Yoʻnalishli variogrammalar (25-ilova, oʻngda) zaif anizotropiyani koʻrsatadi. Dastlabki 3 km masofada gʻarb–sharq yoʻnalishidagi oʻrtacha yarimvariogramma 0,52 m², qolgan uch yoʻnalishda 0,66–0,67 m². Yaʼni sath gʻarb–sharq yoʻnalishida biroz uzluksizroq oʻzgaradi. Biroq yoʻnalishlar boʻyicha juftliklar soni kam va farq qatordan qatorga barqaror emas, shuning uchun modelga anizotropiya kiritilmadi.
+Yoʻnalishli variogrammalar (25-ilova, b) zaif anizotropiyani koʻrsatadi. Dastlabki 3 km masofada gʻarb–sharq yoʻnalishidagi oʻrtacha yarimvariogramma 0,52 m², qolgan uch yoʻnalishda 0,66–0,67 m². Yaʼni sath gʻarb–sharq yoʻnalishida biroz uzluksizroq oʻzgaradi. Biroq yoʻnalishlar boʻyicha juftliklar soni kam va farq qatordan qatorga barqaror emas, shuning uchun modelga anizotropiya kiritilmadi.
 
 **Variogramma modelini tanlash.** Eksperimental variogrammaga uchta nazariy model (sferik, eksponensial va Gauss) juftliklar soni boʻyicha vaznlangan eng kichik kvadratlar usulida moslashtirildi \[95\]. Moslashtirish 10 km gacha boʻlgan masofa bilan cheklandi, chunki kriging bahosini asosan eng yaqin quduqlar belgilaydi. Taqqoslash uchun dasturning avtomatik moslashtirishi (butun masofa diapazoni boʻyicha) natijasi ham keltirilgan. Har bir model bittadan chiqarib tashlash usulidagi kross-validatsiya bilan baholandi (26-ilova).
 
@@ -1318,7 +1318,7 @@ Tumanda 2017–2020-yillarda taʼmirga 2026-yil narxlarida 48,2 mlrd soʻm sarfl
 
 Taʼmir xarajatlari meliorativ tizim samaradorligining iqtisodiy tomonini tavsiflaydi: qancha mablagʻ sarflangani, u tarmoqning qaysi qismiga yoʻnaltirilgani va sarflangan mablagʻ qanday natija bergani \[38, 126\]. Ushbu paragrafda kadastrdagi xarajat maʼlumotlari uch jihatdan tahlil qilinadi: 1 km taʼmir narxi va unga taʼsir etuvchi omillar, xarajatlarning balans qiymati va xizmat maydoniga nisbati hamda xarajatlarning massivlar boʻyicha taqsimoti va uning meliorativ ehtiyojga mosligi.
 
-**Umumiy koʻrsatkichlar.** Kadastrda 53 ta kollektor boʻyicha 2017–2020-yillardagi taʼmir xarajati va taʼmirlangan uchastka (piketlar) koʻrsatilgan. Jami 163,3 km uchastkaga kadastrda oʻsha yillarning narxlarida 21 314 mln soʻm sarflangan. Turli yillardagi xarajatlarni solishtirish va bugungi rejalashtirishda qoʻllash uchun ular 2026-yil oktabr narxlariga keltirildi. Buning uchun isteʼmol narxlari indeksidan foydalanildi (yillik inflyatsiya 2017-yilda 14,4, 2018-yilda 14,3, 2019-yilda 15,2, 2020-yilda 11,1, 2021–2025-yillarda 7,3–12,3 foiz, 2026-yil yanvar–oktabrida 4,8 foiz) \[137\]. Har bir taʼmir yilining xarajati shu yilning oʻrtacha narxlarida deb olindi; qayta hisoblash koeffitsiyenti 2017-yil uchun 2,60, 2018-yil uchun 2,27, 2019-yil uchun 1,98, 2020-yil uchun 1,75. 2026-yil narxlarida xarajat 48 176 mln soʻmni tashkil etadi. Uzunlik boʻyicha tortilgan oʻrtacha narx 295 mln soʻm/km, mediana 349 mln soʻm/km. Bundan keyin barcha xarajatlar 2026-yil narxlarida keltiriladi; yillar boʻyicha taqsimot ikkala narxda 49-ilovada berilgan.
+**Umumiy koʻrsatkichlar.** Kadastrda 53 ta kollektor boʻyicha 2017–2020-yillardagi taʼmir xarajati va taʼmirlangan uchastka (piketlar) koʻrsatilgan. Jami 163,3 km uchastkaga kadastrda oʻsha yillarning narxlarida 21 314 mln soʻm sarflangan. Turli yillardagi xarajatlarni solishtirish va bugungi rejalashtirishda qoʻllash uchun ular 2026-yil oktabr narxlariga keltirildi. Buning uchun isteʼmol narxlari indeksidan foydalanildi (yillik inflyatsiya 2017-yilda 14,4, 2018-yilda 14,3, 2019-yilda 15,2, 2020-yilda 11,1, 2021–2025-yillarda 7,3–12,3 foiz, 2026-yil yanvar–oktabrida 4,8 foiz) \[137\]. Har bir taʼmir yilining xarajati shu yilning oʻrtacha narxlarida deb olindi; qayta hisoblash koeffitsiyenti 2017-yil uchun 2,60, 2018-yil uchun 2,27, 2019-yil uchun 1,98, 2020-yil uchun 1,75. 2026-yil narxlarida xarajat 48 176 mln soʻmni tashkil etadi. Uzunlik boʻyicha tortilgan oʻrtacha narx 295 mln soʻm/km, mediana 348 mln soʻm/km. Bundan keyin barcha xarajatlar 2026-yil narxlarida keltiriladi; yillar boʻyicha taqsimot ikkala narxda 49-ilovada berilgan.
 
 **Narx tarkibi.** Narxlar ikki guruhga aniq ajraladi. 2019-yilda taʼmirlangan sakkizta kollektorda (Qushchi, Nayman, Gʻarbiy, ND-2-1, Shoʻr qishloq, Ambarquloq, Marhamat, ND-7) narx 29–59 mln soʻm/km; bu yengil tozalash ishlariga mos keladi. Qolgan 45 ta kollektorda narx asosan 270–680 mln soʻm/km oraligʻida; bu mexanizmlar bilan chuqurlashtirish va tiklash ishlariga mos keladi. Ikki guruhning oʻrtacha narxi taxminan oʻn baravar farq qiladi (34 va 368 mln soʻm/km). Eng yuqori narx ZKD-6-1-1 kollektorida qayd etilgan: 1 335 mln soʻm/km.
 
@@ -1361,7 +1361,7 @@ Izoh: \* — bir kollektor bir necha massivdan oʻtishi mumkin, shuning uchun ma
 
 Taʼmir xarajatlari massivlar orasida 14 baravar farq qiladi: 1 ga sugʻoriladigan maydonga hisoblaganda Istiqlol massivida 3 648 ming soʻm, M.Toʻjiboyev massivida 261 ming soʻm; Y.Oxunboboyev massivida kollektor yoʻq. Xarajat va meliorativ xavf oʻrtasidagi bogʻlanish kuchsiz va statistik ahamiyatsiz (Spearman ρ = +0,46; p = 0,29; yettita massiv). Bu nomuvofiqlik xaritada yaqqol koʻrinadi (4.4-rasm, b): eng katta doiralar xavf oʻrtacha boʻlgan Istiqlol va xavf past (19 foiz) boʻlgan U.Qoraboyev massivlarida, xavf eng yuqori Mashʼal va Z.M.Bobur massivlarida esa xarajat oʻrtacha darajada. Xaritadagi 36 ta taʼmirlangan kollektordan 34 tasida narx kapital taʼmirga mos keladi (4.4-rasm, a). Z.M.Bobur massivi meliorativ xavf boʻyicha birinchi oʻrinlarda (sayoz sath ehtimoli yuqori maydon 58 foiz, shoʻrlanish xavfli quduqlar 17 ta, sath koʻtarilmoqda), lekin unga toʻgʻri kelgan xarajat tuman oʻrtachasidan (1 867 ming soʻm/ga) past: 1 793 ming soʻm/ga. U.Qoraboyev massivida esa xavf past (19 foiz, 1 ta quduq), xarajat esa ikkinchi oʻrinda (2 715 ming soʻm/ga). 4.1-§ dagi kabi bu yerda ham taʼmir mablagʻlari kollektorlarning holatiga ham, hududning meliorativ ehtiyojiga ham bogʻliq holda taqsimlanmagan.
 
-**Amaliy natijalar.** 1 km taʼmirning 2026-yil narxlaridagi haqiqiy narxi (mediana 349 mln soʻm, uchastka uzunligiga qarab 289–586 mln soʻm) rejalashtirish hisoblari uchun asos boʻladi. Yengil tozalash va kapital taʼmir narxi taxminan oʻn baravar farq qiladi; 4.2-§ ga koʻra oʻzandagi oʻsimlik va loyqa oʻtkazish qobiliyatini 29–61 foizga kamaytiradi, shuning uchun koʻp hollarda arzon tozalash ishlari oʻtkazish qobiliyatining katta qismini tiklashi mumkin. Taʼmir mablagʻlarini taqsimlashda meliorativ xavf koʻrsatkichlarini (III bob) hisobga olish zarur: 2017–2020-yillardagi xarajatlar xavf yuqori massivlarga ustuvor yoʻnaltirilmagan. Biroq qaysi tur va qaysi joydagi taʼmir qancha meliorativ natija berishi oʻlchanmagan ekan (4.3-§), bu tanlovni miqdoriy asoslab boʻlmaydi.
+**Amaliy natijalar.** 1 km taʼmirning 2026-yil narxlaridagi haqiqiy narxi (mediana 348 mln soʻm, uchastka uzunligiga qarab 289–586 mln soʻm) rejalashtirish hisoblari uchun asos boʻladi. Yengil tozalash va kapital taʼmir narxi taxminan oʻn baravar farq qiladi; 4.2-§ ga koʻra oʻzandagi oʻsimlik va loyqa oʻtkazish qobiliyatini 29–61 foizga kamaytiradi, shuning uchun koʻp hollarda arzon tozalash ishlari oʻtkazish qobiliyatining katta qismini tiklashi mumkin. Taʼmir mablagʻlarini taqsimlashda meliorativ xavf koʻrsatkichlarini (III bob) hisobga olish zarur: 2017–2020-yillardagi xarajatlar xavf yuqori massivlarga ustuvor yoʻnaltirilmagan. Biroq qaysi tur va qaysi joydagi taʼmir qancha meliorativ natija berishi oʻlchanmagan ekan (4.3-§), bu tanlovni miqdoriy asoslab boʻlmaydi.
 
 **Cheklov.** Kadastrda taʼmir turi faqat uchta kollektor uchun yozilgan; yengil tozalash va kapital taʼmirga ajratish narx boʻyicha qilingan taxmindir. Xarajatlar 2026-yil narxlariga isteʼmol narxlari indeksi boʻyicha keltirilgan; qurilish ishlari narxi isteʼmol narxlaridan farqli surʼatda oʻzgargan boʻlishi mumkin, shuning uchun 2026-yil narxlaridagi qiymatlar taxminiy. Xarajatlarni massivlarga taqsimlash xaritadagi nomlangan boʻlaklarga tayanadi va xarajatning 20 foizi taqsimlanmagan.
 
@@ -1440,7 +1440,7 @@ Samarani soʻmda toʻliq ifodalash uchun taʼmir turlarining haqiqiy meliorativ 
 3. Ochiq tarmoqning solishtirma uzunligi massivlar boʻyicha 6,8 m/ga dan 48,6 m/ga gacha; eng zaif tarmoq Y.Oxunboboyev, M.Toʻjiboyev va Z.M.Bobur massivlarida, eng yaxshisi Mashʼal massivida.
 4. Suv balansi boʻyicha iyuldagi talab etiladigan drenaj moduli 0,16–0,66 l/(s·ga), oʻrta stsenariyda 0,26–0,43 l/(s·ga); sugʻorish samaradorligi oshirilganda u 2,5 baravar kamayadi. Kadastrdagi sarf qiymatlari toʻgʻri deb qabul qilinganda 90 ta kollektordan 27–48 tasining (stsenariyga qarab) solishtirma sarfi talabdan past. Sizot suvining mavsumiy koʻtarilishi boʻyicha drenaj quvvatidagi taqchillik talabning 5–45 foizi.
 5. Kollektor taʼmiridan keyin sizot sathining nazorat quduqlariga nisbatan chuqurlashgani aniqlanmadi: asosiy baho −0,12 m (95 foizlik ishonch oraligʻi −0,33 … +0,09 m); bosqichli dizaynga chidamli baholar va boshqa tekshiruvlar ham chuqurlashishni koʻrsatmadi, lekin 0,2 m atrofidagi taʼsirni istisno qilib boʻlmaydi. Bu taʼmir samarasizligini emas, mavjud maʼlumot bilan uni oʻlchab boʻlmasligini koʻrsatadi; 0,20 m lik taʼsirni aniqlash uchun taʼsir guruhida taxminan 95 ta quduq kerak (hozir 36 ta).
-6. Taʼmirning 2026-yil narxlaridagi haqiqiy narxi medianasi 349 mln soʻm/km; yengil tozalash va kapital taʼmir orasida taxminan oʻn baravar farq bor. 2017–2020-yillarda sarflangan 48,2 mlrd soʻmning massivlar boʻyicha taqsimoti meliorativ xavf bilan bogʻlanmagan: xavf eng yuqori Z.M.Bobur massiviga tuman oʻrtachasidan kam mablagʻ ajratilgan. Stsenariy boʻyicha tejash imkoniyati 22–44 foiz.
+6. Taʼmirning 2026-yil narxlaridagi haqiqiy narxi medianasi 348 mln soʻm/km; yengil tozalash va kapital taʼmir orasida taxminan oʻn baravar farq bor. 2017–2020-yillarda sarflangan 48,2 mlrd soʻmning massivlar boʻyicha taqsimoti meliorativ xavf bilan bogʻlanmagan: xavf eng yuqori Z.M.Bobur massiviga tuman oʻrtachasidan kam mablagʻ ajratilgan. Stsenariy boʻyicha tejash imkoniyati 22–44 foiz.
 7. Monitoring tizimini takomillashtirish boʻyicha 15 ta tavsiya ishlab chiqildi (toʻqqiztasi mablagʻ talab qilmaydi).
 
 
@@ -1465,7 +1465,7 @@ Samarani soʻmda toʻliq ifodalash uchun taʼmir turlarining haqiqiy meliorativ 
 9. Tumandagi 90 ta kollektorning (265,8 km) uzunlik boʻyicha 90 foizi 50 yildan eski; barcha kollektorlar 2010–2020-yillarda taʼmirlangan, lekin taʼmir yili kollektor yoshi, uzunligi va sarfi bilan bogʻlanmagan, yaʼni taʼmir holatga qarab emas, dasturlar boʻyicha oʻtkazilgan. Eng zaif boʻgʻin xoʻjalik ichki zovurlari: ularning 64,7 foizida taʼmir qayd etilmagan. Kadastr maʼlumotlari ishonchlilik nazariyasining klassik koʻrsatkichlarini hisoblashga imkon bermaydi.
 10. Suv balansi boʻyicha iyuldagi talab etiladigan drenaj moduli 0,16–0,66 l/(s·ga), oʻrta stsenariyda 0,26–0,43 l/(s·ga); sugʻorish samaradorligi oshirilganda u 2,5 baravar kamayadi. Kadastrdagi sarf qiymatlari toʻgʻri deb qabul qilinganda 90 ta kollektordan 27–48 tasining (stsenariyga qarab) solishtirma sarfi talabdan past, sizot suvining mavsumiy koʻtarilishi boʻyicha drenaj quvvatidagi taqchillik talabning 5–45 foizi. Oʻzandagi oʻsimlik va loyqa kollektorning oʻtkazish qobiliyatini 29–61 foizga kamaytiradi.
 11. Mavjud monitoring maʼlumotlarida kollektor taʼmiridan keyin sizot sathining nazorat quduqlariga nisbatan chuqurlashgani aniqlanmadi: asosiy baho −0,12 m, 95 foizlik ishonch oraligʻi −0,33 dan +0,09 m gacha; parallel tendensiyalar testi, plasebo testi, dinamik baho va bosqichli dizaynga chidamli baholar (−0,11 … −0,18 m) ham chuqurlashishni koʻrsatmaydi. Ishonch oraliqlari keng va 0,2 m atrofidagi taʼsirni istisno qilmaydi; taʼsir guruhining kollektorgacha masofa boʻyicha taxminiy aniqlanishi bahoni nolga tomon kamaytiradi. Bu taʼmir samarasizligini emas, mavjud monitoring tizimi bilan uni oʻlchab boʻlmasligini koʻrsatadi; 0,20 m lik taʼsirni 80 foizlik quvvat bilan aniqlash uchun taʼsir guruhida taxminan 95 ta quduq kerak (hozir 36 ta; simulyatsiya bahosi). Tumandagi pogʻonali chuqurlashish taʼmirdan koʻra hududiy omillar bilan yaxshiroq mos keladi, lekin bu omillar alohida oʻlchanmagan.
-12. Taʼmirning 2026-yil narxlaridagi haqiqiy narxi medianasi 349 mln soʻm/km; yengil tozalash va kapital taʼmir orasida taxminan oʻn baravar farq bor, uchastka uzunligi ikki baravar oshganda 1 km narxi 28 foizga kamayadi. 2017–2020-yillarda sarflangan 48,2 mlrd soʻmning (2026-yil narxlarida) massivlar boʻyicha taqsimoti meliorativ xavf bilan bogʻlanmagan: xavf eng yuqori Z.M.Bobur massiviga tuman oʻrtachasidan kam mablagʻ ajratilgan. Taʼmirlarni birlashtirish va taʼmir turini oʻzan holatiga qarab tanlash orqali xarajatlarni kamaytirish mumkin: kapital taʼmirning 25–50 foizini tozalash bilan almashtirish stsenariysida tejash 22–44 foizni tashkil etadi; haqiqiy ulush oʻzan holati qayd etilgandan keyin aniqlanadi.
+12. Taʼmirning 2026-yil narxlaridagi haqiqiy narxi medianasi 348 mln soʻm/km; yengil tozalash va kapital taʼmir orasida taxminan oʻn baravar farq bor, uchastka uzunligi ikki baravar oshganda 1 km narxi 28 foizga kamayadi. 2017–2020-yillarda sarflangan 48,2 mlrd soʻmning (2026-yil narxlarida) massivlar boʻyicha taqsimoti meliorativ xavf bilan bogʻlanmagan: xavf eng yuqori Z.M.Bobur massiviga tuman oʻrtachasidan kam mablagʻ ajratilgan. Taʼmirlarni birlashtirish va taʼmir turini oʻzan holatiga qarab tanlash orqali xarajatlarni kamaytirish mumkin: kapital taʼmirning 25–50 foizini tozalash bilan almashtirish stsenariysida tejash 22–44 foizni tashkil etadi; haqiqiy ulush oʻzan holati qayd etilgandan keyin aniqlanadi.
 13. Massivlar meliorativ xavf, drenaj tarmogʻi holati va xarajatlar boʻyicha uchta ustuvorlik guruhiga ajratildi: birinchi navbatda Z.M.Bobur va Istiqlol massivlarida drenaj tarmogʻining texnik holatini tekshirish va taʼmir qilish, Mashʼal massivida esa sugʻorish samaradorligini oshirish va minerallashuv monitoringini tiklash tavsiya etiladi.
 14. Monitoring tizimini takomillashtirish boʻyicha 15 ta tavsiya ishlab chiqildi: maʼlumotlarni majburiy tekshirish, quruq quduqlarni maxsus belgilash, sath chuqur hududlarda kuzatuv quduqlarini chuqurlashtirish, yangi quduqlarni maqsadli joylashtirish, sayoz sath ehtimoli xaritalaridan foydalanish, kollektorlarda sarfni oʻlchash, taʼmir va nosozliklar daftarini yuritish, taʼmir navbatini holat va xavf boʻyicha aniqlash va boshqalar. Tavsiyalarning toʻqqiztasi qoʻshimcha mablagʻ talab qilmaydi. Ularni amalga oshirish uchun dissertatsiyada yaratilgan geomaʼlumotlar bazasi va takrorlanadigan hisob dasturlari asos boʻladi.
 
@@ -1853,7 +1853,7 @@ Samarani soʻmda toʻliq ifodalash uchun taʼmir turlarining haqiqiy meliorativ 
 
 
 ::: {custom-style="Sarlavha-jadval"}
-**Andijon meteostansiyasi boʻyicha oylik yogʻin, hisoblangan etalon bugʻlanuvchanlik va oʻrtacha haroratning yillik yoʻli (1961–1990)**
+**Andijon meteostansiyasi boʻyicha iqlimning yillik yoʻli (1961–1990): a — oylik yogʻin va hisoblangan etalon bugʻlanuvchanlik; b — oʻrtacha oylik harorat**
 :::
 
 ![](figures/ch2_climate.png){width=15.5cm}
@@ -1994,7 +1994,7 @@ Samarani soʻmda toʻliq ifodalash uchun taʼmir turlarining haqiqiy meliorativ 
 
 
 ::: {custom-style="Sarlavha-jadval"}
-**Xaritani joyiga bogʻlash qoldiqlarining taqsimoti (190 ta tayanch nuqta; 130 m dan katta qoldiqlar oxirgi ustunga qoʻshilgan)**
+**Xaritani joyiga bogʻlash qoldiqlari (190 ta tayanch nuqta): a — 10 m gacha boʻlgan qoldiqlar taqsimoti; b — barcha qoldiqlar, logarifmik shkala**
 :::
 
 ![](figures/ch2_georef_residuals.png){width=15.5cm}
@@ -2078,7 +2078,7 @@ Samarani soʻmda toʻliq ifodalash uchun taʼmir turlarining haqiqiy meliorativ 
 
 
 ::: {custom-style="Sarlavha-jadval"}
-**Kuzatilgan quduqlar soni va 5 m dan chuqur oʻlchovlar ulushi (chapda), yaroqsiz oʻlchovlar ulushi (oʻngda) yillar boʻyicha**
+**Monitoring tarmogʻi yillar boʻyicha: a — kuzatilgan quduqlar soni; b — yaroqsiz oʻlchovlar ulushi; c — 5 m dan chuqur oʻlchovlar ulushi (uzuq chiziq — tarmoq tarkibi oʻzgargan yil)**
 :::
 
 ![](figures/ch3_audit.png){width=15.5cm}
@@ -2193,7 +2193,7 @@ Samarani soʻmda toʻliq ifodalash uchun taʼmir turlarining haqiqiy meliorativ 
 
 
 ::: {custom-style="Sarlavha-jadval"}
-**Sizot suvi sathining (2019–2024-yillar oʻrtachasi) yoʻnalishsiz eksperimental variogrammasi va nazariy modellar (chapda) hamda toʻrt yoʻnalish boʻyicha variogrammalar (oʻngda)**
+**Sizot suvi sathining (2019–2024-yillar oʻrtachasi) variogrammalari: a — yoʻnalishsiz eksperimental variogramma va nazariy modellar; b — toʻrt yoʻnalish boʻyicha variogrammalar**
 :::
 
 ![](figures/ch3_variogram.png){width=15.5cm}
@@ -2494,7 +2494,7 @@ Izoh: Boʻston va Paxtaobod tumanlari boʻyicha 14 yillik, Buloqboshi tumani bo�
 
 
 ::: {custom-style="Sarlavha-jadval"}
-**Kollektorlar uzunligining foydalanishga topshirilgan davr boʻyicha (chapda) va oxirgi taʼmir yili boʻyicha (oʻrtada) taqsimoti; 1 km taʼmir narxining 2026-yil narxlaridagi taqsimoti (oʻngda)**
+**Kollektorlar uzunligining taqsimoti: a — foydalanishga topshirilgan oʻn yillik boʻyicha; b — oxirgi taʼmir yili boʻyicha; c — 1 km taʼmir narxining 2026-yil narxlaridagi taqsimoti (uzuq chiziq — mediana)**
 :::
 
 ![](figures/ch4_reliability_costs.png){width=15.5cm}
@@ -2542,7 +2542,7 @@ Izoh: \* — kadastrda nomi aniqlangan kollektor boʻlaklari boʻyicha uzunlik b
 
 
 ::: {custom-style="Sarlavha-jadval"}
-**Massivlar boʻyicha: a — kollektorlar va ichki zovurlarning solishtirma uzunligi; b — taʼmir qayd etilmagan ichki zovurlar ulushi (qizil — 70 foizdan ortiq)**
+**Massivlar boʻyicha: a — kollektorlar va ichki zovurlarning solishtirma uzunligi; b — taʼmir qayd etilmagan ichki zovurlar ulushi (toʻq sariq, xoch bilan — 70 foizdan ortiq)**
 :::
 
 ![](figures/ch4_massif_reliability.png){width=15.5cm}

@@ -1,0 +1,50 @@
+{
+  "notice": "Export completed with explicit settings. This report does not establish visual, accessibility, scientific-integrity, or journal-submission compliance.",
+  "outputs": [
+    {
+      "format": "pdf",
+      "kind": "vector-container",
+      "path": "/home/user/PhD-uchun/figures/ch4_hydraulic.pdf",
+      "size_bytes": 47140
+    },
+    {
+      "format": "png",
+      "kind": "raster",
+      "path": "/home/user/PhD-uchun/figures/ch4_hydraulic.png",
+      "size_bytes": 351339
+    }
+  ],
+  "provenance": {
+    "missing_data": "—",
+    "raw_data": "results/ch4_hydraulic.json; results/ch4_drainage_modulus.csv (24-skript)",
+    "transformations": [
+      "FAO-56 ekin koeffitsiyentlari",
+      "solishtirma sarf = oxirgi sarf / xizmat maydoni",
+      "log10 shkala"
+    ],
+    "uncertainty": "stsenariylar (sugʻorish samaradorligi) boʻyicha oraliq"
+  },
+  "schema_version": "1.0",
+  "settings": {
+    "bbox_inches": null,
+    "dpi": 600.0,
+    "facecolor": "white",
+    "figure_size_inches": [
+      6.102362204724409,
+      3.149606299212598
+    ],
+    "font_mode": "truetype",
+    "formats": [
+      "pdf",
+      "png"
+    ],
+    "pad_inches": 0.1,
+    "tiff_rgb": false,
+    "transparent": false
+  },
+  "versions": {
+    "matplotlib": "3.11.2",
+    "pillow": "12.3.0"
+  },
+  "warnings": []
+}

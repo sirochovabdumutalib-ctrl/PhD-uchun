@@ -70,7 +70,7 @@ Marhamat tumani meliorativ tizimining geoma’lumotlar bazasi shakllantirilgan: 
 
 sizot suvi sathi, bahoning noaniqlik va yozgi sayoz sath ehtimoli xaritalari tuzilgan, 2019–2024-yillardagi yozgi sath va 2004–2010-yillardagi minerallashuv bo’yicha sho’rlanish xavfi ostidagi 56 ta quduq aniqlangan va massivlar uchta ustuvorlik guruhiga ajratilgan (birinchi navbatda Z.M.Bobur va Istiqlol massivlari);
 
-kollektorlarni ta’mirlashning 2026-yil narxlaridagi haqiqiy narxi (medianasi 349 mln so’m/km), ta’mir turlari orasidagi narx farqi va hajm samarasi aniqlangan, ta’mir turini o’zan holatiga qarab tanlash stsenariysida xarajatlarni kamaytirish imkoniyati 2017–2020-yillar xarajatlarining 22–44 foizi deb baholangan;
+kollektorlarni ta’mirlashning 2026-yil narxlaridagi haqiqiy narxi (medianasi 348 mln so’m/km), ta’mir turlari orasidagi narx farqi va hajm samarasi aniqlangan, ta’mir turini o’zan holatiga qarab tanlash stsenariysida xarajatlarni kamaytirish imkoniyati 2017–2020-yillar xarajatlarining 22–44 foizi deb baholangan;
 
 monitoring tizimini takomillashtirish, ta’mir navbatini aniqlash va ta’mir samarasini o’lchash bo’yicha 15 ta tavsiya ishlab chiqilgan.
 
