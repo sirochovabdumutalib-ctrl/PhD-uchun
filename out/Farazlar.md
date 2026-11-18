@@ -20,7 +20,7 @@ To'liq jadval dissertatsiyaning 52-ilovasida. Bu yerda faqat bajarilgan tekshiru
 - **Izoh A:** quruq quduqda shartli qiymat yoziladi.
 - **Izoh B:** kuzatuvchining hisobot amaliyoti.
 - **Ajratuvchi bashorat:** A to'g'ri bo'lsa, o'zgarmas qator quduq tubigacha zaxira kichik bo'lganda to'planadi; B to'g'ri bo'lsa, zaxiraga bog'liq bo'lmaydi.
-- **Natija** (1 924 ta quduq-yil): zaxira 0,5 m dan kam bo'lganda 44 % qator o'zgarmas, 1,5–2,0 m bo'lganda 2 %. Har 1 m zaxirada izlar nisbati (OR) 0,31 (p < 0,001), massiv omili bilan 0,41. O'zgarmas qiymat quduq tubidan mediana bo'yicha 0,25 m yuqori.
+- **Natija** (1 924 ta quduq-yil): zaxira 0,5 m dan kam bo'lganda 44 % qator o'zgarmas, 1,5–2,0 m bo'lganda 2 %. Har 1 m zaxirada imkoniyatlar nisbati (OR) 0,31 (p < 0,001), massiv omili bilan 0,41. O'zgarmas qiymat quduq tubidan mediana bo'yicha 0,25 m yuqori.
 - **Xulosa:** A izohi qo'llab-quvvatlanadi. Zaxirasi 2 m dan katta quduqlarda ham 9 % o'zgarmas qator bor, demak B qisman ta'sir qiladi.
 - **Dissertatsiyada:** natija 3.1-§ ga qo'shildi.
 
