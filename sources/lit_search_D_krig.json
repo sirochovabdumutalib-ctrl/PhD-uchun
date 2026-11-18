@@ -1,0 +1,3344 @@
+{
+ "query": "kriging groundwater level depth interpolation irrigated",
+ "source": "Crossref",
+ "date": "2026-11-18",
+ "filter": "2020–2026, journal-article",
+ "n": 40,
+ "items": [
+  {
+   "issue": "12",
+   "abstract": "<jats:p>The effect of the initial pressure upon the laminar flame speed, for a methane-air mixtures, has been detected paractically, for a wide range of equivalence ratio. In this work, a measurement system is designed in order to measure the laminar flame speed using a constant volume method with a thermocouples technique. The laminar  burning velocity is measured, by using the density ratio method. The comparison of the present work results and the previous ones show good agreement between them. This indicates that the measurements and the calculations employed in the present work are successful and precise</jats:p>",
+   "DOI": "10.31026/j.eng.2013.12.12",
+   "page": "1647-1660",
+   "is-referenced-by-count": 1,
+   "title": [
+    "3-D Map Producing for Groundwater Level using Kriging Interpolation Method"
+   ],
+   "volume": "19",
+   "author": [
+    {
+     "given": "Alaa Soud",
+     "family": "Mahdi",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Hussein Alwan",
+     "family": "Mahdi",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Rusul Khalid",
+     "family": "Tahir",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Journal of Engineering"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      7,
+      10
+     ]
+    ]
+   }
+  },
+  {
+   "DOI": "10.1016/j.envsoft.2021.105170",
+   "page": "105170",
+   "is-referenced-by-count": 64,
+   "title": [
+    "Gaussian process machine learning and Kriging for groundwater salinity interpolation"
+   ],
+   "volume": "144",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0001-9853-9423",
+     "authenticated-orcid": false,
+     "given": "Tao",
+     "family": "Cui",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Dan",
+     "family": "Pagendam",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-1456-9092",
+     "authenticated-orcid": false,
+     "given": "Mat",
+     "family": "Gilfedder",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Environmental Modelling &amp; Software"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2021,
+      10
+     ]
+    ]
+   },
+   "article-number": "105170"
+  },
+  {
+   "issue": "6",
+   "abstract": "<jats:p>The super-resolution of depth images is a research hotspot. In this study, the classical Kriging algorithm is applied to the spatial interpolation of depth images, together with the fractional-order differential method for edge recognition, to realise the super-resolution reconstruction of depth images. The resulting interpolation model improves the edge performance of Kriging interpolation by harnessing the superior characteristics of fractional-order differential edge recognition and effectively solving the edge blurring problem in super-resolution interpolation of depth images. Experimental results show that, compared with the classical algorithms, the super-resolution reconstruction based on Kriging interpolation is greatly improved in terms of visual effects and the peak signal-to-noise ratio of the depth image. In particular, edge recognition based on fractional-order differentiation solves the image blurring problem at the edges of the depth images. Inspection of the point clouds of the depth images shows that the output of the proposed interpolation model has obvious fractal characteristics.</jats:p>",
+   "DOI": "10.3390/app13063769",
+   "page": "3769",
+   "is-referenced-by-count": 10,
+   "title": [
+    "Super-Resolution Reconstruction of Depth Image Based on Kriging Interpolation"
+   ],
+   "volume": "13",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0003-0584-2074",
+     "authenticated-orcid": false,
+     "given": "Tingsheng",
+     "family": "Huang",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "School of Electronic and Information Engineering, Changchun University of Science and Technology, Changchun 130022, China"
+      },
+      {
+       "name": "Xi’an Key Laboratory of Active Photoelectric Imaging Detection Technology, Xi’an Technological University, Xi’an 710021, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Xinjian",
+     "family": "Wang",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "School of Electronic and Information Engineering, Changchun University of Science and Technology, Changchun 130022, China"
+      },
+      {
+       "name": "Xi’an Key Laboratory of Active Photoelectric Imaging Detection Technology, Xi’an Technological University, Xi’an 710021, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-9454-0670",
+     "authenticated-orcid": false,
+     "given": "Chunyang",
+     "family": "Wang",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "School of Electronic and Information Engineering, Changchun University of Science and Technology, Changchun 130022, China"
+      },
+      {
+       "name": "Xi’an Key Laboratory of Active Photoelectric Imaging Detection Technology, Xi’an Technological University, Xi’an 710021, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-8044-3204",
+     "authenticated-orcid": false,
+     "given": "Xuelian",
+     "family": "Liu",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Xi’an Key Laboratory of Active Photoelectric Imaging Detection Technology, Xi’an Technological University, Xi’an 710021, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Yanqing",
+     "family": "Yu",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "College of Photonic and Electronic Engineering, Fujian Normal University, Fuzhou 350117, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Applied Sciences"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      3,
+      15
+     ]
+    ]
+   }
+  },
+  {
+   "DOI": "10.1016/j.gsd.2020.100473",
+   "page": "100473",
+   "is-referenced-by-count": 148,
+   "title": [
+    "Spatial distribution of the groundwater quality using kriging and Co-kriging interpolations"
+   ],
+   "volume": "11",
+   "author": [
+    {
+     "given": "Lazhar",
+     "family": "Belkhiri",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Ammar",
+     "family": "Tiri",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Lotfi",
+     "family": "Mouni",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Groundwater for Sustainable Development"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2020,
+      10
+     ]
+    ]
+   },
+   "article-number": "100473"
+  },
+  {
+   "DOI": "10.1016/j.jhazmat.2023.132571",
+   "page": "132571",
+   "is-referenced-by-count": 45,
+   "title": [
+    "3D spatial interpolation of soil heavy metals by combining kriging with depth function trend model"
+   ],
+   "volume": "461",
+   "author": [
+    {
+     "given": "Yong",
+     "family": "Yang",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Mengyao",
+     "family": "Jia",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Journal of Hazardous Materials"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2024,
+      1
+     ]
+    ]
+   },
+   "article-number": "132571"
+  },
+  {
+   "issue": "1",
+   "abstract": "<jats:p>Groundwater stands as a primary source of drinking water in Asaba coastal region with significant influence on human health and ecological system. Hence, evaluating its quality is of paramount importance. This study investigates the spatial variability of groundwater quality in Asaba region and aim to predict conditions at unsample locations. To actualize this, physiochemical parameters and some selected heavy metals were analyzed from 62 water sampling locations. The parameters measured include Total Suspended Solids, Temperature, Acidity, as CaCO3, Alkalinity, as CaCO3, Magnesium, Lead (Pb), Nickel (Ni), and Zinc (Zn). This results were then compared against the World Health Organization permissible limits for drinking water. Descriptive statistical measures including Shapiro-Wilk test to confirmed normality satisfying the distributional requirement for Ordinary Kriging without data transformation were applied to evaluate the distribution of groundwater quality parameters. To predict values at unsampled location in the study area, empirical Bayesian kriging (EBK), Ordinary kriging (OK) and Radial basis functions (RBFs) were employed. The experimental variogram parameters were estimated using OK approach resulting in spherical model. Cross-validation statistics were then used to assess the performance of OK technique. Finally spatial distribution maps of groundwater quality were generated using EBK, OK and RBF categorized into five distinct of various classes.</jats:p>",
+   "DOI": "10.30574/ijsra.2026.20.1.1498",
+   "page": "694-713",
+   "is-referenced-by-count": 0,
+   "title": [
+    "Assessment of groundwater quality with ordinary kriging, empirical Bayesian kriging and radial basis function spatial interpolation techniques: Case study of Asaba"
+   ],
+   "volume": "20",
+   "author": [
+    {
+     "given": "Jeff",
+     "family": "Oba",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Robert Ogaga",
+     "family": "Onosakponome",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Joachim Chinonyerem",
+     "family": "Osuagwu",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "International Journal of Science and Research Archive"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      7,
+      31
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "18",
+   "abstract": "<jats:p>No single spatial interpolation method reigns supreme for modelling the precise spatial distribution of groundwater quality data. This study addresses this challenge by evaluating and comparing several commonly used geostatistical methods: Local Polynomial Interpolation (LPI), Ordinary Kriging (OK), Simple Kriging (SK), Universal Kriging (UK), and Empirical Bayesian Kriging (EBK). We applied these methods to a vast dataset of 3033 groundwater records encompassing a substantial area (11,100 km2) in the coastal lowlands of the western Netherlands. To our knowledge, no prior research has investigated these interpolation methods in this specific hydrogeological setting, exhibiting a range of groundwater qualities, from fresh to saline, often anoxic, with high natural concentrations of PO4 and NH4. The prediction performance of the interpolation methods was assessed through statistical indicators such as root means square error. The findings indicated that EBK outperforms the other geostatistical methods in forecasting groundwater quality for the five variables considered: Cl, SO4, Fe, PO4, and NH4. In contrast, SK performed worst for the species except for SO4. We recommend not using SK to interpolate groundwater quality species unless the data exhibit low spatial variation, high sample density, or evenly distributed sampling.</jats:p>",
+   "DOI": "10.3390/w16182581",
+   "page": "2581",
+   "is-referenced-by-count": 57,
+   "title": [
+    "Empirical Bayesian Kriging, a Robust Method for Spatial Data Interpolation of a Large Groundwater Quality Dataset from the Western Netherlands"
+   ],
+   "volume": "16",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-7363-953X",
+     "authenticated-orcid": false,
+     "given": "Mojtaba",
+     "family": "Zaresefat",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Copernicus Institute of Sustainable Development, Utrecht University, Princetonlaan 8a, 3584 CB Utrecht, The Netherlands"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-7499-4384",
+     "authenticated-orcid": false,
+     "given": "Reza",
+     "family": "Derakhshani",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Geology, Shahid Bahonar University of Kerman, Kerman 76169-13439, Iran"
+      },
+      {
+       "name": "Department of Earth Sciences, Utrecht University, Princetonlaan 8a, 3584 CB Utrecht, The Netherlands"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-6307-0100",
+     "authenticated-orcid": false,
+     "given": "Jasper",
+     "family": "Griffioen",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Copernicus Institute of Sustainable Development, Utrecht University, Princetonlaan 8a, 3584 CB Utrecht, The Netherlands"
+      },
+      {
+       "name": "TNO Geological Survey of the Netherlands, Princetonlaan 6, 3584 CB Utrecht, The Netherlands"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Water"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2024,
+      9,
+      12
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "1",
+   "abstract": "<jats:p>This study maps shallow coastal groundwater quality in Padang, Indonesia, using four operational parameters: potential of hydrogen (pH), electrical conductivity (EC), total dissolved solids (TDS), and salinity. We characterize spatial dependence using empirical variograms, evaluate directional anisotropy, and generate prediction surfaces with Ordinary Kriging. The variogram analysis indicates stronger spatial continuity along the coastline for EC and TDS, while salinity shows shorter continuity with a distinct directional structure, reflecting localized freshwater-seawater mixing processes. Groundwater pH remains neutral to slightly alkaline and exhibits lower spatial variability than EC, TDS, and salinity. Leave-one-out cross-validation supports the reliability of the kriging estimates at the study scale, indicating low prediction error and strong agreement between observed and predicted values. The resulting thematic maps enable a three-level quality zoning that differentiates a lower-risk northern segment, a transitional central belt, and a higher-risk southern segment consistent with seawater intrusion influence. These outputs provide a practical basis for prioritizing monitoring locations, protecting vulnerable wells, and strengthening evidence-based coastal groundwater management aligned with SDG 6 Clean Water and Sanitation and SDG 11 Sustainable Cities and Communities.</jats:p>",
+   "DOI": "10.24036/teknomekanik.v9i1.47272",
+   "page": "60-76",
+   "is-referenced-by-count": 1,
+   "title": [
+    "Spatial modelling of shallow groundwater quality in coastal areas with Kriging interpolation"
+   ],
+   "volume": "9",
+   "author": [
+    {
+     "given": "Yaumal",
+     "family": "Arbi",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Nurhasan",
+     "family": "Syah",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Iswandi",
+     "family": "Umar",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Indang",
+     "family": "Dewata",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Mulya",
+     "family": "Gusman",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Nevy",
+     "family": "Sandra",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Teknomekanik"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      2,
+      25
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "10",
+   "DOI": "10.1007/s12517-022-10283-3",
+   "is-referenced-by-count": 19,
+   "title": [
+    "Evaluation of two linear kriging methods for piezometric levels interpolation and a framework for upgrading groundwater level monitoring network in Ghiss-Nekor plain, north-eastern Morocco"
+   ],
+   "volume": "15",
+   "author": [
+    {
+     "given": "Sara",
+     "family": "Bouhout",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Khadija",
+     "family": "Haboubi",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Ahmed",
+     "family": "Zian",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Mohamed Salahdine",
+     "family": "Elyoubi",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Aouatif",
+     "family": "Elabdouni",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Arabian Journal of Geosciences"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2022,
+      5
+     ]
+    ]
+   },
+   "article-number": "1016"
+  },
+  {
+   "DOI": "10.1016/j.mex.2024.102916",
+   "page": "102916",
+   "is-referenced-by-count": 33,
+   "title": [
+    "Optimal interpolation approach for groundwater depth estimation"
+   ],
+   "volume": "13",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0001-6231-1312",
+     "authenticated-orcid": false,
+     "given": "Kalid Hassen",
+     "family": "Yasin",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Tadele Bedo",
+     "family": "Gelete",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Anteneh Derribew",
+     "family": "Iguala",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Erana",
+     "family": "Kebede",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "MethodsX"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2024,
+      12
+     ]
+    ]
+   },
+   "article-number": "102916"
+  },
+  {
+   "issue": "1",
+   "DOI": "10.1007/s12145-023-01157-7",
+   "page": "283-297",
+   "is-referenced-by-count": 20,
+   "title": [
+    "Enhancing groundwater salinity estimation through integrated GMDH and geostatistical techniques to minimize Kriging interpolation error"
+   ],
+   "volume": "17",
+   "author": [
+    {
+     "given": "Hamed",
+     "family": "Amini",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Afshin",
+     "family": "Ashrafzadeh",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Mohammadreza",
+     "family": "Khaledian",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Earth Science Informatics"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      11,
+      27
+     ]
+    ]
+   }
+  },
+  {
+   "DOI": "10.1016/j.gsd.2024.101213",
+   "page": "101213",
+   "is-referenced-by-count": 24,
+   "title": [
+    "Enhancing groundwater level prediction accuracy using interpolation techniques in deep learning models"
+   ],
+   "volume": "26",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0009-0002-4265-3803",
+     "authenticated-orcid": false,
+     "given": "Erfan",
+     "family": "Abdi",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-6975-5159",
+     "authenticated-orcid": false,
+     "given": "Mumtaz",
+     "family": "Ali",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-7927-9718",
+     "authenticated-orcid": false,
+     "given": "Celso Augusto Guimarães",
+     "family": "Santos",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0003-2295-5214",
+     "authenticated-orcid": false,
+     "given": "Adeyemi",
+     "family": "Olusola",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-0333-2559",
+     "authenticated-orcid": false,
+     "given": "Mohammad Ali",
+     "family": "Ghorbani",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Groundwater for Sustainable Development"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2024,
+      8
+     ]
+    ]
+   },
+   "article-number": "101213"
+  },
+  {
+   "issue": "19",
+   "abstract": "<jats:p>Given the vulnerability of surface water to the direct impacts of climate change, the accurate prediction of groundwater levels has become increasingly important, particularly for dry regions, offering significant resource management benefits. This study presents the first statewide groundwater level anomaly (GWLA) prediction for Arizona across its two distinct aquifer types—unconsolidated sand and gravel aquifers and rock aquifers. Machine learning (ML) models were combined with empirical Bayesian kriging (EBK) geostatistical interpolation models to predict monthly GWLAs between January 2010 and December 2019. Model evaluations were based on the Nash–Sutcliffe efficiency (NSE) and coefficient of determination (R2) metrics. With average NSE/R2 values of 0.62/0.63 and 0.72/0.76 during the validation and test phases, respectively, our multi-model approach demonstrated satisfactory performance, and the predictive accuracy was much higher for the unconsolidated sand and gravel aquifers. By employing a remote sensing-based approach, our proposed model design can be replicated for similar climates globally, and hydrologically data-sparse and remote areas of the world are not left out.</jats:p>",
+   "DOI": "10.3390/w16192771",
+   "page": "2771",
+   "is-referenced-by-count": 22,
+   "title": [
+    "Groundwater Level Prediction Using Machine Learning and Geostatistical Interpolation Models"
+   ],
+   "volume": "16",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-5325-7761",
+     "authenticated-orcid": false,
+     "given": "Fabian J.",
+     "family": "Zowam",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Water Resources & Remote Sensing Laboratory (WRRS), Department of Geology, University of Georgia, 210 Field Street, 306 Geography-Geology Building, Athens, GA 30602, USA"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0003-0494-8002",
+     "authenticated-orcid": false,
+     "given": "Adam M.",
+     "family": "Milewski",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Water Resources & Remote Sensing Laboratory (WRRS), Department of Geology, University of Georgia, 210 Field Street, 306 Geography-Geology Building, Athens, GA 30602, USA"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Water"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2024,
+      9,
+      29
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "1",
+   "abstract": "<jats:p>Based on a foundation pit project in Shenyang, a large number of water level detection data were collected. The research focus of this paper is to use these data to build a depth neural network model to predict the water level of foundation pit dewatering. The Spatio-temporal convolution neural network has two components for capturing temporal correlation and spatial correlation of nodes, which have strong capturing ability of spatio-temporal correlation. The construction of spatio-temporal convolution neural network model can realize the time domain prediction of water level at all measuring points at the same time. The Kriging interpolation model optimized by Dupuit dewatering formula is superior in the spatial prediction of dewatering water level in the whole study area. Compared with OK method, IDW method and SP method, the prediction performance of improved Kriging interpolation is improved by 33.02%, 38.26% and 44.96% respectively Based on STGCN-Kriging model, the average error is 0.71 m and the error percentage is 2.55%. Combining with STGCN network and improved Kriging interpolation, the discrete prediction results in time domain are mapped to the spatial distribution results of water level buried depth in time domain, and the spatial distribution of foundation pit dewatering water level is predicted in time domain.</jats:p>",
+   "DOI": "10.54254/2755-2721/2025.20589",
+   "page": "174-180",
+   "is-referenced-by-count": 0,
+   "title": [
+    "Prediction of Foundation Pit Dewatering Water Level Based on Neural Network and Improved Kriging Interpolation"
+   ],
+   "volume": "116",
+   "author": [
+    {
+     "given": "Cheng",
+     "family": "Zhao",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Shenyang University of Technology, Shenyang 110870"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Zhiqiang",
+     "family": "Huang",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Shenyang University of Technology, Shenyang 110870"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Applied and Computational Engineering"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      1,
+      24
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "2",
+   "DOI": "10.1007/s11069-021-04982-5",
+   "page": "1405-1416",
+   "is-referenced-by-count": 36,
+   "title": [
+    "Landslide susceptible areas identification using IDW and Ordinary Kriging interpolation techniques from hard soil depth at middle western Central Java, Indonesia"
+   ],
+   "volume": "110",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0001-9131-5531",
+     "authenticated-orcid": false,
+     "family": "Yanto",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Arwan",
+     "family": "Apriyono",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Purwanto Bekti",
+     "family": "Santoso",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "family": "Sumiyanto",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Natural Hazards"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2021,
+      8,
+      17
+     ]
+    ]
+   }
+  },
+  {
+   "DOI": "10.1016/j.envpol.2026.129294",
+   "page": "129294",
+   "is-referenced-by-count": 0,
+   "title": [
+    "Seasonal variations in groundwater arsenic occurrence, speciation, and human health risks under contrasting groundwater-level conditions in an arid irrigated aquifer"
+   ],
+   "volume": "411",
+   "author": [
+    {
+     "given": "Mi",
+     "family": "Lei",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Yinzhu",
+     "family": "Zhou",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Zixuan",
+     "family": "Qi",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Jinlong",
+     "family": "Zhou",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Yanpeng",
+     "family": "Cai",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Qing",
+     "family": "Pan",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Environmental Pollution"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      12
+     ]
+    ]
+   },
+   "article-number": "129294"
+  },
+  {
+   "issue": "2",
+   "DOI": "10.26555/jiteki.v8i2.23260",
+   "page": "215",
+   "is-referenced-by-count": 6,
+   "title": [
+    "Comparison of IDW and Kriging Interpolation Methods Using Geoelectric Data to Determine the Depth of the Aquifer in Semarang, Indonesia"
+   ],
+   "volume": "8",
+   "author": [
+    {
+     "given": "Brilliananta Radix",
+     "family": "Dewana",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Sri Yulianto Joko",
+     "family": "Prasetyo",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Kristoko Dwi",
+     "family": "Hartomo",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Jurnal Ilmiah Teknik Elektro Komputer dan Informatika"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2022,
+      6,
+      8
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "8",
+   "abstract": "<jats:p>Groundwater depth is a key control on soil salinization in arid irrigation districts, but seasonal groundwater depth thresholds for different salinization risks remain poorly constrained. Here, we examined the Yichang irrigation area of the Hetao Irrigation District using groundwater depth observations and 0–60 cm soil salinity samples collected before spring irrigation and during the crop-growing season. Indicator Kriging was used to map threshold-based probability zones for groundwater depth and soil salinity in the 0–60 cm root zone; soil salinity thresholds of 2 and 3 g kg−1 represented light-or-higher and moderate-or-higher salinization, respectively, and high-probability matching rates were used to identify the corresponding critical groundwater depths. Groundwater depth showed moderate spatial variability in both seasons, whereas soil salt content showed strong spatial variability. The critical groundwater depths for light and moderate salinization were 2.6 and 2.2 m before spring irrigation and 2.2 and 1.8 m during the growing season, respectively. Soil salt content in the 0–20, 20–40, 40–60 and 0–60 cm layers decreased with increasing groundwater depth, with the 0–60 cm layer well described by an exponential response function. These findings provide a spatially explicit basis for seasonal groundwater regulation, salinization risk zoning and field-scale water–salt management in arid irrigation districts.</jats:p>",
+   "DOI": "10.3390/land15081483",
+   "page": "1483",
+   "is-referenced-by-count": 0,
+   "title": [
+    "Seasonal Response of Soil Salinization Risk to Groundwater Depth in an Arid Irrigation District: An Indicator Kriging Approach"
+   ],
+   "volume": "15",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0001-9230-9969",
+     "authenticated-orcid": false,
+     "given": "Rui",
+     "family": "Zhang",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Hubei Water Resources Research Institute, Wuhan 430070, China"
+      },
+      {
+       "name": "Hubei Water Saving Research Center, Wuhan 430070, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Jingwei",
+     "family": "Wu",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "State Key Laboratory of Water Resources Engineering and Management, Wuhan University, Wuhan 430072, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Luguang",
+     "family": "Liu",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Hubei Water Resources Research Institute, Wuhan 430070, China"
+      },
+      {
+       "name": "Hubei Water Saving Research Center, Wuhan 430070, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Fengyan",
+     "family": "Wu",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Hubei Water Resources Research Institute, Wuhan 430070, China"
+      },
+      {
+       "name": "Hubei Water Saving Research Center, Wuhan 430070, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Wei",
+     "family": "Dong",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Hubei Water Resources Research Institute, Wuhan 430070, China"
+      },
+      {
+       "name": "Hubei Water Saving Research Center, Wuhan 430070, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "He",
+     "family": "Wang",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Hubei Water Resources Research Institute, Wuhan 430070, China"
+      },
+      {
+       "name": "Hubei Water Saving Research Center, Wuhan 430070, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Haijian",
+     "family": "Li",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Hubei Institute of Water Resources Survey and Design Co., Ltd., Wuhan 430070, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Land"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      8,
+      16
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "18",
+   "abstract": "<jats:p>An accurate groundwater level (GWL) forecast at multi timescales is vital for agricultural management and water resource scheduling in arid irrigated areas such as the Hexi Corridor, China. However, the forecast of GWL in these areas remains a challenging task owing to the deficient hydrogeological data and the highly nonlinear, non-stationary and complex groundwater system. The development of reliable groundwater level simulation models is necessary and profound. In this study, a novel ensemble deep learning GWL predictive framework integrating data pro-processing, feature selection, deep learning and uncertainty analysis was constructed. Under this framework, a hybrid model equipped with currently the most effective algorithms, including the complete ensemble empirical mode decomposition with adaptive noise (CEEMDAN) for data decomposition, the genetic algorithm (GA) for feature selection, the deep belief network (DBN) model, and the quantile regression (QR) for uncertainty evaluation, denoted as CEEMDAN-GA-DBN, was proposed for the 1-, 2-, and 3-month ahead GWL forecast at three GWL observation wells in the Jiuquan basin, northwest China. The capability of the CEEMDAN-GA-DBN model was compared with the hybrid CEEMDAN-DBN and the standalone DBN model in terms of the performance metrics including R, MAE, RMSE, NSE, RSR, AIC and the Legates and McCabe’s Index as well as the uncertainty criterion including MPI and PICP. The results demonstrated the higher degree of accuracy and better performance of the objective CEEMDAN-GA-DBN model than the CEEMDAN-DBN and DBN models at all lead times and all the wells. Overall, the CEEMDAN-GA-DBN reduced the RMSE of the CEEMDAN-DBN and DBN models in the testing period by about 9.16 and 17.63%, while it improved their NSE by about 6.38 and 15.32%, respectively. The uncertainty analysis results also affirmed the slightly better reliability of the CEEMDAN-GA-DBN method than the CEEMDAN-DBN and DBN models at the 1-, 2- and 3-month forecast horizons. The derived results proved the ability of the proposed ensemble deep learning model in multi time steps ahead of GWL forecasting, and thus, can be used as an effective tool for GWL forecasting in arid irrigated areas.</jats:p>",
+   "DOI": "10.3390/w13182558",
+   "page": "2558",
+   "is-referenced-by-count": 31,
+   "title": [
+    "Deep Learning-Based Predictive Framework for Groundwater Level Forecast in Arid Irrigated Areas"
+   ],
+   "volume": "13",
+   "author": [
+    {
+     "given": "Wei",
+     "family": "Liu",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Key Laboratory of Ecohydrology of Inland River Basin, Northwest Institute of Eco-Environment and Resources, Chinese Academy of Sciences, Lanzhou 730000, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Haijiao",
+     "family": "Yu",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Faculty of Geographical Science, Beijing Normal University, Beijing 100875, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-6862-4106",
+     "authenticated-orcid": false,
+     "given": "Linshan",
+     "family": "Yang",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Key Laboratory of Ecohydrology of Inland River Basin, Northwest Institute of Eco-Environment and Resources, Chinese Academy of Sciences, Lanzhou 730000, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-9050-6328",
+     "authenticated-orcid": false,
+     "given": "Zhenliang",
+     "family": "Yin",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Key Laboratory of Ecohydrology of Inland River Basin, Northwest Institute of Eco-Environment and Resources, Chinese Academy of Sciences, Lanzhou 730000, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-5557-0156",
+     "authenticated-orcid": false,
+     "given": "Meng",
+     "family": "Zhu",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Key Laboratory of Ecohydrology of Inland River Basin, Northwest Institute of Eco-Environment and Resources, Chinese Academy of Sciences, Lanzhou 730000, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Xiaohu",
+     "family": "Wen",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Key Laboratory of Ecohydrology of Inland River Basin, Northwest Institute of Eco-Environment and Resources, Chinese Academy of Sciences, Lanzhou 730000, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Water"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2021,
+      9,
+      17
+     ]
+    ]
+   }
+  },
+  {
+   "DOI": "10.1016/j.atmosres.2025.108462",
+   "page": "108462",
+   "is-referenced-by-count": 1,
+   "title": [
+    "Optimal spatio-temporal interpolation of aerosol optical depth over China using fixed rank kriging"
+   ],
+   "volume": "329",
+   "author": [
+    {
+     "given": "Yu",
+     "family": "Kong",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0009-0003-5909-4988",
+     "authenticated-orcid": false,
+     "given": "Bai",
+     "family": "Liu",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0003-2162-6873",
+     "authenticated-orcid": false,
+     "given": "Dazhi",
+     "family": "Yang",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0003-1599-7192",
+     "authenticated-orcid": false,
+     "given": "Disong",
+     "family": "Fu",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-5650-0077",
+     "authenticated-orcid": false,
+     "given": "Hongrong",
+     "family": "Shi",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Yun",
+     "family": "Chen",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Guoming",
+     "family": "Yang",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Yong",
+     "family": "Chen",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Jiaqi",
+     "family": "Chen",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Yanbo",
+     "family": "Shen",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-4187-6311",
+     "authenticated-orcid": false,
+     "given": "Xiang’ao",
+     "family": "Xia",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Atmospheric Research"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      1
+     ]
+    ]
+   },
+   "article-number": "108462"
+  },
+  {
+   "issue": "2",
+   "abstract": "<jats:p>Groundwater is a vital and critical resource for humanity. Therefore, its management requires accurate data on its conditions and characteristics, which are generally obtained through field surveys. However, limited accessibility often hinders optimal data acquisition, making interpolation necessary to fill data gaps. This study examines the application of Inverse Distance Weighting (IDW) and spline interpolation methods for analyzing groundwater depth and table elevation in urban and rural areas. The research was conducted in four locations: two representing urban areas (the border of Yogyakarta City–Bantul Regency–Sleman Regency, and Lowokwaru–Blimbing Districts in Malang City) and two representing rural areas (Kalibawang–Samigaluh Districts in Kulon Progo Regency, and Sanden District in Bantul Regency). At each location, three IDW and spline models were developed with different combinations of model and validation data for groundwater depth and elevation analysis, resulting in a total of 96 models (24 models per area). Model accuracy was compared using Root Mean Square Error (RMSE) and Mean Absolute Error (MAE). Results show that the IDW interpolation method is more accurate for groundwater depth analysis. For groundwater table elevation analysis, IDW was observed to be more accurate in urban areas, while spline interpolation was more accurate in rural areas.</jats:p>",
+   "DOI": "10.20884/1.jidr.2025.21.2.47",
+   "page": "98-106",
+   "is-referenced-by-count": 4,
+   "title": [
+    "Comparative Evaluation of Idw And Spline Interpolation Methods for Analyzing Groundwater Table Depth and Elevation"
+   ],
+   "volume": "21",
+   "author": [
+    {
+     "family": "Raja Susatio",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "family": "Indra Agus Riyanto",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "family": "Wahyu Wilopo",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "family": "Heru Hendrayana",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Dinamika Rekayasa"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      7,
+      29
+     ]
+    ]
+   }
+  },
+  {
+   "DOI": "10.1016/j.gsd.2023.100920",
+   "page": "100920",
+   "is-referenced-by-count": 32,
+   "title": [
+    "Assessment of groundwater nitrate pollution using the Indicator Kriging approach"
+   ],
+   "volume": "21",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-5575-0066",
+     "authenticated-orcid": false,
+     "given": "Gabriella",
+     "family": "Balacco",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Gaetano Daniele",
+     "family": "Fiorese",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-8991-9571",
+     "authenticated-orcid": false,
+     "given": "Maria Rosaria",
+     "family": "Alfio",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Groundwater for Sustainable Development"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      5
+     ]
+    ]
+   },
+   "article-number": "100920"
+  },
+  {
+   "DOI": "10.1016/j.agwat.2024.109007",
+   "page": "109007",
+   "is-referenced-by-count": 39,
+   "title": [
+    "Optimal groundwater depth and irrigation amount can mitigate secondary salinization in water-saving irrigated areas in arid regions"
+   ],
+   "volume": "302",
+   "author": [
+    {
+     "given": "Wenhao",
+     "family": "Li",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Shaozhong",
+     "family": "Kang",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Taisheng",
+     "family": "Du",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Risheng",
+     "family": "Ding",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Minzhong",
+     "family": "Zou",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Agricultural Water Management"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2024,
+      9
+     ]
+    ]
+   },
+   "article-number": "109007"
+  },
+  {
+   "issue": "2",
+   "abstract": "<jats:p>Water conservation is imperative for alleviating water shortages and fostering the establishment of a water-saving society. However, the implementation of water-saving measures caused an increase in the depth to groundwater, resulting in ecological issues. Therefore, reasonable water saving should consider the appropriate depth to groundwater and its evolution trend. This study focuses on the Helan irrigation area in Ningxia as the research subject, aiming to establish thresholds for agricultural water-saving measures while considering constraints by depth to groundwater. The evolution trend of depth to groundwater from 1995 to 2018 was analyzed using the k-Shape cluster and complete ensemble empirical mode decomposition with adaptive noise (CEEMDAN) methods. Then, the thresholds of agricultural water-saving measures involved comparing groundwater numerical simulation results for water-saving scenarios, with the control area of ecological groundwater table depth and water shortage rate serving as the evaluation indices. The thresholds for implementing agricultural water-saving measures are as follows: the canal water utilization coefficient is set at 0.62; the proportion of water-efficient irrigation areas to effective irrigation areas should be 40% in the Yellow River irrigation area and 90% in the pumps-up Yellow River irrigation area; additionally, a reduction of 75% in the rice planting area is targeted.</jats:p>",
+   "DOI": "10.3390/w16020220",
+   "page": "220",
+   "is-referenced-by-count": 2,
+   "title": [
+    "Evolution Trend of Depth to Groundwater and Agricultural Water-Saving Measure Threshold under Its Constraints: A Case Study in Helan Irrigated Areas, Northwest China"
+   ],
+   "volume": "16",
+   "author": [
+    {
+     "given": "Cui",
+     "family": "Chang",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "School of Water Resources and Environment, China University of Geosciences (Beijing), Beijing 100083, China"
+      },
+      {
+       "name": "State Key Laboratory of Simulation and Regulation of Water Cycle in River Basin, China Institute of Water Resources and Hydropower Research, Beijing 100038, China"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Guiyu",
+     "family": "Yang",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "State Key Laboratory of Simulation and Regulation of Water Cycle in River Basin, China Institute of Water Resources and Hydropower Research, Beijing 100038, China"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Shuoyang",
+     "family": "Li",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "State Key Laboratory of Simulation and Regulation of Water Cycle in River Basin, China Institute of Water Resources and Hydropower Research, Beijing 100038, China"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Hao",
+     "family": "Wang",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "State Key Laboratory of Simulation and Regulation of Water Cycle in River Basin, China Institute of Water Resources and Hydropower Research, Beijing 100038, China"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Water"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2024,
+      1,
+      9
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "4",
+   "DOI": "10.18280/mmep.100409",
+   "page": "1169-1179",
+   "is-referenced-by-count": 11,
+   "title": [
+    "Developing Spatial Models of Groundwater Quality in the Southwestern Desert of Iraq Using GIS, Inverse Distance Weighting, and Kriging Interpolation Techniques"
+   ],
+   "volume": "10",
+   "author": [
+    {
+     "given": "Haider M.",
+     "family": "Hassan",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Abaas J.",
+     "family": "Ismaeel",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Saleem",
+     "family": "Ethaib",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Basim M.",
+     "family": "Al-Zaidi",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Mathematical Modelling of Engineering Problems"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      8,
+      30
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "1",
+   "abstract": "<jats:p>This article discusses the assessment of groundwater quality using a hybrid technique that would aid in the convenience of groundwater (GW) quality monitoring. Twenty eight (28) GW samples representing 62 barangays in Calapan City, Oriental Mindoro, Philippines were analyzed for their physicochemical characteristics and heavy metal (HM) concentrations. The 28 GW samples were collected at suburban sites identified by the coordinates produced by Global Positioning System Montana 680. The analysis of heavy metal concentrations was conducted onsite using portable handheld X-Ray Fluorescence (pXRF) Spectrometry. Hybrid machine learning—geostatistical interpolation (MLGI) method, specific to neural network particle swarm optimization with Empirical Bayesian Kriging (NN-PSO+EBK), was employed for data integration, GW quality spatial assessment and monitoring. Spatial map of metals concentration was produced using the NN-PSO-EBK. Another, spot map was created for observed metals concentration and was compared to the spatial maps. Results showed that the created maps recorded significant results based on its MSEs with values such as 1.404 × 10−4, 5.42 × 10−5, 6.26 × 10−4, 3.7 × 10−6, 4.141 × 10−4 for Ba, Cu, Fe, Mn, Zn, respectively. Also, cross-validation of the observed and predicted values resulted to R values range within 0.934–0.994 which means almost accurate. Based on these results, it can be stated that the technique is efficient for groundwater quality monitoring. Utilization of this technique could be useful in regular and efficient GW quality monitoring.</jats:p>",
+   "DOI": "10.3390/app12010132",
+   "page": "132",
+   "is-referenced-by-count": 35,
+   "title": [
+    "Groundwater Quality Monitoring Using In-Situ Measurements and Hybrid Machine Learning with Empirical Bayesian Kriging Interpolation Method"
+   ],
+   "volume": "12",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-5255-9979",
+     "authenticated-orcid": false,
+     "given": "Delia B.",
+     "family": "Senoro",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "School of Civil, Environmental and Geological Engineering, Mapua University, Intramuros, Manila 1002, Philippines"
+      },
+      {
+       "name": "School of Graduate Studies, Mapua University, Intramuros, Manila 1002, Philippines"
+      },
+      {
+       "name": "School of Chemical, Biological, Materials Engineering and Sciences, Mapua University, Intramuros, Manila 1002, Philippines"
+      },
+      {
+       "name": "Resiliency and Sustainable Development Center, Yuchengco Innovation Center, Mapua University, Manila 1002, Philippines"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Kevin Lawrence M.",
+     "family": "de Jesus",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "School of Graduate Studies, Mapua University, Intramuros, Manila 1002, Philippines"
+      },
+      {
+       "name": "School of Chemical, Biological, Materials Engineering and Sciences, Mapua University, Intramuros, Manila 1002, Philippines"
+      },
+      {
+       "name": "Resiliency and Sustainable Development Center, Yuchengco Innovation Center, Mapua University, Manila 1002, Philippines"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-2280-2077",
+     "authenticated-orcid": false,
+     "given": "Leonel C.",
+     "family": "Mendoza",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Resiliency and Sustainable Development Center, Yuchengco Innovation Center, Mapua University, Manila 1002, Philippines"
+      },
+      {
+       "name": "College of Teacher Education, Mindoro State University, Calapan 5200, Oriental Mindoro, Philippines"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-3807-7316",
+     "authenticated-orcid": false,
+     "given": "Enya Marie D.",
+     "family": "Apostol",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Resiliency and Sustainable Development Center, Yuchengco Innovation Center, Mapua University, Manila 1002, Philippines"
+      },
+      {
+       "name": "College of Teacher Education, Mindoro State University, Calapan 5200, Oriental Mindoro, Philippines"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Katherine S.",
+     "family": "Escalona",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Resiliency and Sustainable Development Center, Yuchengco Innovation Center, Mapua University, Manila 1002, Philippines"
+      },
+      {
+       "name": "College of Arts and Sciences, Mindoro State University, Victoria 5205, Oriental Mindoro, Philippines"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Eduardo B.",
+     "family": "Chan",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Dyson College of Arts and Sciences, Pace University, New York, NY 10038, USA"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Applied Sciences"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2021,
+      12,
+      23
+     ]
+    ]
+   }
+  },
+  {
+   "DOI": "10.1080/1573062x.2026.2715093",
+   "title": [
+    "How do meteorological insights boost groundwater level prediction in former sewage-irrigated urban areas?"
+   ],
+   "container-title": [
+    "Urban Water Journal"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      8,
+      18
+     ]
+    ]
+   },
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-0253-8133",
+     "authenticated-orcid": false,
+     "given": "Joanna",
+     "family": "Kajewska-Szkudlarek",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Wrocław University of Environmental and Life Sciences, Wrocław, Poland"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-9455-2217",
+     "authenticated-orcid": false,
+     "given": "Wojciech",
+     "family": "Łyczko",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Environmental Protection and Development, Wrocław University of Environmental and Life Sciences",
+       "place": [
+        "Wrocław, Poland"
+       ]
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-8704-5532",
+     "authenticated-orcid": false,
+     "given": "Małgorzata",
+     "family": "Biniak-Pieróg",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Environmental Protection and Development, Wrocław University of Environmental and Life Sciences",
+       "place": [
+        "Wrocław, Poland"
+       ]
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "is-referenced-by-count": 0,
+   "page": "1-18"
+  },
+  {
+   "DOI": "10.1016/j.gsd.2022.100772",
+   "page": "100772",
+   "is-referenced-by-count": 2,
+   "title": [
+    "New approach in estimation of seawater intrusion footprint (SWIF) for irrigated crops using coastal groundwater"
+   ],
+   "volume": "18",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0001-7462-3057",
+     "authenticated-orcid": false,
+     "given": "Osama",
+     "family": "Sallam",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Groundwater for Sustainable Development"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2022,
+      8
+     ]
+    ]
+   },
+   "article-number": "100772"
+  },
+  {
+   "issue": "8",
+   "abstract": "<jats:p>Irrigated areas are major vectors of agricultural development and components of ecosystems. The groundwater level maintains the irrigated areas’ ecology safety and sustainable development. Under the influence of irrational irrigation practices—such as flood irrigation or extreme water saving without consideration of ecological impact—different areas within an irrigation district may experience anomalies in groundwater levels (either too deep or too shallow). It is of great significance to carry out research on water resource allocation and future water-saving strategies, taking into consideration groundwater depths. In this study, a method for the optimal allocation of irrigation water resources that considered groundwater level was used to regulate irrational irrigation practices and to reveal the future direction of water saving. Helan County in Ningxia province, an ecologically fragile and arid irrigated area, was selected as a case study. Multiple scenarios of different water use and different degrees of water-saving were analyzed. The results showed that non-engineering water-saving measures (such as adjusting the planting structure and controlling the amount of irrigation for rice) had better benefits compared to engineering measures (such as efficient water-saving irrigation and channel lining). When implementing only one water-saving measure, the strategy of replacing 75% of the rice area with corn yielded the best results. This approach can reduce the irrigation water shortage rate to 11% and increase by 4.58% the acreage where the groundwater level is reasonable. When multiple water-saving measures are implemented together, the most effective strategy for future water-saving efforts involves the joint implementation of several measures: replacing 75% of the rice area with corn, limiting irrigation for rice to no more than 11.85 thousand m3/ha, adopting high-efficiency water-saving irrigation in 90% of the pump-diverted water irrigation region and 40% of the channel-diverted water irrigation region, and maintaining the channel’s water utilization coefficient at 0.62. This strategy can keep the irrigation water shortage below 3.66% and increase the acreage where the groundwater level is reasonable, by 4.58% per year. The conclusions and research approaches can provide references for the formulation of water-saving measures for irrigated areas’ sustainable development.</jats:p>",
+   "DOI": "10.3390/agronomy14081611",
+   "page": "1611",
+   "is-referenced-by-count": 2,
+   "title": [
+    "Study on the Appropriate Degree of Water-Saving Measures in Arid Irrigated Areas Considering Groundwater Level"
+   ],
+   "volume": "14",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0001-8353-6297",
+     "authenticated-orcid": false,
+     "given": "Shuoyang",
+     "family": "Li",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "State Key Laboratory of Hydraulic Engineering Simulation and Safety, Tianjin University, Tianjin 300072, China"
+      },
+      {
+       "name": "State Key Laboratory of Simulation and Regulation of Water Cycle in River Basin, Beijing 100038, China"
+      },
+      {
+       "name": "China Institute of Water Resources and Hydropower Research, Beijing 100038, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Guiyu",
+     "family": "Yang",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "State Key Laboratory of Simulation and Regulation of Water Cycle in River Basin, Beijing 100038, China"
+      },
+      {
+       "name": "China Institute of Water Resources and Hydropower Research, Beijing 100038, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Cui",
+     "family": "Chang",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "State Key Laboratory of Simulation and Regulation of Water Cycle in River Basin, Beijing 100038, China"
+      },
+      {
+       "name": "China Institute of Water Resources and Hydropower Research, Beijing 100038, China"
+      },
+      {
+       "name": "School of Water Resources and Environment, China University of Geosciences (Beijing), Beijing 100083, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Hao",
+     "family": "Wang",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "State Key Laboratory of Simulation and Regulation of Water Cycle in River Basin, Beijing 100038, China"
+      },
+      {
+       "name": "China Institute of Water Resources and Hydropower Research, Beijing 100038, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Xiaohui",
+     "family": "Jin",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Yellow River Institute of Hydraulic Research, Zhengzhou 450003, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Zhigong",
+     "family": "Peng",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "State Key Laboratory of Simulation and Regulation of Water Cycle in River Basin, Beijing 100038, China"
+      },
+      {
+       "name": "China Institute of Water Resources and Hydropower Research, Beijing 100038, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Agronomy"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2024,
+      7,
+      23
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "1",
+   "abstract": "<jats:p>Interpolation is a process that determines the unknown z-values of pixels in raster (GRID) form, of a system of points, or in vector (TIN) form of a limited number of points with known data about them. It is used to determine the unknown values at any geographical point of: altitude, precipitation, chemical concentrations, noise level, etc.</jats:p>",
+   "DOI": "10.46687/jsar.v28i1.419",
+   "page": "7-15",
+   "is-referenced-by-count": 0,
+   "title": [
+    "INTERPOLATION OF RASTER SURFACES (GRID NTERPOLATION).THE KRIGING METHOD"
+   ],
+   "volume": "28",
+   "author": [
+    {
+     "name": "DEPARTMENT OF GEODESY, FACULTY OF TECHNICAL SCIENCES, KONSTANTIN PRESLAVSKY UNIVERSITY OF SHUMEN, SHUMEN 9712,115, UNIVERSITETSKA STR., E-MAIL: s.ivanov@shu.bg",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Sabin I.",
+     "family": "Ivanov",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Journal Scientific and Applied Research"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      11,
+      12
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "4",
+   "abstract": "<jats:p>Volcanic eruptions significantly impact human life. However, real-time high-precision imaging in this context still has limitations. Spatial–temporal interpolation can replace real-time data imaging, in order to obtain the state of a given volcano at any moment. The dispersion curve is interpolated in space as a foreshadowing for subsequent temporal interpolation. In this paper, kriging is applied for the interpolation of dispersion curves, and the feasibility of the process is verified through several tests. Through cross-validation, the “spherical” variogram model and universal kriging were determined. The mean relative error of the predicted dispersion curve is less than 10%, and the mean root mean square error of each predicted dispersion curve is less than 0.1. The results show that the interpolation of dispersion curves based on the kriging method is feasible. In addition, the application of kriging interpolation in ambient noise tomography can expand the imaging area, as well as complement the low ray density area. Taking the ambient noise tomography of the Changbai volcano as an example, in the deep area, the expansion multiple can reach 2.4.</jats:p>",
+   "DOI": "10.3390/app13042557",
+   "page": "2557",
+   "is-referenced-by-count": 7,
+   "title": [
+    "Dispersion Curve Interpolation Based on Kriging Method"
+   ],
+   "volume": "13",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-2557-5981",
+     "authenticated-orcid": false,
+     "given": "Han",
+     "family": "Zhang",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "College of Geoexploration Science and Technology, Jilin University, Changchun 130026, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-0246-3928",
+     "authenticated-orcid": false,
+     "given": "You",
+     "family": "Tian",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "College of Geoexploration Science and Technology, Jilin University, Changchun 130026, China"
+      },
+      {
+       "name": "Changbai Volcano Geophysical Observatory, Ministry of Education, Jilin University, Changchun 130026, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Pengfei",
+     "family": "Zhao",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "College of Geoexploration Science and Technology, Jilin University, Changchun 130026, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Applied Sciences"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      2,
+      16
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "1",
+   "DOI": "10.1038/s41597-026-07378-x",
+   "is-referenced-by-count": 0,
+   "title": [
+    "Reconstructing Historical Housing Data Using Kriging Interpolation and Zonal Statistics"
+   ],
+   "volume": "13",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0009-0009-3638-2059",
+     "authenticated-orcid": false,
+     "given": "Shuang",
+     "family": "Tian",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      },
+      {
+       "role": "corresponding-author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Fang",
+     "family": "Qiu",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Scientific Data"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      5,
+      13
+     ]
+    ]
+   },
+   "article-number": "1608"
+  },
+  {
+   "issue": "23",
+   "abstract": "<jats:p>Many irrigation districts along the Yellow River have been suffering shallow groundwater depression and agriculture-use water shortage. For comprehending response relationships of shallow groundwater level and various factors under different conditions of groundwater buried depth, the hydro-meteorological time series and the agricultural production data in Puyang area of Henan Province, China during 2006–2018 were collected for performing wavelet analysis of the relationship between the groundwater level and the four different factors, such as precipitation, air temperature, water stage of the Yellow River, and well irrigation water amount. It is shown that when the burial depth of groundwater varied from 0–10 m to over 10 m, the groundwater level was related with both the precipitation and air temperature from moderately to weakly and the delayed response times of the groundwater level to them extended from 2–4 months to more than 5 months. The groundwater level maintained a medium correlation with the well irrigation water amount as the burial depth increased, but the lag response time of groundwater level to well irrigation dramatically decreased when the burial depth exceeded 10 m. The dynamic response relationship between the groundwater and the water stage of the Yellow River was mainly affected by the distance away from the Yellow River rather than the burial depth and the influence of the river stage on the groundwater level was limited within the distance approximate to 20 km away from the Yellow River. The findings are expected to provide the reference for groundwater level prediction and groundwater resources protection.</jats:p>",
+   "DOI": "10.3390/w14233937",
+   "page": "3937",
+   "is-referenced-by-count": 10,
+   "title": [
+    "Dynamic Response Characteristics of Shallow Groundwater Level to Hydro-Meteorological Factors and Well Irrigation Water Withdrawals under Different Conditions of Groundwater Buried Depth"
+   ],
+   "volume": "14",
+   "author": [
+    {
+     "given": "Yi",
+     "family": "Cai",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Department of Hydraulic Engineering, College of Civil Engineering, Tongji University, Shanghai 200092, China"
+      },
+      {
+       "name": "The Yangtze River Water Environment Key Laboratory of the Ministry of Education, Tongji University, Shanghai 200092, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Ruoyao",
+     "family": "Huang",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Hydraulic Engineering, College of Civil Engineering, Tongji University, Shanghai 200092, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Jia",
+     "family": "Xu",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "China Construction Eight Bureau Smart Technology Co., Ltd., Nanjing 210046, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Jingwen",
+     "family": "Xing",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Hydraulic Engineering, College of Civil Engineering, Tongji University, Shanghai 200092, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Dongze",
+     "family": "Yi",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Hydraulic Engineering, College of Civil Engineering, Tongji University, Shanghai 200092, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Water"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2022,
+      12,
+      3
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "1",
+   "DOI": "10.61882/nmce.2508.1100",
+   "page": "102-112",
+   "is-referenced-by-count": 0,
+   "title": [
+    "Investigating Groundwater Level Fluctuations using Group Method of Data Handling and Empirical Bayesian Kriging Models (Case study: Silakhor plain)"
+   ],
+   "volume": "10",
+   "author": [
+    {
+     "given": "Mehdi",
+     "family": "Komasi",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Hesam",
+     "family": "Goudarzi",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Numerical Methods in Civil Engineering"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      9,
+      1
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "1",
+   "DOI": "10.1007/s43832-025-00189-y",
+   "is-referenced-by-count": 5,
+   "title": [
+    "Evaluation of geostatistical interpolation methods on spatial representation of groundwater depth and nitrate concentration of Elalla-Aynalem wellfield, Northern Ethiopia"
+   ],
+   "volume": "5",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-7105-3164",
+     "authenticated-orcid": false,
+     "given": "Gebremedhin Berhe",
+     "family": "Zenebe",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Gebrerufael",
+     "family": "Hailu",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Abbadi",
+     "family": "Girmay",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Abdelwassie",
+     "family": "Hussien",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Selemawi",
+     "family": "Abrehe",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Discover Water"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      2,
+      12
+     ]
+    ]
+   },
+   "article-number": "9"
+  },
+  {
+   "DOI": "10.1016/j.gsd.2020.100482",
+   "page": "100482",
+   "is-referenced-by-count": 19,
+   "title": [
+    "Evaluation of groundwater quality in intensive irrigated zone of Northeastern Tunisia"
+   ],
+   "volume": "11",
+   "author": [
+    {
+     "given": "Zouheira",
+     "family": "Ibn Ali",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Asma",
+     "family": "Gharbi",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Moncef",
+     "family": "Zairi",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Groundwater for Sustainable Development"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2020,
+      10
+     ]
+    ]
+   },
+   "article-number": "100482"
+  },
+  {
+   "issue": "1",
+   "DOI": "10.1007/s12145-024-01533-x",
+   "is-referenced-by-count": 6,
+   "title": [
+    "Integrating an interpolation technique and AI models using Bayesian model averaging to enhance groundwater level monitoring"
+   ],
+   "volume": "18",
+   "author": [
+    {
+     "given": "Nan",
+     "family": "Wang",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Zhixian",
+     "family": "Wang",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Earth Science Informatics"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2024,
+      12,
+      17
+     ]
+    ]
+   },
+   "article-number": "65"
+  },
+  {
+   "issue": "1",
+   "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>When spatial stratified heterogeneity exists, the second‐order stationarity assumption of geostatistical methods cannot be satisfied. To address this issue, a series of stratified kriging methods has been developed by partitioning the dataset into homogenous strata and then applying geostatistical methods within each stratum. Although stratified interpolation methods seem to be able to handle stratified heterogeneity, their effectiveness has not been thoroughly investigated. In this study, we used simulated data and four real‐world datasets of different geographical scenarios to compare the performance of ordinary kriging and three representative stratified kriging methods. Experiment results showed that whether with prior knowledge or using automatic clustering, stratified kriging methods usually perform worse than ordinary kriging, even in the presence of significant spatial stratified heterogeneity. The reason lies in two aspects: (i) estimation of an accurate variogram for the observations between strata is unrealistic, which reduces the interpolation accuracy of boundary positions; (ii) the variogram within each stratum amplifies the effect of local heterogeneity, which reduces the interpolation accuracy of some interior positions. Theoretical analysis demonstrated that the ability of ordinary kriging to handle spatial heterogeneity is underestimated. When the boundary is fuzzy, ordinary kriging is sufficient to address the spatial stratified heterogeneity issue in spatial interpolation.</jats:p>",
+   "DOI": "10.1111/tgis.70180",
+   "is-referenced-by-count": 2,
+   "title": [
+    "Spatial Interpolation in the Presence of Spatial Stratified Heterogeneity: Stratified Kriging or Ordinary Kriging?"
+   ],
+   "volume": "30",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-4684-8504",
+     "authenticated-orcid": false,
+     "given": "Qiliang",
+     "family": "Liu",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Department of Geo‐Informatics Central South University  Changsha P.R. China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Yuqian",
+     "family": "Huang",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Geo‐Informatics Central South University  Changsha P.R. China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-9368-5306",
+     "authenticated-orcid": false,
+     "given": "Jie",
+     "family": "Yang",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Geo‐Informatics Central South University  Changsha P.R. China"
+      },
+      {
+       "name": "Department of Land Surveying and Geo‐Informatics The Hong Kong Polytechnic University  Hong Kong P.R. China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Junjie",
+     "family": "Li",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Geo‐Informatics Central South University  Changsha P.R. China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Yueda",
+     "family": "Wu",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Geo‐Informatics Central South University  Changsha P.R. China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Xiaoran",
+     "family": "Zhou",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Geo‐Informatics Central South University  Changsha P.R. China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Transactions in GIS"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      1,
+      6
+     ]
+    ]
+   },
+   "article-number": "e70180"
+  },
+  {
+   "issue": "21",
+   "abstract": "<jats:p>Accurate meteorological data at photovoltaic (PV) sites are essential for reliable PV forecasting, but direct observations are often unavailable because of the spatial mismatch between meteorological stations and PV sites. This study proposes a Case-Based Reasoning and Ordinary Kriging (CBR-OK) framework for site-specific meteorological interpolation and subsequent PV forecasting. Historical variogram characteristics and model-selection results were organized into a case database, and ANN-derived feature importance was used to weight features for KNN-based case retrieval. An SVM trained on KNN-derived labels was then used to classify the variogram model for new cases, after which the corresponding historical variogram parameters were retrieved for OK interpolation. CBR-OK achieved interpolation accuracy comparable to Direct-OK, although end-to-end evaluation showed additional computational overhead from the CBR inference process. Using the interpolated meteorological inputs, LSTM, Bi-LSTM, and GRU models were evaluated for 1-, 12-, and 24-h-ahead PV forecasting, with the most consistent benefits observed at the 1-h horizon. As an example of absolute forecasting performance, the CBR-OK-based LSTM achieved mean absolute errors (MAEs) of 25.3, 45.7, and 47.3 kW at the 1-, 12-, and 24-h horizons, respectively, across the six PV sites. These results demonstrate the applicability of CBR-OK as an adaptive variogram-configuration and meteorological-interpolation framework for short-term PV forecasting.</jats:p>",
+   "DOI": "10.3390/en19215140",
+   "page": "5140",
+   "is-referenced-by-count": 0,
+   "title": [
+    "An Advanced CBR-Based Photovoltaic Power Forecasting Framework Incorporating Kriging Meteorological Interpolation"
+   ],
+   "volume": "19",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0009-0009-3848-4315",
+     "authenticated-orcid": false,
+     "given": "Minjoon",
+     "family": "Kim",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Department of Energy Policy and Technology Convergence, Soongsil University, Seoul 06978, Republic of Korea"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-6250-9342",
+     "authenticated-orcid": false,
+     "given": "Woncheol",
+     "family": "Lee",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "School of Electronic Engineering, Soongsil University, Seoul 06978, Republic of Korea"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Energies"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      10,
+      28
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "8",
+   "abstract": "<jats:title>Abstract</jats:title><jats:p>Evapotranspiration (ET) from riparian vegetation can be difficult to estimate due to relatively abundant water supply, spatial vegetation heterogeneity, and interactions with anthropogenic influences such as shallower groundwater tables, increased salinity, and nonpoint source pollution induced by irrigation. In semiarid south‐eastern Colorado, reliable ET estimates are scarce for the riparian corridor that borders the Arkansas River. This work investigates relationships between the riparian ecosystem along the Arkansas River and an underlying alluvial aquifer using ET estimates from remotely sensed data and modelled water table depths. Results from a calibrated, finite‐difference groundwater model are used to estimate weekly water table fluctuations in the riparian ecosystem from 1999 to 2009, and estimates of ET are calculated using the Operational Simplified Surface Energy Balance (SSEBop) model with over 200 Landsat scenes covering over 30 km<jats:sup>2</jats:sup> of riparian ecosystem along a 70‐km stretch of the river. Comparison of calculated monthly SSEBop ET to estimated alfalfa reference ET from local micrometeorological station data indicated statistically significant high linear correspondence (<jats:italic>R</jats:italic><jats:sup>2</jats:sup> = .87). Daily calculated SSEBop ET showed statistically significant moderate linear correspondence with data from a local weighing lysimeter (<jats:italic>R</jats:italic><jats:sup>2</jats:sup> = .59). Simulated monthly SSEBop ET values were larger in drier years compared with wetter years, and ET variability was also larger in drier years. Peak ET most commonly occurred during the month of June for all 11 years of analysis. Relationships between ET and water table depth showed that peak monthly ET was highest when groundwater depths were less than about 3 m, and ET values were significantly lower for groundwater depths greater than 3 m. Negative sample Spearman correlation highlighted riparian corridor locations where ET increased as a result of decreased groundwater depths across years with different hydroclimatic conditions. This study shows how a combination of remotely sensed riparian ET estimates and a regional groundwater model can improve our understanding of linkages between riparian consumptive use and near‐river groundwater conditions influenced by irrigation return flow and different climatic drivers.</jats:p>",
+   "DOI": "10.1002/hyp.13712",
+   "page": "1714-1727",
+   "is-referenced-by-count": 25,
+   "title": [
+    "Relationships between riparian evapotranspiration and groundwater depth along a semiarid irrigated river valley"
+   ],
+   "volume": "34",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0001-5337-8603",
+     "authenticated-orcid": false,
+     "given": "Matthew R.",
+     "family": "Lurtz",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Department of Civil and Environmental Engineering Colorado State University  Fort Collins Colorado"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-8612-1684",
+     "authenticated-orcid": false,
+     "given": "Ryan R.",
+     "family": "Morrison",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Civil and Environmental Engineering Colorado State University  Fort Collins Colorado"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Timothy K.",
+     "family": "Gates",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Civil and Environmental Engineering Colorado State University  Fort Collins Colorado"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-8810-8539",
+     "authenticated-orcid": false,
+     "given": "Gabriel B.",
+     "family": "Senay",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "U.S. Geological Survey (USGS), Earth Resources Observation and Science (EROS) Center North Central Climate Science Center  Fort Collins Colorado"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-9803-4003",
+     "authenticated-orcid": false,
+     "given": "Aditi S.",
+     "family": "Bhaskar",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Civil and Environmental Engineering Colorado State University  Fort Collins Colorado"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "David G.",
+     "family": "Ketchum",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Montana Department of Natural Resources and Conservation Water Resources Division  Helena Montana"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Hydrological Processes"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2020,
+      2,
+      21
+     ]
+    ]
+   }
+  }
+ ]
+}

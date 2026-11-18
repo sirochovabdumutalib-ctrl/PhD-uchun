@@ -1,0 +1,4432 @@
+{
+ "query": "remote sensing soil salinity Uzbekistan",
+ "source": "Crossref",
+ "date": "2026-11-18",
+ "filter": "2020–2026, journal-article",
+ "n": 40,
+ "items": [
+  {
+   "DOI": "10.1016/j.rsase.2024.101214",
+   "page": "101214",
+   "is-referenced-by-count": 6,
+   "title": [
+    "Integrated approach to soil salinity assessment using SEM in Sirdarya province, Uzbekistan"
+   ],
+   "volume": "35",
+   "author": [
+    {
+     "given": "Aziz",
+     "family": "Omonov",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Tasuku",
+     "family": "Kato",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Sayidjakhon",
+     "family": "Khasanov",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0003-1325-8644",
+     "authenticated-orcid": false,
+     "given": "Atiqotun",
+     "family": "Fitriyah",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Fadong",
+     "family": "Li",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Sardorbek",
+     "family": "Musayev",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Bakhtiyor",
+     "family": "Pulatov",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Zukhriddin",
+     "family": "Ismoilov",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Remote Sensing Applications: Society and Environment"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2024,
+      8
+     ]
+    ]
+   },
+   "article-number": "101214"
+  },
+  {
+   "issue": "4",
+   "abstract": "<jats:p>Remote sensing (RS) technology can rapidly obtain spatial distribution information on soil salinization. However, (1) the scale effects resulting from the mismatch between ground-based “point” salinity data and remote sensing pixel-based “spatial” data often limit the accuracy of remote sensing monitoring of soil salinity, and (2) the same salinity RS monitoring model usually provides inconsistent or sometimes conflicting explanations for different data. Therefore, based on Landsat 8 imagery and synchronously collected ground-sampling data of two typical study regions (denoted as N and S, respectively) of the Yichang Irrigation Area in the Hetao Irrigation District for May 2013, this study used geostatistical methods to obtain “relative truth values” of salinity corresponding to the Landsat 8 pixel scale. Additionally, based on Landsat 8 multispectral data, 14 salinity indices were constructed. Subsequently, the Correlation-based Feature Selection (CFS) method was used to select sensitive features, and a strategy similar to the concept of ensemble learning (EL) was adopted to integrate the single-feature-sensitive Bayesian classification (BC) model in order to construct an RS monitoring model for soil salinization (Nonsaline, Slightly saline, Moderately saline, Strongly saline, and Solonchak). The research results indicated that (1) soil salinity exhibits moderate to strong variability within a 30 m scale, and the spatial heterogeneity of soil salinity needs to be considered when developing remote sensing models; (2) the theoretical models of salinity variance functions in the N and S regions conform to the exponential model and the spherical model, with R2 values of 0.817 and 0.967, respectively, indicating a good fit for the variance characteristics of salinity and suitability for Kriging interpolation; and (3) compared to a single-feature BC model, the soil salinization identification model constructed using the concept of EL demonstrated better potential for robustness and effectiveness.</jats:p>",
+   "DOI": "10.3390/rs16040642",
+   "page": "642",
+   "is-referenced-by-count": 22,
+   "title": [
+    "Monitoring Soil Salinity Classes through Remote Sensing-Based Ensemble Learning Concept: Considering Scale Effects"
+   ],
+   "volume": "16",
+   "author": [
+    {
+     "given": "Huifang",
+     "family": "Chen",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "State Key Laboratory of Water Resources Engineering and Management, Wuhan University, Wuhan 430072, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Jingwei",
+     "family": "Wu",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "State Key Laboratory of Water Resources Engineering and Management, Wuhan University, Wuhan 430072, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Chi",
+     "family": "Xu",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Changjiang Institute of Survey, Planning, Design and Research, Wuhan 430010, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Remote Sensing"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2024,
+      2,
+      9
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "7",
+   "abstract": "<jats:p>The timely and accurate monitoring of regional soil salinity is crucial for the sustainable development of land and the stability of the ecological environment in arid and semi-arid regions. However, due to the spatiotemporal heterogeneity of soil properties and environmental conditions, improving the accuracy of soil salinization monitoring remains challenging. This study aimed to explore whether partitioned modeling based on salinization degrees during both the bare soil and vegetation cover periods can enhance the accuracy of regional soil salinity prediction. Specifically, this study integrated in situ hyperspectral data and satellite multispectral data using spectral response functions. Subsequently, machine learning methods such as random forest (RF), extreme gradient boosting (XGBoost), support vector machine (SVM), and multiple linear regression (MLR) were employed, in combination with sensitive spectral indices, to develop a multi-source remote sensing soil salinity estimation model optimized for different salinization degrees (mild or lower salinization vs. moderate or higher salinization). The performance of this partitioned modeling approach was then compared with an overall modeling approach that does not distinguish between salinization degrees to determine the optimal modeling strategy. The results highlight the effectiveness of considering regional soil salinization degrees in enhancing the sensitivity of spectral indices to soil salinity and improving modeling accuracy. Classifying salinization degrees helps identify spectral variable combinations that are more sensitive to the construction of soil salinity content (SSC) models, positively impacting soil salinity estimation. The partitioned modeling strategy outperformed the overall modeling strategy in both accuracy and stability, with R2 values reaching 0.84 and 0.80 and corresponding RMSE values of 0.1646% and 0.1710% during the bare soil and vegetation cover periods, respectively. This study proposes an optimized modeling strategy based on regional salinization degrees, providing scientific evidence and technical support for the precise assessment and effective management of soil salinization.</jats:p>",
+   "DOI": "10.3390/rs17071315",
+   "page": "1315",
+   "is-referenced-by-count": 17,
+   "title": [
+    "Optimization of Multi-Source Remote Sensing Soil Salinity Estimation Based on Different Salinization Degrees"
+   ],
+   "volume": "17",
+   "author": [
+    {
+     "given": "Huifang",
+     "family": "Chen",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "State Key Laboratory of Water Resources Engineering and Management, Wuhan University, Wuhan 430072, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Jingwei",
+     "family": "Wu",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "State Key Laboratory of Water Resources Engineering and Management, Wuhan University, Wuhan 430072, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Chi",
+     "family": "Xu",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Changjiang Institute of Survey, Planning, Design and Research, Wuhan 430010, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Remote Sensing"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      4,
+      7
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "3",
+   "abstract": "<jats:p>The soil dielectric constant model is essential for retrieving soil properties based on microwave remote sensing. However, the existing saline soil dielectric constant models perform poorly in simulating the dielectric constant of soil with high water content and salinity. In this study, the Wang Yueru (WYR) saline soil dielectric constant model, which was demonstrated to perform well in describing the effect of salinity and moisture on the dielectric constant, was validated based on experimental measurements of soil samples under different water content and salinity degrees. Furthermore, we adjusted the model form, refitted the empirical coefficient in the model, and finally acquired a two-stage model for simulating the soil dielectric constant. The enhanced model was validated under different soil moisture and salinity ranges using experimental measurements of soil samples. Compared to the original model, the proposed model exhibits a larger improvement in simulating the soil dielectric constant, and the RMSE of the simulated results dramatically decreased from 7.3 to 1.6, especially for soil with high salinity and water content. On this basis, a model suitable for L-band microwave was established. This model is of great significance for studying soil dielectric characteristics and retrieving soil parameters based on L-band data. Furthermore, this model can be used to retrieve soil salinity and water content using microwave remote sensing under a broadened application situation, such as in saline-alkali soils, wetlands, and salt marshes.</jats:p>",
+   "DOI": "10.3390/rs16030452",
+   "page": "452",
+   "is-referenced-by-count": 20,
+   "title": [
+    "An Enhanced Saline Soil Dielectric Constant Model Used for Remote Sensing Soil Moisture and Salinity Retrieval"
+   ],
+   "volume": "16",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0001-5524-2718",
+     "authenticated-orcid": false,
+     "given": "Liang",
+     "family": "Gao",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "College of Resources and Environment, University of Chinese Academy of Sciences, Beijing 101408, China"
+      },
+      {
+       "name": "Yanshan Earth Critical Zone and Surface Fluxes Research Station, University of Chinese Academy of Sciences, Beijing 101408, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Xiaoning",
+     "family": "Song",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "College of Resources and Environment, University of Chinese Academy of Sciences, Beijing 101408, China"
+      },
+      {
+       "name": "Yanshan Earth Critical Zone and Surface Fluxes Research Station, University of Chinese Academy of Sciences, Beijing 101408, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Xiaotao",
+     "family": "Li",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "China Institute of Water Resources and Hydropower Research, Beijing 100038, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Jianwei",
+     "family": "Ma",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "China Institute of Water Resources and Hydropower Research, Beijing 100038, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Pei",
+     "family": "Leng",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Key Laboratory of Agricultural Remote Sensing, Ministry of Agriculture and Rural Affairs, Beijing 100081, China"
+      },
+      {
+       "name": "Institute of Agricultural Resources and Regional Planning, Chinese Academy of Agricultural Sciences, Beijing 100081, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Weizhen",
+     "family": "Wang",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Northwest Institute of Eco-Environment and Resources, Lanzhou 730000, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Xinming",
+     "family": "Zhu",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "College of Resources and Environment, University of Chinese Academy of Sciences, Beijing 101408, China"
+      },
+      {
+       "name": "Yanshan Earth Critical Zone and Surface Fluxes Research Station, University of Chinese Academy of Sciences, Beijing 101408, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Remote Sensing"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2024,
+      1,
+      24
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "8",
+   "abstract": "<jats:p>Soil salinization severely restricts the development of global industry and agriculture and affects human beings. In the arid area of Northwest China, oasis saline-alkali land threatens the development of agriculture and food security. This paper develops and optimizes an inversion monitoring model for monitoring the soil salt content using unmanned aerial vehicle (UAV) multispectral remote sensing data. Using the multispectral remote sensing data in three research areas, the soil salt inversion models based on the support vector machine regression (SVR), random forest (RF), backpropagation neural network (BPNN), and extreme learning machine (ELM) were constructed. The results show that the four constructed models based on the spectral index can achieve good inversion accuracy, and the red edge band can effectively improve the soil salt inversion accuracy in saline-alkali land with vegetation cover. Based on the obtained results, for bare land, the best model for soil salt inversion is the ELM model, which reaches the determination coefficient (Rv2) of 0.707, the root mean square error RMSEv of 0.290, and the performance deviation ratio (RPD) of 1.852 on the test dataset. However, for agricultural land with vegetation cover, the best model for soil salinity inversion using the vegetation index is the BPNN model, which achieves Rv2 of 0.836, RMSEv of 0.027, and RPD of 2.100 on the test dataset. This study provides technical support for rapid monitoring and inversion of soil salinization and salinization control in irrigation areas.</jats:p>",
+   "DOI": "10.3390/rs14081804",
+   "page": "1804",
+   "is-referenced-by-count": 67,
+   "title": [
+    "Soil Salinity Inversion Model of Oasis in Arid Area Based on UAV Multispectral Remote Sensing"
+   ],
+   "volume": "14",
+   "author": [
+    {
+     "given": "Wenju",
+     "family": "Zhao",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "College of Energy and Power Engineering, Lanzhou University of Technology, Lanzhou 730050, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Chun",
+     "family": "Zhou",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "College of Energy and Power Engineering, Lanzhou University of Technology, Lanzhou 730050, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Changquan",
+     "family": "Zhou",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "College of Energy and Power Engineering, Lanzhou University of Technology, Lanzhou 730050, China"
+      },
+      {
+       "name": "School of Civil Engineering, Lanzhou College of Information Science and Technology, Lanzhou 730300, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Hong",
+     "family": "Ma",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "College of Energy and Power Engineering, Lanzhou University of Technology, Lanzhou 730050, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Zhijun",
+     "family": "Wang",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "College of Energy and Power Engineering, Lanzhou University of Technology, Lanzhou 730050, China"
+      },
+      {
+       "name": "Baiyin New Material Research Institute of Lanzhou University of Technology, Baiyin 730900, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Remote Sensing"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2022,
+      4,
+      8
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "3",
+   "abstract": "<jats:p>Soil salinization is a global problem that damages soil ecology and affects agricultural development. Timely management and monitoring of soil salinity are essential to achieve the most sustainable development goals in arid and semi-arid regions. It has been demonstrated that Polarimetric Synthetic Aperture Radar (PolSAR) data have a high sensitivity to the soil dielectric constant and soil surface roughness, thus having great potential for the detection of soil salinity. However, studies combining PALSAR-2 data and Landsat 8 data to invert soil salinity information are less common. The particle swarm optimization (PSO) algorithm is characterized by simple operation, fast computation, and good adaptability, but there are relatively few studies applying it to soil salinity as well. This paper takes the Keriya Oasis as an example, proposing the PSO-SVR and PSO-BPNN models by combining PSO with support vector machine regression (SVR) and back-propagation neural network (BPNN) models. Then, PALSAR-2 data, Landsat 8 data, evapotranspiration data, groundwater burial depth data, and DEM data were combined to conduct the inversion study of soil salinity in the study area. The results showed that the introduction of PSO generated a satisfactory estimating performance. The SVR model accuracy (R2) improved by 0.07 (PALSAR-2 data), 0.20 (Landsat 8 data), and 0.19 (PALSAR + Landsat data); the BP model accuracy (R2) improved by 0.03 (PALSAR-2 data), 0.24 (Landsat 8 data), and 0.12 (PALSAR + Landsat data), and then combined with the model inversion plots, we found that PALSAR + Landsat data combined with the PSO-SVR model could achieve better inversion results. The fine texture information of PALSAR-2 data can be used to better invert the soil salinity in the study area by combining it with the rich spectral information of Landsat 8 data. This study complements the research ideas and methods for soil salinization using multi-source remote sensing data to provide scientific support for salinity monitoring in the study area.</jats:p>",
+   "DOI": "10.3390/rs14030512",
+   "page": "512",
+   "is-referenced-by-count": 32,
+   "title": [
+    "Inversion of Soil Salinity Using Multisource Remote Sensing Data and Particle Swarm Machine Learning Models in Keriya Oasis, Northwestern China"
+   ],
+   "volume": "14",
+   "author": [
+    {
+     "given": "Qinyu",
+     "family": "Wei",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Ministry of Education Key Laboratory of Oasis Ecology, Collage of Resources and Environmental Science, Xinjiang University, Urumqi 830046, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-4731-1098",
+     "authenticated-orcid": false,
+     "given": "Ilyas",
+     "family": "Nurmemet",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Ministry of Education Key Laboratory of Oasis Ecology, Collage of Resources and Environmental Science, Xinjiang University, Urumqi 830046, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Minhua",
+     "family": "Gao",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Ministry of Education Key Laboratory of Oasis Ecology, Collage of Resources and Environmental Science, Xinjiang University, Urumqi 830046, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Boqiang",
+     "family": "Xie",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Ministry of Education Key Laboratory of Oasis Ecology, Collage of Resources and Environmental Science, Xinjiang University, Urumqi 830046, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Remote Sensing"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2022,
+      1,
+      21
+     ]
+    ]
+   }
+  },
+  {
+   "abstract": "<jats:p>One of the primary concerns in agricultural regions is the presence of soil salinity, which is especially prominent in the Amudarya district of Uzbekistan. This investigation aims to evaluate the salinity of the local soil utilizing data acquired through remote sensing. By integrating remote sensing data with modeling methodologies, this study offers a comprehensive understanding of the patterns of soil salinity. The outcomes of the study demonstrate the effectiveness of this approach, with a 72% accuracy in interpolation and a Kappa value of 81%. The study underscores the critical importance of amalgamating modeling techniques and remote sensing data to monitor local changes in soil salinity and assess the potential impact of climate change on soil salinity levels. These findings are of utmost significance in facilitating the planning of water resources and agricultural management, ultimately supporting the sustainable utilization of farmland in the region.</jats:p>",
+   "DOI": "10.1051/e3sconf/202459001011",
+   "page": "01011",
+   "is-referenced-by-count": 0,
+   "title": [
+    "Study of soil salinity in agricultural land using Remote Sensing data in Amudarya district, Uzbekistan"
+   ],
+   "volume": "590",
+   "author": [
+    {
+     "given": "Eshbolta",
+     "family": "Qobulov",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Halima",
+     "family": "Botirova",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Nurullo",
+     "family": "Tursunov",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Shohida",
+     "family": "Jumayeva",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Kamoliddin",
+     "family": "Kabulov",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "E3S Web of Conferences"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2024
+     ]
+    ]
+   }
+  },
+  {
+   "abstract": "<jats:p>Soil salinity is a serious agricultural concern in Uzbekistan, causing plant growth to be hampered and crop productivity to be diminished. This issue is especially prevalent in semi-desert and desert regions, compounding problems such as soil erosion, land degradation, subsidence, corrosion, and poor groundwater quality. On the other hand, Geographic Information Systems (GIS) and Remote Sensing (RS) technologies provide more efficient, cost-effective, and timely tools and procedures for mapping soil salinity. Different indices and methods can be used to detect and quantify soil salinity levels using the spectral information acquired by the Landsat-8 OLI sensor. Among these are the Normalized Difference Salinity Index (NDSI) and the Normolazed Difference Vegetation Index (NDVI). GIS software integrates satellite imagery with auxiliary data such as soil type and topography, allowing for a thorough assessment of soil salinity distribution over the research area. Compared to traditional methods, integrating remote sensing data with GIS analysis provides a more efficient and cost-effective approach to soil salinity assessment. The findings of this study will help us understand the distribution of soil salinity in the study area and provide insights for decision-making processes connected to sustainable land management.</jats:p>",
+   "DOI": "10.1051/e3sconf/202340102004",
+   "page": "02004",
+   "is-referenced-by-count": 21,
+   "title": [
+    "Analysis of soil salinity in irrigated agricultural land using remote sensing data: case study of Chinoz district in Uzbekistan"
+   ],
+   "volume": "401",
+   "author": [
+    {
+     "given": "Rustam",
+     "family": "Oymatov",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Nozimjon",
+     "family": "Teshaev",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Rahimjon",
+     "family": "Makhsudov",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Fayzali",
+     "family": "Safarov",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "E3S Web of Conferences"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2023
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "24",
+   "abstract": "<jats:p>Soil salinization is a crucial type in the degradation of coastal land, but its spatial distribution and drivers have not been sufficiently explored especially at the depth scale owing to its multidimensional nature. In this study, we proposed a multi-depth soil salinity prediction model (0–10 cm, 10–20 cm, 20–40 cm, and 40–60 cm) fully using the advantages of satellite image data and field sampling to rapidly estimate the multi-depth soil salinity in the Yellow River Delta, China. Firstly, a multi-depth soil salinity predictive factor system was developed through correlation analysis of soil sample electrical conductivity with a series of remote-sensing parameters containing heat, moisture, salinity, vegetation indices, spectral value, and spatial location. Then, three machine learning methods including back propagation neural network (BPNN), support vector machine (SVM), and random forest (RF) were adopted to construct a coastal soil salinity inversion model. By using the best inversion model, we obtain the spatial distribution of soil salinity in the Yellow River Delta. The results show the following: (1) Environmental variables in this study are all effective variables for soil salinity prediction. The most sensitive indicators to multi-depth soil salinity are GDVI, ENDVI, SI-T, NDWI, and LST. (2) The RF model was chosen as the optimal approach for predicting and mapping soil salinity based on performance at four soil depths. (3) The soil salinity profiles exhibited intricate coexistence of two distinct types: surface aggregated and homogeneous. The former was dominant in the east, where salinity was higher. The central and southwestern parts were mostly homogeneous, with lower soil salinity. (4) The soil salinity throughout the four depths examined was found to be most elevated in saltern and bare land and lowest in wetland vegetation and farmland, according to land-cover type. This study proposed a remote sensing prediction method for salinization in multiple soil layers in the coastal plain, which could provide decision support for spatial monitoring of land salinization and achieving land degradation neutrality targets.</jats:p>",
+   "DOI": "10.3390/rs15245640",
+   "page": "5640",
+   "is-referenced-by-count": 49,
+   "title": [
+    "Mapping Multi-Depth Soil Salinity Using Remote Sensing-Enabled Machine Learning in the Yellow River Delta, China"
+   ],
+   "volume": "15",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0009-0008-3619-9572",
+     "authenticated-orcid": false,
+     "given": "Haoran",
+     "family": "Zhang",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "School of Water Conservancy and Environment, University of Jinan, Jinan 250022, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Xin",
+     "family": "Fu",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "School of Water Conservancy and Environment, University of Jinan, Jinan 250022, China"
+      },
+      {
+       "name": "Zhongke Shandong Dongying Institute of Geographic Sciences, Dongying 257509, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Yanna",
+     "family": "Zhang",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Rural Economic Management Service Station of Shandong Province, Jinan 250013, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Zhaishuo",
+     "family": "Qi",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "School of Water Conservancy and Environment, University of Jinan, Jinan 250022, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-5004-9609",
+     "authenticated-orcid": false,
+     "given": "Hengcai",
+     "family": "Zhang",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "State Key Laboratory of Resources and Environmental Information System, Institute of Geographic Sciences and Natural Resources Research, Chinese Academy of Sciences, Beijing 100101, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Zhenghe",
+     "family": "Xu",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "School of Water Conservancy and Environment, University of Jinan, Jinan 250022, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Remote Sensing"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      12,
+      6
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "18",
+   "abstract": "<jats:p>Soil salinization is a severe soil degradation issue in arid and semiarid regions. The distribution of soil salinization can prove useful in mitigating soil degradation. Remote sensing monitoring technology is available for obtaining the distribution of soil salinization rapidly and nondestructively. In this study, experimental data were collected from seven study areas of the Hetao Irrigation District from July to August in 2021 and 2022. The soil salt content (SSC) was considered at various soil depths, and the crop type and time series were considered as environmental factors. We analyzed the effects of various environmental factors on the sensitivity response of unmanned aerial vehicle (UAV)-derived spectral index variables to the SSC and assessed the accuracy of SSC estimations. The five indices with the highest correlation with the SSC under various environmental factors were the input parameters used in modeling based on three machine learning algorithms. The best model was subsequently used to derive prediction distribution maps of the SSC. The results revealed that the crop type and time series did not affect the relationship strength between the SSC and spectral indices, and that the classification of the crop type and time series can considerably enhance the accuracy of SSC estimation. The mask treatment of the soil pixels can improve the correlation between some spectral indices and the SSC. The accuracies of the ANN and RFR models were higher than SVR accuracy (optimal R2 = 0.52–0.79), and the generalization ability of ANN was superior to that of RFR. In this study, considering environmental factors, a UAV remote sensing estimation and mapping method was proposed. The results of this study provide a reference for the high-precision prediction of soil salinization during the vegetation cover period.</jats:p>",
+   "DOI": "10.3390/rs15184400",
+   "page": "4400",
+   "is-referenced-by-count": 16,
+   "title": [
+    "Estimating and Mapping Soil Salinity in Multiple Vegetation Cover Periods by Using Unmanned Aerial Vehicle Remote Sensing"
+   ],
+   "volume": "15",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-3804-4071",
+     "authenticated-orcid": false,
+     "given": "Xin",
+     "family": "Cui",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "College of Mechanical and Electronic Engineering, Northwest A&F University, Xianyang 712100, China"
+      },
+      {
+       "name": "Institute of Water-Saving Agriculture in Arid Areas of China, Northwest A&F University, Xianyang 712100, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Wenting",
+     "family": "Han",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "College of Mechanical and Electronic Engineering, Northwest A&F University, Xianyang 712100, China"
+      },
+      {
+       "name": "Institute of Water-Saving Agriculture in Arid Areas of China, Northwest A&F University, Xianyang 712100, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Yuxin",
+     "family": "Dong",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "College of Mechanical and Electronic Engineering, Northwest A&F University, Xianyang 712100, China"
+      },
+      {
+       "name": "Institute of Water-Saving Agriculture in Arid Areas of China, Northwest A&F University, Xianyang 712100, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Xuedong",
+     "family": "Zhai",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "College of Mechanical and Electronic Engineering, Northwest A&F University, Xianyang 712100, China"
+      },
+      {
+       "name": "Institute of Water-Saving Agriculture in Arid Areas of China, Northwest A&F University, Xianyang 712100, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Weitong",
+     "family": "Ma",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Institute of Water-Saving Agriculture in Arid Areas of China, Northwest A&F University, Xianyang 712100, China"
+      },
+      {
+       "name": "College of Water Resources and Architectural Engineering, Northwest A&F University, Xianyang 712100, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Liyuan",
+     "family": "Zhang",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Key Laboratory for Theory and Technology of Intelligent Agricultural Machinery and Equipment, Jiangsu University, Zhenjiang 212013, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Shenjin",
+     "family": "Huang",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Computer Science and Technology, Harbin Institute of Technology, Harbin 150001, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Remote Sensing"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      9,
+      7
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "3",
+   "abstract": "<jats:p>The research study evaluated the soil salinity by using special scientific tools like Remote Sensing and GIS technology, so that proper measurements could be taken for the sustainable agriculture and water management. A study to evaluate an irrigation system in the dry and semi-dry zone of straight Salyan, The study is made on the basis of salinity to evaluate the system. The primary data use for the study was the satellite images. This study employed an index-based approach of using Geographic Information System with field data. The satellite images of four different years was used to examine the effective area. Several combinations of the ratio of signals received in different spectral bands were used for development of this index. Near Infrared and Thermal IR spectral bands proved to be most effective as this combination helped easy detection of salt affected area. The results were confirmed by field research and laboratory analysis. The research will not only RS base for this field measurement also required for verification and correction. Several combinations of the ratio of signals received in different spectral bands were used for development of this index.</jats:p>",
+   "DOI": "10.33552/wjass.2020.05.000614",
+   "is-referenced-by-count": 3,
+   "title": [
+    "Soil Salinity Research and Mapping using Remote Sensing GIS"
+   ],
+   "volume": "5",
+   "author": [
+    {
+     "given": "Sahib",
+     "family": "Shukurov",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "World Journal of Agriculture and Soil Science"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2020,
+      7,
+      31
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "24",
+   "abstract": "<jats:p>Soil salinization in arid regions threatens ecological security and sustainable agriculture. The Ebinur Lake wetland in Xinjiang, situated in an arid climate and subject to human disturbance, suffers from severe salt accumulation and ecological degradation. To overcome the lack of soil depth information and limited spatiotemporal monitoring, this study integrates multi-year field samples and Landsat imagery (1996–2024) to construct a six-layer (0–100 cm) soil salinity inversion framework. Multi-source spectral features were optimized using the Random Frog Leaping Algorithm (RFLA), and models based on Convolutional Neural Network (CNN), Long Short-Term Memory Network (LSTM), and Random Forest (RF) were compared. The results (1) demonstrated that RFLA effectively identified high-contribution features, enhancing efficiency and reducing redundancy; (2) showed that CNN outperformed LSTM and RF in capturing spatial salinity, with R2 values of 0.75, 0.59, 0.63, 0.69, 0.57, and 0.56 for the six layers; and (3) revealed salinity migration: surface enrichment, mid-layer buffering, and deep-layer accumulation. In oases, surface salinity declined while deep layers accumulated; in deserts, surface salinity increased. The proposed framework enhances the accuracy of multi-depth salinity retrieval and provides technical support for salinization monitoring, irrigation management, ecological assessment, and control of land degradation in arid regions.</jats:p>",
+   "DOI": "10.3390/rs17243958",
+   "page": "3958",
+   "is-referenced-by-count": 3,
+   "title": [
+    "Remote Sensing Inversion and Spatiotemporal Dynamics of Multi-Depth Soil Salinity in a Typical Arid Wetland: A Case Study of Ebinur Wetland Reserve, Xinjiang"
+   ],
+   "volume": "17",
+   "author": [
+    {
+     "given": "Jinjie",
+     "family": "Wang",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "College of Geography and Remote Sensing Science, Xinjiang University, Urumqi 830049, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Jinming",
+     "family": "Zhang",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "College of Geography and Remote Sensing Science, Xinjiang University, Urumqi 830049, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Zihan",
+     "family": "Zhang",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "College of Geography and Remote Sensing Science, Xinjiang University, Urumqi 830049, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Remote Sensing"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      12,
+      7
+     ]
+    ]
+   }
+  },
+  {
+   "DOI": "10.1016/j.rsase.2024.101194",
+   "page": "101194",
+   "is-referenced-by-count": 2,
+   "title": [
+    "Investigating the effect of temperature, precipitation, and soil salinity changes on Riparian Forests’ phenology using a remote sensing approach"
+   ],
+   "volume": "34",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0001-6531-5933",
+     "authenticated-orcid": false,
+     "given": "Morteza",
+     "family": "Sharif",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-7458-4980",
+     "authenticated-orcid": false,
+     "given": "Sara",
+     "family": "Attarchi",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Remote Sensing Applications: Society and Environment"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2024,
+      4
+     ]
+    ]
+   },
+   "article-number": "101194"
+  },
+  {
+   "issue": "2",
+   "DOI": "10.1016/j.ejrs.2018.11.002",
+   "page": "125-131",
+   "is-referenced-by-count": 50,
+   "title": [
+    "Mapping soil salinity in the East Nile Delta using several methodological approaches of salinity assessment"
+   ],
+   "volume": "23",
+   "author": [
+    {
+     "given": "A.A.",
+     "family": "Hammam",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-5888-525X",
+     "authenticated-orcid": false,
+     "given": "E.S.",
+     "family": "Mohamed",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "The Egyptian Journal of Remote Sensing and Space Science"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2020,
+      8
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "10",
+   "abstract": "<jats:p>Soil salt-water dynamics in the Yangtze River Estuary (YRE) is complex and soil salinity is an obstacle to regional agricultural production and the ecological environment in the YRE. Runoff into the sea is reduced during the impoundment period as the result of the water-storing process of the Three Gorges Reservoir (TGR) in the upper reaches of the Yangtze River, which causes serious seawater intrusion. Soil salinity is a problem due to shallow and saline groundwater under serious seawater intrusion in the YRE. In this research, we focused on the temporal variation and spatial distribution characteristics of soil salinity in the YRE using geostatistics combined with proximally sensed information obtained by an electromagnetic induction (EM) survey method in typical years under the impoundment of the TGR. The EM survey with proximal sensing method was applied to perform soil salinity survey in field in the Yangtze River Estuary, allowing quick determination and quantitative assessment of spatial and temporal variation of soil salinity from 2006 to 2017. We developed regional soil salinity survey and mapping by coupling limited laboratory data with proximal sensed data obtained from EM. We interpreted the soil electrical conductivity by constructing a linear model between the apparent electrical conductivity data measured by an EM 38 device and the soil electrical conductivity (EC) of soil samples measured in laboratory. Then, soil electrical conductivity was converted to soil salt content (soil salinity g kg−1) through established linear regression model based on the laboratory data of soil salinity and soil EC. Semivariograms of regional soil salinity in the survey years were fitted and ordinary kriging interpolation was applied in interpolation and mapping of regional soil salinity. The cross-validation results showed that the prediction results were acceptable. The soil salinity distribution under different survey years was presented and the area of salt affected soil was calculated using geostatistics method. The results of spatial distribution of soil salinity showed that soil salinity near the riverbanks and coastlines was higher than that of inland. The spatial distribution of groundwater depth and salinity revealed that shallow groundwater and high groundwater salinity influenced the spatial distribution characteristics of soil salinity. Under long-term impoundment of the Three Gorges Reservoir, the variation of soil salinity in different hydrological years was analyzed. Results showed that the area affected by soil salinity gradually increased in different hydrological year types under the impoundment of the TGR.</jats:p>",
+   "DOI": "10.3390/rs13101875",
+   "page": "1875",
+   "is-referenced-by-count": 25,
+   "title": [
+    "Spatial and Temporal Variability of Soil Salinity in the Yangtze River Estuary Using Electromagnetic Induction"
+   ],
+   "volume": "13",
+   "author": [
+    {
+     "given": "Wenping",
+     "family": "Xie",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "State Key Laboratory of Soil and Sustainable Agriculture, Institute of Soil Science, Chinese Academy of Sciences (CAS), Nanjing 210008, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Jingsong",
+     "family": "Yang",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "State Key Laboratory of Soil and Sustainable Agriculture, Institute of Soil Science, Chinese Academy of Sciences (CAS), Nanjing 210008, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-6676-6760",
+     "authenticated-orcid": false,
+     "given": "Rongjiang",
+     "family": "Yao",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "State Key Laboratory of Soil and Sustainable Agriculture, Institute of Soil Science, Chinese Academy of Sciences (CAS), Nanjing 210008, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Xiangping",
+     "family": "Wang",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "State Key Laboratory of Soil and Sustainable Agriculture, Institute of Soil Science, Chinese Academy of Sciences (CAS), Nanjing 210008, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Remote Sensing"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2021,
+      5,
+      11
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "24",
+   "abstract": "<jats:p>Soil salinity is considered one of the biggest constraints to crop production, particularly in arid and semi-arid regions affected by recurrent and long periods of drought, where high salinity levels severely impact plant stress and consequently agricultural production. Climate change accelerates soil salinization, driven by factors such as soil conditions, land use/land cover changes, and water deficits, over extensive spatial and temporal scales. Continuous monitoring of areas at risk of salinization plays a critical role in supporting effective land management and enhancing agricultural production. For these purposes, this work aims to propose a spatiotemporal method for monitoring soil salinization using spectral indices derived from Earth observation data. The proposed approach was tested in the Zaghouan Region in northeastern Tunisia, a region where soils are characterized by alarming levels of salinization. To address this concern, remote sensing techniques were applied for the analysis of satellite imagery generated from Landsat 5, Landsat 8, and Landsat 9 missions. A comprehensive field survey complemented this approach, involving the collection of 229 geo-referenced soil samples. These samples were representative of distinct soil salinity classes, including non-saline, slightly saline, moderately saline, strongly saline, and very strongly saline soils. Soil salinity modeling using Landsat-8 OLI data revealed that the SI-5 index provided the most accurate predictions, with an R2 of 0.67 and an RMSE of 0.12 dS/m. By 2023, 42.3% of the study area was classified as strongly or very strongly saline, indicating a significant increase in salinity over time. This rise in salinity corresponds to notable land use and land cover (LULC) changes, as 55.9% of the study area experienced LULC shifts between 2000 and 2023. A decline in vegetation cover coincided with increasing salinity, showing an inverse relationship between these factors. Additionally, the results highlight the complex interplay among these variables demonstrating that soil salinity levels are significantly impacted by climate change indicators, with a negative correlation between precipitation and salinity (r = −0.85, p &lt; 0.001). Recognizing the interconnections between soil salinity, LULC changes, and climate variables is essential for developing comprehensive strategies, such as targeted irrigation practices and land suitability assessments. Earth observation and remote sensing play a critical role in enabling more sustainable and effective soil management in response to both human activities and climate-induced changes.</jats:p>",
+   "DOI": "10.3390/rs16244761",
+   "page": "4761",
+   "is-referenced-by-count": 16,
+   "title": [
+    "Soil Salinity Detection and Mapping by Multi-Temporal Landsat Data: Zaghouan Case Study (Tunisia)"
+   ],
+   "volume": "16",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-0009-2967",
+     "authenticated-orcid": false,
+     "given": "Karem",
+     "family": "Saad",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "National Engineering School of Sfax, University of Sfax, Sfax 3038, Tunisia"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0003-0167-0228",
+     "authenticated-orcid": false,
+     "given": "Amjad",
+     "family": "Kallel",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "National Engineering School of Sfax, University of Sfax, Sfax 3038, Tunisia"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-9160-1765",
+     "authenticated-orcid": false,
+     "given": "Fabio",
+     "family": "Castaldi",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Institute of BioEconomy, National Research Council of Italy (CNR), Via Giovanni Caproni 8, 50145 Firenze, Italy"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Thouraya",
+     "family": "Sahli Chahed",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "National Center for Mapping and Remote Sensing, Aouina 2045, Tunisia"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Remote Sensing"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2024,
+      12,
+      20
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "18",
+   "abstract": "<jats:p>Soil salinization has become one of the major environmental problems threatening food security. The identification and knowledge of the spatial distributions of soil salinization are key in addressing this problem. This study assumes that a good saline land identification effect can be obtained with the help of deep learning methods. Therefore, this study used the OLI sensor data from the Landsat-8, based on the U2-Network, and proposes a method to extract saline land from remote sensing images. The study also adds different salinity indices (SI, SI1, and SI2) to explore its impact on classification accuracy. Through our method, accurate saline soil distribution information were obtained, and several verification indicators (the Intersection-over-Union (IoU), recall, precision, and F1-score) were all measured above 0.8. In addition, compared with the multi-spectral training results, the classification accuracy increased after adding a specific salinity index, and most of the accuracy indices increased by about 2% (the IoU increased by 3.70%, recall increased by 1.50%, precision increased by 2.81%, and F1-score increased by 2.13%). In addition, we also included a case study based on our methodology to analyze the distribution characteristics and changes of saline soil in the Zhenlai area of Northeast China from 2016 to 2020. We found that the area of saline land in the Zhenlai area has reduced, which shows that the extraction method proposed in this study is feasible. Overall, this paper indicates that deep learning-based methods can efficiently extract the salinity of soil and enhance the mapping of its spatial distribution. The study has the broad impact of supplementing satellite imagery for salinity modeling and helping to guide agricultural land management practices for northeastern China and other salinized regions.</jats:p>",
+   "DOI": "10.3390/rs14184647",
+   "page": "4647",
+   "is-referenced-by-count": 15,
+   "title": [
+    "Extraction of Saline Soil Distributions Using Different Salinity Indices and Deep Neural Networks"
+   ],
+   "volume": "14",
+   "author": [
+    {
+     "given": "Qianyi",
+     "family": "Gu",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Key Laboratory of Geographical Processes and Ecological Security in Changbai Mountains, Ministry of Education, School of Geographical Sciences, Northeast Normal University, Changchun 130024, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-5552-7972",
+     "authenticated-orcid": false,
+     "given": "Yang",
+     "family": "Han",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Key Laboratory of Geographical Processes and Ecological Security in Changbai Mountains, Ministry of Education, School of Geographical Sciences, Northeast Normal University, Changchun 130024, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0003-1178-2776",
+     "authenticated-orcid": false,
+     "given": "Yaping",
+     "family": "Xu",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Plant Sciences, University of Tennessee, Knoxville, TN 37996, USA"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-6688-9031",
+     "authenticated-orcid": false,
+     "given": "Huitian",
+     "family": "Ge",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Key Laboratory of Geographical Processes and Ecological Security in Changbai Mountains, Ministry of Education, School of Geographical Sciences, Northeast Normal University, Changchun 130024, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0003-1796-5266",
+     "authenticated-orcid": false,
+     "given": "Xiaojie",
+     "family": "Li",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Northeast Institute of Geography and Agroecology, Chinese Academy of Sciences, Changchun 130102, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Remote Sensing"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2022,
+      9,
+      17
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "24",
+   "abstract": "<jats:p>Soil salinization, one of the most severe global land degradation problems, leads to the loss of arable land and declines in crop yields. Monitoring the distribution of salinized soil and degree of salinization is critical for management, remediation, and utilization of salinized soil; however, there is a lack of thorough assessment of various data sources including remote sensing and landscape characteristics for estimating soil salinity in arid and semi-arid areas. The overall goal of this study was to develop a framework for estimating soil salinity in diverse landscapes by fusing information from satellite images, landscape characteristics, and appropriate machine learning models. To explore the spatial distribution of soil salinity in southern Xinjiang, China, as a case study, we obtained 151 soil samples in a field campaign, which were analyzed in laboratory for soil electrical conductivity. A total of 35 indices including remote sensing classifiers (11), terrain attributes (3), vegetation spectral indices (8), and salinity spectral indices (13) were calculated or derived and correlated with soil salinity. Nine were used to model and estimate soil salinity using four predictive modelling approaches: partial least squares regression (PLSR), convolutional neural network (CNN), support vector machine (SVM) learning, and random forest (RF). Testing datasets were divided into vegetation-covered and bare soil samples and were used for accuracy assessment. The RF model was the best regression model in this study, with R2 = 0.75, and was most effective in revealing the spatial characteristics of salt distribution. Importance analysis and path modeling of independent variables indicated that environmental factors and soil salinity indices including digital elevation model (DEM), B10, and green atmospherically resistant vegetation index (GARI) showed the strongest contribution in soil salinity estimation. This showed a great promise in the measurement and monitoring of soil salinity in arid and semi-arid areas from the integration of remote sensing, landscape characteristics, and using machine learning model.</jats:p>",
+   "DOI": "10.3390/rs12244118",
+   "page": "4118",
+   "is-referenced-by-count": 115,
+   "title": [
+    "Integrating Remote Sensing and Landscape Characteristics to Estimate Soil Salinity Using Machine Learning Methods: A Case Study from Southern Xinjiang, China"
+   ],
+   "volume": "12",
+   "author": [
+    {
+     "given": "Nan",
+     "family": "Wang",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Institute of Agricultural Remote Sensing and Information Technology Application, College of Environmental and Resource Sciences, Zhejiang University, Hangzhou 310058, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-0340-5594",
+     "authenticated-orcid": false,
+     "given": "Jie",
+     "family": "Xue",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Institute of Agricultural Remote Sensing and Information Technology Application, College of Environmental and Resource Sciences, Zhejiang University, Hangzhou 310058, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Jie",
+     "family": "Peng",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "College of Plant Science, Tarim University, Alar 843300, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0003-0801-3546",
+     "authenticated-orcid": false,
+     "given": "Asim",
+     "family": "Biswas",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "School of Environmental Sciences, University of Guelph, Guelph, ON N1G2W1, Canada"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-6752-1757",
+     "authenticated-orcid": false,
+     "given": "Yong",
+     "family": "He",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "College of Biosystems Engineering and Food Science, Zhejiang University, Hangzhou 310058, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0003-3914-5402",
+     "authenticated-orcid": false,
+     "given": "Zhou",
+     "family": "Shi",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Institute of Agricultural Remote Sensing and Information Technology Application, College of Environmental and Resource Sciences, Zhejiang University, Hangzhou 310058, China"
+      },
+      {
+       "name": "Key Laboratory of Spectroscopy Sensing, Ministry of Agriculture, Hangzhou 310058, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Remote Sensing"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2020,
+      12,
+      16
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "15",
+   "abstract": "<jats:p>In response to the global ecological and agricultural challenges posed by coastal saline-alkali areas, this study focuses on Dongying City as a representative region, aiming to develop a high-precision soil salinity prediction mapping method that integrates multi-source remote sensing data with machine learning techniques. Utilizing the SCORPAN model framework, we systematically combined diverse remote sensing datasets and innovatively established nine distinct strategies for soil salinity prediction. We employed four machine learning models—Support Vector Regression (SVR), Random Forest (RF), Extreme Gradient Boosting (XGBoost), and Geographical Gaussian Process Regression (GGPR) for modeling, prediction, and accuracy comparison, with the objective of achieving high-precision salinity mapping under complex vegetation cover conditions. The results reveal that among the models evaluated across the nine strategies, the SVR model demonstrated the highest accuracy, followed by RF. Notably, under Strategy IX, the SVR model achieved the best predictive performance, with a coefficient of determination (R2) of 0.62 and a root mean square error (RMSE) of 0.38 g/kg. Analysis based on SHapley Additive exPlanations (SHAP) values and feature importance indicated that Vegetation Type Factors contributed significantly and consistently to the model’s performance, maintaining higher importance than traditional salinity indices and playing a dominant role. In summary, this research successfully developed a comprehensive, high-resolution soil salinity mapping framework for the Dongying region by integrating multi-source remote sensing data and employing diverse predictive strategies alongside machine learning models. The findings highlight the potential of Vegetation Type Factors to enhance large-scale soil salinity monitoring, providing robust scientific evidence and technical support for sustainable land resource management, agricultural optimization, ecological protection, efficient water resource utilization, and policy formulation.</jats:p>",
+   "DOI": "10.3390/rs17152619",
+   "page": "2619",
+   "is-referenced-by-count": 21,
+   "title": [
+    "Strategies for Soil Salinity Mapping Using Remote Sensing and Machine Learning in the Yellow River Delta"
+   ],
+   "volume": "17",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-4307-8364",
+     "authenticated-orcid": false,
+     "given": "Junyong",
+     "family": "Zhang",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Institute of Agricultural Information and Economics, Shandong Academy of Agricultural Sciences, Jinan 250100, China"
+      },
+      {
+       "name": "Technology Innovation for Comprehensive Utilization of Saline-Alkali Land, Dongying 257347, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Xianghe",
+     "family": "Ge",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "College of Geodesy and Geomatics, Shandong University of Science and Technology, Qingdao 266590, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Xuehui",
+     "family": "Hou",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Institute of Agricultural Information and Economics, Shandong Academy of Agricultural Sciences, Jinan 250100, China"
+      },
+      {
+       "name": "Technology Innovation for Comprehensive Utilization of Saline-Alkali Land, Dongying 257347, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Lijing",
+     "family": "Han",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "College of Geodesy and Geomatics, Shandong University of Science and Technology, Qingdao 266590, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Zhuoran",
+     "family": "Zhang",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Institute of Agricultural Information and Economics, Shandong Academy of Agricultural Sciences, Jinan 250100, China"
+      },
+      {
+       "name": "Technology Innovation for Comprehensive Utilization of Saline-Alkali Land, Dongying 257347, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0009-0003-2901-4350",
+     "authenticated-orcid": false,
+     "given": "Wenjie",
+     "family": "Feng",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Institute of Agricultural Information and Economics, Shandong Academy of Agricultural Sciences, Jinan 250100, China"
+      },
+      {
+       "name": "Technology Innovation for Comprehensive Utilization of Saline-Alkali Land, Dongying 257347, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Zihan",
+     "family": "Zhou",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Institute of Agricultural Information and Economics, Shandong Academy of Agricultural Sciences, Jinan 250100, China"
+      },
+      {
+       "name": "Technology Innovation for Comprehensive Utilization of Saline-Alkali Land, Dongying 257347, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Xiubin",
+     "family": "Luo",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Institute of Agricultural Information and Economics, Shandong Academy of Agricultural Sciences, Jinan 250100, China"
+      },
+      {
+       "name": "Technology Innovation for Comprehensive Utilization of Saline-Alkali Land, Dongying 257347, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Remote Sensing"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      7,
+      28
+     ]
+    ]
+   }
+  },
+  {
+   "DOI": "10.1109/jstars.2022.3223935",
+   "title": [
+    "Baseline-Based Soil Salinity Index (BSSI): A Novel Remote Sensing Monitoring Method of Soil Salinization"
+   ],
+   "container-title": [
+    "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2023
+     ]
+    ]
+   },
+   "author": [
+    {
+     "given": "Zhimei",
+     "family": "Zhang",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "College of Oceanography and Space Informatics, China University of Petroleum, Qingdao, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Yanguo",
+     "family": "Fan",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "College of Oceanography and Space Informatics, China University of Petroleum, Qingdao, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0003-2226-8908",
+     "authenticated-orcid": false,
+     "given": "Aizhu",
+     "family": "Zhang",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "College of Oceanography and Space Informatics, China University of Petroleum, Qingdao, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0003-0231-4604",
+     "authenticated-orcid": false,
+     "given": "Zhijun",
+     "family": "Jiao",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "School of Geosciences and Info-physics, Central South University, Changsha, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "is-referenced-by-count": 29,
+   "volume": "16",
+   "page": "202-214"
+  },
+  {
+   "DOI": "10.1109/tgrs.2022.3181586",
+   "title": [
+    "Soil Salinity Dynamics Impairs Radiometer-Based Soil Moisture Retrieval Over Global Cropland"
+   ],
+   "container-title": [
+    "IEEE Transactions on Geoscience and Remote Sensing"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2022
+     ]
+    ]
+   },
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0003-0099-1839",
+     "authenticated-orcid": false,
+     "given": "Xingwang",
+     "family": "Fan",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Key Laboratory of Watershed Geographic Sciences, Nanjing Institute of Geography and Limnology, Chinese Academy of Sciences, Nanjing, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-9867-035X",
+     "authenticated-orcid": false,
+     "given": "Xiaosong",
+     "family": "Zhao",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Key Laboratory of Watershed Geographic Sciences, Nanjing Institute of Geography and Limnology, Chinese Academy of Sciences, Nanjing, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-0835-7325",
+     "authenticated-orcid": false,
+     "given": "Yongwei",
+     "family": "Liu",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Key Laboratory of Watershed Geographic Sciences, Nanjing Institute of Geography and Limnology, Chinese Academy of Sciences, Nanjing, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Ruifang",
+     "family": "Guo",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "College of Geography Science, Inner Mongolia Normal University, Hohhot, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Yuanbo",
+     "family": "Liu",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Key Laboratory of Watershed Geographic Sciences, Nanjing Institute of Geography and Limnology, Chinese Academy of Sciences, Nanjing, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "is-referenced-by-count": 7,
+   "volume": "60",
+   "page": "1-9"
+  },
+  {
+   "issue": "14",
+   "abstract": "<jats:p>Salinization is a major soil degradation process threatening ecosystems and posing a great challenge to sustainable agriculture and food security worldwide. This study aimed to evaluate the potential of state-of-the-art machine learning algorithms in soil salinity (EC1:5) mapping. Further, we predicted the distribution patterns of soil salinity under different future scenarios in the Yellow River Delta. A geodatabase comprising 201 soil samples and 19 conditioning factors (containing data based on remote sensing images such as Landsat, SPOT/VEGETATION PROBA-V, SRTMDEMUTM, Sentinel-1, and Sentinel-2) was used to compare the predictive performance of empirical bayesian kriging regression, random forest, and CatBoost models. The CatBoost model exhibited the highest performance with both training and testing datasets, with an average MAE of 1.86, an average RMSE of 3.11, and an average R2 of 0.59 in the testing datasets. Among explanatory factors, soil Na was the most important for predicting EC1:5, followed by the normalized difference vegetation index and soil organic carbon. Soil EC1:5 predictions suggested that the Yellow River Delta region faces severe salinization, particularly in coastal zones. Among three scenarios with increases in soil organic carbon content (1, 2, and 3 g/kg), the 2 g/kg scenario resulted in the best improvement effect on saline–alkali soils with EC1:5 &gt; 2 ds/m. Our results provide valuable insights for policymakers to improve saline–alkali land quality and plan regional agricultural development.</jats:p>",
+   "DOI": "10.3390/rs16142681",
+   "page": "2681",
+   "is-referenced-by-count": 10,
+   "title": [
+    "Digital Mapping and Scenario Prediction of Soil Salinity in Coastal Lands Based on Multi-Source Data Combined with Machine Learning Algorithms"
+   ],
+   "volume": "16",
+   "author": [
+    {
+     "given": "Mengge",
+     "family": "Zhou",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Institute of Geographic Sciences and Natural Resources Research, Chinese Academy of Sciences, 11A Datun Road, Chaoyang District, Beijing 100101, China"
+      },
+      {
+       "name": "University of Chinese Academy of Sciences, Beijing 100049, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-2960-3054",
+     "authenticated-orcid": false,
+     "given": "Yonghua",
+     "family": "Li",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Institute of Geographic Sciences and Natural Resources Research, Chinese Academy of Sciences, 11A Datun Road, Chaoyang District, Beijing 100101, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Remote Sensing"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2024,
+      7,
+      22
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "1",
+   "DOI": "10.1080/22797254.2026.2671832",
+   "is-referenced-by-count": 0,
+   "title": [
+    "Eliminating the influence of moisture to enhance the accuracy of soil salinity estimation using hyperspectral remote sensing"
+   ],
+   "volume": "59",
+   "author": [
+    {
+     "given": "Nan",
+     "family": "Lin",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Modern Industry College, Jilin Jianzhu University",
+       "place": [
+        "Changchun, China"
+       ]
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Weiwei",
+     "family": "Ma",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "College of Surveying and Exploration Engineering, Jilin Jianzhu University",
+       "place": [
+        "Changchun, China"
+       ]
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Ranzhe",
+     "family": "Jiang",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "College of Biological and Agricultural Engineering, Jilin University",
+       "place": [
+        "Changchun, China"
+       ]
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Shaocong",
+     "family": "Peng",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "College of Surveying and Exploration Engineering, Jilin Jianzhu University",
+       "place": [
+        "Changchun, China"
+       ]
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Zhongshuai",
+     "family": "Zhang",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "College of Surveying and Exploration Engineering, Jilin Jianzhu University",
+       "place": [
+        "Changchun, China"
+       ]
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Menghong",
+     "family": "Wu",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "College of Surveying and Exploration Engineering, Jilin Jianzhu University",
+       "place": [
+        "Changchun, China"
+       ]
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "European Journal of Remote Sensing"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      5,
+      20
+     ]
+    ]
+   },
+   "article-number": "2671832"
+  },
+  {
+   "DOI": "10.1109/tgrs.2026.3674510",
+   "title": [
+    "Enhancing Soil Salinity Mapping in Cropland by Integrating Agronomic Features With Remote Sensing"
+   ],
+   "container-title": [
+    "IEEE Transactions on Geoscience and Remote Sensing"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026
+     ]
+    ]
+   },
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-9617-4544",
+     "authenticated-orcid": false,
+     "given": "Caiyun",
+     "family": "Wen",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Institute of Agricultural Resources and Regional Planning, Chinese Academy of Agricultural Sciences",
+       "place": [
+        "Beijing, China"
+       ]
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-1601-2028",
+     "authenticated-orcid": false,
+     "given": "Miao",
+     "family": "Lu",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Institute of Agricultural Resources and Regional Planning, Chinese Academy of Agricultural Sciences",
+       "place": [
+        "Beijing, China"
+       ]
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Yingqiang",
+     "family": "Song",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Shandong University of Technology",
+       "place": [
+        "Zibo, Shandong, China"
+       ]
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Mingli",
+     "family": "Li",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Institute of Agricultural Resources and Regional Planning, Chinese Academy of Agricultural Sciences",
+       "place": [
+        "Beijing, China"
+       ]
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Yun",
+     "family": "Shi",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Institute of Agricultural Resources and Regional Planning, Chinese Academy of Agricultural Sciences",
+       "place": [
+        "Beijing, China"
+       ]
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0009-0006-7273-0741",
+     "authenticated-orcid": false,
+     "given": "Wenbin",
+     "family": "Wu",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Institute of Agricultural Resources and Regional Planning, Chinese Academy of Agricultural Sciences",
+       "place": [
+        "Beijing, China"
+       ]
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "is-referenced-by-count": 0,
+   "volume": "64",
+   "page": "4416212-4416212"
+  },
+  {
+   "DOI": "10.47176/dlsr.01.02.1033",
+   "title": [
+    "Integration of Remote and Proximal Sensing Techniques for Soil Salinity Assessment of Pistachio Orchards"
+   ],
+   "container-title": [
+    "Dry Land Soil Research"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      3,
+      1
+     ]
+    ]
+   },
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-7901-1161",
+     "authenticated-orcid": false,
+     "given": "Yousef",
+     "family": "Hasheminejhad",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Khorasan Razavi Agricultural and Natural Resources Research and Education Center, Agricultural Research, Education and Extension Organization (AREEO), Mashhad, Iran"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-7967-8495",
+     "authenticated-orcid": false,
+     "given": "Hossein",
+     "family": "Beyrami",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "National Salinity Research Center, Agricultural Research, Education and Extension Organization (AREEO), Yazd, Iran"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "is-referenced-by-count": 0,
+   "volume": "1",
+   "issue": "2"
+  },
+  {
+   "issue": "16",
+   "abstract": "<jats:p>Soil salinization is a significant factor affecting corn growth in coastal areas. How to use multi-source remote sensing data to achieve the target of rapid, efficient and accurate soil salinity monitoring in a large area is worth further study. In this research, using Kenli District of the Yellow River Delta as study area, the inversion of soil salinity in a corn planting area was carried out based on the integration of ground imaging hyperspectral, unmanned aerial vehicles (UAV) multispectral and Sentinel-2A satellite multispectral images. The UAV and ground images were fused, and the partial least squares inversion model was constructed by the fused UAV image. Then, inversion model was scaled up to the satellite by the TsHARP method, and finally, the accuracy of the satellite-UAV-ground inversion model and results was verified. The results show that the band fusion of UAV and ground images effectively enrich the spectral information of the UAV image. The accuracy of the inversion model constructed based on the fused UAV images was improved. The inversion results of soil salinity based on the integration of satellite-UAV-ground were highly consistent with the measured soil salinity (R2 = 0.716 and RMSE = 0.727), and the inversion model had excellent universal applicability. This research integrated the advantages of multi-source data to establish a unified satellite-UAV-ground model, which improved the ability of large-scale remote sensing data to finely indicate soil salinity.</jats:p>",
+   "DOI": "10.3390/rs13163100",
+   "page": "3100",
+   "is-referenced-by-count": 48,
+   "title": [
+    "Soil Salinity Inversion in Coastal Corn Planting Areas by the Satellite-UAV-Ground Integration Approach"
+   ],
+   "volume": "13",
+   "author": [
+    {
+     "given": "Guanghui",
+     "family": "Qi",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "College of Information Science and Engineering, Shandong Agricultural University, Tai’an 271018, China"
+      },
+      {
+       "name": "National Engineering Laboratory for Efficient Utilization of Soil and Fertilizer Resources, College of Resources and Environment, Shandong Agricultural University, Tai’an 271018, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Chunyan",
+     "family": "Chang",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "National Engineering Laboratory for Efficient Utilization of Soil and Fertilizer Resources, College of Resources and Environment, Shandong Agricultural University, Tai’an 271018, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Wei",
+     "family": "Yang",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "The Key Laboratory for Quality Improvement of Agricultural Products of Zhejiang Province, College of Advanced Agricultural Sciences, Zhejiang A&F University, Lin’an, Hangzhou 311300, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Peng",
+     "family": "Gao",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "National Engineering Laboratory for Efficient Utilization of Soil and Fertilizer Resources, College of Resources and Environment, Shandong Agricultural University, Tai’an 271018, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Gengxing",
+     "family": "Zhao",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "National Engineering Laboratory for Efficient Utilization of Soil and Fertilizer Resources, College of Resources and Environment, Shandong Agricultural University, Tai’an 271018, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Remote Sensing"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2021,
+      8,
+      5
+     ]
+    ]
+   }
+  },
+  {
+   "DOI": "10.1109/tgrs.2022.3227647",
+   "title": [
+    "Impact of Soil Salinity on Soil Dielectric Constant and Soil Moisture Retrieval From Active Microwave Remote Sensing"
+   ],
+   "container-title": [
+    "IEEE Transactions on Geoscience and Remote Sensing"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2022
+     ]
+    ]
+   },
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0001-5524-2718",
+     "authenticated-orcid": false,
+     "given": "Liang",
+     "family": "Gao",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "College of Resources and Environment, University of the Chinese Academy of Sciences, Beijing, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Xiao-Ning",
+     "family": "Song",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "College of Resources and Environment and the Yanshan Earth Critical Zone and Surface Fluxes Research Station, University of Chinese Academy of Sciences, Beijing, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-9130-5437",
+     "authenticated-orcid": false,
+     "given": "Pei",
+     "family": "Leng",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Key Laboratory of Agricultural Remote Sensing, Ministry of Agriculture and Rural Affairs/Institute of Agricultural Resources and Regional Planning, Chinese Academy of Agricultural Sciences, Beijing, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Jian-Wei",
+     "family": "Ma",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "China Institute of Water Resources and Hydropower Research, Beijing, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Xin-Ming",
+     "family": "Zhu",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "College of Resources and Environment, University of the Chinese Academy of Sciences, Beijing, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-8041-2483",
+     "authenticated-orcid": false,
+     "given": "Rong-Hai",
+     "family": "Hu",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "College of Resources and Environment and the Yanshan Earth Critical Zone and Surface Fluxes Research Station, University of Chinese Academy of Sciences, Beijing, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Yan-Fen",
+     "family": "Wang",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "College of Resources and Environment, University of the Chinese Academy of Sciences, Beijing, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Ya-Nan",
+     "family": "Zhang",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "College of Resources and Environment, University of the Chinese Academy of Sciences, Beijing, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "De-Wei",
+     "family": "Yin",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "College of Resources and Environment, University of the Chinese Academy of Sciences, Beijing, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "is-referenced-by-count": 8,
+   "volume": "60",
+   "page": "1-12"
+  },
+  {
+   "issue": "18",
+   "abstract": "<jats:p>Measuring the soil salinity using visible and near-infrared (vis–NIR) reflectance spectra is considered a fast and cost-effective method. For monitoring purposes, estimating soils with low salinity measured as electrical conductivity (EC) using vis–NIR spectra is still understudied. In this research, 399 legacy soil samples from six regions of Southern Xinjiang, China with low EC values were used. Reflectance spectra were measured in the laboratory on dried and ground soil samples using a portable vis–NIR spectrometer. By using 10-fold cross-validation, three algorithms–partial least-squares regression (PLSR), random forest (RF), and Cubist–were employed to develop statistical models of EC. The model performance evaluation was obtained by the relative importance of variants. In terms of accuracy assessment of soil EC prediction, the results demonstrated that the Cubist model performed better (R2 = 0.67, RMSE = 0.16 mS/cm, RPIQ = 2.28) than both PLSR and RF. Despite similar variants for modelling, the RF model performed somewhat better than that of the PLSR. Additionally, the 610 nm and 790 nm wavelengths only demonstrated significant promise for predicting low soil EC values when used in the Cubist mode. The current research recommends the use of Cubist to estimate the low soil salinity using the vis–NIR reflectance spectra.</jats:p>",
+   "DOI": "10.3390/rs14184448",
+   "page": "4448",
+   "is-referenced-by-count": 9,
+   "title": [
+    "Proximal Soil Sensing of Low Salinity in Southern Xinjiang, China"
+   ],
+   "volume": "14",
+   "author": [
+    {
+     "given": "Jie",
+     "family": "Peng",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "College of Agriculture, Tarim University, Alar 843300, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-8675-4070",
+     "authenticated-orcid": false,
+     "given": "Shuo",
+     "family": "Li",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Key Laboratory for Geographical Process Analysis & Simulation of Hubei Province, College of Urban & Environmental Sciences, Central China Normal University, Wuhan 430079, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-1445-0075",
+     "authenticated-orcid": false,
+     "given": "Randa S.",
+     "family": "Makar",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Soils & Water Use Department, Agricultural & Biological Research Institute, National Research Centre, Cairo 12622, Egypt"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0003-2609-5805",
+     "authenticated-orcid": false,
+     "given": "Hongyi",
+     "family": "Li",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Land Resource Management, School of Tourism and Urban Management, Jiangxi University of Finance and Economics, Nanchang 330000, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-9969-1934",
+     "authenticated-orcid": false,
+     "given": "Chunhui",
+     "family": "Feng",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "College of Agriculture, Tarim University, Alar 843300, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Defang",
+     "family": "Luo",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "College of Agriculture, Tarim University, Alar 843300, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Jiali",
+     "family": "Shen",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Key Laboratory for Geographical Process Analysis & Simulation of Hubei Province, College of Urban & Environmental Sciences, Central China Normal University, Wuhan 430079, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Ying",
+     "family": "Wang",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Key Laboratory for Geographical Process Analysis & Simulation of Hubei Province, College of Urban & Environmental Sciences, Central China Normal University, Wuhan 430079, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Qingsong",
+     "family": "Jiang",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "College of Agriculture, Tarim University, Alar 843300, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Linchuan",
+     "family": "Fang",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Key Laboratory for Geographical Process Analysis & Simulation of Hubei Province, College of Urban & Environmental Sciences, Central China Normal University, Wuhan 430079, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Remote Sensing"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2022,
+      9,
+      6
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "2",
+   "abstract": "<jats:p>To mitigate instantaneously evolving biases in satellite retrievals, a stochastic approach is applied over West Africa. This stochastic approach independently self-corrects Soil Moisture Ocean Salinity (&lt;small&gt;SMOS&lt;/small&gt;) wet biases, unlike the cumulative density function\n (&lt;small&gt;CDF&lt;/small&gt;) matching that rescales satellite retrievals with respect to several years of reference data. Ranked probability skill score (&lt;small&gt;RPSS&lt;/small&gt;) is used as nonlocal root-mean-square errors (&lt;small&gt;RMSEs&lt;/small&gt;) to assess stochastic\n retrievals. Stochastic method successfully decreases &lt;small&gt;RMSEs&lt;/small&gt; from 0.146 m<jats:sup>3</jats:sup>/m<jats:sup>3</jats:sup> to 0.056 m<jats:sup>3</jats:sup>/m<jats:sup>3</jats:sup> in the Republic of Benin and from 0.080 m<jats:sup>3</jats:sup>/m<jats:sup>3</jats:sup> to 0.038 m<jats:sup>3</jats:sup>/m<jats:sup>3</jats:sup> in Niger, while the &lt;small&gt;CDF&lt;/small&gt;\n matching method exacerbates the original &lt;small&gt;SMOS&lt;/small&gt; biases up to 0.141 m<jats:sup>3</jats:sup>/m<jats:sup>3</jats:sup> in Niger, and 0.120 m<jats:sup>3</jats:sup>/m<jats:sup>3</jats:sup> in Benin. Unlike the &lt;small&gt;CDF&lt;/small&gt; matching or European Centre for Medium-Range Weather Forecasts (&lt;small&gt;ECMWF&lt;/small&gt;)\n Re-Analysis (&lt;small&gt;ERA&lt;/small&gt;))–interim soil moisture, only a stochastic retrieval responds to Tropical Rainfall Measuring Mission rainfall. Based on the effects of bias correction, RPSS is suggested as a nonlocal verification without needing local measurements.</jats:p>",
+   "DOI": "10.14358/pers.86.2.91",
+   "page": "91-98",
+   "is-referenced-by-count": 3,
+   "title": [
+    "Using Ranked Probability Skill Score (RPSS) as Nonlocal Root-Mean-Square Errors (RMSEs) for Mitigating Wet Bias of Soil Moisture Ocean Salinity (SMOS) Soil Moisture"
+   ],
+   "volume": "86",
+   "author": [
+    {
+     "given": "Ju Hyoung",
+     "family": "Lee",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Photogrammetric Engineering &amp; Remote Sensing"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2020,
+      2,
+      1
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "20",
+   "abstract": "<jats:p>Soil salinity is a crucial parameter affecting soil health. Excessive surface salt accumulation degrades soil structure, inhibits vegetation growth, and diminishes plant diversity. Such increases in salinity can accelerate desertification, leading to soil resource loss, hampering agricultural progress, and compromising ecological security. However, the vastness of arid regions and data acquisition challenges often hinder efficient SSC monitoring and modeling. In this study, we leveraged remote sensing data coupled with machine learning techniques to investigate the spatio-temporal dynamics of SSC in a representative desert natural forest area, the Alxa National Public Welfare Forest. Utilizing the geodetector model, we also delved into the factors influencing SSC. Our results underscored the effectiveness of the Convolutional Neural Networks (CNN) model in predicting SSC, achieving an accuracy of 0.745. Based on this model, we mapped the spatial distribution of SSC, revealing hydrothermal conditions as pivotal determinants of salt accumulation. From 2016 to 2021, soils impacted by salinity in the research area exhibited a rising trend, attributed to the prevailing dry climate and low precipitation. Such intensified salinity accumulation poses threats to the healthy growth of protective forest vegetation. This study can provide a theoretical reference for salinization management and ecological protection in desert natural forest areas.</jats:p>",
+   "DOI": "10.3390/rs15205054",
+   "page": "5054",
+   "is-referenced-by-count": 12,
+   "title": [
+    "Spatio-Temporal Variation in Soil Salinity and Its Influencing Factors in Desert Natural Protected Forest Areas"
+   ],
+   "volume": "15",
+   "author": [
+    {
+     "given": "Xinyue",
+     "family": "Zhao",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "CAS Key Laboratory of Eco-Hydrology of Inland River Basin/Alxa Desert Eco-Hydrology Experimental Research Station, Northwest Institute of Eco-Environment and Resources, Chinese Academy of Sciences, Lanzhou 730000, China"
+      },
+      {
+       "name": "University of Chinese Academy of Sciences, Beijing 100049, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Haiyang",
+     "family": "Xi",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "CAS Key Laboratory of Eco-Hydrology of Inland River Basin/Alxa Desert Eco-Hydrology Experimental Research Station, Northwest Institute of Eco-Environment and Resources, Chinese Academy of Sciences, Lanzhou 730000, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-9725-8125",
+     "authenticated-orcid": false,
+     "given": "Tengfei",
+     "family": "Yu",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "CAS Key Laboratory of Eco-Hydrology of Inland River Basin/Alxa Desert Eco-Hydrology Experimental Research Station, Northwest Institute of Eco-Environment and Resources, Chinese Academy of Sciences, Lanzhou 730000, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-1822-5668",
+     "authenticated-orcid": false,
+     "given": "Wenju",
+     "family": "Cheng",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "CAS Key Laboratory of Eco-Hydrology of Inland River Basin/Alxa Desert Eco-Hydrology Experimental Research Station, Northwest Institute of Eco-Environment and Resources, Chinese Academy of Sciences, Lanzhou 730000, China"
+      },
+      {
+       "name": "University of Chinese Academy of Sciences, Beijing 100049, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Yuqing",
+     "family": "Chen",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "CAS Key Laboratory of Eco-Hydrology of Inland River Basin/Alxa Desert Eco-Hydrology Experimental Research Station, Northwest Institute of Eco-Environment and Resources, Chinese Academy of Sciences, Lanzhou 730000, China"
+      },
+      {
+       "name": "University of Chinese Academy of Sciences, Beijing 100049, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Remote Sensing"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      10,
+      21
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "23",
+   "abstract": "<jats:p>Soil salinization is a severe danger to agricultural activity in arid and semi-arid areas, reducing crop production and contributing to land destruction. This investigation aimed to utilize machine learning algorithms to predict spatial soil salinity (dS m−1) by combining environmental covariates derived from remotely sensed (RS) data, a digital elevation model (DEM), and proximal sensing (PS). The study is located in an arid region, southern Iran (52°51′–53°02′E; 28°16′–28°29′N), in which we collected 300 surface soil samples and acquired the spectral data with RS (Sentinel-2) and PS (electromagnetic induction instrument (EMI) and portable X-ray fluorescence (pXRF)). Afterward, we analyzed the data using five machine learning methods as follows: random forest—RF, k-nearest neighbors—kNN, support vector machines—SVM, partial least squares regression—PLSR, artificial neural networks—ANN, and the ensemble of individual models. To estimate the electrical conductivity of the saturated paste extract (ECe), we built three scenarios, including Scenario (1): Synthetic Soil Image (SySI) bands and salinity indices derived from it; Scenario (2): RS data, PS data, topographic attributes, and geology and geomorphology maps; and Scenario (3): the combination of Scenarios (1) and (2). The best prediction accuracy was obtained for the RF model in Scenario (3) (R2 = 0.48 and RMSE = 2.49), followed by Scenario (2) (RF model, R2 = 0.47 and RMSE = 2.50) and Scenario (1) for the SVM model (R2 = 0.26 and RMSE = 2.97). According to ensemble modeling, a combined strategy with the five models exceeded the performance of all the single ones and predicted soil salinity in all scenarios. The results revealed that the ensemble modeling method had higher reliability and more accurate predictive soil salinity than the individual approach. Relative improvement (RI%) showed that the R2 index in the ensemble model improved compared to the most precise prediction for the Scenarios (1), (2), and (3) with 120.95%, 56.82%, and 66.71%, respectively. We applied the best model in each scenario for mapping the soil salinity in the selected area, which indicated that ECe tended to increase from the northwestern to south and southeastern regions. The area with high ECe was located in the regions that mainly had low elevations and playa. The areas with low ECe were located in the higher elevations with steeper slopes and alluvial fans, and thus, relief had great importance. This study provides a precise, cost-effective, and scientific base prediction for decision-making purposes to map soil salinity in arid regions.</jats:p>",
+   "DOI": "10.3390/rs13234825",
+   "page": "4825",
+   "is-referenced-by-count": 64,
+   "title": [
+    "Ground Observations and Environmental Covariates Integration for Mapping of Soil Salinity: A Machine Learning-Based Approach"
+   ],
+   "volume": "13",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0003-3390-9918",
+     "authenticated-orcid": false,
+     "given": "Salman",
+     "family": "Naimi",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Department of Soil Science, College of Agriculture, Isfahan University of Technology, Isfahan 841156-83111, Iran"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-4455-3139",
+     "authenticated-orcid": false,
+     "given": "Shamsollah",
+     "family": "Ayoubi",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Soil Science, College of Agriculture, Isfahan University of Technology, Isfahan 841156-83111, Iran"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-7209-0744",
+     "authenticated-orcid": false,
+     "given": "Mojtaba",
+     "family": "Zeraatpisheh",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Henan Key Laboratory of Earth System Observation and Modeling, Henan University, Kaifeng 475004, China"
+      },
+      {
+       "name": "College of Geography and Environmental Science, Henan University, Kaifeng 475004, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-5328-0323",
+     "authenticated-orcid": false,
+     "given": "Jose Alexandre Melo",
+     "family": "Dematte",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Soil Science, Luiz de Queiroz College of Agriculture, Av. Pádua Dias, 11, Piracicaba 13418-900, SP, Brazil"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Remote Sensing"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2021,
+      11,
+      27
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "1",
+   "DOI": "10.1080/15481603.2025.2611457",
+   "is-referenced-by-count": 4,
+   "title": [
+    "Reduction in soil salinity enhances soil organic carbon stock in the Yellow River Delta"
+   ],
+   "volume": "63",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0001-7886-0172",
+     "authenticated-orcid": false,
+     "given": "Bin",
+     "family": "Guo",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "College of Geodesy and Geomatics, Shandong University of Science and Technology",
+       "place": [
+        "Qingdao, People's Republic of China"
+       ]
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Yaxuan",
+     "family": "Ji",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "College of Geodesy and Geomatics, Shandong University of Science and Technology",
+       "place": [
+        "Qingdao, People's Republic of China"
+       ]
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0009-0001-8336-4816",
+     "authenticated-orcid": false,
+     "given": "Maolin",
+     "family": "Yang",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "College of Geodesy and Geomatics, Shandong University of Science and Technology",
+       "place": [
+        "Qingdao, People's Republic of China"
+       ]
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0009-0003-2034-3051",
+     "authenticated-orcid": false,
+     "given": "Haohao",
+     "family": "Liu",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "College of Geodesy and Geomatics, Shandong University of Science and Technology",
+       "place": [
+        "Qingdao, People's Republic of China"
+       ]
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Yujie",
+     "family": "Huo",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Zhongke-Dongying Research Center of Molecular Designed Breeding",
+       "place": [
+        "Dongying, People's Republic of China"
+       ]
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Kankan",
+     "family": "Li",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Bincheng District Bureau of Agriculture and Rural Affairs",
+       "place": [
+        "Binzhou, People's Republic of China"
+       ]
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Jianlin",
+     "family": "Wang",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Institute of Genetics and Developmental Biology, Chinese Academy of Science",
+       "place": [
+        "Beijing, People's Republic of China"
+       ]
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "GIScience &amp; Remote Sensing"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      1,
+      6
+     ]
+    ]
+   },
+   "article-number": "2611457"
+  },
+  {
+   "issue": "21",
+   "abstract": "<jats:p>Soil salinization is one of the major degradation processes threatening food security and sustainable development. Detailed soil salinity information is increasingly needed to tackle this global challenge for improving soil management. Soil-visible and near-infrared (Vis-NIR) spectroscopy has been proven to be a potential solution for estimating soil-salinity-related information (i.e., electrical conductivity, EC) rapidly and cost-effectively. However, previous studies were mainly conducted at the field, regional, or national scale, so the potential application of Vis-NIR spectroscopy at a global scale needs further investigation. Based on an extensive open global soil spectral library (61,486 samples with both EC and Vis-NIR spectra), we compared four spectral predictive models (PLSR, Cubist, Random Forests, and XGBoost) in estimating EC. Our results indicated that XGBoost had the best model performance (R2 of 0.59, RMSE of 1.96 dS m−1) in predicting EC at a global scale, whereas PLSR had a relatively limited ability (R2 of 0.39, RMSE of 2.41 dS m−1). The results also showed that auxiliary environmental covariates (i.e., coordinates, elevation, climatic variables) could greatly improve EC prediction accuracy by the four models, and the XGBoost performed best (R2 of 0.71, RMSE of 1.65 dS m−1). The outcomes of this study provide a valuable reference for improving broad-scale soil salinity prediction by the coupling of the spectroscopic technique and easily obtainable environmental covariates.</jats:p>",
+   "DOI": "10.3390/rs14215627",
+   "page": "5627",
+   "is-referenced-by-count": 45,
+   "title": [
+    "Global Soil Salinity Prediction by Open Soil Vis-NIR Spectral Library"
+   ],
+   "volume": "14",
+   "author": [
+    {
+     "given": "Yin",
+     "family": "Zhou",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Institute of Land and Urban-Rural Development, Zhejiang University of Finance and Economics, Hangzhou 310018, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0003-1245-0482",
+     "authenticated-orcid": false,
+     "given": "Songchao",
+     "family": "Chen",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Institute of Agricultural Remote Sensing and Information Technology Application, College of Environmental and Resource Sciences, Zhejiang University, Hangzhou 310058, China"
+      },
+      {
+       "name": "ZJU-Hangzhou Global Scientific and Technological Innovation Center, Hangzhou 311200, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-9353-0307",
+     "authenticated-orcid": false,
+     "given": "Bifeng",
+     "family": "Hu",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Land Resource Management, School of Tourism and Urban Management, Jiangxi University of Finance and Economics, Nanchang 330013, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0003-4996-3177",
+     "authenticated-orcid": false,
+     "given": "Wenjun",
+     "family": "Ji",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "College of Land Science and Technology, China Agricultural University, Beijing 100193, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-8675-4070",
+     "authenticated-orcid": false,
+     "given": "Shuo",
+     "family": "Li",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Key Laboratory for Geographical Process Analysis & Simulation, Central China Normal University, Wuhan 430079, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Yongsheng",
+     "family": "Hong",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Institute of Agricultural Remote Sensing and Information Technology Application, College of Environmental and Resource Sciences, Zhejiang University, Hangzhou 310058, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Hanyi",
+     "family": "Xu",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Institute of Agricultural Remote Sensing and Information Technology Application, College of Environmental and Resource Sciences, Zhejiang University, Hangzhou 310058, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Nan",
+     "family": "Wang",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Institute of Agricultural Remote Sensing and Information Technology Application, College of Environmental and Resource Sciences, Zhejiang University, Hangzhou 310058, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-0340-5594",
+     "authenticated-orcid": false,
+     "given": "Jie",
+     "family": "Xue",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Institute of Agricultural Remote Sensing and Information Technology Application, College of Environmental and Resource Sciences, Zhejiang University, Hangzhou 310058, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0003-0792-4700",
+     "authenticated-orcid": false,
+     "given": "Xianglin",
+     "family": "Zhang",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Institute of Agricultural Remote Sensing and Information Technology Application, College of Environmental and Resource Sciences, Zhejiang University, Hangzhou 310058, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Yi",
+     "family": "Xiao",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Institute of Agricultural Remote Sensing and Information Technology Application, College of Environmental and Resource Sciences, Zhejiang University, Hangzhou 310058, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0003-3914-5402",
+     "authenticated-orcid": false,
+     "given": "Zhou",
+     "family": "Shi",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Institute of Agricultural Remote Sensing and Information Technology Application, College of Environmental and Resource Sciences, Zhejiang University, Hangzhou 310058, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Remote Sensing"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2022,
+      11,
+      7
+     ]
+    ]
+   }
+  },
+  {
+   "DOI": "10.1109/tgrs.2021.3109819",
+   "title": [
+    "A Global Meta-Analysis of Soil Salinity Prediction Integrating Satellite Remote Sensing, Soil Sampling, and Machine Learning"
+   ],
+   "container-title": [
+    "IEEE Transactions on Geoscience and Remote Sensing"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2022
+     ]
+    ]
+   },
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-6105-4737",
+     "authenticated-orcid": false,
+     "given": "Haiyang",
+     "family": "Shi",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-2871-9266",
+     "authenticated-orcid": false,
+     "given": "Olaf",
+     "family": "Hellwich",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0003-0553-9454",
+     "authenticated-orcid": false,
+     "given": "Geping",
+     "family": "Luo",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Chunbo",
+     "family": "Chen",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Huili",
+     "family": "He",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-6661-0966",
+     "authenticated-orcid": false,
+     "given": "Friday Uchenna",
+     "family": "Ochege",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-9324-5087",
+     "authenticated-orcid": false,
+     "given": "Tim",
+     "family": "Van de Voorde",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-9387-8127",
+     "authenticated-orcid": false,
+     "given": "Alishir",
+     "family": "Kurban",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Philippe de",
+     "family": "Maeyer",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "is-referenced-by-count": 27,
+   "volume": "60",
+   "page": "1-15"
+  },
+  {
+   "issue": "7",
+   "abstract": "<jats:p>The prevention of soil salinization and managing agricultural irrigation depend greatly on accurately estimating soil salinity. Although the long-standing laboratory method of measuring salinity composition is accurate for determining soil salinity parameters, its use is frequently constrained by the high expense and difficulty of long-term in situ measurement. Soil salinity in the northern Nile Delta of Egypt severely affects agriculture sustainability and food security in Egypt. Understanding the spatial distribution of soil salinity is a critical factor for agricultural development and management in drylands. This research aims to improve soil salinity prediction by using a combined data collection method consisting of Sentinel-1 C radar data and Sentinel-2 optical data acquired simultaneously via integrated radar and optical sensor variables. The modelling approach focuses on feature selection strategies and regression learning. Feature selection approaches that include the filter, wrapper, and embedded methods were used with 47 selected variables depending on a genetic algorithm to scrutinize whether regions of the spectrum from optical indices and SAR texture choose the optimum combinations of selected variables. The sub-setting variables resulting from each feature selection method were used to train the regression learners’ random forest (RF), linear regression (LR), backpropagation neural network (BPNN), and support vector regression (SVR). Combining the BPNN feature selection method with the RF regression learner better predicted soil salinity (RME 0.000246; sub-setting variables = 18). Integrating different remote sensing data and machine learning provides an opportunity to develop a robust prediction approach to predict soil salinity in drylands. This research evaluated the performances of various machine learning models, overcame the limitations of conventional techniques, and optimized the variable input combinations. This research can assist farmers in soil-salinization-affected areas in better managing planting procedures and enhancing the sustainability of their lands.</jats:p>",
+   "DOI": "10.3390/rs15071751",
+   "page": "1751",
+   "is-referenced-by-count": 116,
+   "title": [
+    "Integrating Active and Passive Remote Sensing Data for Mapping Soil Salinity Using Machine Learning and Feature Selection Approaches in Arid Regions"
+   ],
+   "volume": "15",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0003-2654-1465",
+     "authenticated-orcid": false,
+     "given": "Sayed A.",
+     "family": "Mohamed",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Data Reception, Analysis, and Receiving Station Affairs Division, National Authority for Remote Sensing and Space Sciences, Cairo 11769, Egypt"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-1972-002X",
+     "authenticated-orcid": false,
+     "given": "Mohamed M.",
+     "family": "Metwaly",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Data Reception, Analysis, and Receiving Station Affairs Division, National Authority for Remote Sensing and Space Sciences, Cairo 11769, Egypt"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Mohamed R.",
+     "family": "Metwalli",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Data Reception, Analysis, and Receiving Station Affairs Division, National Authority for Remote Sensing and Space Sciences, Cairo 11769, Egypt"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-8639-591X",
+     "authenticated-orcid": false,
+     "given": "Mohamed A. E.",
+     "family": "AbdelRahman",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Land Use Department, Division of Environmental Studies and Land Use, National Authority for Remote Sensing and Space Sciences (NARSS), Cairo 11769, Egypt"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0003-2539-6972",
+     "authenticated-orcid": false,
+     "given": "Nasem",
+     "family": "Badreldin",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Soil Science, Faculty of Agricultural and Food Science, University of Manitoba, 13 Freedman Crescent, Winnipeg, MB R3T 2N2, Canada"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Remote Sensing"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      3,
+      24
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "17",
+   "abstract": "<jats:p>This paper examines the climate change impact on the spatiotemporal soil salinity dynamics during the last 30 years (1987–2017) in the arid landscape. The state of Kuwait, located at the northwest Arabian Peninsula, was selected as a pilot study area. To achieve this, a Landsat- Operational Land Imager (OLI) image acquired thereabouts simultaneously to a field survey was preprocessed and processed to derive a soil salinity map using a previously developed semi-empirical predictive model (SEPM). During the field survey, 100 geo-referenced soil samples were collected representing different soil salinity classes (non-saline, low, moderate, high, very high and extreme salinity). The laboratory analysis of soil samples was accomplished to measure the electrical conductivity (EC-Lab) to validate the selected and used SEPM. The results are statistically analyzed (p ˂ 0.05) to determine whether the differences are significant between the predicted salinity (EC-Predicted) and the measured ground truth (EC-Lab). Subsequently, the Landsat serial time’s datasets acquired over the study area with the Thematic Mapper (TM), Enhanced Thematic Mapper Plus (ETM+) and OLI sensors during the last three decades over the intervals (1987, 1992, 1998, 2000, 2002, 2006, 2009, 2013, 2016 and 2017) were radiometrically calibrated. Likewise, the datasets were atmospherically and spectrally normalized by applying a semi-empirical line approach (SELA) based on the pseudo-invariant targets. Afterwards, a series of soil salinity maps were derived through the application of the SEPM on the images sequence. The trend of salinity changes was statistically tested according to climatic variables (temperatures and precipitations). The results revealed that the EC-Predicted validation display a best fits in comparison to the EC-Lab by indicating a good index of agreement (D = 0.84), an excellent correlation coefficient (R2 = 0.97) and low overall root mean square error (RMSE) (13%). This also demonstrates the validity of SEPM to be applicable to the other images acquired multi-temporally. For cross-calibration among the Landsat serial time’s datasets, the SELA performed significantly with an RMSE ≤ ± 5% between all homologous spectral reflectances bands of the considered sensors. This accuracy is considered suitable and fits well the calibration standards of TM, ETM+ and OLI sensors for multi-temporal studies. Moreover, remarkable changes of soil salinity were observed in response to changes in climate that have warmed by more than 1.1 °C with a drastic decrease in precipitations during the last 30 years over the study area. Thus, salinized soils have expanded continuously in space and time and significantly correlated to precipitation rates (R2 = 0.73 and D = 0.85).</jats:p>",
+   "DOI": "10.3390/rs12172794",
+   "page": "2794",
+   "is-referenced-by-count": 105,
+   "title": [
+    "Assessing Climate Change Impact on Soil Salinity Dynamics between 1987–2017 in Arid Landscape Using Landsat TM, ETM+ and OLI Data"
+   ],
+   "volume": "12",
+   "author": [
+    {
+     "given": "Abderrazak",
+     "family": "Bannari",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Department of Natural Resources and Environment, College of Graduate Studies, Arabian Gulf University, Manama, P.O. Box 26671, Bahrain"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Zahra M.",
+     "family": "Al-Ali",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Natural Resources and Environment, College of Graduate Studies, Arabian Gulf University, Manama, P.O. Box 26671, Bahrain"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Remote Sensing"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2020,
+      8,
+      28
+     ]
+    ]
+   }
+  },
+  {
+   "abstract": "<jats:p>Soil salinization represents a critical environmental challenge in arid and semi-arid irrigated agricultural regions, particularly in Central Asia where intensive irrigation practices have led to widespread land degradation. This study investigates the spatial-temporal dynamics of soil salinity in the irrigated lands of Syrdarya Province, Uzbekistan, utilizing an integrated approach combining Geographic Information Systems (GIS), remote sensing technologies, and traditional field measurements. Long-term monitoring data (2004-2024) from 1,500 observation wells and 3,800 soil sampling points were analyzed using Inverse Distance Weighting (IDW) interpolation methods in ArcGIS 10.6. The research examined the relationships between groundwater depth (GWD), groundwater mineralization (GWM), and soil salinity (SS) under changing climatic conditions. Results demonstrated that IDW-based GIS mapping achieved 91.4% accuracy for GWD, 84.1% for GWM, and 76.7% for SS assessment. Statistical analysis revealed strong correlations between shallow groundwater levels (1.0-1.5 m) and increased soil salinity, with GWM exceeding 5-10 g/L significantly contributing to soil degradation. Climate factors, particularly summer air temperature and winter precipitation, showed moderate to strong correlations with salinity distribution patterns. The study identified that approximately 62% of irrigated lands exhibited varying degrees of salinization, with moderately saline soils occupying 32.8% and weakly saline soils 54.9% of total irrigated areas. MODIS satellite thermography and NDVI indices were validated against ground-truth data, demonstrating 70.6% and 81.1% accuracy respectively for salinity assessment. The integration of GIS technologies reduced mapping time by 92.3% and costs by approximately 3,490,140 UZS compared to conventional methods. These findings provide crucial information for sustainable land management strategies and salinity mitigation measures in Central Asian irrigation systems.</jats:p>",
+   "DOI": "10.1051/e3sconf/202671902002",
+   "page": "02002",
+   "is-referenced-by-count": 0,
+   "title": [
+    "Spatial-temporal assessment of soil salinity dynamics in irrigated lands using GIS and remote sensing technologies: A case study of Syrdarya Province, Uzbekistan"
+   ],
+   "volume": "719",
+   "author": [
+    {
+     "given": "Shakhnoza",
+     "family": "Karshiboyeva",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Samarkand State University",
+       "place": [
+        "Uzbekistan"
+       ]
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Yunus",
+     "family": "Karimov",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Samarkand State Pedagogical Institute",
+       "place": [
+        "Uzbekistan"
+       ]
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Davronkhuja",
+     "family": "Jurakhujayev",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Samarkand State Pedagogical Institute",
+       "place": [
+        "Uzbekistan"
+       ]
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Sukhrob",
+     "family": "Khujakulov",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Samarkand State Pedagogical Institute",
+       "place": [
+        "Uzbekistan"
+       ]
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Dilnoza",
+     "family": "Navotova",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Shakhrisabz State Pedagogical Institute",
+       "place": [
+        "Uzbekistan"
+       ]
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Istat",
+     "family": "Mirzoyeva",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Bukhrara State University",
+       "place": [
+        "Uzbekistan"
+       ]
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "E3S Web of Conferences"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "6",
+   "abstract": "<jats:p>Soil salinity severely threatens global ecosystems and agriculture, making accurate monitoring an ongoing priority. Currently, efficiently utilizing multi-source datasets to enhance monitoring accuracy while minimizing computational resources remains a critical challenge. This study evaluated several modeling strategies, including full-dataset modeling, variance inflation factor (VIF), Boruta, particle swarm optimization, ant colony optimization and recursive feature elimination (RFE), and validated results across diverse regions (Almaty, Kazakhstan; Shandong, China). We further validated the results using multiple algorithms, including linear regression, partial least squares regression, extreme gradient boosting, k-nearest neighbor and random forest (RF), with topsoil (0–20 cm) electrical conductivity inverted via the optimal method. Results indicate that input feature numbers substantially impact model performance: regional-scale feature selection is indispensable, with RFE outperforming full-dataset modeling (R2 improves by up to 0.28, while RMSE decreases by 2.21 dS m−1) and VIF performing the worst. Transferability is also demonstrated in Almaty and Shandong. Additionally, the RF algorithm shows superior performance in soil salinity mapping (overall accuracy = 0.73; kappa coefficient = 0.65). And, the RFE and SHAP results highlight CRSI, BI, and MSAVI2 as particularly important predictors for estimating soil salinity in our study area. Collectively, this study highlights the critical importance of feature optimization and interpretability in soil attribute mapping through the integration of multi-source remote sensing data.</jats:p>",
+   "DOI": "10.3390/rs18060955",
+   "page": "955",
+   "is-referenced-by-count": 2,
+   "title": [
+    "Soil Salinity Assessment and Cross-Regional Validation Based on Multiple Feature Optimization Methods and SHAP"
+   ],
+   "volume": "18",
+   "author": [
+    {
+     "given": "Shuaishuai",
+     "family": "Shi",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "College of Agriculture, Tarim University, Alar 843300, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Yu",
+     "family": "Wang",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "College of Life Sciences and Technology, Tarim University, Alar 843300, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Jiawen",
+     "family": "Wang",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "College of Life Sciences and Technology, Tarim University, Alar 843300, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Jibang",
+     "family": "Yang",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "College of Agriculture, Tarim University, Alar 843300, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Zijin",
+     "family": "Bai",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "College of Horticulture and Forestry, Tarim University, Alar 843300, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Jie",
+     "family": "Peng",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "College of Agriculture, Tarim University, Alar 843300, China"
+      },
+      {
+       "name": "Key Laboratory of Genetic Improvement and Efficient Production for Specialty Crops in Arid Southern Xinjiang of Xinjiang Corps, Alar 843300, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Remote Sensing"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      3,
+      23
+     ]
+    ]
+   }
+  },
+  {
+   "DOI": "10.1016/j.rse.2020.112059",
+   "page": "112059",
+   "is-referenced-by-count": 62,
+   "title": [
+    "A novel approach to quantify soil salinity by simulating the dielectric loss of SAR in three-dimensional density space"
+   ],
+   "volume": "251",
+   "author": [
+    {
+     "given": "Shoba",
+     "family": "Periasamy",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Kokila Priya",
+     "family": "Ravi",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Remote Sensing of Environment"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2020,
+      12
+     ]
+    ]
+   },
+   "article-number": "112059"
+  },
+  {
+   "issue": "10",
+   "abstract": "<jats:p>Global agricultural lands are becoming saline because of human activities that have affected crop production and food security worldwide. In this study, the spatiotemporal variability of soil electrical conductivity (EC) in Central Asia was evaluated based on high-resolution multi-year predicted soil EC data, Moderate Resolution Imaging Spectroradiometer (MODIS) land cover product, precipitation, reference evapotranspiration, population count, and soil moisture datasets. We primarily detected pixel-based soil EC trends over the past three decades and correlated soil EC with potential deriving factors. The results showed an overall increase in salt-affected areas between 1990 and 2018 for different land cover types. The soil EC trend increased by 6.86% (p &lt; 0.05) over Central Asia during 1990–2018. The open shrub lands dominated by woody perennials experienced the highest increasing soil salinity trend, particularly in Uzbekistan and Turkmenistan local areas, while there was a decreasing soil EC trend in the cropland areas, such as in Bukhara and Khorezm (Uzbekistan). The main factors that affect the variability of soil salinity were strongly associated with population pressure and evapotranspiration. This study provides comprehensive soil EC variations and trends from the local to regional scales. Agriculture and land resource managers must tackle the rising land degradation concerns caused by the changing climate in arid lands and utilise geoinformatics.</jats:p>",
+   "DOI": "10.3390/rs14102501",
+   "page": "2501",
+   "is-referenced-by-count": 47,
+   "title": [
+    "Soil Salinity Variations and Associated Implications for Agriculture and Land Resources Development Using Remote Sensing Datasets in Central Asia"
+   ],
+   "volume": "14",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0003-1114-0677",
+     "authenticated-orcid": false,
+     "given": "Simon",
+     "family": "Measho",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Key Laboratory of Ecosystem Network Observation and Modeling, Institute of Geographic Sciences and Natural Resources Research, Chinese Academy of Sciences, Beijing 100101, China"
+      },
+      {
+       "name": "Hamelmalo Agricultural College, National Commission for Higher Education, Keren 397, Eritrea"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-6930-3419",
+     "authenticated-orcid": false,
+     "given": "Fadong",
+     "family": "Li",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Key Laboratory of Ecosystem Network Observation and Modeling, Institute of Geographic Sciences and Natural Resources Research, Chinese Academy of Sciences, Beijing 100101, China"
+      },
+      {
+       "name": "University of Chinese Academy of Sciences, No. 19A, Yuquan Road, Beijing 100049, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-5996-9268",
+     "authenticated-orcid": false,
+     "given": "Petri",
+     "family": "Pellikka",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Earth Change Observation Laboratory, Department of Geosciences and Geography, University of Helsinki, FI-00014 Helsinki, Finland"
+      },
+      {
+       "name": "State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing, Wuhan University, Wuhan 430079, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Chao",
+     "family": "Tian",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Key Laboratory of Ecosystem Network Observation and Modeling, Institute of Geographic Sciences and Natural Resources Research, Chinese Academy of Sciences, Beijing 100101, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-9038-0822",
+     "authenticated-orcid": false,
+     "given": "Hubert",
+     "family": "Hirwa",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Key Laboratory of Ecosystem Network Observation and Modeling, Institute of Geographic Sciences and Natural Resources Research, Chinese Academy of Sciences, Beijing 100101, China"
+      },
+      {
+       "name": "University of Chinese Academy of Sciences, No. 19A, Yuquan Road, Beijing 100049, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Ning",
+     "family": "Xu",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Key Laboratory of Ecosystem Network Observation and Modeling, Institute of Geographic Sciences and Natural Resources Research, Chinese Academy of Sciences, Beijing 100101, China"
+      },
+      {
+       "name": "University of Chinese Academy of Sciences, No. 19A, Yuquan Road, Beijing 100049, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Yunfeng",
+     "family": "Qiao",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Key Laboratory of Ecosystem Network Observation and Modeling, Institute of Geographic Sciences and Natural Resources Research, Chinese Academy of Sciences, Beijing 100101, China"
+      },
+      {
+       "name": "University of Chinese Academy of Sciences, No. 19A, Yuquan Road, Beijing 100049, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Sayidjakhon",
+     "family": "Khasanov",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Key Laboratory of Ecosystem Network Observation and Modeling, Institute of Geographic Sciences and Natural Resources Research, Chinese Academy of Sciences, Beijing 100101, China"
+      },
+      {
+       "name": "University of Chinese Academy of Sciences, No. 19A, Yuquan Road, Beijing 100049, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Rashid",
+     "family": "Kulmatov",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Biology, National University of Uzbekistan, Tashkent 100170, Uzbekistan"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-6476-7812",
+     "authenticated-orcid": false,
+     "given": "Gang",
+     "family": "Chen",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Civil and Environmental Engineering, FAMU-FSU College of Engineering, 2525 Pottsdame Street, Tallahassee, FL 32310, USA"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Remote Sensing"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2022,
+      5,
+      23
+     ]
+    ]
+   }
+  }
+ ]
+}

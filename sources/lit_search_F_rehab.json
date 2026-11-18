@@ -1,0 +1,3106 @@
+{
+ "query": "drainage rehabilitation impact evaluation irrigation",
+ "source": "Crossref",
+ "date": "2026-11-18",
+ "filter": "2020–2026, journal-article",
+ "n": 40,
+ "items": [
+  {
+   "issue": "4",
+   "DOI": "10.1002/ird.3044",
+   "page": "1654-1656",
+   "is-referenced-by-count": 0,
+   "title": [
+    "ASSESSING IMPACT OF IRRIGATION PROJECTS"
+   ],
+   "volume": "73",
+   "author": [
+    {
+     "given": "Ashwin B.",
+     "family": "Pandya",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Secretary General"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Irrigation and Drainage"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2024,
+      10
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "4",
+   "abstract": "<jats:title>Abstract</jats:title><jats:p>In theory, irrigation could affect farm households' nutritional status in either direction. On the one hand, irrigation may improve nutritional status by boosting farm productivity and household income. On the other hand, it may deter diet quality by shifting farmers' attention from nutrition‐rich food to cash crops. This study examines the impact of irrigation schemes on farm households' nutritional status using nationally representative data from Ethiopia. Using the endogenous switching regression model, the study shows that irrigation improves diet quality. In addition, the study also identifies the production of micronutrient‐rich crops such as vegetables and fruit and the adoption of productivity‐enhancing inputs as the main pathways through which irrigation affects dietary quality. Hence, irrigation can be considered a viable instrument to enhance the diet quality of smallholders, and efforts should be made to tackle constraints that impede the adoption of irrigation technologies.</jats:p>",
+   "DOI": "10.1002/ird.2702",
+   "page": "1089-1106",
+   "is-referenced-by-count": 15,
+   "title": [
+    "Impact of irrigation on farm household diet quality: Evidence from Ethiopia"
+   ],
+   "volume": "71",
+   "author": [
+    {
+     "given": "Musa Hasen",
+     "family": "Ahmed",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "UNU‐MERIT Maastricht University  the Netherlands"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Irrigation and Drainage"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2022,
+      3,
+      14
+     ]
+    ]
+   }
+  },
+  {
+   "DOI": "10.1002/ird.2364",
+   "title": [
+    "EVALUATION OF IRRIGATION SYSTEMS AND SOME PITCH PROPERTIES OF SELECTED FOOTBALL FIELDS IN ISTANBUL"
+   ],
+   "container-title": [
+    "Irrigation and Drainage"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2020,
+      2
+     ]
+    ]
+   },
+   "is-referenced-by-count": 0,
+   "volume": "69",
+   "issue": "1",
+   "page": "191-191"
+  },
+  {
+   "issue": "3",
+   "abstract": "<jats:title>Abstract</jats:title><jats:p>Irrigation canals are the main systems that convey water from sources to demand nodes. Their performance is affected by climate change. In this research, the effect of climate change on temperature and precipitation was investigated in the Aghili irrigation network over the base period 1994–2017, and the Aghili east canal performance was consequently assessed. To this end, the climate data were first assessed by the Mann–Kendall test to determine trends. Then, changes in temperature and precipitation were simulated using HadGEM2‐ES in the Long Ashton Research Station Weather Generator (LARS‐WG) under two representative concentration pathways (RCPs) of 2.6 and 8.5 over the periods 2021–2040 and 2041–2060. CROPWAT8 was used to calculate the crop water requirement and irrigation hydromodule, and the turnout flow in the considered canal was calculated next. Finally, the canal was simulated and assessed. The results showed that the maximum temperature, evapotranspiration and turnout flow increases are 3.7°C, 1.45 mm/day and 39 L/s, respectively, related to the base timescale. Additionally, the adequacy performance decreased to 0.768 from 0.986, leading to a maximum extra water requirement of 15.1 million m<jats:sup>3</jats:sup>/year in the Aghili east canal under a pessimistic scenario.</jats:p>",
+   "DOI": "10.1002/ird.2915",
+   "page": "961-973",
+   "is-referenced-by-count": 3,
+   "title": [
+    "Evaluating the impact of climate change on irrigation canal performance"
+   ],
+   "volume": "73",
+   "author": [
+    {
+     "given": "Hamideh",
+     "family": "Mohebbi",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Department of Water Engineering, Faculty of Agriculture University of Zanjan  Zanjan Iran"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Hesam",
+     "family": "Ghodousi",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Water Engineering, Faculty of Agriculture University of Zanjan  Zanjan Iran"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-8098-0931",
+     "authenticated-orcid": false,
+     "given": "Kazem",
+     "family": "Shahverdi",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Water Science and Engineering Bu‐Ali Sina University  Hamedan Iran"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Irrigation and Drainage"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2024,
+      1,
+      15
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "4",
+   "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Irrigation development can be an effective economic force for agricultural production, regional development and urban and rural community development. This study estimated the societal economic footprint of the Irrigation Districts on the economy in Alberta, Canada, via a variety of economic impact analysis models. The analysis indicates that producers, agricultural and non‐agricultural industries and communities benefit (either directly or indirectly) from irrigation development and related activities. These impacts result from the direct use of irrigation water for crop and livestock production, whereas other impacts are related to irrigation infrastructure (reservoirs and canals) that provides water for municipalities, food processing industries, recreation and wildlife habitat development. Irrigation Districts' direct annual contribution to Alberta's agri‐food gross domestic product (GDP), a traditional measure of economic growth, was about $1 billion. This contribution increased, through indirect and induced impacts, to $5.4 billion for the provincial GDP—about 5 times greater than the direct contribution. About 81% of the GDP generated by the Irrigation Districts accrued to the province, and about 19% to the irrigation producers. This study revealed that irrigation development is a beneficial economic strategy for the province, irrigation producers, food processing industries and sustainable community development. This study also demonstrated that economically successful irrigation projects should develop linkages between irrigation producers and regional food processing industries.</jats:p>",
+   "DOI": "10.1002/ird.3114",
+   "page": "1830-1845",
+   "is-referenced-by-count": 1,
+   "title": [
+    "Economic Footprint of Alberta's Irrigation Districts: An Economic Impact Analysis"
+   ],
+   "volume": "74",
+   "author": [
+    {
+     "given": "Surendra N.",
+     "family": "Kulshreshtha",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Department of Agricultural and Resource Economics University of Saskatchewan  Saskatoon Saskatchewan Canada"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Brent",
+     "family": "Paterson",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Acera Consulting Inc.  Lethbridge Alberta Canada"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Roger",
+     "family": "Hohm",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Roger Hohm Ag. Services  Coaldale Alberta Canada"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Irrigation and Drainage"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      4,
+      24
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "4",
+   "abstract": "<jats:title>Abstract</jats:title><jats:p>Iran has an arid to semi‐arid climate where water resources are limited. Irrigation planning plays an essential role in the growth and development of crops. This study aims to enhance the current status of irrigation scheduling and improve farm water management on sugarcane farms in Khuzestan province, Iran. The AquaCrop model and the surface energy balance algorithm for land (SEBAL) were used to simulate sugarcane growth and performed well in estimating actual evapotranspiration and final yield based on the calibration and validation results. Four irrigation scenarios were considered: scenario 1, irrigation according to the current situation; scenario 2, irrigation based on maximum allowable depletion (40%–55%); scenario 3, irrigation based on field capacity; and scenario 4, deficit irrigation (causes 5% reduction in yield). Water efficiency based on water consumption (WP<jats:sub>IR</jats:sub>), transpiration rate (WP<jats:sub>Tr</jats:sub>), and evapotranspiration rate (WP<jats:sub>ET</jats:sub>) were estimated to compare the scenarios in terms of water consumption. Scenario 3 was the selected scenario in which WP<jats:sub>IR</jats:sub>, WP<jats:sub>Tr</jats:sub>, and WP<jats:sub>ET</jats:sub> were increased about 108.3%, 2.1%, and 1.0%, respectively. Finally, the scenarios were evaluated economically, and the results showed that improving irrigation management slightly increased the benefit.</jats:p>",
+   "DOI": "10.1002/ird.2718",
+   "page": "1034-1047",
+   "is-referenced-by-count": 6,
+   "title": [
+    "Evaluation of sugarcane irrigation using AquaCrop model and remote sensing"
+   ],
+   "volume": "71",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0001-6899-912X",
+     "authenticated-orcid": false,
+     "given": "Mostafa",
+     "family": "Rahimi Jamnani",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Department of Irrigation and Reclamation Engineering, College of Agriculture and Natural Resources University of Tehran  Karaj Iran"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Farhad",
+     "family": "Mirzaei",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Irrigation and Reclamation Engineering, College of Agriculture and Natural Resources University of Tehran  Karaj Iran"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Abdolmajid",
+     "family": "Liaghat",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Irrigation and Reclamation Engineering, College of Agriculture and Natural Resources University of Tehran  Karaj Iran"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Irrigation and Drainage"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2022,
+      5,
+      4
+     ]
+    ]
+   }
+  },
+  {
+   "DOI": "10.1002/ird.70224",
+   "title": [
+    "Comparative Evaluation of Empirical and Data‐Driven Techniques for Estimating Seepage Losses in Irrigation Canals"
+   ],
+   "container-title": [
+    "Irrigation and Drainage"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      9,
+      14
+     ]
+    ]
+   },
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0009-0003-7683-9662",
+     "authenticated-orcid": false,
+     "given": "Faridullah",
+     "family": "Khan",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "NUST Institute of Civil Engineering National University of Sciences and Technology (NUST)  Islamabad Pakistan"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-6159-0030",
+     "authenticated-orcid": false,
+     "given": "Hamza Farooq",
+     "family": "Gabriel",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "NUST Institute of Civil Engineering National University of Sciences and Technology (NUST)  Islamabad Pakistan"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Hassan",
+     "family": "Akhtar",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "NUST Institute of Civil Engineering National University of Sciences and Technology (NUST)  Islamabad Pakistan"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>\n                    In irrigation canal systems, accurately quantifying seepage losses is crucial for enhancing water conveyance efficiency. This study analyses seepage estimation methods using 6 years of inflow–outflow data from the Thal Canal System in Pakistan, focusing on plain cement concrete (PCC)–lined, brick‐lined and unlined reaches. Eight empirical equations were evaluated against observed seepage losses, and their results were compared with those of the metaheuristic‐optimised CatBoost model and the symbolic regression (PySR) model. The seepage losses were 5% for PCC‐lined canals, 13% for brick‐lined canals and 22% for unlined canals. The CatBoost model demonstrated the highest predictive performance relative to the inflow–outflow‐derived reference estimates (\n                    <jats:italic>R</jats:italic>\n                    <jats:sup>2</jats:sup>\n                     = 0.97, RMSE = 0.80 m\n                    <jats:sup>3</jats:sup>\n                    /s), whereas PySR also performed well (\n                    <jats:italic>R</jats:italic>\n                    <jats:sup>2</jats:sup>\n                     = 0.94, RMSE = 1.22 m\n                    <jats:sup>3</jats:sup>\n                    /s) and produced a single closed‐form equation. Among the empirical methods, the Chinese equation was most effective for unlined canals (\n                    <jats:italic>R</jats:italic>\n                    <jats:sup>2</jats:sup>\n                     = 0.63, RMSE = 1.58 m\n                    <jats:sup>3</jats:sup>\n                    /s), and the Punmia equation performed best among the empirical equations evaluated for the PCC‐lined reach (\n                    <jats:italic>R</jats:italic>\n                    <jats:sup>2</jats:sup>\n                     = 0.61, RMSE = 1.49 m\n                    <jats:sup>3</jats:sup>\n                    /s). Overall, CatBoost provided the strongest predictive performance, whereas PySR offered a useful balance between predictive accuracy and mathematical transparency. The empirical equations showed limited uncalibrated transferability across the investigated lining conditions.\n                  </jats:p>",
+   "is-referenced-by-count": 0,
+   "article-number": "ird.70224"
+  },
+  {
+   "issue": "4",
+   "abstract": "<jats:title>Abstract</jats:title><jats:p>Due to population growth, freshwater resources around the world are becoming increasingly scarce, and the water supply in agriculture has emerged as one of the limitations of food production. Variable‐rate irrigation (VRI), a type of precision irrigation, allows water‐efficient irrigation techniques to ensure an optimal water supply. The University of Debrecen, in collaboration with Magtár Kft., was the first in Hungary to develop a new laterally mobile irrigation machine equipped with VRI. The subject of our study was the testing of this system. According to the research, high and homogeneous irrigation uniformity was achieved in practice, with a Christiansen uniformity coefficient (CUc%) of 93 ± 2, distribution uniformity (DU%) of 88 ± 2 and coefficient of variation (CV) of 9 ± 2. Irrigation accuracy was also found to be satisfactory (mean absolute error 0.6 ± 0.1, mean bias error 0.2 ± 0.2, normalized root mean square error 8.6 ± 2), and only 1.4% ± 2% was overirrigated and 0.4% ± 0.3% underirrigated. In addition, the uniformity and accuracy of irrigation in different management zones along the pipeline were also investigated, and significant differences (<jats:italic>p</jats:italic> &lt; 0.05) were found between irrigation water depths. Based on the above, a new laterally mobile irrigation machine equipped with VRI can be used to develop more uniform and accurate irrigation schedules in the future in arable fields as this is critical for water‐saving irrigation management.</jats:p>",
+   "DOI": "10.1002/ird.2850",
+   "page": "922-933",
+   "is-referenced-by-count": 5,
+   "title": [
+    "Evaluation of new pivoting linear‐move precision irrigation machine"
+   ],
+   "volume": "72",
+   "author": [
+    {
+     "given": "Andrea",
+     "family": "Szabó",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Faculty of Agricultural and Food Sciences and Environmental Management, Institute of Water and Environmental Management University of Debrecen  Debrecen Hungary"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "János",
+     "family": "Tamás",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Faculty of Agricultural and Food Sciences and Environmental Management, Institute of Water and Environmental Management University of Debrecen  Debrecen Hungary"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Ádám",
+     "family": "Kövesdi",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Magtár Kft.  Szolnok Hungary"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0003-1220-8231",
+     "authenticated-orcid": false,
+     "given": "Attila",
+     "family": "Nagy",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Faculty of Agricultural and Food Sciences and Environmental Management, Institute of Water and Environmental Management University of Debrecen  Debrecen Hungary"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Irrigation and Drainage"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      6,
+      6
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "3",
+   "DOI": "10.1002/ird.70175",
+   "page": "1314-1315",
+   "is-referenced-by-count": 0,
+   "title": [
+    "Climate Change and Its Impact on Water and Food Security"
+   ],
+   "volume": "75",
+   "author": [
+    {
+     "given": "R. K.",
+     "family": "Gupta",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Secretary General"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Irrigation and Drainage"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      7
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "2",
+   "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Several irrigation projects are not delivering to their expectations; therefore, benchmarking of irrigation projects has been recommended in all national water policies of India. To simplify the benchmarking exercise, a geospatial benchmarking approach was employed in this study for the Latratu medium irrigation project in Jharkhand, India. Satellite‐based indicators were derived, and the random forest algorithm was used to classify the images. With overall classification accuracies of 97% (Rabi) and 98% (Kharif), the classification successfully delineated the extent of seasonal cultivation. The normalized difference vegetation index showed clear phenological changes when analysed over time at 15‐day intervals. Vegetation condition index mapping also revealed seasonal differences in crop health. The shuttle radar topography mission digital elevation data and normalized difference water index data collected from Sentinel‐2 were used to estimate reservoir storage capacity via the Prismoidal approach to evaluate water availability. The reservoir capacity decreased after monsoonal recharge, which impacted the Rabi crop. Furthermore, only 53% of the irrigation potential was used in agricultural landscapes. This study shows the integration of geospatial approaches for improving crop monitoring, irrigation planning and sustainable water management. Increasing the canal network and water‐use efficiency may reduce water stress during the Rabi season.</jats:p>",
+   "DOI": "10.1002/ird.70072",
+   "page": "856-869",
+   "is-referenced-by-count": 0,
+   "title": [
+    "Evaluation of Irrigation Projects by Using Geospatial Benchmarking Approach: A Case Study of the Latratu Medium Irrigation Project, Jharkhand"
+   ],
+   "volume": "75",
+   "author": [
+    {
+     "given": "Anuprita",
+     "family": "Chakra",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Department of Civil Engineering Central University of Jharkhand  Ranchi India"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-7503-0461",
+     "authenticated-orcid": false,
+     "given": "Ajai",
+     "family": "Singh",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Civil Engineering Central University of Jharkhand  Ranchi India"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Irrigation and Drainage"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      11,
+      20
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "S2",
+   "abstract": "<jats:title>Abstract</jats:title><jats:p>Water‐saving irrigation is of high priority in China for alleviation of the water resource supply–demand contradiction. Consequently, the objectives of irrigation water efficiency (IWE) are specified in policies at the macro scale such as national economic and social development programmes and national evaluation systems of water resources management. To scientifically evaluate IWE and water‐saving irrigation efficiency and to overcome the limitations of traditional IWE evaluation methods (e.g. numerous steps and not very practical), this study presents a normative and easy‐to‐use measurement and analysis method for IWE, specifically, head and end measurement. An IWE monitoring network, comprising more than 3700 irrigation districts on national and regional scales, was developed to dynamically monitor the variation in IWE of sample irrigation districts of different sizes and types from 2008 to 2018. The monitoring results provide technical support and scientific evidence for the formulation of water conservation policies and management at the macro scale of the water conservation sector. © 2020 John Wiley &amp; Sons, Ltd.</jats:p>",
+   "DOI": "10.1002/ird.2520",
+   "page": "161-170",
+   "is-referenced-by-count": 4,
+   "title": [
+    "Application of a monitoring and evaluation method in irrigation water efficiency*"
+   ],
+   "volume": "69",
+   "author": [
+    {
+     "given": "Feng",
+     "family": "Baoqing",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "China Irrigation and Drainage Development Centre  Beijing China"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Cui",
+     "family": "Jing",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "China Irrigation and Drainage Development Centre  Beijing China"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Wu",
+     "family": "Qianming",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "China Irrigation and Drainage Development Centre  Beijing China"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Han",
+     "family": "Zhenzhong",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "China Irrigation and Drainage Development Centre  Beijing China"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Irrigation and Drainage"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2020,
+      9,
+      21
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "5",
+   "abstract": "<jats:title>Abstract</jats:title><jats:p>Surface irrigation models should take two‐dimensional infiltration of water in furrows into account for better representation and more accuracy. The Warrick–Lazarovitch infiltration model (W–L model) has been proposed to estimate the two‐dimensional infiltration of water in furrow irrigation. This model consists of several parameters, including <jats:italic>γ</jats:italic> as an empirical parameter, which is often obtained through calibration of the model. This study aimed to evaluate the W–L model performance in determining the cumulative and lateral infiltrations under conventional furrow irrigation (CFI) and alternate furrow irrigation (AFI) schemes and two different initial and boundary conditions. The results indicate that the W–L model adequately estimated the cumulative and lateral infiltration, and the two‐dimensional infiltration was estimated with less error than the lateral infiltration. In both irrigation schemes, for an increased surface boundary head from 5 to 10 cm and for a reduced initial water content from 0.21 to 0.16 cm<jats:sup>3</jats:sup>/cm<jats:sup>3</jats:sup>, the value of <jats:italic>γ</jats:italic> would increase. Generally, <jats:italic>γ</jats:italic> values in AFI were greater than those in CFI. The W–L model estimated the two‐dimensional infiltration with more accuracy than the relative lateral infiltration for both CFI and AFI. Proper representation of infiltration is important in both irrigation management and in tracing footprints of chemicals used in agriculture.</jats:p>",
+   "DOI": "10.1002/ird.2722",
+   "page": "1180-1194",
+   "is-referenced-by-count": 3,
+   "title": [
+    "Field evaluation of an explicit infiltration function for conventional and alternate furrow irrigation"
+   ],
+   "volume": "71",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-6253-2622",
+     "authenticated-orcid": false,
+     "given": "Babak",
+     "family": "Dialameh",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Biosystems and Agricultural Engineering Department Michigan State University  East Lansing MI USA"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-7338-4872",
+     "authenticated-orcid": false,
+     "given": "Hamed",
+     "family": "Ebrahimian",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Irrigation and Reclamation Engineering, College of Agriculture and Natural Resources University of Tehran  Karaj Iran"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-0653-8309",
+     "authenticated-orcid": false,
+     "given": "Masoud",
+     "family": "Parsinejad",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Irrigation and Reclamation Engineering, College of Agriculture and Natural Resources University of Tehran  Karaj Iran"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Irrigation and Drainage"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2022,
+      5,
+      20
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "2",
+   "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Greywater reuse may be considered a water source that can compensate for water scarcity. Reusing treated greywater on fields instead of disposing of it would be more environmentally friendly. The objective of this study was to investigate the physiological response of pepper plants to the application of both untreated and treated greywater. The greywater obtained from Al‐Huson University College was treated with zeolite filters before being used for plant irrigation in the experiments. The electrical conductivity (EC), total dissolved solids (TDSs) and chemical oxygen demand (COD) of greywater were all higher than those of tap water by 44%, 68% and 509%, respectively. The results demonstrated that plants irrigated with tap water and treated with greywater presented greater fruit and biological productivity than did those irrigated with untreated greywater. The use of treated greywater led to a notable 8.3% increase in overall chlorophyll levels. Irrigation of pepper plants with untreated greywater led to a 33% increase in electrolyte leakage. The plants irrigated with greywater presented the highest levels of proline and total soluble sugars. Compared with those in all the other water treatments, the plants irrigated with greywater presented significantly greater magnesium and salt concentrations. Typically, treated greywater has the most significant impact on agricultural productivity.</jats:p>",
+   "DOI": "10.1002/ird.3045",
+   "page": "641-657",
+   "is-referenced-by-count": 8,
+   "title": [
+    "Greywater irrigation of pepper plants: Possible application and its impact on soil and plant growth"
+   ],
+   "volume": "74",
+   "author": [
+    {
+     "given": "Neveen",
+     "family": "Shqerat",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Water and Environment Engineering Al‐Huson University College, Al‐Balqa Applied University  Irbid Jordan"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0003-4502-747X",
+     "authenticated-orcid": false,
+     "given": "Jalal",
+     "family": "Al‐Tabbal",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Nutrition and Food Processing Al‐Huson University College, Al‐Balqa Applied University  Irbid Jordan"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Irrigation and Drainage"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2024,
+      10,
+      17
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "5",
+   "abstract": "<jats:title>Abstract</jats:title><jats:p>The aim of this paper is to compare and rank three possible locations for the construction of an irrigation system in different parts of Croatia. The need for this kind of research stems from the high investment costs of the irrigation system and possible long‐term negative consequences of an incorrectly selected location. This paper applies a multi‐criteria method of business decision making and ranking—the analytical hierarchy process. The overall rating of the locations was obtained from six partial grades in the following criteria: drought risk level, plant production structure at a selected location, suitability of the land for irrigation, investment costs of irrigation system per unit area, presence of young farmers and unemployment rate. The best option for the construction of an irrigation system is location 1 in Istria County, primarily because of the favourable structure of plant production with a high share of labour‐intensive crops, characterized by a favourable ratio of additional revenue and costs in irrigation conditions.</jats:p>",
+   "DOI": "10.1002/ird.2512",
+   "page": "1022-1032",
+   "is-referenced-by-count": 5,
+   "title": [
+    "Multi‐criteria evaluation of locations for irrigation system implementation*"
+   ],
+   "volume": "69",
+   "author": [
+    {
+     "given": "Lari",
+     "family": "Hadelan",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Department for Agricultural Economics and Rural Development University of Zagreb Faculty of Agriculture  Zagreb Croatia"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Mateja",
+     "family": "Jez Rogelj",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department for Agricultural Economics and Rural Development University of Zagreb Faculty of Agriculture  Zagreb Croatia"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Josip",
+     "family": "Gugic",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "University of Split ‐ University Department for Sea Studies  Split Splitsko‐dalmatinska Croatia"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Ana",
+     "family": "Crncan",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Josip Juraj Strossmayer University of Osijek Faculty of Agrobiotechnical Sciences  Osijek Osijek‐Baranja Croatia"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Magdalena",
+     "family": "Zrakic",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department for Agricultural Economics and Rural Development University of Zagreb Faculty of Agriculture  Zagreb Croatia"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Irrigation and Drainage"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2020,
+      8,
+      19
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "5",
+   "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>\n                    Climate change and population growth have led to a decline in water resources, necessitating more efficient water use. This study aims to analyse water use efficiency in the Eskişehir Water User Association by evaluating irrigation performance. Based on irrigation data from 2016 to 2022, the research examines water management efficiency and economic indicators. The findings indicate that the total volume of distributed irrigation water varied between 103 × 10\n                    <jats:sup>6</jats:sup>\n                     m\n                    <jats:sup>3</jats:sup>\n                    and 28 × 10\n                    <jats:sup>6</jats:sup>\n                     m\n                    <jats:sup>3</jats:sup>\n                    over the years. The amount of irrigation water per unit area ranged from 6207 to 1670 m\n                    <jats:sup>3</jats:sup>\n                     ha\n                    <jats:sup>−1</jats:sup>\n                    , whereas the annual water supply ratio fluctuated between 1.13 and 0.24. In terms of economic assessments, the return on investment ranged from 146% to 39%, the ratio of maintenance costs to revenue varied between 54% and 21%, and the water fee collection performance was recorded between 96% and 46%. The annual total agricultural production value was calculated to be between 86,188 × 10\n                    <jats:sup>3</jats:sup>\n                    US$ and 46,187 × 10\n                    <jats:sup>3</jats:sup>\n                    US$. The results revealed that the Eskişehir Water User Association has improved water use efficiency, achieved significant progress in optimizing water utilization and enhanced agricultural productivity. These findings can contribute to the development of critical strategies for regional irrigation management and the sustainable use of water resources.\n                  </jats:p>",
+   "DOI": "10.1002/ird.70008",
+   "page": "2217-2229",
+   "is-referenced-by-count": 8,
+   "title": [
+    "Evaluation of Irrigation Efficiency and Economic Performance: A Case Study of the Eskişehir Water User Association"
+   ],
+   "volume": "74",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0009-0007-4114-2928",
+     "authenticated-orcid": false,
+     "given": "Eray",
+     "family": "Harman",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "State Hydraulic Works (DSI) 31, Department Directorate  Eskişehir Turkiye"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0003-3557-8411",
+     "authenticated-orcid": false,
+     "given": "Belgin",
+     "family": "Çakmak",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Faculty of Agriculture, Department of Agricultural Structures and Irrigation Ankara University  Ankara Turkiye"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Irrigation and Drainage"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      6,
+      24
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "4",
+   "abstract": "<jats:title>Abstract</jats:title><jats:p>The purpose of this study was to investigate the efficiency of organic matter such as rice husk and palm‐leaf stalk as envelopes in drainage pipes. For this purpose, to simulate field conditions <jats:italic>in vitro</jats:italic>, we used a physical model consisting of a plexiglass cylinder with a height of 200 mm and diameter of 100 mm, with five holes attached to the manometers and an inlet at the bottommost part and an outlet at the topmost part with a water tank which provided a fixed head. Experiments were carried out with five types of organic matter (i.e. rice husk, three types of powder and palm‐leaf fibres) on Ramshir agricultural soil which required envelopes according to existing standards. The results showed that among the envelopes utilized, the highest outflow (discharge) rate was related to powder No. 3 (the most coarse‐grained powder) in a gradient of 0.5. By increasing the gradient to 2, envelope hydraulic fracturing was observed, which means that it was unable to retain soil particles with finally an inadequate filtering function for this organic material. In gradient 2, the highest output discharge was related to palm stalk and leaf fibres, which is reflected in the proper hydraulic performance of this envelope and its high filtering properties. Finally, comparing the value of the gradient ratio in the higher gradients confirmed the results.</jats:p>",
+   "DOI": "10.1002/ird.2555",
+   "page": "809-818",
+   "is-referenced-by-count": 3,
+   "title": [
+    "Qualitative evaluation of organic envelopes on subsurface drainage performance<sup>*</sup>"
+   ],
+   "volume": "70",
+   "author": [
+    {
+     "given": "Navid",
+     "family": "Khorramian",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Department of Irrigation and Drainage. Faculty of Water Science Engineering Shahid Chamran University of Ahvaz  Ahvaz Khuzestan Iran"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Abdali",
+     "family": "Naseri",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Irrigation and Drainage. Faculty of Water Science Engineering Shahid Chamran University of Ahvaz  Ahvaz Khuzestan Iran"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Saeed Borumand",
+     "family": "Nasab",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Irrigation and Drainage. Faculty of Water Science Engineering Shahid Chamran University of Ahvaz  Ahvaz Khuzestan Iran"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Hamid",
+     "family": "Khoramian",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Water Science Engineering, Ahvaz Branch Islamic Azad University  Ahvaz Khuzestan Iran"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Irrigation and Drainage"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2020,
+      12,
+      7
+     ]
+    ]
+   }
+  },
+  {
+   "DOI": "10.1002/ird.70236",
+   "title": [
+    "A Quantitative Risk Evaluation Method for Emitter Clogging Integrating Fuzzy Comprehensive Evaluation and Dynamic Bayesian Network (FCE‐DBN)"
+   ],
+   "container-title": [
+    "Irrigation and Drainage"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      10,
+      8
+     ]
+    ]
+   },
+   "author": [
+    {
+     "given": "Aihong",
+     "family": "Dong",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Shaanxi A&amp;F Technology University  Yangling China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-2901-4743",
+     "authenticated-orcid": false,
+     "given": "Wenqian",
+     "family": "Zhang",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "China South‐To‐North Water Diversion Group Water Network Development Research Co, Ltd  Beijing China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-4729-2624",
+     "authenticated-orcid": false,
+     "given": "Wenquan",
+     "family": "Niu",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Key Laboratory of Agricultural Soil and Water Engineering in Arid and Semiarid Areas, Ministry of Education Northwest A&amp;F University  Yangling China"
+      },
+      {
+       "name": "College of Water Resources and Architectural Engineering Northwest A&amp;F University  Yangling China"
+      },
+      {
+       "name": "Institute of Soil and Water Conservation Northwest A&amp;F University  Yangling China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Chang",
+     "family": "Lv",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Key Laboratory of Agricultural Soil and Water Engineering in Arid and Semiarid Areas, Ministry of Education Northwest A&amp;F University  Yangling China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>\n                    Assessing emitter clogging risk is essential for the safe operation of drip irrigation systems. This study developed and validated a quantitative clogging risk assessment model integrating fuzzy comprehensive evaluation with a dynamic bayesian network (FCE‐DBN). Applied to field data from the Ulanbuhe Irrigation District, the model delivered empirically grounded, numerically precise risk predictions. For four non‐pressure‐compensating emitters (FE1‐FE4), the baseline clogging probabilities, derived from structural parameters, water quality, and management practices, were quantified as 8.64 × 10\n                    <jats:sup>−2</jats:sup>\n                    , 7.67 × 10\n                    <jats:sup>−2</jats:sup>\n                    , 1.01 × 10\n                    <jats:sup>−1</jats:sup>\n                    and 6.94 × 10\n                    <jats:sup>−2</jats:sup>\n                    , respectively. The DBN component captured temporal dynamics, revealing that the clogging risk increased linearly with cumulative irrigation time (\n                    <jats:italic>t</jats:italic>\n                    ), achieving an exceptional goodness‐of‐fit (\n                    <jats:italic>R</jats:italic>\n                    <jats:sup>2</jats:sup>\n                     = 0.987) across all emitters. The slope was governed by emitter‐specific influence coefficients (\n                    <jats:italic>λ</jats:italic>\n                    ), directly linking physical design to accelerated risk accumulation. Combined with the measured clogging degree (\n                    <jats:italic>C</jats:italic>\n                    ) via the relative discharge ratio (Dra), the risk index\n                    <jats:italic>Rc</jats:italic>\n                     = \n                    <jats:italic>P</jats:italic>\n                     × \n                    <jats:italic>C</jats:italic>\n                    (\n                    <jats:italic>P</jats:italic>\n                    denotes the probability of emitter clogging) yielded dynamic trajectories that quantitatively matched the field‐observed clogging progression. The resulting five‐level classification provided actionable thresholds; for instance, moderate clogging (Level 3) triggered at\n                    <jats:italic>Rc</jats:italic>\n                    ≥ 0.045 enables timely intervention (e.g., acid flushing). This work shifts emitter clogging assessment from qualitative expert judgement to a rigorously validated, time‐resolved and numerically explicit framework for precision irrigation management.\n                  </jats:p>",
+   "is-referenced-by-count": 0,
+   "article-number": "ird.70236"
+  },
+  {
+   "DOI": "10.1002/ird.70090",
+   "title": [
+    "Are Irrigation and Drainage Schemes Sunset Industries?"
+   ],
+   "container-title": [
+    "Irrigation and Drainage"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      12,
+      15
+     ]
+    ]
+   },
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0009-0004-3920-450X",
+     "authenticated-orcid": false,
+     "given": "Willem F.",
+     "family": "Vlotman",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Working Group on Land Drainage of the International Commission on Irrigation and Drainage (ICID)  Adelaide SA Australia"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>\n                    A\n                    <jats:italic>sunset industry</jats:italic>\n                    is an industry in decline, one that has passed its peak or boom periods. The irrigation industry shows, on a small scale, to be in decline, but most of the irrigation schemes in the industry seem to be doing well. Typically, the irrigation schemes that have adequate drainage, either natural or artificial are not in a sunset phase. A drainage system market research report of 2024, which considered business opportunities, growth and trends of crucial drainage market segments based on product type (channel/trench drains, French drain systems, catch basins, dry well drainage systems, drain emitters, etc.), shows substantial growth of the drainage industry worldwide. Investigation of both irrigation and drainage, including schemes, materials, products, companies, professional organisations (ASABE, ASCE and ICID), journal publications (recent: 2020–2024) and books (1999 and 2020), resulted in a plethora of materials and information that overall show that neither the irrigation nor the drainage industry is in a sunset phase or is likely to be in the future.\n                  </jats:p>",
+   "is-referenced-by-count": 0,
+   "article-number": "ird.70090"
+  },
+  {
+   "issue": "5",
+   "abstract": "<jats:title>Abstract</jats:title><jats:p>Understanding the interactive effects of irrigation water quality and fertilization on nitrogen mineralization (<jats:italic>N</jats:italic><jats:sub>min</jats:sub>) and accurately predicting <jats:italic>N</jats:italic><jats:sub>min</jats:sub> are of great importance for the secure and efficient utilization of brackish water in arid regions. A pot experiment was conducted to determine the <jats:italic>N</jats:italic><jats:sub>min</jats:sub> under different drip irrigation water salinities and nitrogen application rates and to modify the nitrogen mineralization potential (<jats:italic>N</jats:italic><jats:sub>0</jats:sub>) and mineralization rate constants (<jats:italic>k</jats:italic>) of the first‐order kinetic equation of <jats:italic>N</jats:italic><jats:sub>min</jats:sub>. An in situ field experiment was conducted to validate the modified equation. The results showed that the amounts of <jats:italic>N</jats:italic><jats:sub>min</jats:sub> for water salinities of 1.27, 3.03, and 4.90 g L<jats:sup>−1</jats:sup> were 58.9, 76.1, and 45.4 kg ha<jats:sup>−1</jats:sup>, respectively. <jats:italic>N</jats:italic><jats:sub>min</jats:sub> was stimulated when the soil salinities were lower than 6.6, 6.1 and 3.9 g kg<jats:sup>−1</jats:sup> for nitrogen application rates of 255, 315 and 375 kg ha<jats:sup>−1</jats:sup>, respectively. Nitrogen application significantly reduced <jats:italic>N</jats:italic><jats:sub>min</jats:sub>. When the nitrogen application rate increased to 375 kg ha<jats:sup>−1</jats:sup>, the net <jats:italic>N</jats:italic><jats:sub>min</jats:sub> rate remained lower, and the effects of salinity on <jats:italic>N</jats:italic><jats:sub>min</jats:sub> were attenuated. The <jats:italic>N</jats:italic><jats:sub>min</jats:sub> model with modified <jats:italic>N</jats:italic><jats:sub>0</jats:sub> and <jats:italic>k</jats:italic> values was developed considering the impacts of soil organic nitrogen, nitrogen application rate, and soil salinity. Model testing indicated that the modified model provided an acceptable estimation of <jats:italic>N</jats:italic><jats:sub>min</jats:sub> under field conditions. It will be helpful for developing rational fertilization strategies of drip irrigation with brackish water in arid regions.</jats:p>",
+   "DOI": "10.1002/ird.2743",
+   "page": "1129-1145",
+   "is-referenced-by-count": 3,
+   "title": [
+    "Evaluation of nitrogen mineralization under various irrigation water qualities and nitrogen application rates for mulched drip irrigation in an arid region"
+   ],
+   "volume": "71",
+   "author": [
+    {
+     "given": "Chao",
+     "family": "Ma",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "State Key Laboratory of Simulation and Regulation of Water Cycles in River Basins China Institute of Water Resources and Hydropower Research  Beijing 100038 China"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-6095-3629",
+     "authenticated-orcid": false,
+     "given": "Jun",
+     "family": "Wang",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "State Key Laboratory of Simulation and Regulation of Water Cycles in River Basins China Institute of Water Resources and Hydropower Research  Beijing 100038 China"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-5482-0977",
+     "authenticated-orcid": false,
+     "given": "Jiusheng",
+     "family": "Li",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "State Key Laboratory of Simulation and Regulation of Water Cycles in River Basins China Institute of Water Resources and Hydropower Research  Beijing 100038 China"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Irrigation and Drainage"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2022,
+      8,
+      5
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "3",
+   "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>\n                    Determination of the distribution and redistribution of water and nitrogen in the soil is critical for the design and management of subsurface drip irrigation (SSDI). Laboratory experiments were conducted to investigate the effects of the emitter discharge rate (2 and 5.5 L h\n                    <jats:sup>−1</jats:sup>\n                    ) and lateral depth (0 to 20 cm) on water and nitrogen distributions and redistributions under SSDI. The wetted soil area clearly decreased with the emitter discharge rate and increased dramatically with lateral depth following fertigation while an opposing trend was observed in the average soil moisture and nitrate content. Ammonium accumulated near the emitter and the nitrate concentration dropped at the emitter and accumulated at the wetting front edge for both surface drip irrigation (SDI) and SSDI. The wetted soil area exhibited a trend of initial increase followed by a decrease during the redistribution process. A gradual decline and increase were respectively found in the maximum ammonium and nitrate concentrations. An SSDI with an emitter discharge rate of 2 L h\n                    <jats:sup>−1</jats:sup>\n                    produced superior spatial uniformity of water and nitrate according to the lower coefficients of variation. The outcomes recommend that low emitter discharge rates in SSDI can enhance water and nitrogen use efficiency and reduce leaching losses.\n                  </jats:p>",
+   "DOI": "10.1002/ird.70100",
+   "page": "971-984",
+   "is-referenced-by-count": 1,
+   "title": [
+    "Evaluation of Water and Nitrogen Distribution and Redistribution in Subsurface Drip Irrigation Systems"
+   ],
+   "volume": "75",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0001-7124-4211",
+     "authenticated-orcid": false,
+     "given": "Zhenjie",
+     "family": "Qiu",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Key Laboratory of Green Building and Intelligent Construction in Higher Educational Institutions of Hunan Province, Hunan City University  Yiyang P. R. China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Mengying",
+     "family": "Sun",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Key Laboratory of Green Building and Intelligent Construction in Higher Educational Institutions of Hunan Province, Hunan City University  Yiyang P. R. China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Shuhui",
+     "family": "Gong",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Water Resources Bureau of Ziyang  Yiyang China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Zhenwen",
+     "family": "Tang",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Key Laboratory of Green Building and Intelligent Construction in Higher Educational Institutions of Hunan Province, Hunan City University  Yiyang P. R. China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Irrigation and Drainage"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      1,
+      23
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "5",
+   "abstract": "<jats:title>Abstract</jats:title><jats:p>Participatory irrigation management is key to realizing the virtuous circle in which irrigation facilities are used and managed in rural China. Therefore, it is essential to explore the key factors influencing participatory irrigation management. This paper innovatively analyses the impact of external institutional constraints and internal moral obligation of farmers on participatory irrigation management by using a structural equation model (SEM) and drawing on survey data from 1543 householders in the Yellow River basin. The results indicate that: (i) generally, both institutional constraints and moral obligation have significant positive impacts on collective action in participatory irrigation management; (ii) moral obligation plays an active regulating role in the process of institutional constraints affecting collective action; (iii) collective action contributes positively to the performance of participatory irrigation management. This paper shows that institutional constraints and moral obligation need to be taken into account in participatory irrigation management, and these considerations can offer some insights into governments in managing irrigation systems.</jats:p>",
+   "DOI": "10.1002/ird.2602",
+   "page": "1287-1297",
+   "is-referenced-by-count": 5,
+   "title": [
+    "Impact of institutional constraints on participatory irrigation management: The regulating role of moral obligation*"
+   ],
+   "volume": "70",
+   "author": [
+    {
+     "given": "Liu",
+     "family": "Yang",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "School of Public Affairs and Administration University of Electronic Science and Technology of China  Chengdu China"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Yang",
+     "family": "Ren",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "School of Public Affairs and Administration University of Electronic Science and Technology of China  Chengdu China"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Zhiwei",
+     "family": "Tang",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "School of Public Affairs and Administration University of Electronic Science and Technology of China  Chengdu China"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Yuchun",
+     "family": "Zhu",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "College of Economics and Management Northwest A&amp;F University  Yangling China"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Irrigation and Drainage"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2021,
+      4,
+      23
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "5",
+   "abstract": "<jats:title>Abstract</jats:title><jats:p>The main purpose of this experiment was to investigate the effects of salinized water with boric acid and sodium chloride (NaCl) on seed germination and seedling establishment of wheat. The following treatments were applied: Boric acid solution (0, 40, 240, and 480 μM) and NaCl solution (0, 50, 250, and 1,000 μM) were combined to produce 16 different solutions. The highest germination percentages were found in distilled water. Shoot length and root length of wheat were reduced by increments of all boric acid treatments in both saline solution and distilled water, but the decrease in shoot length due to boron toxicity was significant more pronounced in saline conditions. The greatest shoot and root lengths were observed in the control treatment (distilled water), and the smallest lengths were observed in the highest boric acid treatment (480 μM). Shoot and root dry weight also decreased with increasing boric acid. The averages of variables were also significantly affected by salinity solutions, but to a greater extent than under the influence of boric acid. It is concluded that wheat plants cannot tolerate salinized water with boric acid and NaCl during the germination stage.</jats:p>",
+   "DOI": "10.1002/ird.2603",
+   "page": "1183-1192",
+   "is-referenced-by-count": 6,
+   "title": [
+    "Impact of boric acid and saline water irrigation on germination and seedling establishment of wheat*"
+   ],
+   "volume": "70",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0003-4502-747X",
+     "authenticated-orcid": false,
+     "given": "Jalal",
+     "family": "Al‐Tabbal",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Department of Nutrition and Food Processing Al‐Huson University College, Al‐Balqa Applied University  Jordan"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-2373-7000",
+     "authenticated-orcid": false,
+     "given": "Kamel K.",
+     "family": "Al‐Zboon",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Environmental Engineering Al‐Huson University College, Al‐Balqa Applied University  Jordan"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Irrigation and Drainage"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2021,
+      4,
+      27
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "3",
+   "abstract": "<jats:title>Abstract</jats:title><jats:p>Iran is in a serious freshwater shortage crisis because its major part is located in arid and semi‐arid areas. This research evaluated the groundwater quality in terms of potable and irrigation uses in the wet and dry seasons in the Kazeroon plain, southern Iran. In this study, a total of 408 groundwater samples were gathered from 68 boreholes to measure water quality indices, such as acidity (pH), electrical conductivity (EC), total dissolved solids (TDS), total hardness (TH), bicarbonate (HCO<jats:sub>3</jats:sub><jats:sup>−</jats:sup>), chloride (Cl<jats:sup>−</jats:sup>), sulphate (SO<jats:sub>4</jats:sub><jats:sup>2−</jats:sup>), calcium (Ca<jats:sup>2+</jats:sup>), magnesium (Mg<jats:sup>2+</jats:sup>), sodium (Na<jats:sup>+</jats:sup>) and potassium (K<jats:sup>+</jats:sup>). Geographical information system technology was also applied to draw maps of spatial changes of water quality parameters. The results showed that groundwater quality indices had the minimum and maximum values of pH (6.9–8.6), EC (414–9,813 μmho cm<jats:sup>−1</jats:sup>) and TDS (278–6,180), TH (175–3250), HCO<jats:sub>3</jats:sub><jats:sup>−</jats:sup> (152–518), Cl<jats:sup>−</jats:sup> (5–1950), SO<jats:sub>4</jats:sub><jats:sup>2−</jats:sup> (17–2371), Ca<jats:sup>2+</jats:sup> (30–681), Mg<jats:sup>2+</jats:sup> (12–607), Na<jats:sup>+</jats:sup> (1–1303) and K<jats:sup>+</jats:sup> (0.8–18) (mg L<jats:sup>−1</jats:sup>). Based on World Health Organization standards, the results indicated that all of the aquifer water in the plain except for the northern region was of poor and very poor quality for potable usages. Also, the United States Salinity Laboratory diagram showed that the groundwater quality is doubtful for irrigation. Therefore, the cultivation pattern in this plain should be switched towards salt‐tolerant crops.</jats:p>",
+   "DOI": "10.1002/ird.2671",
+   "page": "749-765",
+   "is-referenced-by-count": 21,
+   "title": [
+    "Groundwater quality evaluation for potable and irrigation uses in the semi‐arid region of southern Iran"
+   ],
+   "volume": "71",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-9935-7899",
+     "authenticated-orcid": false,
+     "given": "Mehdi",
+     "family": "Bahrami",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Department of Water Engineering, Faculty of Agriculture Fasa University  Fasa Iran"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Elmira",
+     "family": "Khaksar",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Civil and Environmental Engineering Department Western University  Ontario Canada"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-6635-2277",
+     "authenticated-orcid": false,
+     "given": "Amir",
+     "family": "Bahrami",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Water, Wastewater and Environmental Engineering, Faculty of Civil Engineering Shahid Beheshti University  Tehran Iran"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Irrigation and Drainage"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2022,
+      2,
+      6
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "5",
+   "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>\n                    This study examines the social and moral impacts of irrigation water distribution on farmer satisfaction in Khyber Pakhtunkhwa, Pakistan. For this purpose, 466 farmers were selected through a multistage stratified random sampling method, as the sample size and interview schedule were used for data collection. The study utilized chi‐square and Kendall's T\n                    <jats:sup>c</jats:sup>\n                    tests to analyse data on farmers' satisfaction with irrigation water distribution, examining social and moral influences. The findings of the study revealed a highly significant and positive association of no significant difference between poor and rich farmers prevailing in irrigation systems (\n                    <jats:italic>p</jats:italic>\n                     = 0.000; T\n                    <jats:sup>c</jats:sup>\n                     = 0.443); wealthy farmers not receiving a better water supply (\n                    <jats:italic>p</jats:italic>\n                     = 0.000; T\n                    <jats:sup>c</jats:sup>\n                     = 0.345); not paying bribes to authorities to obtain a better share of irrigation water (\n                    <jats:italic>p</jats:italic>\n                     = 0.000; T\n                    <jats:sup>c</jats:sup>\n                     = 0.325); not practising irrigation water stealing (\n                    <jats:italic>p</jats:italic>\n                     = 0.000; T\n                    <jats:sup>c</jats:sup>\n                     = 0.451); encroaching on watercourses is socially proscribed (\n                    <jats:italic>p</jats:italic>\n                     = 0.000; T\n                    <jats:sup>c</jats:sup>\n                     = 0.245); social rejection of polluting water (\n                    <jats:italic>p</jats:italic>\n                     = 0.000; T\n                    <jats:sup>c</jats:sup>\n                     = 0.238); and flowing irrigation water management roles and principles such as moral and social responsibility (\n                    <jats:italic>p</jats:italic>\n                     = 0.000; T\n                    <jats:sup>c</jats:sup>\n                     = 0.252), with farmer satisfaction with irrigation water distribution.\n                  </jats:p>",
+   "DOI": "10.1002/ird.70010",
+   "page": "2257-2266",
+   "is-referenced-by-count": 0,
+   "title": [
+    "Moral Integrity in Irrigation: Impact on Farmers' Satisfaction in Khyber Pakhtunkhwa, Pakistan"
+   ],
+   "volume": "74",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-2253-5917",
+     "authenticated-orcid": false,
+     "given": "Abdul",
+     "family": "Zahir",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Department of Rural Sociology The University of Agriculture  Peshawar Pakistan"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-8122-4062",
+     "authenticated-orcid": false,
+     "given": "Asad",
+     "family": "Ullah",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Rural Sociology The University of Agriculture  Peshawar Pakistan"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0003-1902-8698",
+     "authenticated-orcid": false,
+     "given": "Shakeel",
+     "family": "Ahmad",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Sociology Hazara University  Mansehra Pakistan"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0009-0007-3848-197X",
+     "authenticated-orcid": false,
+     "given": "Sikandar",
+     "family": "Khan",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Sociology Hazara University  Mansehra Pakistan"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Haji ur",
+     "family": "Rahman",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Sociology Hazara University  Mansehra Pakistan"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Irrigation and Drainage"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      6,
+      19
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "2",
+   "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Climate change is expected to reduce the yield of crops, including maize, especially in drought regions. Adjusting sowing dates and irrigation strategies are key methods for adapting to future climate change and maintaining maize production in drought areas. However, the extent to which the abovementioned strategies can mitigate the potential adverse impacts of climate change on maize yield and net irrigation requirements (NIR) in the arid regions of northwestern China is still unclear. This study used 12 global climate models (GCMs) to drive the AquaCrop model, evaluating maize production responses under two CMIP6 scenarios. The results indicate that the optimal sowing date should be 32.6 days earlier under SSP2‐4.5 and 37.9 days earlier under SSP5‐8.5 than under current practices. For irrigation, maintaining a higher total available water (TAW) threshold during the rapid development stage (&gt; 65%) and at least 20% for other stages was beneficial. Compared with the baseline (1991–2020), adjusting the sowing date increased the maize yield by 1%–9% and extended the growth cycle (GC) by 3.5–22.9 days, whereas optimizing irrigation increased the yield by 2%–5% and reduced the NIR by 5%–25%. The results can provide useful references for food security in drought areas.</jats:p>",
+   "DOI": "10.1002/ird.70057",
+   "page": "799-814",
+   "is-referenced-by-count": 4,
+   "title": [
+    "Impact of Climate Change Adaptive Strategies on Maize Yield and Irrigation in Drought Areas"
+   ],
+   "volume": "75",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0009-0008-2345-8926",
+     "authenticated-orcid": false,
+     "given": "Mingyu",
+     "family": "Wang",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "State Key Laboratory of Hydroscience and Engineering Tsinghua University  Beijing China"
+      },
+      {
+       "name": "School of Civil and Hydraulic Engineering Ningxia University  Yinchuan China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Yimin",
+     "family": "Ding",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "State Key Laboratory of Hydroscience and Engineering Tsinghua University  Beijing China"
+      },
+      {
+       "name": "School of Civil and Hydraulic Engineering Ningxia University  Yinchuan China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Jia",
+     "family": "Zhang",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "State Key Laboratory of Hydroscience and Engineering Tsinghua University  Beijing China"
+      },
+      {
+       "name": "School of Civil and Hydraulic Engineering Ningxia University  Yinchuan China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Ke",
+     "family": "Tao",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "State Key Laboratory of Hydroscience and Engineering Tsinghua University  Beijing China"
+      },
+      {
+       "name": "School of Civil and Hydraulic Engineering Ningxia University  Yinchuan China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Irrigation and Drainage"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      11,
+      3
+     ]
+    ]
+   }
+  },
+  {
+   "DOI": "10.1002/ird.70205",
+   "title": [
+    "Investigating the Impact of Different Scenarios of On‐Farm Water Management on Performance Measures"
+   ],
+   "container-title": [
+    "Irrigation and Drainage"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      8,
+      10
+     ]
+    ]
+   },
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-2515-0318",
+     "authenticated-orcid": false,
+     "given": "Mohammad Mehdi",
+     "family": "Moghimi",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Department of Water Science and Engineering, Faculty of Agriculture Fasa University  Fasa Iran"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Atefeh",
+     "family": "Moghaddam",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Water Science and Engineering, Faculty of Agriculture Fasa University  Fasa Iran"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0003-4686-0930",
+     "authenticated-orcid": false,
+     "given": "Mohammad Reza",
+     "family": "Mahmoudi",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Statistics, Faculty of Science Fasa University  Fasa Iran"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>\n                    Efficient irrigation water management is vital in arid regions, where water scarcity and rising costs threaten farm profitability. This study evaluates how irrigation application efficiency (\n                    <jats:italic>E</jats:italic>\n                    <jats:sub>a</jats:sub>\n                    ), applied water fraction (AWF) and irrigation water cost (IWC) affect the economic water productivity ratio (EWPR) and net income (NI) for grain maize (maize), fodder corn, cotton and tomato in the Ghareh‐Bolagh Plain, Iran. Using crop‐specific water‐yield functions and cubic regression analysis across wet, normal and dry conditions, the results show that\n                    <jats:italic>E</jats:italic>\n                    <jats:sub>a</jats:sub>\n                    and AWF positively influence EWPR and NI, while IWC has a consistent negative effect. Water cost is the dominant factor for EWPR in maize, fodder corn and cotton, whereas tomato EWPR is mainly controlled by the\n                    <jats:italic>E</jats:italic>\n                    <jats:sub>a</jats:sub>\n                    –AWF interaction. NI is most influenced by the\n                    <jats:italic>E</jats:italic>\n                    <jats:sub>a</jats:sub>\n                    –AWF interaction for maize and fodder corn, by the AWF linearly for cotton, and by the AWF cubically for tomato. Optimal outcomes occur under high efficiency and low water cost, with crop‐specific deficit levels. The study underscores the need to integrate efficiency improvements, deficit irrigation and water pricing to boost both water productivity and profitability in water‐scarce regions.\n                  </jats:p>",
+   "is-referenced-by-count": 0,
+   "article-number": "ird.70205"
+  },
+  {
+   "issue": "1",
+   "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>\n                    This study investigates the impact of encroachment on farmers' satisfaction with irrigation water distribution in central Khyber Pakhtunkhwa, Pakistan. A sample of 466 farmers was selected through multistage stratified random sampling, and data were collected via an interview schedule. Chi‐square and Kendall's Tau‐c tests were used to analyse the relationships between watercourse encroachment and farmer satisfaction levels with the irrigation water distribution. The results revealed significant negative correlations between encroachments and farmer satisfaction, particularly for water channel obstructions (\n                    <jats:italic>p</jats:italic>\n                     &lt; 0.05;\n                    <jats:italic>T</jats:italic>\n                    <jats:sup>c</jats:sup>\n                     = −0.230), commercial building construction (\n                    <jats:italic>p</jats:italic>\n                     &lt; 0.05;\n                    <jats:italic>T</jats:italic>\n                    <jats:sup>c</jats:sup>\n                     = −0.056), rural habitation encroachments (\n                    <jats:italic>p</jats:italic>\n                     &lt; 0.05;\n                    <jats:italic>T</jats:italic>\n                    <jats:sup>c</jats:sup>\n                     = −0.238), buried watercourses (\n                    <jats:italic>p</jats:italic>\n                     &lt; 0.05;\n                    <jats:italic>T</jats:italic>\n                    <jats:sup>c</jats:sup>\n                     = −0.305), irrigation channel diversions (\n                    <jats:italic>p</jats:italic>\n                     &lt; 0.05;\n                    <jats:italic>T</jats:italic>\n                    <jats:sup>c</jats:sup>\n                     = −0.061), and restricted access for desilting and clearing (\n                    <jats:italic>p</jats:italic>\n                     &lt; 0.05;\n                    <jats:italic>T</jats:italic>\n                    <jats:sup>c</jats:sup>\n                     = −0.276). Interestingly, complaints about encroachment were positively associated with satisfaction (\n                    <jats:italic>p</jats:italic>\n                     &lt; 0.05;\n                    <jats:italic>T</jats:italic>\n                    <jats:sup>c</jats:sup>\n                     = 0.008). The study concludes that irrigation departments and government authorities have failed to address encroachment and act on farmers' complaints. It recommends mobilizing local communities, strengthening irrigation authorities, legally penalizing offenders, and improving irrigation water distribution to increase farmer satisfaction.\n                  </jats:p>",
+   "DOI": "10.1002/ird.70045",
+   "page": "344-357",
+   "is-referenced-by-count": 0,
+   "title": [
+    "Assessing the Impact of Watercourse Encroachments on Farmers' Irrigation Satisfaction in Central Khyber Pakhtunkhwa, Pakistan"
+   ],
+   "volume": "75",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-2253-5917",
+     "authenticated-orcid": false,
+     "given": "Abdul",
+     "family": "Zahir",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Department of Rural Sociology The University of Agriculture  Peshawar Pakistan"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-8122-4062",
+     "authenticated-orcid": false,
+     "given": "Asad",
+     "family": "Ullah",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Rural Sociology The University of Agriculture  Peshawar Pakistan"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0003-1902-8698",
+     "authenticated-orcid": false,
+     "given": "Shakeel",
+     "family": "Ahmad",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Sociology Hazara University  Mansehra Pakistan"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0009-0007-3848-197X",
+     "authenticated-orcid": false,
+     "given": "Sikandar",
+     "family": "Khan",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Sociology Hazara University  Mansehra Pakistan"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0009-0005-5759-6479",
+     "authenticated-orcid": false,
+     "given": "Haji Ur",
+     "family": "Rahman",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Sociology Hazara University  Mansehra Pakistan"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Irrigation and Drainage"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      10,
+      16
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "4",
+   "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>The main goal in water efficiency in agriculture is to obtain more products with the same amount of water. In this respect, the use of irrigation performance indicators is important for increasing agricultural water efficiency. This study was conducted to evaluate agricultural water efficiency in the Konya closed basin, which is the region most affected by drought in Turkey. For this purpose, performance indicators selected for evaluating agricultural water efficiency were determined in irrigation associations taken as material for the years 2016–2020.</jats:p>\n                  <jats:p>\n                    In the research area, the following water use efficiency indicators were determined: annual amount of irrigation water distributed 1.750–517.462 million m\n                    <jats:sup>3</jats:sup>\n                    yr⁻¹ (MCM yr⁻¹), annual amount of irrigation water distributed per unit area 0.529–8.688 MCM ha⁻¹, annual amount of irrigation water distributed per unit irrigated area 0.787–33.909 MCM ha⁻¹ and annual water supply ratio ranging between 0.220 and 52.600. The following agricultural water efficiency performance indicators were determined: income obtained for unit irrigation area, 127–5075 US$ ha⁻¹; income obtained per unit irrigated area, 656–12353 US$ ha⁻¹; income obtained per unit irrigation water taken into the network, 0.104–6.771 US$ m⁻\n                    <jats:sup>3</jats:sup>\n                    ; and income obtained per unit irrigation water consumed, 0.236–37.358 US$ m⁻\n                    <jats:sup>3</jats:sup>\n                    . Correlation analysis was carried out to identify the significance of the relationships between the performance indicators, and the results were discussed.\n                  </jats:p>",
+   "DOI": "10.1002/ird.2972",
+   "page": "1470-1482",
+   "is-referenced-by-count": 14,
+   "title": [
+    "Evaluation of water efficiency in agriculture: The case of the Konya closed basin"
+   ],
+   "volume": "73",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0003-1712-3819",
+     "authenticated-orcid": false,
+     "given": "Elifnaz",
+     "family": "Torun",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Faculty of Agriculture, Department of Farm Structures and Irrigation Ankara University  Ankara Turkey"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0003-3557-8411",
+     "authenticated-orcid": false,
+     "given": "Belgin",
+     "family": "Çakmak",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Faculty of Agriculture, Department of Farm Structures and Irrigation Ankara University  Ankara Turkey"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Irrigation and Drainage"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2024,
+      5,
+      6
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "2",
+   "abstract": "<jats:title>Abstract</jats:title><jats:p>The purpose of this study was to assess the impact of participating in irrigated agriculture on the welfare of smallholders in the semi‐arid economy of northern Ethiopia. Two rounds of balanced panel data for the production seasons 2009/2010 and 2014/2015 collected from 407 smallholder farmers were analysed. Correlated random effect double hurdle models are used to estimate participation and extent of involvement in irrigated agriculture. The household fixed effect with a control function approach was used to assess the impact of participating in irrigated agriculture on welfare outcomes. The double hurdle model results indicate that households with at least one plot owned and located within the irrigation command area positively and significantly affect participation in irrigated agriculture. The fixed‐effect model results also revealed that the area planted with use of irrigation enables smallholders to grow crops more than once a year; to ensure increased and stable production, income, consumption and asset accumulation positively. The finding of this study confirms that the potential role of irrigated agriculture is not limited to improving crop income and consumption of rural households, but also higher production from irrigated agriculture generates surplus products and better chance to integrate with the output market.</jats:p>",
+   "DOI": "10.1002/ird.2545",
+   "page": "306-320",
+   "is-referenced-by-count": 20,
+   "title": [
+    "Impact of irrigated agriculture on welfare of farm households in northern Ethiopia: panel data evidence*"
+   ],
+   "volume": "70",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-6361-5702",
+     "authenticated-orcid": false,
+     "given": "Menasbo Gebru",
+     "family": "Tesfay",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Norwegian University of Life Sciences  Ås Norway"
+      },
+      {
+       "name": "Mekelle University Department of Economics  Mekelle Ethiopia"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Irrigation and Drainage"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2020,
+      12,
+      2
+     ]
+    ]
+   }
+  },
+  {
+   "DOI": "10.1002/ird.70002",
+   "title": [
+    "Smart Water Management in Tidal Irrigation and Drainage Systems, Kalimantan, Indonesia"
+   ],
+   "container-title": [
+    "Irrigation and Drainage"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      6,
+      10
+     ]
+    ]
+   },
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0003-0474-5328",
+     "authenticated-orcid": false,
+     "given": "B. S.",
+     "family": "Wignyosukarto",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Department of Civil and Environmental Engineering Universitas Gadjah Mada  Yogyakarta Indonesia"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "D.",
+     "family": "Legono",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Civil and Environmental Engineering Universitas Gadjah Mada  Yogyakarta Indonesia"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "abstract": "<jats:title>ABSTRACT</jats:title><jats:p>Agricultural development in tidal swamps will be related to the reclamation process in the form of reducing inundation, improving soil and water quality, irrigation, drainage and flood control. Water management in the canal network is important to regulate irrigation water, remove excess water due to rain, prevent flooding by the river and monitor water quality improvement in the canal. Monitoring equipment is needed to regulate irrigation and drainage, as well as to determine the process of transporting acidic water from land to river. Continuous water‐related monitoring equipment was installed, i.e. Automatic Rainfall Recorder, Automatic Water‐Level Recorder, pH, salinity, temperature and relative humidity. The system has been performing very accurate, and quick information on the water‐related parameters has been collected, which contributes to arranging proper water management in the Dadahup Area. The installed system at a particular control point in the primary canal has shown the influence of rainfall on the increase in water level and water quality. The choice of water management can be determined by the hydrotopographic condition that compares the land elevation and water‐level fluctuation. Further detailed discussions underline the necessity of introducing smart water management to develop the type of irrigation and drainage systems.</jats:p>",
+   "is-referenced-by-count": 2,
+   "article-number": "ird.70002"
+  },
+  {
+   "issue": "2",
+   "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Subsurface pipe drainage (SPD) could provide a suitable environment for crop production in arid and semi‐arid agricultural areas; however, less attention has been given to the design layout of SPD on the regional scale in Hetao Irrigation District (HID). In this study, the appropriate layout of the final subsurface pipe was determined using the distributed SWAP‐WOFOST (Soil–Water–Atmosphere–Plant and WOrld FOod STudies) model in HID. Subsequently, the impact of the proper SPD on crop yield and water productivity (WP) were evaluated. Finally, the crop zoning was adjusted to further enhance crop WP, and the corresponding newly added cultivated land area was preliminarily estimated based on the suggested SPD. The results indicated that after zoning in the suggested SPD, the annual average yields of spring wheat, spring corn and sunflower increased by 19%, 7% and 11%, respectively, and WP improved by 13%, 5% and 10%, respectively, compared to the traditional layout. The newly added cultivated land area was estimated to be approximately 3489 ha through the replacement of traditional end ditches with subsurface pipes in HID. Therefore, the suggested subsurface pipe designs and cropping pattern adjustment improved crop growth and led to an increase in the cultivated land area in HID.</jats:p>",
+   "DOI": "10.1002/ird.2887",
+   "page": "627-648",
+   "is-referenced-by-count": 10,
+   "title": [
+    "Simulating the impact of subsurface pipe drainage systems on crop water productivity at a regional scale in the upper Yellow River Basin"
+   ],
+   "volume": "73",
+   "author": [
+    {
+     "given": "Jing",
+     "family": "Xue",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "College of Water Resources Science and Engineering Taiyuan University of Technology  Taiyuan China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Li",
+     "family": "Ren",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "College of Resources and Environmental Sciences China Agricultural University  Beijing China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Irrigation and Drainage"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      9,
+      18
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "1",
+   "abstract": "<jats:title>ABSTRACT</jats:title><jats:p>Irrigation and Drainage (IRD) is a prestigious peer‐reviewed journal with an international reputation and publishes technical papers on all scientific, engineering, environmental and socio‐economic issues associated with irrigation, drainage and flood management. During the past 15 years from 2010 to 2024, 1517 papers were published in the journal. We analysed all these articles using bibliometric techniques to examine the impact of the journal's publications, the most productive and influential authors, and their contributions to the field of irrigation, drainage and flood management. Co‐authorship among the top authors, co‐occurrences of the topics, cocitations of the journals, bibliographic coupling of the authors and affiliated institutes and countries were analysed by applying network analysis techniques via VOSviewer software. The advancements in research during the last 15 years are also critically highlighted to understand recent developments in the field of irrigation, drainage and flood management. Future directions are also proposed in this review and might provide guidance for future research on irrigation, drainage and flood management.</jats:p>",
+   "DOI": "10.1002/ird.3087",
+   "page": "3-26",
+   "is-referenced-by-count": 6,
+   "title": [
+    "Emerging Irrigation and Drainage Technologies: A Bibliometric Review of the Journal Irrigation and Drainage From 2010 to 2024"
+   ],
+   "volume": "74",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0001-5482-0977",
+     "authenticated-orcid": false,
+     "given": "Jiusheng",
+     "family": "Li",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "State Key Laboratory of Simulation and Regulation of Water Cycle in River Basin China Institute of Water Resources and Hydropower Research  Beijing China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Zhen",
+     "family": "Wang",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "State Key Laboratory of Simulation and Regulation of Water Cycle in River Basin China Institute of Water Resources and Hydropower Research  Beijing China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Irrigation and Drainage"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      2
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "3",
+   "abstract": "<jats:title>Abstract</jats:title><jats:p>Potato is one of the most important crops for meeting food needs worldwide. The water requirement of this crop is high, and its yield is sensitive to the amount of irrigation water. Studying different amounts of irrigation water in irrigation methods is not only expensive but also time‐consuming, so it is necessary to use water‐driven crop models such as AquaCrop. This research aims to evaluate the accuracy of AquaCrop for simulating potato yield and biomass in Iran at three irrigation levels (full irrigation [FI] stands for 100%, I<jats:sub>80</jats:sub> for 80% and I<jats:sub>65</jats:sub> for 65% of the crop water requirement) via two irrigation methods (furrow irrigation and drip irrigation). For furrow irrigation, the normalized root mean square error values in the FI, I<jats:sub>80</jats:sub> and I<jats:sub>65</jats:sub> treatments varied between 17% and 28% for yield and 12% and 17% for biomass. These results for drip irrigation were 17%–22% (yield) and 9%–18% (biomass). For furrow irrigation, the average root mean square error values for potato biomass and yield were 0.89 and 0.68 t ha<jats:sup>−1</jats:sup>, respectively. The corresponding results for drip irrigation were 0.79 and 0.64 t ha<jats:sup>−1</jats:sup>, respectively. Based on all the results, the accuracy of AquaCrop was good for both irrigation methods, even though its accuracy under severe water stress conditions (I<jats:sub>65</jats:sub>) for the drip irrigation method was better than that for furrow irrigation.</jats:p>",
+   "DOI": "10.1002/ird.2813",
+   "page": "763-777",
+   "is-referenced-by-count": 7,
+   "title": [
+    "Evaluation of AquaCrop for potato yield and biomass simulation under different water amounts in drip and furrow irrigation methods"
+   ],
+   "volume": "72",
+   "author": [
+    {
+     "given": "Zohre",
+     "family": "Izadi",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Lorestan University  Khorramabad Iran"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Ali Heidar",
+     "family": "Nasrolahi",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Water Engineering, Faculty of Agriculture and Natural Resources Lorestan University  Khorramabad Iran"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Bijan Haghighati",
+     "family": "Borujeni",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Agriculture and Natural Resources Research and Training Center for Chahar Mahal and Bakhtiari  Shahrekord Iran"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Irrigation and Drainage"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      3,
+      12
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "1",
+   "abstract": "<jats:title>Abstract</jats:title><jats:p>The main aim of this study was to evaluate the potential savings of irrigation water by assessing the soil water balance during the growing season in a wine vineyard in the Maule region, Chile. This study provides insights into the influences of different irrigation water applications on soil water status and its potential effects on grape yields, water use efficiency (WUE) and the cost of irrigation to help improve irrigation practices in the region and other similar Mediterranean regions. The field experiment compared three levels of irrigation water applied: current irrigation of the vineyard (T<jats:sub>0</jats:sub>) and two deficit irrigation treatments with reductions to 75% (T<jats:sub>1</jats:sub>) and 50% of the irrigated water (T<jats:sub>2</jats:sub>). The measurements included volumetric soil water content, shallow groundwater table, canopy cover and grape yield at harvest during the entire growing season (October 2017 to April 2018). We found a potential reduction of 25% or 50% in the current irrigation system while maintaining the grape yield, increasing the WUE and reducing the cost of irrigation. Consideration of the water stored in the soil by the accumulation of rainfall in the winter season and the potential for capillary rise of shallow groundwaters is crucial for adjusting irrigation to vine water requirements.</jats:p>",
+   "DOI": "10.1002/ird.2980",
+   "page": "316-331",
+   "is-referenced-by-count": 3,
+   "title": [
+    "Evaluation of potential irrigation water savings by assessing the soil water balance in a vineyard in central Chile"
+   ],
+   "volume": "74",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-3284-3817",
+     "authenticated-orcid": false,
+     "given": "Osvaldo",
+     "family": "Salazar",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Departamento de Ingeniería y Suelos, Facultad de Ciencias Agronómicas Universidad de Chile  Santiago Chile"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Marcela",
+     "family": "Castro",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Programa de Magíster en Manejo de Suelos y Aguas Universidad de Chile  Santiago Chile"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Ranvir",
+     "family": "Singh",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "School of Agriculture and Environment Massey University  Palmerston North New Zealand"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Helena",
+     "family": "Ponstein",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Economics and Management, Helsinki Institute of Sustainability Science (HELSUS) University of Helsinki  Helsinki Finland"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Irrigation and Drainage"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2024,
+      5,
+      26
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "4",
+   "abstract": "<jats:title>Abstract</jats:title><jats:p>This study investigates the water productivity of three rice genotypes in physical, economic and virtual water terms through different irrigation and fertilizer treatments. The experiment was conducted in 2017 and 2018 in split plot designs based on a randomized complete block design with three replications. The main factors include irrigation regimes: flood irrigation of I1 and alternate irrigation treatments of I2, I3 and I4 that involve alternate irrigation with irrigation intervals of 7, 14 and 21 days, respectively. The subfactors include different rice genotypes at three levels of certified local Hashemi, M5 and M12 genotypes at three levels of nitrogen fertilizer of 60, 80 and 100 kg N/ha<jats:sup>1</jats:sup>. Results showed that the certified Hashemi variety with the 7‐day irrigation interval and 100 kg N/ha<jats:sup>1</jats:sup>; treatment showed satisfactory physical water productivity (being 1.41 and 1.01 kg/m<jats:sup>3</jats:sup> in 2017 and 2018, respectively), and also the highest net benefit per drop (being 31 200 and 29 800 rials/m<jats:sup>3</jats:sup> in 2017 and 2018, respectively). According to the results of this study, using alternate irrigation at the 7‐day irrigation interval would save 285 million m<jats:sup>3</jats:sup> of water in the Sefidroud irrigation and drainage network.</jats:p>",
+   "DOI": "10.1002/ird.2582",
+   "page": "679-689",
+   "is-referenced-by-count": 6,
+   "title": [
+    "Evaluation of water productivity with three rice genotypes under different irrigation regimes and nitrogen fertilizer treatments in Rasht, northern Iran*"
+   ],
+   "volume": "70",
+   "author": [
+    {
+     "given": "Samaneh",
+     "family": "Najafi",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "University of Guilan  Rasht Iran"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Mohammadreza",
+     "family": "Khaledian",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Water Engineering., Faculty of Agricultural Sciences University of Guilan, and Department of Water Engineering and Environment, Caspian Sea Basin Research Center  Rasht Iran"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Mojtaba",
+     "family": "Rezaei",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Rice Research Institute of Iran Agricultural Research, Education and Extension Organization (AREEO)  Rasht Iran"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Irrigation and Drainage"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2021,
+      2,
+      17
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "2",
+   "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>This study has carried out a comprehensive review of 51 studies using the original set of performance indicators (PIs) proposed by Malano and Burton in 2001, in order to evaluate the performance of collective irrigation agencies (CIAs) on a global scale. Bibliographic analysis has revealed a concentration of papers in semi‐arid areas, especially in Spain and Turkey. The meta‐analysis allowed a comprehensive diagnosis of CIAs operating in four countries (Italy, Malaysia, Spain and Turkey). The good performance of the CIAs was clearly associated with the following factors: satisfactory coverage of irrigation services, water delivery efficiency, financial self‐sufficiency, capacity of fee collection and economic production. These factors included responses to smaller command areas, the prevalence of on‐demand water distribution methods and water‐conveying systems in pressured pipelines, and the significant presence of farm drip systems. In contrast, the poorly performing CIAs presented poor irrigation service coverage and an excessive water supply to crops and personnel staff. These issues led to insufficient system operations as well as to poor economic performance, due to low financial self‐sufficiency, capacity of fee collection, economic production and high maintenance, operation and management costs.</jats:p>",
+   "DOI": "10.1002/ird.70068",
+   "page": "870-886",
+   "is-referenced-by-count": 4,
+   "title": [
+    "Evaluation of Performance in Collective Irrigation Agencies: A Systematic Review and a Meta‐Analysis"
+   ],
+   "volume": "75",
+   "author": [
+    {
+     "given": "Elahe",
+     "family": "Vafaei",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "School of Agriculture &amp; Food Science University College Dublin  Dublin Ireland"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-7168-226X",
+     "authenticated-orcid": false,
+     "given": "Fırat",
+     "family": "Arslan",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Biosystem Engineering, Rafet Kayış Engineering Faculty Alanya Alaaddin Keykubat University  Antalya Turkey"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Manuel Esteban",
+     "family": "Lucas‐Borja",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "School of Advanced Agricultural and Forestry Engineering. Department of Agroforestry Technology and Science and Genetics, Campus Universitario s/n Castilla La Mancha University  Albacete Spain"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Saeed Shahabi",
+     "family": "Ahangarkolaee",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "School of Agriculture &amp; Food Science University College Dublin  Dublin Ireland"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Demetrio Antonio",
+     "family": "Zema",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "AGRARIA Department Mediterranean University of Reggio Calabria  Reggio Calabria Italy"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Santo Marcello",
+     "family": "Zimbone",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "AGRARIA Department Mediterranean University of Reggio Calabria  Reggio Calabria Italy"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Irrigation and Drainage"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      11,
+      30
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "3",
+   "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Limited resources for the construction of new irrigation networks and low performance of most of them have led to more attention to evaluate and improve the performance of networks. The use of automated systems to improve performance and increase flexibility in irrigation networks is expanding. Regarding the variety of equipment, algorithms and applications of various automated systems in different parts of irrigation networks, it is necessary to develop performance evaluation models that include all aspects of automation. In this research, the irrigation networks automatic control system evaluation model (INACSEM) has been prepared using the classical evaluation method to assess automated control systems in irrigation networks. In this model, evaluation includes both technical and general approach. The technical point of view includes the types of equipment, software and automated control structures and their application in different stages of operation in different parts of the network and the general approach, which includes the general aspects of evaluation, mainly the managerial, social, economic and environmental point of views. The remote‐control system [by variable frequency drive (VFD)] installed in the pumping stations of Moghan plain was examined in order to show the application of the developed model. The results of performance evaluation of the automatic system show a performance of 82% with a validity of 74% in the pumping stations of Moghan plain. The results indicate the suitability of the model for evaluating automated systems in irrigation networks. Considering all aspects of automation, it also shows the problems of its components.</jats:p>",
+   "DOI": "10.1002/ird.3071",
+   "page": "933-943",
+   "is-referenced-by-count": 3,
+   "title": [
+    "Evaluation of Variable Frequency Drive System in Pumping Stations of Irrigation Networks Using INACSEM Model"
+   ],
+   "volume": "74",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0001-5637-1124",
+     "authenticated-orcid": false,
+     "given": "Kaveh",
+     "family": "Ostad‐Ali‐Askari",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Department of Civil Engineering, School of Engineering American University in Dubai  Dubai UAE"
+      },
+      {
+       "name": "Department of Natural Sciences Manchester Metropolitan University  Manchester UK"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Fatemeh",
+     "family": "Sadeghi",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Water Engineering and Management University of Tarbiat Modares  Tehran Iran"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Hamid Raeisi",
+     "family": "Vanani",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Water Engineering, College of Agriculture Shahrekord University  Shahrekord Iran"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Mohammad Javad",
+     "family": "Monem",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Water Engineering and Management University of Tarbiat Modares  Tehran Iran"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Peiman",
+     "family": "Kianmehr",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Civil Engineering, School of Engineering American University in Dubai  Dubai UAE"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Irrigation and Drainage"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      1,
+      15
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "1",
+   "abstract": "<jats:title>Abstract</jats:title><jats:p>The Lower Bari Doab Canal (LBDC) system is one of the large old irrigation systems in Punjab, Pakistan. To overcome problems of water distribution and management in conventional state‐managed irrigation, a participatory irrigation management (PIM) system was introduced in the LBDC command area in 2012. From the very large system of the LBDC, 20 different kinds of distributaries were selected in this study as representatives for evaluating performance of the new system. The primary data were gathered through questionnaires and by interviewing farmers, whereas the secondary data were gathered from the related offices of the Punjab Irrigation Department. The analysis of collected data illustrates that water service deliveries (WSDs) were poor even after implementation of PIM. The research shows that under administration of both systems, efficiency regarding provision of water seemed to be poor. The outcomes show that with the passage of time, recovery (<jats:italic>abiana</jats:italic>) decreased after implementation of the PIM system but the financial sustainability of PIM has improved compared to state administration. Finally, the current study recommends institutional reforms in PIM and comprehensive work on educating the farmers about their role in PIM as a mandatory component for improving efficiency of the PIM system.</jats:p>",
+   "DOI": "10.1002/ird.2515",
+   "page": "150-168",
+   "is-referenced-by-count": 1,
+   "title": [
+    "Performance evaluation of participatory irrigation management as an alternative to a state‐managed irrigation system*"
+   ],
+   "volume": "70",
+   "author": [
+    {
+     "given": "Sabir",
+     "family": "Hussain",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Department of Civil Engineering, University College of Engineering and Technology Bahauddin Zakariya University  Multan Pakistan"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Mudasser Muneer",
+     "family": "Khan",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Civil Engineering, University College of Engineering and Technology Bahauddin Zakariya University  Multan Pakistan"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-4628-4796",
+     "authenticated-orcid": false,
+     "given": "Muhammad",
+     "family": "Shoaib",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Agricultural Engineering Bahauddin Zakariya University  Multan Pakistan"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Ali",
+     "family": "Raza",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Agricultural Engineering Bahauddin Zakariya University  Multan Pakistan"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Syyed Adnan Raheel",
+     "family": "Shah",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Civil Engineering Pakistan Institute of Engineering and Technology  Multan Pakistan"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Tanveer Ahmed",
+     "family": "Khan",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Civil Engineering, University College of Engineering and Technology Bahauddin Zakariya University  Multan Pakistan"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Sher",
+     "family": "Khan",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Civil Engineering The University of Auckland  New Zealand"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Irrigation and Drainage"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2020,
+      9,
+      6
+     ]
+    ]
+   }
+  },
+  {
+   "DOI": "10.1002/ird.70170",
+   "title": [
+    "A New Insight Into Furrow Nonuniformity: Advance Data‐Based Evaluation and Implications for Infiltration Characterisation"
+   ],
+   "container-title": [
+    "Irrigation and Drainage"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      7,
+      7
+     ]
+    ]
+   },
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0001-8210-8303",
+     "authenticated-orcid": false,
+     "given": "Abel",
+     "family": "Getahun",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Department of Water Resources Engineering Adama Science and Technology University  Adama Ethiopia"
+      },
+      {
+       "name": "Department of Water Resources and Irrigation Engineering Hawassa University Institute of Technology  Hawassa Ethiopia"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Mekonen",
+     "family": "Ayana",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Water Resources Engineering Adama Science and Technology University  Adama Ethiopia"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Boja",
+     "family": "Mekonnen",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Water Resources Engineering Adama Science and Technology University  Adama Ethiopia"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Abebe D.",
+     "family": "Chukalla",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Land and Water Management IHE Delft Institute for Water Education  Delft the Netherlands"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>\n                    Precise estimation of advance parameters is essential for volume balance‐based methods used to estimate infiltration, evaluate efficiency and design furrow irrigation. A power function\n                    <jats:italic>x</jats:italic>\n                     = \n                    <jats:italic>ptʳ</jats:italic>\n                    is a common function relating the waterfront advancing distance (\n                    <jats:italic>x</jats:italic>\n                    ) and time (\n                    <jats:italic>t</jats:italic>\n                    ). Coefficients r and p are conventionally estimated using non‑linear least squares (NLS) or log‑transformed linear regression (LTLR), both highly sensitive to data outliers. A screening pair (SP) method was therefore developed to address this limitation for nonuniform fields. The method filters advance data pairs using physical and statistical criteria, achieving an advance time simulation comparable to the conventional methods. The SP method yields more consistent\n                    <jats:italic>r</jats:italic>\n                    estimates (coefficient of variations [CV]: 3%–9%) than conventional methods (CV: 3%–13%). Across furrows within a field, SP‐estimated advance coefficients simulated data produced a more consistent Kostiakov parameter ‘a’ (dimensionless exponent of infiltration decline over time) (CV: 6%–23%) than NLS (CV: 15%–38%) and LTLR (CV: 10%–29%). The necessity of the new method is more evident from the observed amplification: a 1% change in\n                    <jats:italic>r</jats:italic>\n                    results in a change exceeding 1.5% in ‘a’. The SP method, therefore, offers a robust alternative to conventional methods, producing physically consistent parameters for irrigation water management.\n                  </jats:p>",
+   "is-referenced-by-count": 1,
+   "article-number": "ird.70170"
+  },
+  {
+   "issue": "2",
+   "abstract": "<jats:title>Abstract</jats:title><jats:p>Groundwater is an essential nonrenewable resource for agricultural activities. In this study, groundwater samples were collected from the Shouguang area, and the level of groundwater contamination was investigated by measuring the NO<jats:sub>3</jats:sub><jats:sup>−</jats:sup>, SO<jats:sub>4</jats:sub><jats:sup>2−</jats:sup>, F<jats:sup>−</jats:sup>, Cl<jats:sup>−</jats:sup>, Ca<jats:sup>2+</jats:sup>, Mg<jats:sup>2+</jats:sup>, total dissolved solids (TDS) and chemical oxygen demand (COD). Exploratory data analysis was employed initially to study the hydrochemical characteristics and the sources of pollutants. Finally, the groundwater quality was measured using principal component analysis, entropy weight and complex correlation coefficient methods. As a common observation, the groundwater in the Shouguang area is slightly alkaline, so Ca<jats:sup>2+</jats:sup>, Mg<jats:sup>2+</jats:sup> and NO<jats:sub>3</jats:sub><jats:sup>−</jats:sup> acted as predominant pollutants. These contaminants originated from the excessive use of chemical fertilizers and large‐scale sewage irrigation. Second, perennial overexploitation of groundwater in Shouguang led to the generation of funnels and led to seawater intrusion. As a result, Cl<jats:sup>−</jats:sup> and TDS in the water samples collected from the north Shouguang area exceeded the regulatory guideline value, which indicates the risk of land salinization. However, the measured concentrations of SO<jats:sub>4</jats:sub><jats:sup>2−</jats:sup>, F<jats:sup>−</jats:sup> and COD were within the normal range. This confirms the minimal contribution of industries to groundwater pollution. East of the Ni River the groundwater is severely polluted, and the detected concentrations of pollutants are far beyond the standard limit and pose a potential risk to human health. Therefore, protection and treatment are urgently needed.</jats:p>",
+   "DOI": "10.1002/ird.2899",
+   "page": "694-710",
+   "is-referenced-by-count": 3,
+   "title": [
+    "Analysis and evaluation of groundwater pollution in Shouguang, China"
+   ],
+   "volume": "73",
+   "author": [
+    {
+     "given": "Tianhao",
+     "family": "Liu",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Shandong University of Science and Technology College of Earth Sciences and Engineering  Qingdao SD China"
+      },
+      {
+       "name": "Shandong Land Development Group Co., Ltd  Jinan SD China"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Song",
+     "family": "Fu",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Shandong University of Science and Technology College of Earth Sciences and Engineering  Qingdao SD China"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Longqing",
+     "family": "Shi",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Shandong University of Science and Technology College of Earth Sciences and Engineering  Qingdao SD China"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Qingmei",
+     "family": "Li",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Shandong Land Development Group Co., Ltd  Jinan SD China"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Lei",
+     "family": "Zhang",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Shandong Yushengjiahe Intelligent Technology Co., Ltd  Yantai China"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Irrigation and Drainage"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      11,
+      12
+     ]
+    ]
+   }
+  }
+ ]
+}

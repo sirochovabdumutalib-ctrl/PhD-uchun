@@ -1,0 +1,2736 @@
+{
+ "query": "groundwater monitoring network design optimization wells",
+ "source": "Crossref",
+ "date": "2026-11-18",
+ "filter": "2020–2026, journal-article",
+ "n": 40,
+ "items": [
+  {
+   "DOI": "10.1016/j.gsd.2024.101252",
+   "page": "101252",
+   "is-referenced-by-count": 8,
+   "title": [
+    "A novel groundwater monitoring network design framework for long-term and economical data monitoring"
+   ],
+   "volume": "26",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-4801-1273",
+     "authenticated-orcid": false,
+     "given": "Suraj",
+     "family": "Jena",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Groundwater for Sustainable Development"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2024,
+      8
+     ]
+    ]
+   },
+   "article-number": "101252"
+  },
+  {
+   "abstract": "<jats:p>Monitoring groundwater quality in economically important and other aquifers is carried out regularly as part of regulatory processes for water and other resource development. Many water quality parameters are measured as part of baseline monitoring around mining and onshore gas resource development regions to develop improved understanding of the hydrogeological system as well as to inform managerial decisions to assess and manage contamination risks and health hazards. Water quality distribution in an aquifer is most often inferred from point measurements from limited number of bores drilled at arbitrary locations. Estimating the distribution of water quality parameters in the aquifer based on these point measurements is often a challenging task and results in high uncertainty in the estimates due to limited data availability. Minimizing uncertainty can be achieved by drilling more bores to collect water quality data and several approaches are available to identify optimal bore hole locations to minimize estimation uncertainty. However, optimization of borehole locations is difficult when multiple water quality parameters are of interest and have different spatial distributions in the aquifer. In this study we use geostatistical kriging to interpolate a large number of groundwater quality parameters. Then we integrate these predicted values and use the Differential Evolution algorithm to determine optimal locations for bores that would simultaneously reduce spatial prediction uncertainty of all parameters. The method is applied for designing a groundwater monitoring network in the Namoi region of Australia for monitoring groundwater quality in an economically important aquifer of the Great Artesian Basin. Optimal locations for 10 new monitoring bores are identified using this approach.</jats:p>",
+   "DOI": "10.3389/feart.2023.1188316",
+   "is-referenced-by-count": 13,
+   "title": [
+    "Geostatistical based optimization of groundwater monitoring well network design"
+   ],
+   "volume": "11",
+   "author": [
+    {
+     "given": "Daniel W.",
+     "family": "Gladish",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Daniel E.",
+     "family": "Pagendam",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Sreekanth",
+     "family": "Janardhanan",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Dennis",
+     "family": "Gonzalez",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Frontiers in Earth Science"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      9,
+      6
+     ]
+    ]
+   },
+   "article-number": "1188316"
+  },
+  {
+   "issue": "2",
+   "DOI": "10.29252/envs.18.2.19",
+   "page": "19-40",
+   "is-referenced-by-count": 0,
+   "title": [
+    "Design of the optimal groundwater quality monitoring network using a genetic algorithm based optimization approach"
+   ],
+   "volume": "18",
+   "author": [
+    {
+     "given": "سمیه",
+     "family": "جنت رستمی",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "علی",
+     "family": "صلاحی",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Environmental Sciences"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2020,
+      6,
+      21
+     ]
+    ]
+   }
+  },
+  {
+   "DOI": "10.1016/j.wri.2022.100172",
+   "page": "100172",
+   "is-referenced-by-count": 18,
+   "title": [
+    "Selecting wells for an optimal design of groundwater monitoring network based on monitoring priority map: A Kish Island case study"
+   ],
+   "volume": "27",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0001-9169-9619",
+     "authenticated-orcid": false,
+     "given": "Hamid",
+     "family": "Amiri",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Sama",
+     "family": "Azadi",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Sirus",
+     "family": "Javadpour",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Ali Asghar",
+     "family": "Naghavi",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-5874-7591",
+     "authenticated-orcid": false,
+     "given": "Grzegorz",
+     "family": "Boczkaj",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Water Resources and Industry"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2022,
+      6
+     ]
+    ]
+   },
+   "article-number": "100172"
+  },
+  {
+   "issue": "2",
+   "abstract": "<jats:title>ABSTRACT</jats:title>\n               <jats:p/>\n               <jats:p>Groundwater resources meet a substantial portion of Iran's water demands, making awareness of groundwater quality essential for effective resource management. However, direct water quality monitoring is both time-consuming and costly. This study aims to optimize the monitoring network for groundwater quality at the Eshtehard plain, Iran, to reduce operational costs while maximizing information gained. A simulation–optimization approach is developed based on entropy theory, using SWAT to simulate runoff and nitrate recharge to the aquifer. Groundwater flow and quality are further modeled with MODFLOW–MT3DMS, while a genetic algorithm (GA) in MATLAB determines the optimal configuration of monitoring wells. Runoff calibration in SWAT achieved a coefficient of determination of 0.85 and a Nash–Sutcliffe efficiency of 0.81. For the groundwater model, NS values of 0.99 and 0.75 were achieved for steady-state and transient calibrations, respectively. Results indicate that 7 wells, out of 19 active monitoring wells, can provide sufficient qualitative information, allowing reduced sampling effort. To validate these findings, the fuzzy C-means clustering method was applied for comparative analysis. A joint entropy-based comparison revealed that the FCM-derived network provided less information significance than the GA-optimized network, underscoring the robustness of the proposed approach for designing efficient groundwater quality monitoring networks.</jats:p>",
+   "DOI": "10.2166/hydro.2025.139",
+   "page": "159-177",
+   "is-referenced-by-count": 5,
+   "title": [
+    "Entropy-based groundwater quality monitoring network design using a simulation–optimization approach by coupling genetic algorithm, MODFLOW and MT3DMS"
+   ],
+   "volume": "27",
+   "author": [
+    {
+     "given": "Hasan",
+     "family": "Farshad",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "1 Faculty of Civil, Water and Environmental Engineering, Technical and Engineering College, Shahid Beheshti University, Tehran, Iran"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-4099-9758",
+     "authenticated-orcid": false,
+     "given": "Mojtaba",
+     "family": "Shourian",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "1 Faculty of Civil, Water and Environmental Engineering, Technical and Engineering College, Shahid Beheshti University, Tehran, Iran"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Maryam Javan",
+     "family": "Salehi",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "1 Faculty of Civil, Water and Environmental Engineering, Technical and Engineering College, Shahid Beheshti University, Tehran, Iran"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Journal of Hydroinformatics"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      1,
+      21
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "1",
+   "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Water levels and water quality of open borehole wells in fractured bedrock are flow‐weighted averages that are a function of the hydraulic heads and transmissivities of water contributing fractures, properties that are rarely known. Without such knowledge using water levels and water quality data from fractured bedrock wells to assess groundwater flow and contaminant conditions can be highly misleading. This study demonstrates a cost‐effective single packer method to determine the hydraulic heads and transmissivities of water contributing fracture zones in crystalline bedrock wells. The method entails inflating a pipe plug to isolate sections of an open borehole at different depths and monitoring changes in the water level with time. At each depth, the change in water level with time was used to determine the sum of fracture transmissivities above the packer and then to solve for individual fracture transmissivity. Steady‐state wellbore heads along with the transmissivities were used to determine individual fracture heads using the weighted average head equation. The method was tested in five wells in crystalline bedrock located at the University of Connecticut in Storrs. The single packer head and transmissivity results were found to agree closely with those determined using conventional logging methods and the dissolved oxygen alteration method. The method appears to be a simple and cost‐effective alternative in obtaining important information on flow conditions in fractured crystalline bedrock wells.</jats:p>",
+   "DOI": "10.1111/gwmr.12365",
+   "page": "65-73",
+   "is-referenced-by-count": 0,
+   "title": [
+    "A Single Packer Method for Characterizing Water Contributing Fractures in Crystalline Bedrock Wells"
+   ],
+   "volume": "40",
+   "author": [
+    {
+     "given": "Neil A.",
+     "family": "Flahive",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Gary A.",
+     "family": "Robbins",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Groundwater Monitoring &amp; Remediation"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2020,
+      1
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "12",
+   "abstract": "<jats:p>Groundwater resource development, management, and planning essentially rely on their quantitative and qualitative monitoring. The information obtained from the monitoring networks of a given groundwater resource is used as a significant indicator for the status of that resource, and management schemes are subsequently made in order to develop and utilize this resource on a sustainable basis. In this study, the performance of the existing monitoring network of the quality of groundwater in Bahrain was evaluated and was spatially optimized using the geostatistical method of kriging. The estimation variance was used as a criterium in the design process, and variance reduction was used to measure the network performance. The process resulted in an increase in the number of observation points from 15 currently monitored wells to 91 wells, with 74% of these being augmented industrial and commercial wells that were to be self-reported to internalize the cost of groundwater management in their users. It is recommended that temporal optimization procedures for the groundwater level are conducted and that monitored groundwater quality data are stored in a dedicated groundwater management information system (MIS) along with the monitored data of groundwater levels and abstraction to effectively support the process of decision making for groundwater planning and management.</jats:p>",
+   "DOI": "10.3390/w15122169",
+   "page": "2169",
+   "is-referenced-by-count": 3,
+   "title": [
+    "Spatial Optimization of the Groundwater Quality Monitoring Network in the Kingdom of Bahrain"
+   ],
+   "volume": "15",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-0412-4882",
+     "authenticated-orcid": false,
+     "given": "Waleed",
+     "family": "Al-Zubari",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Department of Natural Resources and Environment, College of Graduate Studies, Arabian Gulf University, Manama P.O. Box 26671, Bahrain"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Ali",
+     "family": "Al-Shaabani",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Natural Resources and Environment, College of Graduate Studies, Arabian Gulf University, Manama P.O. Box 26671, Bahrain"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Nadir",
+     "family": "Abdulhameid",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Natural Resources and Environment, College of Graduate Studies, Arabian Gulf University, Manama P.O. Box 26671, Bahrain"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Water"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      6,
+      8
+     ]
+    ]
+   }
+  },
+  {
+   "DOI": "10.1016/j.watres.2022.118485",
+   "page": "118485",
+   "is-referenced-by-count": 22,
+   "title": [
+    "Aquifer heterogeneity controls to quality monitoring network performance for the protection of groundwater production wells"
+   ],
+   "volume": "218",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-1429-2185",
+     "authenticated-orcid": false,
+     "given": "Theo S.",
+     "family": "Sarris",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-2643-9404",
+     "authenticated-orcid": false,
+     "given": "Allanah",
+     "family": "Kenny",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "David M.",
+     "family": "Scott",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Murray E.",
+     "family": "Close",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Water Research"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2022,
+      6
+     ]
+    ]
+   },
+   "article-number": "118485"
+  },
+  {
+   "issue": "1",
+   "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>\n                    Total dissolved gas pressure (\n                    <jats:italic>P</jats:italic>\n                    <jats:sub>TDG</jats:sub>\n                    ) measurements are useful to measure accurate in situ dissolved gas concentrations in groundwater, but challenged by in‐well degassing. Although in‐well degassing has been widely observed, its cause(s) are not clear. We investigated the mechanism(s) by which gas‐charged groundwater in a recently pumped well becomes degassed. Vertical\n                    <jats:italic>P</jats:italic>\n                    <jats:sub>TDG</jats:sub>\n                    and dissolved gas concentration profiles were monitored in the standing water column (SWC) of a groundwater well screened in a gas‐charged aquifer for 7 days before and 15 days after pumping. Prior to pumping,\n                    <jats:italic>P</jats:italic>\n                    <jats:sub>TDG</jats:sub>\n                    values remained relatively constant and below calculated bubbling pressure (\n                    <jats:italic>P</jats:italic>\n                    <jats:sub>BUB</jats:sub>\n                    ) at all depths. In contrast, significant increases in\n                    <jats:italic>P</jats:italic>\n                    <jats:sub>TDG</jats:sub>\n                    were observed at all depths after pumping was initiated, as fresh groundwater with elevated in situ\n                    <jats:italic>P</jats:italic>\n                    <jats:sub>TDG</jats:sub>\n                    values was pumped through the well screen. After pumping ceased,\n                    <jats:italic>P</jats:italic>\n                    <jats:sub>TDG</jats:sub>\n                    values decreased to below\n                    <jats:italic>P</jats:italic>\n                    <jats:sub>BUB</jats:sub>\n                    at all depths over the 15‐day post‐pumping period, indicating well degassing was active over this time frame. Vertical profiles of estimated dissolved gas concentrations before and after pumping provided insight into the mechanism(s) by which in‐well degassing occurred in the SWC. During both monitoring periods, downward mixing of dominant atmospheric and/or tracer gases, and upwards mixing of dominant groundwater gases were observed in the SWC. The key mechanisms responsible for in‐well degassing were (i) bubble exsolution when\n                    <jats:italic>P</jats:italic>\n                    <jats:sub>TDG</jats:sub>\n                    exceeded\n                    <jats:italic>P</jats:italic>\n                    <jats:sub>BUB</jats:sub>\n                    as gas‐charged well water moves upwards in the SWC during recovery (i.e., hydraulic gradient driven convection), (ii) microadvection caused by the upward migration of bubbles under buoyancy, and (iii) long‐term, thermally driven vertical convection.\n                  </jats:p>",
+   "DOI": "10.1111/gwat.13238",
+   "page": "86-99",
+   "is-referenced-by-count": 5,
+   "title": [
+    "In‐Well Degassing of Monitoring Wells Completed in Gas‐Charged Aquifers"
+   ],
+   "volume": "61",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-0075-0931",
+     "authenticated-orcid": false,
+     "given": "Tiago A.",
+     "family": "Morais",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Department of Geoscience University of Calgary  Calgary Alberta Canada"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "M. Cathryn",
+     "family": "Ryan",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Geoscience University of Calgary  Calgary Alberta Canada"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Groundwater"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2022,
+      8,
+      22
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "3",
+   "DOI": "10.1111/gwat.13398",
+   "page": "328-329",
+   "is-referenced-by-count": 0,
+   "title": [
+    "Calling All Groundwater Professionals: Support the National Groundwater Monitoring Network"
+   ],
+   "volume": "62",
+   "author": [
+    {
+     "given": "David R.",
+     "family": "Wunsch",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Delaware Geological Survey University of Delaware  257 Academy Street Newark Delaware 19716‐7500 USA"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Robert P.",
+     "family": "Schreiber",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "CDM Smith  75 State Street, Suite 701 Boston Massachusetts 02109‐1940 USA"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Groundwater"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2024,
+      3,
+      29
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "4",
+   "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>A community‐based, real‐time, groundwater level monitoring network consisting of 11 sites was built in Nova Scotia, Canada, using privately owned domestic wells and low‐cost, custom‐made water level meters. The real‐time meters use an ultrasonic sensor to measure water levels and an Internet‐of‐Things device to transmit the data to the Internet by WiFi or cellular connection. The water level data are plotted in real‐time on a time‐series graph and are available immediately for online viewing and downloading. Based on observations at three sites, the real‐time water level meter data compare well to pressure transducer measurements, with mean absolute errors of less than 0.02 m. The meters are simple to build, and components are readily available from online suppliers at low cost.</jats:p>",
+   "DOI": "10.1111/gwmr.12408",
+   "page": "67-73",
+   "is-referenced-by-count": 24,
+   "title": [
+    "Building a\n                    <scp>Low‐Cost</scp>\n                    ,\n                    <scp>Internet‐of‐Things</scp>\n                    ,\n                    <scp>Real‐Time</scp>\n                    Groundwater Level Monitoring Network"
+   ],
+   "volume": "40",
+   "author": [
+    {
+     "given": "John",
+     "family": "Drage",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Gavin",
+     "family": "Kennedy",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Groundwater Monitoring &amp; Remediation"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2020,
+      8,
+      25
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "53",
+   "DOI": "10.1007/s11356-023-30228-x",
+   "page": "114535-114555",
+   "is-referenced-by-count": 1,
+   "title": [
+    "Optimal layout design of groundwater pollution monitoring network using parameter iterative updating strategy-based ant colony optimization algorithm"
+   ],
+   "volume": "30",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0001-5134-4610",
+     "authenticated-orcid": false,
+     "given": "Jiannan",
+     "family": "Luo",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Yu",
+     "family": "Xiong",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Zhuo",
+     "family": "Song",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Yefei",
+     "family": "Ji",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Xin",
+     "family": "Xin",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Hao",
+     "family": "Zou",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Environmental Science and Pollution Research"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      10,
+      20
+     ]
+    ]
+   }
+  },
+  {
+   "DOI": "10.47100/conferences.v1i1.350",
+   "title": [
+    "AUTOMATED SYSTEMS FOR MONITORING GROUNDWATER PARAMETERS IN OBSERVATION WELLS"
+   ],
+   "container-title": [
+    "Конференции"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2021,
+      1,
+      16
+     ]
+    ]
+   },
+   "author": [
+    {
+     "given": "P",
+     "family": "Kalandarov",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "A",
+     "family": "Nigmatov",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "N",
+     "family": "Qodirjonova",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "A",
+     "family": "Andakulov",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "abstract": "<jats:p>The report discusses the problems of monitoring the level of underground water, the choice of a method and, based on it, the improvement of the sensor for monitoring measured parameters using a remote data transmission module in real time.</jats:p>",
+   "is-referenced-by-count": 0
+  },
+  {
+   "issue": "2",
+   "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Chronic chemical and biological fouling of groundwater extraction wells can lead to high well‐maintenance costs, increased pump downtime, and decreased pump efficiency. Commonly observed types of fouling include chemical precipitation of iron and carbonate minerals, bacterial accumulation, and oxidation in the pumping environment. Standard methods to rehabilitate and prevent fouling include chlorine treatments, acid and heat treatments, and physical scrubbing of screens and risers. Methods may effectively target one type of fouling while enhancing other fouling types. A down‐well, fouling‐prevention system was designed, tested, and then implemented on a sitewide basis at the former Bannister Federal Complex property in Kansas City, Missouri. Extraction wells at the site had a multi‐decade history of chronic fouling. The antifouling system presented here creates an oxygen‐deprived environment within the air column of the well through air displacement with a non‐reactive gas. The removal of oxygen from the air column inhibits both biological activity and certain chemical reactions associated with fouling and does not require the use of chemical treatments or manual scrubbing. At the end of the year‐long study period, chemical and biological fouling within the test wells was largely absent, whereas control wells undergoing chlorine treatment were heavily fouled and required rehabilitation.</jats:p>",
+   "DOI": "10.1111/gwmr.12711",
+   "page": "56-64",
+   "is-referenced-by-count": 0,
+   "title": [
+    "A Non‐Reactive Gas System to Reduce Well Fouling and Maintenance of Extraction Wells"
+   ],
+   "volume": "45",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0009-0007-9237-6257",
+     "authenticated-orcid": false,
+     "given": "Benjamin B.",
+     "family": "Petersen",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Shelly M.",
+     "family": "Griffin",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-1934-4781",
+     "authenticated-orcid": false,
+     "given": "Harvey A.",
+     "family": "Cohen",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Groundwater Monitoring &amp; Remediation"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      3
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "3",
+   "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Quantifying contaminant mass flux and plume mass discharge is essential for flux‐based management of per‐ and polyfluoroalkyl substances (PFAS), yet few monitoring technologies provide the spatial resolution, repeatability, and cost efficiency needed for long‐term application. Many PFAS plumes originating from discrete source areas exhibit high width‐to‐thickness ratios driven by recharge‐dominated transport, weak vertical dispersion, and hydraulic conductivity anisotropy, limiting the effectiveness of conventional vertical transects for control‐plane discharge assessment. This study evaluated the Vertebrae™ Well System (VWS), a segmented, nested horizontal multi‐screen technology, for quantifying groundwater flux and perfluorooctane sulfonate (PFOS) mass discharge under relatively homogeneous aquifer hydraulic conditions at the Grayling Army Airfield (GAAF) in northern Michigan, USA. Two 500‐feet VWS arrays were installed downgradient of a former aqueous film‐forming foam source area, oriented perpendicular to groundwater flow. Vertical placement was informed by prior high‐resolution characterization. Groundwater flux was quantified using multiple independent methods, including hydraulic profiling, tracer testing, active distributed temperature sensing, and grain‐size‐based permeability estimation, and integrated with PFOS concentrations across eight performance monitoring (PM) events. Geostatistical interpolation was used to support transect‐scale flux and discharge integration in an unconfined sandy aquifer. Results indicate consistent spatial patterns and reproducibility across methods, with cross‐method agreement within expected field‐scale variability, supporting the interpretation that segmented horizontal wells can capture subtle lateral flux variability within the groundwater table fluctuation zone and quantify plume‐scale PFOS mass discharge with high spatial and temporal resolution. Horizontal multi‐screen systems provided repeatable, spatially resolved estimates of groundwater flux and PFOS mass discharge when screen placement targeted dominant concentration and groundwater flow horizons. These findings highlight the utility of segmented horizontal wells for flux‐based remediation evaluation, regulatory decision‐making, and long‐term performance monitoring at PFAS‐impacted sites.</jats:p>",
+   "DOI": "10.1111/gwmr.70060",
+   "page": "66-81",
+   "is-referenced-by-count": 1,
+   "title": [
+    "Vertebrae™ Segmented Horizontal Wells for Monitoring\n                    <scp>PFAS</scp>\n                    Contaminant Mass Flux and Discharge"
+   ],
+   "volume": "46",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0009-0008-6067-0934",
+     "authenticated-orcid": false,
+     "given": "Kristen",
+     "family": "Hasbrouck",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-0004-9977",
+     "authenticated-orcid": false,
+     "given": "Craig",
+     "family": "Divine",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Jesse",
+     "family": "Wright",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Beth",
+     "family": "Parker",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Jonathan",
+     "family": "Munn",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-6656-3004",
+     "authenticated-orcid": false,
+     "given": "Steven",
+     "family": "Chapman",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Lance",
+     "family": "Robinson",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Groundwater Monitoring &amp; Remediation"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      5,
+      22
+     ]
+    ]
+   }
+  },
+  {
+   "DOI": "10.1016/j.jhydrol.2023.130145",
+   "page": "130145",
+   "is-referenced-by-count": 34,
+   "title": [
+    "Groundwater level monitoring network design with machine learning methods"
+   ],
+   "volume": "625",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0001-5599-9817",
+     "authenticated-orcid": false,
+     "given": "Sadaf",
+     "family": "Teimoori",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Mohammad Hessam",
+     "family": "Olya",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Carol J.",
+     "family": "Miller",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Journal of Hydrology"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      10
+     ]
+    ]
+   },
+   "article-number": "130145"
+  },
+  {
+   "issue": "20",
+   "abstract": "<jats:p>Selecting representative groundwater monitoring wells in polluted areas is crucial to comprehensively assess groundwater pollution, thereby ensuring effective groundwater remediation. However, numerous factors can affect the effectiveness of groundwater monitoring well network optimizations. A local sensitivity analysis method was used in this study to analyze the hydrogeological parameters of a simulation groundwater solute transport model. The results showed a strong effect of longitudinal dispersion and transverse dispersion on the output results of the simulation model, and a good fit between the backpropagation neural network (BPNN)-based alternative model’s results and those obtained using the solute transport simulation model, accurately reflecting the input and output relationship of the simulation model. The optimized groundwater monitoring layout scheme consisted of four groundwater monitoring wells, namely no. 7, no. 16, no. 23, and no. 24. These wells resulted in a groundwater fluoride pollution rate of 98.44%, which was substantially higher than that obtained using the random layout scheme. In addition, statistical analysis of the fluoride groundwater pollution results obtained using the Monte Carlo random simulation highlighted continuous and high groundwater fluoride levels in the second and third pollution sources and their downstream groundwater. Therefore, more attention should be devoted to these sources to ensure the effective remediation of groundwater pollution in the study area.</jats:p>",
+   "DOI": "10.3390/w16202965",
+   "page": "2965",
+   "is-referenced-by-count": 0,
+   "title": [
+    "Optimization of a Groundwater Pollution Monitoring Well Network Using a Backpropagation Neural Network-Based Model"
+   ],
+   "volume": "16",
+   "author": [
+    {
+     "given": "Heng",
+     "family": "Wang",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Nanjing Institute of Environmental Sciences, Ministry of Ecology and Environment of the People’s Republic of China, Nanjing 210042, China"
+      },
+      {
+       "name": "Hefei East New Center Construction Investment Co., Ltd., Hefei 230011, China"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Xu",
+     "family": "Huang",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Geological Survey of Anhui Province, Hefei 230002, China"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Bing",
+     "family": "Wang",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Geological Survey of Anhui Province, Hefei 230002, China"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Xiaoyu",
+     "family": "Zhang",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Nanjing Institute of Environmental Sciences, Ministry of Ecology and Environment of the People’s Republic of China, Nanjing 210042, China"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Caiyi",
+     "family": "Zhao",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Nanjing Institute of Environmental Sciences, Ministry of Ecology and Environment of the People’s Republic of China, Nanjing 210042, China"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Rongrong",
+     "family": "Ying",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Nanjing Institute of Environmental Sciences, Ministry of Ecology and Environment of the People’s Republic of China, Nanjing 210042, China"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Yanhong",
+     "family": "Feng",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Nanjing Institute of Environmental Sciences, Ministry of Ecology and Environment of the People’s Republic of China, Nanjing 210042, China"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Zhewei",
+     "family": "Hu",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Nanjing Institute of Environmental Sciences, Ministry of Ecology and Environment of the People’s Republic of China, Nanjing 210042, China"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Water"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2024,
+      10,
+      17
+     ]
+    ]
+   }
+  },
+  {
+   "DOI": "10.7306/gq.1842",
+   "title": [
+    "New organic groundwater pollutants in the national groundwater monitoring network of Poland"
+   ],
+   "container-title": [
+    "Geological Quarterly"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      12,
+      31
+     ]
+    ]
+   },
+   "author": [
+    {
+     "given": "Anna",
+     "family": "KUCZYŃSKA",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "is-referenced-by-count": 1,
+   "volume": "69",
+   "issue": "4"
+  },
+  {
+   "issue": "12",
+   "abstract": "<jats:p>This study presents the development and field testing of a Pressurized Driving-Down Air Multilevel Sampler (PDA-MLS), an integrated groundwater sampling device designed for depth-discrete sampling in boreholes affected by floating non-aqueous phase liquids (NAPLs). Conventional sampling methods—such as low-flow pumps, bailers, and packer-isolated systems—often fail under these conditions due to limited accessibility, cross-contamination, or disturbance of the water column. The proposed system addresses these limitations through a controlled pressurized-gas actuation mechanism that transfers groundwater from multiple PTFE-membrane chambers installed at discrete depths. This configuration enables low-disturbance sampling below floating contaminant layers. The use of chemically inert materials (stainless steel and PTFE) minimizes sampling artifacts and ensures compatibility with volatile organic compound (VOC) analyses. A simplified hydraulic conceptual framework describing inflow, outflow, and pressure-driven displacement was developed to support purge-duration estimation and operational parameter definition. The device was tested in a 90 m deep fractured limestone aquifer contaminated by tetrachloroethylene (PCE), where floating hydrocarbons limited the applicability of conventional sampling techniques. Field testing showed stable discharge conditions (~145–160 mL/min), repeatable sampling cycles, and successful collection of depth-discrete groundwater samples under the investigated site conditions. No evidence of sampler-related hydrocarbon entrainment was observed in the collected samples within the analytical detection limits of the adopted laboratory methods. To the authors’ knowledge, the PDA-MLS represents one of the few groundwater sampling systems specifically designed to combine low-disturbance multilevel sampling with operation in wells affected by floating NAPL. These features make it a promising tool for environmental monitoring, high-resolution characterization of fractured aquifers, and long-term assessment of contaminated sites.</jats:p>",
+   "DOI": "10.3390/s26123788",
+   "page": "3788",
+   "is-referenced-by-count": 0,
+   "title": [
+    "Design and Field Assessment of a Pressurized Driving-Down Air Multilevel Sampler for Depth-Discrete Groundwater Monitoring in NAPL Impacted Wells"
+   ],
+   "volume": "26",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0001-5101-9826",
+     "authenticated-orcid": false,
+     "given": "Giuseppe",
+     "family": "Passarella",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Water Research Institute of the National Research Council of Italy, 70132 Bari, Italy"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0003-3891-0977",
+     "authenticated-orcid": false,
+     "given": "Rita",
+     "family": "Masciale",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Water Research Institute of the National Research Council of Italy, 70132 Bari, Italy"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Antonio",
+     "family": "Di Fazio",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Water Resources Commission, Regional Order of Geologists of Puglia, 70125 Bari, Italy"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Costantino",
+     "family": "Masciopinto",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Water Research Institute of the National Research Council of Italy, 70132 Bari, Italy"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Sensors"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      6,
+      14
+     ]
+    ]
+   }
+  },
+  {
+   "DOI": "10.1016/j.jhydrol.2024.130667",
+   "page": "130667",
+   "is-referenced-by-count": 23,
+   "title": [
+    "Data-driven statistical optimization of a groundwater monitoring network"
+   ],
+   "volume": "631",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0001-6409-4673",
+     "authenticated-orcid": false,
+     "given": "Mara",
+     "family": "Meggiorin",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-7600-7802",
+     "authenticated-orcid": false,
+     "given": "Nuria",
+     "family": "Naranjo-Fernández",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-9661-5269",
+     "authenticated-orcid": false,
+     "given": "Giulia",
+     "family": "Passadore",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Andrea",
+     "family": "Sottani",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Gianluca",
+     "family": "Botter",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Andrea",
+     "family": "Rinaldo",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Journal of Hydrology"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2024,
+      3
+     ]
+    ]
+   },
+   "article-number": "130667"
+  },
+  {
+   "issue": "15",
+   "abstract": "<jats:p>The over-extraction of groundwater from thin fresh groundwater lenses is a threat to the livelihood of farmers in the Lower Indus Basin (LIB). It is essential to monitor and regulate this pumping to sustain fresh groundwater lenses. In this study, we applied a modelling approach in combination with geostatistical analysis to identify the critical locations to monitor the groundwater levels for sustaining fresh groundwater in the LIB. Our approach included four steps: (i) simulating temporal heads using a calibrated hydrogeological model; (ii) sampling monitoring locations using a hexagonal pattern of sampling; (iii) applying principal component analysis (PCA) of the temporal head observations, and selecting high scoring locations from the PCA; and (iv) minimizing the observation points to represent the water level contours. The calibrated model was able to replicate the hydro-dynamic behavior of the study area, with a root mean square of 0.95 and an absolute residual mean of 0.74 m. The hexagonal pattern of spatial sampling resulted in a 195 point network, but PCA reduced this network to 135 points and contour classification reduced it even further to 59 points. The 195, 135, and 59 point networks represented the water levels with average standard errors of 0.098, 0.318, and 0.610 m, respectively. Long-term simulations with increased pumping showed that the water levels would best be assessed by 195 monitoring points, although 135 and 59 points would represent the depleting area but would not capture the water logging area.</jats:p>",
+   "DOI": "10.3390/app10155200",
+   "page": "5200",
+   "is-referenced-by-count": 6,
+   "title": [
+    "Modelling Groundwater Hydraulics to Design a Groundwater Level Monitoring Network for Sustainable Management of Fresh Groundwater Lens in Lower Indus Basin, Pakistan"
+   ],
+   "volume": "10",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0001-5967-3355",
+     "authenticated-orcid": false,
+     "given": "Waqas",
+     "family": "Ahmed",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "US Pakistan Center for Advanced Studies in Water, Mehran University of Engineering and Technology, Jamshoro 76020, Pakistan"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Zulfiqar Ali",
+     "family": "Rahimoon",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "US Pakistan Center for Advanced Studies in Water, Mehran University of Engineering and Technology, Jamshoro 76020, Pakistan"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Carlos Anthony",
+     "family": "Oroza",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Civil and Environmental Engineering, University of Utah, Salt Lake City, UT 84102, USA"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Salman",
+     "family": "Sarwar",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "US Pakistan Center for Advanced Studies in Water, Mehran University of Engineering and Technology, Jamshoro 76020, Pakistan"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Abdul Latif",
+     "family": "Qureshi",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "US Pakistan Center for Advanced Studies in Water, Mehran University of Engineering and Technology, Jamshoro 76020, Pakistan"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Jehangir",
+     "family": "Framroze Punthakey",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Ecoseal Developments Pty Ltd., Roseville, NSW 2069, Australia"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-5253-2688",
+     "authenticated-orcid": false,
+     "given": "Muhammad",
+     "family": "Arfan",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "US Pakistan Center for Advanced Studies in Water, Mehran University of Engineering and Technology, Jamshoro 76020, Pakistan"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Applied Sciences"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2020,
+      7,
+      28
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "2",
+   "DOI": "10.1007/s10661-023-12276-5",
+   "is-referenced-by-count": 10,
+   "title": [
+    "Optimal design of groundwater pollution monitoring network based on a back-propagation neural network surrogate model and grey wolf optimizer algorithm under uncertainty"
+   ],
+   "volume": "196",
+   "author": [
+    {
+     "given": "Xinze",
+     "family": "Guo",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Jiannan",
+     "family": "Luo",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Wenxi",
+     "family": "Lu",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Guangqi",
+     "family": "Dong",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Zidong",
+     "family": "Pan",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Environmental Monitoring and Assessment"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2024,
+      1,
+      10
+     ]
+    ]
+   },
+   "article-number": "132"
+  },
+  {
+   "DOI": "10.1016/j.envres.2022.113022",
+   "page": "113022",
+   "is-referenced-by-count": 43,
+   "title": [
+    "Machine learning-based optimal design of groundwater pollution monitoring network"
+   ],
+   "volume": "211",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0001-6036-7400",
+     "authenticated-orcid": false,
+     "given": "Yu",
+     "family": "Xiong",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-5134-4610",
+     "authenticated-orcid": false,
+     "given": "Jiannan",
+     "family": "Luo",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Xuan",
+     "family": "Liu",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-9093-5445",
+     "authenticated-orcid": false,
+     "given": "Yong",
+     "family": "Liu",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Xin",
+     "family": "Xin",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0003-3450-8710",
+     "authenticated-orcid": false,
+     "given": "Shuangyu",
+     "family": "Wang",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Environmental Research"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2022,
+      8
+     ]
+    ]
+   },
+   "article-number": "113022"
+  },
+  {
+   "DOI": "10.1016/j.gsd.2024.101398",
+   "page": "101398",
+   "is-referenced-by-count": 6,
+   "title": [
+    "Groundwater level prediction using modified recurrent neural network combined with meta-heuristic optimization algorithm"
+   ],
+   "volume": "28",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-7596-3368",
+     "authenticated-orcid": false,
+     "given": "Eui Hoon",
+     "family": "Lee",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Groundwater for Sustainable Development"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      2
+     ]
+    ]
+   },
+   "article-number": "101398"
+  },
+  {
+   "issue": "2",
+   "DOI": "10.1007/s11269-022-03404-w",
+   "page": "797-818",
+   "is-referenced-by-count": 17,
+   "title": [
+    "Optimal Design of Groundwater Quality Monitoring Network Using Aquifer Vulnerability Map"
+   ],
+   "volume": "37",
+   "author": [
+    {
+     "given": "Hedi",
+     "family": "Mahmoudpour",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Somaye",
+     "family": "Janatrostami",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Afshin",
+     "family": "Ashrafzadeh",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Water Resources Management"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      1
+     ]
+    ]
+   }
+  },
+  {
+   "DOI": "10.1016/j.gsd.2019.100294",
+   "page": "100294",
+   "is-referenced-by-count": 19,
+   "title": [
+    "A comparison of statistical methods for evaluating missing data of monitoring wells in the Kazeroun Plain, Fars Province, Iran"
+   ],
+   "volume": "10",
+   "author": [
+    {
+     "given": "Shahla",
+     "family": "Asgharinia",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Andrea",
+     "family": "Petroselli",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Groundwater for Sustainable Development"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2020,
+      4
+     ]
+    ]
+   },
+   "article-number": "100294"
+  },
+  {
+   "issue": "1",
+   "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Optimal groundwater monitoring networks have an important role in water resources management. For this purpose, two scenarios were presented. The first scenario designs a monitoring network and the second scenario chooses optimal wells from the existing ones in the study area of the monitoring network. At the first step, a database including groundwater elevation in potential wells was produced using the Kriging method. The optimal monitoring network in the first scenario was determined by preset conventions and found by the non-dominated sorting genetic algorithm (NSGA-II). In the second scenario, the optimal monitoring network was determined by entropy theory through calculating entropy for each of the 29 observation wells. Finally, the first scenario obtained a network with 12 observation stations showing root mean square error (RMSE) value given as 0.61 m. Comparison between entropy of rainfall and groundwater level time series in the first scenario had the same variation. The optimal monitoring network in the first scenario has been able to reduce the number of monitoring stations by 60% in comparison with the existing observation network. The second scenario used entropy theory and calculated the energy of each of the 29 observation wells which obtained a monitoring network with 11 stations.</jats:p>",
+   "DOI": "10.2166/hydro.2020.061",
+   "page": "136-150",
+   "is-referenced-by-count": 12,
+   "title": [
+    "Multi-objective optimization of groundwater monitoring network using a probability Pareto genetic algorithm and entropy method (case study: Silakhor plain)"
+   ],
+   "volume": "23",
+   "author": [
+    {
+     "given": "Mehdi",
+     "family": "Komasi",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Department of Civil Engineering, Ayatollah Boroujerdi University, Boroujerd, Iran"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Hesam",
+     "family": "Goudarzi",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Civil Engineering – Water Resource Management, K. N. Toosy University of Technology, Tehran, Iran"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Journal of Hydroinformatics"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2020,
+      10,
+      27
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "9",
+   "DOI": "10.1061/jwrmd5.wreng-6867",
+   "is-referenced-by-count": 4,
+   "title": [
+    "Multiobjective Optimization of Groundwater Monitoring Network Based on Improved Quantum Particle Swarm Optimization Algorithm"
+   ],
+   "volume": "151",
+   "author": [
+    {
+     "given": "Zhiqi",
+     "family": "Gu",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Jilin Univ.",
+       "place": [
+        "PR China"
+       ]
+      },
+      {
+       "name": "Jilin Univ.",
+       "place": [
+        "PR China"
+       ]
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Jianmin",
+     "family": "Bian",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Jilin Univ.",
+       "place": [
+        "PR China"
+       ]
+      },
+      {
+       "name": "Jilin Univ.",
+       "place": [
+        "PR China"
+       ]
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Yu",
+     "family": "Wang",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Jilin Univ.",
+       "place": [
+        "PR China"
+       ]
+      },
+      {
+       "name": "Jilin Univ.",
+       "place": [
+        "PR China"
+       ]
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Xiaoqing",
+     "family": "Sun",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Jilin Univ.",
+       "place": [
+        "PR China"
+       ]
+      },
+      {
+       "name": "Jilin Univ.",
+       "place": [
+        "PR China"
+       ]
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Dongmei",
+     "family": "Ruan",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Jilin Univ.",
+       "place": [
+        "PR China"
+       ]
+      },
+      {
+       "name": "Jilin Univ.",
+       "place": [
+        "PR China"
+       ]
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-6988-6776",
+     "authenticated-orcid": true,
+     "given": "Yanmei",
+     "family": "Li",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Univ. of Guanajuato",
+       "place": [
+        "Mexico"
+       ]
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Journal of Water Resources Planning and Management"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      9
+     ]
+    ]
+   },
+   "article-number": "04025045"
+  },
+  {
+   "issue": "6",
+   "DOI": "10.1007/s10661-019-7938-6",
+   "is-referenced-by-count": 2,
+   "title": [
+    "Subset selection via continuous optimization with applications to network design"
+   ],
+   "volume": "192",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0001-9875-0616",
+     "authenticated-orcid": false,
+     "given": "Radislav",
+     "family": "Vaisman",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Environmental Monitoring and Assessment"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2020,
+      5,
+      13
+     ]
+    ]
+   },
+   "article-number": "361"
+  },
+  {
+   "issue": "8",
+   "DOI": "10.1007/s11269-020-02568-7",
+   "page": "2503-2516",
+   "is-referenced-by-count": 25,
+   "title": [
+    "Optimal Design of Groundwater Monitoring Network Using the Combined Election-Kriging Method"
+   ],
+   "volume": "34",
+   "author": [
+    {
+     "given": "Mohadeseh",
+     "family": "Kavusi",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-2863-8482",
+     "authenticated-orcid": false,
+     "given": "Abbas",
+     "family": "Khashei Siuki",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Mahdi",
+     "family": "Dastourani",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Water Resources Management"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2020,
+      6
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "3",
+   "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Engineering practice in monitoring design aims at the optimum number of observation wells needed to assess the growth of a contaminated volume groundwater, the plume. Available methodologies rely on a combination of a numerical groundwater transport model, GIS‐techniques and an optimization technique and require a relative huge amount of data and computer resources. The method of advective transport phenomena enables to calculate the longitudinal and vertical growth of a contaminant plume along the flow path by simple analytic expressions using only three stochastic parameters, the log conductivity variance and the horizontal and vertical characteristic lengths, that together describe the heterogeneity of the aquifer. In previous work, the calculated plume growth has been verified in 12 large experiments all over the world. The method is used to investigate the relationship between uncertainty in the conductivity variation and the plume growth by calculation of the spreading of water particles in a vertical section along the traveled path. In a very heterogeneous aquifer, virtually all water particles spread forward about equally generating a limited forward growth compared to the traveled distance that is not sensitive to uncertainty in the conductivity. In a nearly homogenous aquifer, only a part of the water particles is spread forward, which is repeated at different depths along the traveled path causing significant uncertainty in the position and length of the plume growth. Therefore, an observation network should be designed more densely in a homogeneous aquifer than in a heterogeneous one. A calculation tool is provided.</jats:p>",
+   "DOI": "10.1111/gwat.13467",
+   "page": "319-325",
+   "is-referenced-by-count": 2,
+   "title": [
+    "Using Advective Transport Phenomena to Account for Uncertainty of Conductivity in Monitoring Design"
+   ],
+   "volume": "63",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0003-2371-2628",
+     "authenticated-orcid": false,
+     "given": "Willem J.",
+     "family": "de Lange",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Deltares  Utrecht The Netherlands"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Groundwater"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      3,
+      14
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "11",
+   "DOI": "10.1007/s10661-020-08646-y",
+   "is-referenced-by-count": 20,
+   "title": [
+    "A GIS-expert-based approach for groundwater quality monitoring network design in an alluvial aquifer: a case study and a practical guide"
+   ],
+   "volume": "192",
+   "author": [
+    {
+     "given": "Kamal",
+     "family": "Taheri",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Thomas M.",
+     "family": "Missimer",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Vajed",
+     "family": "Amini",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Jamil",
+     "family": "Bahrami",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Reza",
+     "family": "Omidipour",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Environmental Monitoring and Assessment"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2020,
+      10,
+      7
+     ]
+    ]
+   },
+   "article-number": "684"
+  },
+  {
+   "DOI": "10.1016/j.gsd.2024.101313",
+   "page": "101313",
+   "is-referenced-by-count": 5,
+   "title": [
+    "Achievements and significance of national hydrograph stations network and 55 years of continuous groundwater level monitoring in India"
+   ],
+   "volume": "27",
+   "author": [
+    {
+     "given": "Mayank",
+     "family": "Dixit",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Mohit",
+     "family": "Arora",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "H.P.",
+     "family": "Jayaprakash",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Veena R.",
+     "family": "Achutha",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Groundwater for Sustainable Development"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2024,
+      11
+     ]
+    ]
+   },
+   "article-number": "101313"
+  },
+  {
+   "issue": "22",
+   "DOI": "10.1007/s00521-022-07507-8",
+   "page": "19515-19545",
+   "is-referenced-by-count": 34,
+   "title": [
+    "Machine learning for groundwater pollution source identification and monitoring network optimization"
+   ],
+   "volume": "34",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0001-7089-1791",
+     "authenticated-orcid": false,
+     "given": "Yiannis N.",
+     "family": "Kontos",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-7931-0532",
+     "authenticated-orcid": false,
+     "given": "Theodosios",
+     "family": "Kassandros",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-8352-8294",
+     "authenticated-orcid": false,
+     "given": "Konstantinos",
+     "family": "Perifanos",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Marios",
+     "family": "Karampasis",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-8493-0333",
+     "authenticated-orcid": false,
+     "given": "Konstantinos L.",
+     "family": "Katsifarakis",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-1033-5985",
+     "authenticated-orcid": false,
+     "given": "Kostas",
+     "family": "Karatzas",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Neural Computing and Applications"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2022,
+      6,
+      26
+     ]
+    ]
+   }
+  },
+  {
+   "DOI": "10.1016/j.gsd.2021.100664",
+   "page": "100664",
+   "is-referenced-by-count": 14,
+   "title": [
+    "Optimal design of groundwater pollution management systems for a decanting contaminated site: A simulation-optimization approach"
+   ],
+   "volume": "15",
+   "author": [
+    {
+     "given": "Augustina Clara",
+     "family": "Alexander",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Julius Musyoka",
+     "family": "Ndambuki",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Groundwater for Sustainable Development"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2021,
+      11
+     ]
+    ]
+   },
+   "article-number": "100664"
+  },
+  {
+   "DOI": "10.1111/gwmr.70053",
+   "title": [
+    "Announcement"
+   ],
+   "container-title": [
+    "Groundwater Monitoring &amp; Remediation"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      3
+     ]
+    ]
+   },
+   "is-referenced-by-count": 0,
+   "volume": "46",
+   "issue": "2",
+   "page": "100-101"
+  },
+  {
+   "DOI": "10.1111/gwmr.12434",
+   "title": [
+    "Withdrawal"
+   ],
+   "container-title": [
+    "Groundwater Monitoring &amp; Remediation"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2021,
+      4,
+      12
+     ]
+    ]
+   },
+   "is-referenced-by-count": 0,
+   "volume": "41",
+   "issue": "3",
+   "page": "89-89"
+  },
+  {
+   "DOI": "10.1111/gwmr.12489",
+   "title": [
+    "Newsmakers"
+   ],
+   "container-title": [
+    "Groundwater Monitoring &amp; Remediation"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2021,
+      9
+     ]
+    ]
+   },
+   "is-referenced-by-count": 0,
+   "volume": "41",
+   "issue": "4",
+   "page": "93-94"
+  },
+  {
+   "DOI": "10.1111/gwmr.70036",
+   "title": [
+    "News"
+   ],
+   "container-title": [
+    "Groundwater Monitoring &amp; Remediation"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      1
+     ]
+    ]
+   },
+   "is-referenced-by-count": 0,
+   "volume": "46",
+   "issue": "1",
+   "page": "3-6"
+  },
+  {
+   "DOI": "10.1111/gwmr.12599",
+   "title": [
+    "Newsmakers"
+   ],
+   "container-title": [
+    "Groundwater Monitoring &amp; Remediation"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      6
+     ]
+    ]
+   },
+   "is-referenced-by-count": 0,
+   "volume": "43",
+   "issue": "3",
+   "page": "142-142"
+  }
+ ]
+}

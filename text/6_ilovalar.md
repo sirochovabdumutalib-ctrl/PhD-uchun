@@ -33,6 +33,9 @@
 | A.Akramkhanov, P.L.G.Vlek, 2012 \[13\] | Xorazm viloyati | Tuproq o’lchovlari va atrof-muhit ko’rsatkichlari | Neyron tarmog’i | Tuproq sho’rlanishi xavfining fazoviy taqsimoti |
 | A.Hamidov va boshq., 2020 \[146\] | Xorazm viloyati | 1991–2017-yillar | Mann–Kendall mezoni, regressiya | 2100-yilgacha sath 1,72–1,79 m, minerallashuv 1,85–2,1 g/l bo’lishi prognoz qilingan |
 | Sh.Kenjabayev va boshq. \[60, 61\] | Xorazm, Qulovot | Monitoring va atrof-muhit ko’rsatkichlari | GAT tahlili | Yerlarning meliorativ holati baholangan |
+| X.Pan va boshq., 2020 \[165\] | Amudaryo deltasi | 1999–2017-yillar, sath, iqlim, masofadan zondlash | Trend, korrelyatsiya, bosh komponentlar | Sath 1999–2002-yillarda 1,89 m dan 3,50 m gacha pasaygan, 2017-yilgacha 2,11 m ga qaytgan; sug’orish bilan bog’liq |
+| Y.Duan va boshq., 2022 \[167\] | Sirdaryo bo’yi (Qozog’iston) | 84 ta tuproq namunasi | Interpolyatsiya, geodetektor | Sho’rlanishni kanal va drenajgacha masofa eng ko’p tushuntiradi |
+| R.Kulmatov va boshq., 2024 \[166\] | Qoraqalpog’iston, Xo’jayli | 2015–2023-yillar, 142 ta kuzatuv qudug’i | IDW, korrelyatsiya | Sath va minerallashuvning mavsumiy xaritalari |
 | A.Pulatov va boshq. \[84\] | Sirdaryo, Mirzaobod | Tuproq namunalari | Interpolyatsiya usullari qiyosi | Sho’rlanish xaritalari, usullar aniqligi solishtirilgan |
 | Sh.Kholdorov va boshq., 2023 \[147\] | Markaziy Farg’ona | Landsat 8, Sentinel-2, 2019-yil tuproq namunalari | Spektral indekslar | Landsat 8 bo’yicha NDSI va SI12 indekslari eng yaxshi natija bergan |
 

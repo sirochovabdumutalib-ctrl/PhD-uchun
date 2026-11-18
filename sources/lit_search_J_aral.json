@@ -1,0 +1,2982 @@
+{
+ "query": "Amu Darya Syr Darya irrigation drainage water salt balance",
+ "source": "Crossref",
+ "date": "2026-11-18",
+ "filter": "2020–2026, journal-article",
+ "n": 40,
+ "items": [
+  {
+   "DOI": "10.17051/ilkonline.2021.03.162",
+   "title": [
+    "From the History of The Study of The Saks’ Monuments in The Lower Syr Darya And Amu Darya Basins"
+   ],
+   "container-title": [
+    "İlköğretim Online"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2021,
+      1,
+      1
+     ]
+    ]
+   },
+   "is-referenced-by-count": 0,
+   "volume": "20",
+   "issue": "3"
+  },
+  {
+   "issue": "10",
+   "abstract": "<jats:title>Abstract</jats:title>\n<jats:p>The upper Syr Darya (USD) and Amu Darya (UAD) basins are the two biggest flow formation zones in central Asia and the only water supply sources for the Aral Sea. Upstream snow and ice reserves of those two basins, important in sustaining seasonal water availability, are highly sensitive and prone to climate change, but their importance and changes are still uncertain and poorly understood due to data scarcity, inaccessibility, harsh climate, and even geopolitics. Here, an improved forcing dataset of precipitation and temperature was developed and used to drive a physically based hydrological model, which was thoroughly calibrated and validated to quantify the contributions of different runoff components to total flow and the controlling factors for total runoff variations for 1961–2016. Our analysis reveals divergent flow regimes exist across the USD and UAD and an ongoing transition from nival–pluvial toward a volatile pluvial regime along with rising temperatures. Annual total runoff has weakly increased from 1961 to 2016 for the entire USD and UAD, while the subbasins displayed divergent flow changes. Spring runoff significantly increased in all the USD and UAD basins primarily due to increased rainfall and early snow melting, tending to shift the peak flow from June–July to April–May. In contrast, distinct runoff changes were presented in the summer months among the basins primarily due to the trade-off between the increase in rainfall and the decrease in snowmelt and glacier runoff. These findings are expected to provide essential information for policymakers to adopt strategies and leave us better poised to project future runoff changes in ongoing climate change.</jats:p>",
+   "DOI": "10.1175/jhm-d-22-0036.1",
+   "page": "1563-1585",
+   "is-referenced-by-count": 27,
+   "title": [
+    "Runoff Regime, Change, and Attribution in the Upper Syr Darya and Amu Darya, Central Asia"
+   ],
+   "volume": "23",
+   "author": [
+    {
+     "given": "Jingheng",
+     "family": "Huang",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "a State Key Laboratory of Tibetan Plateau Earth System, Resources and Environment, Institute of Tibetan Plateau Research, Chinese Academy of Sciences, Beijing, China"
+      },
+      {
+       "name": "c University of Chinese Academy of Sciences, Beijing, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Fengge",
+     "family": "Su",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "a State Key Laboratory of Tibetan Plateau Earth System, Resources and Environment, Institute of Tibetan Plateau Research, Chinese Academy of Sciences, Beijing, China"
+      },
+      {
+       "name": "b CAS Center for Excellence in Tibetan Plateau Earth Sciences, Beijing, China"
+      },
+      {
+       "name": "c University of Chinese Academy of Sciences, Beijing, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Tandong",
+     "family": "Yao",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "a State Key Laboratory of Tibetan Plateau Earth System, Resources and Environment, Institute of Tibetan Plateau Research, Chinese Academy of Sciences, Beijing, China"
+      },
+      {
+       "name": "b CAS Center for Excellence in Tibetan Plateau Earth Sciences, Beijing, China"
+      },
+      {
+       "name": "c University of Chinese Academy of Sciences, Beijing, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "He",
+     "family": "Sun",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "a State Key Laboratory of Tibetan Plateau Earth System, Resources and Environment, Institute of Tibetan Plateau Research, Chinese Academy of Sciences, Beijing, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Journal of Hydrometeorology"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2022,
+      10
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "2",
+   "abstract": "<jats:p>This research examines the legal status of the Amu Darya and Syr Darya rivers, the principal transboundary watercourses of Central Asia, and the ongoing disputes among five riparian states regarding their equitable allocation. Drawing on international water law, treaty analysis, and institutional review, the study identifies critical gaps in existing governance frameworks and evaluates why decades of negotiations have failed to produce a binding, comprehensive agreement. The findings reveal that the post-Soviet institutional architecture, while providing a procedural forum, lacks enforcement capacity and substantive legal clarity. The study concludes that effective water governance in Central Asia requires harmonization with international law, strengthened dispute resolution mechanisms, and a legally binding multilateral treaty that balances upstream development interests with downstream ecological and humanitarian needs.</jats:p>",
+   "DOI": "10.59022/ujldp.579",
+   "page": "127-142",
+   "is-referenced-by-count": 1,
+   "title": [
+    "The Legal Status of the Amu Darya and Syr Darya Rivers under International Law within the Context of Central Asia’s Unresolved Water-Sharing Dispute"
+   ],
+   "volume": "4",
+   "author": [
+    {
+     "given": "Oybek",
+     "family": "Tursunov",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Uzbek Journal of Law and Digital Policy"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      4,
+      30
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "1",
+   "abstract": "<jats:p>The research was carried out as part of the preparation “Water Resources” section of the 4th National Communication of the Kyrgyz Republic to the UNFCCC. The article presents extensive information on the current state and changes over a long period of observations of water resources, climate and glaciation in Kyrgyzstan (Syr-Darya and Amu-Darya river basins). The representative rivers were selected as the main objects, which are transboundary between Kyrgyzstan, Uzbekistan, Kazakhstan and Tajikistan. The study aims to assess the inter-annual and intra-annual dynamics of the flow of the rivers for the period from 2020 to 2080, based on the climate projections CMIP5 (RCP4.5 and RCP8.5) and CMIP6 (SSP2-4.5 and SSP5-8.5) (IPCC WG II Report, 2022). The hydrological modeling method in the HBV light and HBV EHT models and the inertial mean annual flow change method were used to estimate changes in water resources. On the rivers of the northern part of the Fergana Valley, the average annual runoff is expected to increase by 1-19%, in the Amudarya river basin (Kyzyl-Suu river) – by 27-64% of the values for 2006-2019. In the Naryn river, water discharge for this period will remain within the current values for 2006-2019. The method of inertial change in the average annual runoff showed an increase in runoff for 2030 and 2040 for all the studied catchment areas by 6-19% of the current values for 2006-2020. The results of the study are intended for decision-makers on the rational use and long-term planning of water resources under climate change.</jats:p>",
+   "DOI": "10.29258/cajwr/2023-r1.v9-1/59-88.eng",
+   "page": "59-88",
+   "is-referenced-by-count": 13,
+   "title": [
+    "Kyrgyz transboundary rivers’ runoff assessment (Syr-darya and Amu-darya river basins) in climate change scenarios"
+   ],
+   "volume": "9",
+   "author": [
+    {
+     "name": "Central-Asian Institute for Applied Geosciences, Kyrgyz Republic",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-6920-8067",
+     "authenticated-orcid": false,
+     "given": "Olga",
+     "family": "Kalashnikova",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-7723-3142",
+     "authenticated-orcid": false,
+     "given": "Jafar",
+     "family": "Niyazov",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-4978-5377",
+     "authenticated-orcid": false,
+     "given": "Aliya",
+     "family": "Nurbatsina",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-8305-8360",
+     "authenticated-orcid": false,
+     "given": "Sobir",
+     "family": "Kodirov",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-8290-5043",
+     "authenticated-orcid": false,
+     "given": "Yulia",
+     "family": "Radchenko",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0003-3517-5380",
+     "authenticated-orcid": false,
+     "given": "Zoya",
+     "family": "Kretova",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Central Asian Journal of Water Research"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2023
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "1",
+   "abstract": "<jats:p>This article provides a comprehensive analysis of the natural and geographical conditions of the Middle Syr Darya basin, its water resources, and their close interrelation with historical processes. The study examines the relief, climate, and hydrological characteristics of the middle course of the Syr Darya, as well as the factors influencing the water balance, and reveals the role of this natural environment in the formation of irrigated agriculture and settlement patterns in antiquity and the Middle Ages. Based on archaeological and historical sources, the emergence and stages of development of irrigation systems in the Otrar oasis, Southern Kazakhstan, Tashkent, and the Mirzachul regions are analyzed, along with their impact on rural and urban culture. In addition, the spatial distribution of irrigation facilities and settlements is examined using aerial photography and the results of modern archaeological research. The findings highlight the historical significance of water resources and irrigation systems as key factors in the socio-economic development of the Middle Syr Darya basin.</jats:p>",
+   "DOI": "10.55640/jsshrf-06-01-03",
+   "page": "9-14",
+   "is-referenced-by-count": 0,
+   "title": [
+    "Historical-Topographic Analysis Of Population Distribution And Irrigation Systems In The Middle Syr Darya Basin"
+   ],
+   "volume": "6",
+   "author": [
+    {
+     "name": "Lecturer department of history Gulistan State University, Uzbekistan",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Shаrоfiddin",
+     "family": "Mamatov",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Journal of Social Sciences and Humanities Research Fundamentals"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      1,
+      1
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "3.2",
+   "abstract": "<jats:p>Mazkur maqolada Amudaryo va Sirdaryo havzalarining suv resurslari hamda ularning mintaqa taraqqiyotidagi o‘rni ilmiyjihatdan tahlil qilingan. Shuningdek, suv resurslaridan foydalanishda yuzaga kelayotgan asosiy muammolar — suv tanqisligi,iqlim o‘zgarishi, sug‘orish tizimlarining past samaradorligi va transchegaraviy boshqaruv masalalari yoritilgan. Tadqiqotdavomida suv resurslaridan oqilona foydalanish yo‘llari, jumladan, suv tejovchi texnologiyalarni joriy etish, mintaqaviyhamkorlikni kuchaytirish va ekologik barqarorlikni ta’minlash bo‘yicha takliflar ishlab chiqilgan. Suv resurslarini kelajakavlodlar manfaatini inobatga olgan holda boshqarish zarurligi asoslab berilgan.</jats:p>",
+   "DOI": "10.69617/nuuz.v3i3.2.12746",
+   "page": "149-152",
+   "is-referenced-by-count": 0,
+   "title": [
+    "AMUDARYO VA SIRDARYO HAVZALARIDA SUV RESURSLARIDAN BARQAROR FOYDALANISH MASALALARI",
+    "ISSUES OF SUSTAINABLE USE OF WATER RESOURCES IN THE BASINS OF THE AMU DARYA AND SYR DARYA RIVERS",
+    "ПРОБЛЕМЫ УСТОЙЧИВОГО ИСПОЛЬЗОВАНИЯ ВОДНЫХ РЕСУРСОВ В БАССЕЙНАХ РЕК АМУДАРЬЯ И СЫРДАРЬЯ"
+   ],
+   "volume": "3",
+   "author": [
+    {
+     "given": "Go‘zal",
+     "family": "SHODIYEVA",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Yulduz",
+     "family": "AXMEDOVA",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Doston",
+     "family": "PARDAYEV",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "UzMU xabarlari"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      6,
+      2
+     ]
+    ]
+   }
+  },
+  {
+   "DOI": "10.1016/j.envpol.2021.117405",
+   "page": "117405",
+   "is-referenced-by-count": 51,
+   "title": [
+    "Agricultural impacts drive longitudinal variations of riverine water quality of the Aral Sea basin (Amu Darya and Syr Darya Rivers), Central Asia"
+   ],
+   "volume": "284",
+   "author": [
+    {
+     "given": "Peifang",
+     "family": "Leng",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Qiuying",
+     "family": "Zhang",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-6930-3419",
+     "authenticated-orcid": false,
+     "given": "Fadong",
+     "family": "Li",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Rashid",
+     "family": "Kulmatov",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Guoqin",
+     "family": "Wang",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Yunfeng",
+     "family": "Qiao",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Jianqi",
+     "family": "Wang",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Yu",
+     "family": "Peng",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Chao",
+     "family": "Tian",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Nong",
+     "family": "Zhu",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-9038-0822",
+     "authenticated-orcid": false,
+     "given": "Hubert",
+     "family": "Hirwa",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Sayidjakhon",
+     "family": "Khasanov",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Environmental Pollution"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2021,
+      9
+     ]
+    ]
+   },
+   "article-number": "117405"
+  },
+  {
+   "issue": "1",
+   "abstract": "<jats:p>Dzihunia pseudoamudarjensis, new species, is described from the middle portion of the Great Fergana Canal in the Fergana Valley. The new species is distinguished from its congeners by having a complete lateral line with 84–86 pores, a slenderer caudal peduncle, a smaller dorsal and anal fin depth, and a wider interorbital distance. A key to Dzihunia species is provided.\n </jats:p>",
+   "DOI": "10.11646/zootaxa.5536.1.8",
+   "page": "185-192",
+   "is-referenced-by-count": 1,
+   "title": [
+    "Dzihunia pseudoamudarjensis, a new nemacheilid loach from the Syr Darya drainage (Teleostei: Nemacheilidae)"
+   ],
+   "volume": "5536",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0003-3966-7403",
+     "authenticated-orcid": false,
+     "given": "BAKHTIYOR",
+     "family": "SHERALIEV",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0009-0003-5177-6167",
+     "authenticated-orcid": false,
+     "given": "YORKINOY",
+     "family": "KAYUMOVA",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Zootaxa"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2024,
+      11,
+      1
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "05",
+   "abstract": "<jats:p>The Amu Darya delta, once an ecologically rich and economically productive region, has undergone severe hydrological and ecological degradation due to the dramatic reduction of river flow over recent decades. This study presents field measurements and mathematical modelling results for three key reservoirs in the Muynak district of Karakalpakstan: the Mezhdurechye Reservoir, Muynak Bay and Rybachy Bay. Through GPS-assisted geodetic surveys conducted in 2022–2023, the actual morphometric parameters of each reservoir were determined and compared with GIS-based estimates. A hydrological water balance model was developed using differential equations and calibrated against observed flow data at the Samanbay gauging station for three representative years: a high-water year (2010), an average-water year (2019), and a low-water year (2001). The results indicate that, under current infrastructure conditions, the reservoirs can collectively store only 499.99 million m³ of water, with large volumes of potentially useful freshwater are discharged irreversibly to the dried bed of the Aral Sea. Following the reconstruction of hydraulic structures and canals, the combined storage capacity could reach 1,169.5 million m³, allowing an additional 669.51 million m³ to be retained in the delta. Hydrobiological surveys recorded 27 zooplankton species and 14–15 fish species, indicating substantially lower diversity compared with historical records as a consequence of deteriorating hydrological conditions. These findings provide a scientific basis for optimising the water-supply regime of the Amu Darya delta reservoirs and restoring the ecological and economic potential of the Southern Aral Sea region.</jats:p>",
+   "DOI": "10.37547/ajast/volume06issue05-23",
+   "page": "135-147",
+   "is-referenced-by-count": 0,
+   "title": [
+    "Hydrological and Hydrobiological Assessment of Reservoirs in the Amu Darya Delta: Towards an Improved Water-Supply Regime"
+   ],
+   "volume": "06",
+   "author": [
+    {
+     "given": "Islam",
+     "family": "Kaipov",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Institute of Agriculture and Agrotechnologies of Karakalpakstan, Nukus, Karakalpakstan, Republic of Uzbekistan"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Sagit",
+     "family": "Kurbanbaev",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Karakalpak Branch of the Scientific Research Institute of Irrigation and Water Problems (SRIIWP), Nukus, Karakalpakstan, Republic of Uzbekistan"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "American Journal of Applied Science and Technology"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      5,
+      16
+     ]
+    ]
+   }
+  },
+  {
+   "DOI": "10.24425/jwld.2020.135039",
+   "title": [
+    "Environmental effects of using large rivers for irrigation in the Kazakhstan – Syr Darya case study"
+   ],
+   "container-title": [
+    "Journal of Water and Land Development"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2020,
+      12,
+      21
+     ]
+    ]
+   },
+   "author": [
+    {
+     "given": "Zhumakhan",
+     "family": "Mustafayev",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Józef",
+     "family": "Mosiej",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Karlygas S.",
+     "family": "Abdyvalieva",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Alija",
+     "family": "Kozykeeva",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "abstract": "<jats:p>The issues discussed in the paper concern the assessment of changes in quantitative and qualitative indicators of water resources in the climatic conditions of the southern part of Kazakhstan. For this purpose, many years of systematic field observations and other continuous data obtained from the functioning measurement and observation stations operating within the Aral-Syrdarya Basin Inspection were used. On the basis of the obtained data, indicators were determined that characterize the quantity and quality of water supplied to the soil in the irrigation process, as well as the quantity and quali-ty of water flowing out of the drainage systems, together with an evaluation of the effectiveness of irrigation and drainage systems. Soil salinity was assessed in five irrigated massifs with a total area of 332.55 thous. ha. For the same irrigated massifs, the annual amounts of water taken for irrigation, the amount of outflowing water and the assessment of the miner-alization level were determined. Based on the developed results of field observations characterizing the hydrological and environmental situation of the lower section of the Syr Darya River in 1960–2015, the negative reaction coefficients were calculated for the local population, soil and vegetation for five of the irrigated massifs of the Kyzylorda region. The ecolog-ical situation of the habitat of soil and plants in the lower reaches of the Syr Darya River in all irrigation areas deteriorates on a time scale, since as a result of the reclamation of agricultural lands, intensive secondary soil salinization occurs and the formation of infiltration runoff with high mineralization, contributing to the violation of the harmonization of the relation-ship between nature and man.</jats:p>",
+   "is-referenced-by-count": 5,
+   "page": "125-134"
+  },
+  {
+   "abstract": "<jats:p>The Amu Darya river carries a large amount of up to 15 kg/m<jats:sup>3</jats:sup>of suspended matter containing up to 85-90% suspended and 10-15% bottom sediments, which pose a serious threat to the hydroelectric power station and irrigation systems operating in its basin. In case of dam water intake, head sump tanks are provided in the composition of waterworks. So, in the composition of Right-Bank and Left-Bank, sedimentation tanks with mechanical cleaning to protect the channels were built at the Takhiatash hydroelectric complex Kaskelenskaya and Selinsky irrigation system. It is established that the hydraulic and alluvial modes of operation of these settling tanks depend on the water, alluvial, and backwater modes of operation Takhiatash waterworks. It is noted that due to low water conditions, this hydroelectric power plant operated for a significant part of the year with fully closed gates in all spans, producing intensive siltation of the upper stream. These processes led to a change in the alluvial mode of operation of the settling tanks. At the same time, due to low water and excessive design dimensions, in the first years of operation, these settling tanks were heavily silted up, the bottom mark rose to 17.2 m (above the design 165 m). Properly designed settling tanks should prevent siltation of main and distribution channels while respecting the transport capacity of the channels located below. It is proved that some well-known methods for calculating settling tanks, due to their complexity and bulkiness, cannot be used in calculating siltation modes of settling tanks under operational conditions that require simplification or finding a simpler relationship. A simple method is developed for calculating the dynamics of sediment deposition in irrigation sump tanks based on the probability of turbulent pulsation motion. Recommended: for normal operation of irrigation septic tanks, it is necessary to carry out systematic monitoring of the output turbidity and intensity of treatment, as well as water supply according to the water consumption schedule.</jats:p>",
+   "DOI": "10.1051/e3sconf/202126403027",
+   "page": "03027",
+   "is-referenced-by-count": 4,
+   "title": [
+    "Hydraulic calculation of irrigation settling tanks of Amu Darya irrigation systems"
+   ],
+   "volume": "264",
+   "author": [
+    {
+     "given": "Kenesbay",
+     "family": "Baimanov",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Kadirbek",
+     "family": "Nazarbekov",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Ruslan",
+     "family": "Baimanov",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Sharap",
+     "family": "Tazhibayev",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "E3S Web of Conferences"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2021
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "5",
+   "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p/>\n               <jats:p>New hydrochemical measurements from the Syr Darya provide insights into factors affecting the composition and quality of a major freshwater source replenishing the Aral Sea. This river is heavily used for power and irrigation and crosses territories of four Central Asia republics. It is intensely managed, draining several major tributaries, many reservoirs, and numerous irrigation distribution systems and canals. Analysis of seasonal changes in dissolved ion concentrations using geochemical diagrams, elemental ratios, statistical correlation, and equilibrium modeling allowed the characterization of mineral formation processes that control the dissolved chemical composition. Measured water hydrochemistry and composition type differs substantially from previous reports from the upper reaches of the Syr Darya in Kyrgyzstan. Element ratios, statistical correlation, and the presence of NO3- and NO2- suggest that the downstream trend of increasing total dissolved solids (TDS) from Zhetysay city to the Aral Sea in June is controlled by evaporation–crystallization processes, which contribute to the river dissolved load through soil runoff and return irrigation waters following leaching of secondary salts. Downstream sample composition during the growing season shows significant changes in magnesium-to-calcium ratios in the river water. Elevated magnesium levels in Syr Darya waters may pose a problem to sustainable uses for irrigation.</jats:p>",
+   "DOI": "10.2166/ws.2023.114",
+   "page": "2119-2134",
+   "is-referenced-by-count": 10,
+   "title": [
+    "Downstream hydrochemistry and irrigation water quality of the Syr Darya, Aral Sea Basin, South Kazakhstan"
+   ],
+   "volume": "23",
+   "author": [
+    {
+     "given": "Bagdat",
+     "family": "Satybaldiyev",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "a Center of Physical-Chemical Methods of Research and Analysis, Al-Farabi Kazakh National University, Almaty, Kazakhstan"
+      },
+      {
+       "name": "b LLP EcoRadSM, Almaty, Kazakhstan"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Baimurat",
+     "family": "Ismailov",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "a Center of Physical-Chemical Methods of Research and Analysis, Al-Farabi Kazakh National University, Almaty, Kazakhstan"
+      },
+      {
+       "name": "b LLP EcoRadSM, Almaty, Kazakhstan"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Nurbek",
+     "family": "Nurpeisov",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "a Center of Physical-Chemical Methods of Research and Analysis, Al-Farabi Kazakh National University, Almaty, Kazakhstan"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Kairat",
+     "family": "Kenges",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "a Center of Physical-Chemical Methods of Research and Analysis, Al-Farabi Kazakh National University, Almaty, Kazakhstan"
+      },
+      {
+       "name": "b LLP EcoRadSM, Almaty, Kazakhstan"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Daniel D.",
+     "family": "Snow",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "c School of Natural Resources and Nebraska Water Center, Part of the Robert B. Daugherty Water for Food Global Institute, University of Nebraska, Lincoln, NE 68583-0844, USA"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Arindam",
+     "family": "Malakar",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "c School of Natural Resources and Nebraska Water Center, Part of the Robert B. Daugherty Water for Food Global Institute, University of Nebraska, Lincoln, NE 68583-0844, USA"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Omirzhan",
+     "family": "Taukebayev",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "d Department of Cartography and Geoinformatics, Al-Farabi Kazakh National University, Almaty, Kazakhstan"
+      },
+      {
+       "name": "e Cluster of Engineering and High Technology, Al-Farabi Kazakh National University, Almaty, Kazakhstan"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Bolat",
+     "family": "Uralbekov",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "a Center of Physical-Chemical Methods of Research and Analysis, Al-Farabi Kazakh National University, Almaty, Kazakhstan"
+      },
+      {
+       "name": "b LLP EcoRadSM, Almaty, Kazakhstan"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Water Supply"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      5,
+      1
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "19",
+   "abstract": "<jats:p>This paper presents a statistical and econometric analysis of water use, collector discharge and drainage-water mineralization in the Uzbek part of the Amu Darya Basin for two observation periods, 1980–1995 and 2010–2025 (no data are available for 1996–2009). Methods include descriptive statistics, the Mann–Kendall test and Sen’s slope estimator (applied separately to each period), the Mann–Whitney U and Pettitt tests, multivariate OLS and GLS regressions, Pearson and Spearman correlations, hierarchical cluster analysis, ARIMA models fitted on a calendar-year grid with the data gap treated as missing values, sensitivity analysis and Monte Carlo simulation (N = 10,000). Basin-average mineralization rose from 3.13 ± 0.20 g/L in 1980–1995 to 3.51 ± 0.24 g/L in 2010–2025 and increased significantly within each period (Sen’s slope ≈ +0.04 g/L/yr; p ≤ 0.001), although the 2010 level was below the 1995 level. In the OLS model, the time trend was significant (β_T = +0.035 g/L/yr, p &lt; 0.001), whereas collector discharge was not (β_Q = −0.010, p = 0.058; R2 = 0.736). Kashkadarya showed the highest mean mineralization (5.5 g/L) and the steepest increase (+0.075 g/L/yr), and Surkhandarya showed an abrupt rise in 2024–2025. Trend scenarios for 2050 range from 3.9 g/L (level persistence) to 4.4 g/L (continued drift) and are highly uncertain. Uzbekistan’s total water use from the basin (33.9 km3/yr, of which about 20.1 km3/yr was for irrigated agriculture) was stable and corresponded to about 43% of the basin’s renewable water resources, indicating high water stress. Stable water-use volumes therefore do not guarantee stable water quality.</jats:p>",
+   "DOI": "10.3390/w18192469",
+   "page": "2469",
+   "is-referenced-by-count": 0,
+   "title": [
+    "Characteristics, Statistical Analysis and Forecast of Water Resource Changes in the Amu Darya Basin"
+   ],
+   "volume": "18",
+   "author": [
+    {
+     "given": "Khairullo",
+     "family": "Gapporov",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Faculty of Biology and Ecology, National University of Uzbekistan Named After Mirzo Ulugbek, University Street, 4, Tashkent 100174, Uzbekistan"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Rashid",
+     "family": "Kulmatov",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Faculty of Biology and Ecology, National University of Uzbekistan Named After Mirzo Ulugbek, University Street, 4, Tashkent 100174, Uzbekistan"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-7034-6945",
+     "authenticated-orcid": false,
+     "given": "Christian",
+     "family": "Opp",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Faculty of Geography, Philips-University of Marburg, Deutschhausstr, 10, 35037 Marburg, Germany"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Water"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      10,
+      6
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "3",
+   "DOI": "10.1007/s10113-026-02590-2",
+   "is-referenced-by-count": 0,
+   "title": [
+    "Off the map and in the shadow: water, salt, fish and gardens in the Amu Darya Delta in Uzbekistan"
+   ],
+   "volume": "26",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0003-0625-7723",
+     "authenticated-orcid": false,
+     "given": "Katherine F.",
+     "family": "Shields",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Regional Environmental Change"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      6,
+      19
+     ]
+    ]
+   },
+   "article-number": "144"
+  },
+  {
+   "issue": "2",
+   "abstract": "<jats:p>The previous comparative studies on watersheds were mostly based on the comparison of dispersive characteristics, which lacked systemicity and causality. We proposed a causal structure-based framework for basin comparison based on the Bayesian network (BN) and focus on the basin-scale water–energy–food–ecology (WEFE) nexus. We applied it to the Syr Darya River basin (SDB) and the Amu Darya River basin (ADB), of which poor water management caused the Aral Sea disaster. The causality of the nexus was effectively compared and universality of this framework was discussed. In terms of changes in the nexus, the sensitive factor for the water supplied to the Aral Sea changed from the agricultural development during the Soviet Union period to the disputes in the WEFE nexus after the disintegration. The water–energy contradiction of the SDB is more severe than that of the ADB, partly due to the higher upstream reservoir interception capacity. It further made management of the winter surplus water downstream\nof the SDB more controversial. Due to this, the water–food–ecology conflict between downstream countries may escalate and turn into a long-term chronic problem. Reducing water inflow to depressions and improving the planting\nstructure prove beneficial to the Aral Sea ecology, and this effect of the SDB is more significant. The construction of reservoirs on the Panj River of the upstream ADB should be cautious to avoid an intense water–energy conflict such as the SDB's. It is also necessary to promote the water-saving drip irrigation and to strengthen the cooperation.</jats:p>",
+   "DOI": "10.5194/hess-25-901-2021",
+   "page": "901-925",
+   "is-referenced-by-count": 49,
+   "title": [
+    "A novel causal structure-based framework for comparing a basin-wide water–energy–food–ecology nexus applied to the data-limited Amu Darya and Syr Darya river basins"
+   ],
+   "volume": "25",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-6105-4737",
+     "authenticated-orcid": false,
+     "given": "Haiyang",
+     "family": "Shi",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Geping",
+     "family": "Luo",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      },
+      {
+       "role": "corresponding-author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Hongwei",
+     "family": "Zheng",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Chunbo",
+     "family": "Chen",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Olaf",
+     "family": "Hellwich",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-6349-2132",
+     "authenticated-orcid": false,
+     "given": "Jie",
+     "family": "Bai",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Tie",
+     "family": "Liu",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Shuang",
+     "family": "Liu",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Jie",
+     "family": "Xue",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Peng",
+     "family": "Cai",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Huili",
+     "family": "He",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-6661-0966",
+     "authenticated-orcid": false,
+     "given": "Friday Uchenna",
+     "family": "Ochege",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-9324-5087",
+     "authenticated-orcid": false,
+     "given": "Tim",
+     "family": "Van de Voorde",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-8902-3855",
+     "authenticated-orcid": false,
+     "given": "Philippe",
+     "family": "de Maeyer",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Hydrology and Earth System Sciences"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2021,
+      2,
+      24
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "1-4",
+   "abstract": "<jats:title>Abstract</jats:title>\n\t\t\t\t\t<jats:p>This article focuses on the security and human rights implications of the water infrastructure legacy bequeathed to the Syr Darya river basin in the border area of the Ferghana Valley, by the Soviet period. Taking an environmental history approach, I consider the complex legacy of the system of ageing dams, irrigation canals, and reservoirs which for the most part were set in place between the 1950s and 1980s. Correcting the prevailing narrative that post-Soviet water tensions are often caused by the Soviet habit of disregarding borders and republican-level interests in designing water infrastructure, I show how Soviet water policy in the region fanned and exacerbated inter-republican tensions even while the national territorial divisions were ongoing. Current tensions are therefore not a response to a sudden and unexpected hardening of borders, but the fruit of much longer processes.</jats:p>",
+   "DOI": "10.1163/18750230-bja10011",
+   "page": "41-52",
+   "is-referenced-by-count": 1,
+   "title": [
+    "Rival Eco-Anxieties: Legacy of Soviet Water Management in the Syr Darya Basin"
+   ],
+   "volume": "32",
+   "author": [
+    {
+     "given": "Flora J",
+     "family": "Roberts",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Lecturer in Environmental History, Cardiff University, Cardiff, Wales, UK, robertsf5@cardiff.ac.uk"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Security and Human Rights"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2022,
+      2,
+      4
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "10",
+   "abstract": "<jats:p>With population growth, climate volatility, and economic expansion, the conjunctive management of surface–groundwater (SGW) faces great challenges. In this study, a hybrid factorial optimization programming (HFOP) method is developed through integrating factorial analysis, interval linear programming, flexible fuzzy programming, and two-stage stochastic programming into a general framework. HFOP can effectively reflect the multiple uncertainties and quantitatively identify the effects of multiple factors. Then, a HFOP-SGW model is formulated for the middle reaches of the Amu Darya River Basin, where 125 scenarios are analyzed. Some of the major findings are: (i) the improvement of surface-water transport efficiency and the proper use of groundwater can effectively alleviate regional water shortage; (ii) agricultural users have a high risk of water scarcity for all states, especially under a low-flow level; (iii) uncertainties of water-flow levels and risk-reverse attitudes of decision makers have significant impacts on the system’s benefits and water-allocation scheme; and (iv) the surface-water-transmission loss rate and risk perceptions of decision makers are the main factors affecting the system’s benefit’s and water-allocation scheme. These findings can help decision makers obtain desired water-allocation strategies to respond to the variations in water availability.</jats:p>",
+   "DOI": "10.3390/w14101541",
+   "page": "1541",
+   "is-referenced-by-count": 3,
+   "title": [
+    "Conjunctive Water Management under Multiple Uncertainties: A Case Study of the Amu Darya River Basin, Central Asia"
+   ],
+   "volume": "14",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-1313-4177",
+     "authenticated-orcid": false,
+     "given": "Xiaobo",
+     "family": "Zhai",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "State Key Joint Laboratory of Environmental Simulation and Pollution Control, School of Environment, Beijing Normal University, Beijing 100875, China"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Yongping",
+     "family": "Li",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "State Key Joint Laboratory of Environmental Simulation and Pollution Control, School of Environment, Beijing Normal University, Beijing 100875, China"
+      },
+      {
+       "name": "Institute for Energy, Environment and Sustainable Communities, University of Regina, Regina, SK S4S 7H9, Canada"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Yuan",
+     "family": "Ma",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "State Key Joint Laboratory of Environmental Simulation and Pollution Control, School of Environment, Beijing Normal University, Beijing 100875, China"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0003-4974-3019",
+     "authenticated-orcid": false,
+     "given": "Guohe",
+     "family": "Huang",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "State Key Joint Laboratory of Environmental Simulation and Pollution Control, School of Environment, Beijing Normal University, Beijing 100875, China"
+      },
+      {
+       "name": "Institute for Energy, Environment and Sustainable Communities, University of Regina, Regina, SK S4S 7H9, Canada"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-9691-8761",
+     "authenticated-orcid": false,
+     "given": "Yanfeng",
+     "family": "Li",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "State Key Joint Laboratory of Environmental Simulation and Pollution Control, School of Environment, Beijing Normal University, Beijing 100875, China"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Water"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2022,
+      5,
+      11
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "5",
+   "DOI": "10.1134/s009780782005019x",
+   "page": "904-912",
+   "is-referenced-by-count": 11,
+   "title": [
+    "Characteristics and Causes of Changes in Water Quality in the Syr Darya River, Kazakhstan"
+   ],
+   "volume": "47",
+   "author": [
+    {
+     "family": "Sanim Bissenbayeva",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Jilili",
+     "family": "Abuduwaili",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Gulnura",
+     "family": "Issanova",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Kanat",
+     "family": "Samarkhanov",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Water Resources"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2020,
+      9
+     ]
+    ]
+   }
+  },
+  {
+   "DOI": "10.13187/bg.2026.2.826",
+   "title": [
+    "Kazakh Agriculture in the Syr Darya Region in Russian Scholarship 19th–20th сenturies"
+   ],
+   "container-title": [
+    "Bylye Gody"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      6,
+      1
+     ]
+    ]
+   },
+   "is-referenced-by-count": 0,
+   "volume": "21",
+   "issue": "2"
+  },
+  {
+   "issue": "4",
+   "abstract": "<jats:p>Water is diminishing in many places of the globe due to human intervention and climate variability. This study was conducted to assess water sustainability in the Amu Darya basin, the largest river catchment of central Asia, using two Gravity Recovery and Climate Experiment (GRACE) satellite solutions with a spatial resolution of 0.5°. Spatial variability of water sustainability was estimated by integrating reliability, resiliency and vulnerability. In addition, the Modified Mann–Kendall (MMK) test was utilized to detect the significant trends in water availability. Findings show a significant decline in the basin’s water supply, especially after 2010. Water availability was more variable in the east and a small area in the south. Trend analysis revealed higher declination in water availability in the range of −0.04 to −0.08 cm/year in the tundra and warm dry continental climate zones and the delta region of the basin ending in the Aral Sea in the cold desert climate zone. Water resources in the cold semi-arid (steppe) and most parts of the cold desert climate are more sustainable than the rest of the basin. Overall, the results indicate that water resources availability in a large-scale basin with climate diversity could be well assessed using the method used in this study.</jats:p>",
+   "DOI": "10.3390/w14040533",
+   "page": "533",
+   "is-referenced-by-count": 32,
+   "title": [
+    "Assessment of Water Resources Availability in Amu Darya River Basin Using GRACE Data"
+   ],
+   "volume": "14",
+   "author": [
+    {
+     "given": "Obaidullah",
+     "family": "Salehie",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Department of Water and Environmental Engineering, School of Civil Engineering, Faculty of Engineering, Universiti Teknologi Malaysia (UTM), Skudia 81310, Johor, Malaysia"
+      },
+      {
+       "name": "Faculty of Environment, Kabul University, Kabul 1007, Afghanistan"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-6748-4703",
+     "authenticated-orcid": false,
+     "given": "Tarmizi bin",
+     "family": "Ismail",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Water and Environmental Engineering, School of Civil Engineering, Faculty of Engineering, Universiti Teknologi Malaysia (UTM), Skudia 81310, Johor, Malaysia"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-9621-6452",
+     "authenticated-orcid": false,
+     "given": "Shamsuddin",
+     "family": "Shahid",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Water and Environmental Engineering, School of Civil Engineering, Faculty of Engineering, Universiti Teknologi Malaysia (UTM), Skudia 81310, Johor, Malaysia"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-2939-5443",
+     "authenticated-orcid": false,
+     "given": "Mohammed Magdy",
+     "family": "Hamed",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Construction and Building Engineering Department, College of Engineering and Technology, Arab Academy for Science, Technology and Maritime Transport (AASTMT), B 2401 Smart Village, Giza 12577, Egypt"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-3184-2134",
+     "authenticated-orcid": false,
+     "given": "Pennan",
+     "family": "Chinnasamy",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Centre for Technology Alternatives for Rural Areas (CTARA), Indian Institute of Technology Bombay, Mumbai 400076, India"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-9985-1627",
+     "authenticated-orcid": false,
+     "given": "Xiaojun",
+     "family": "Wang",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "State Key Laboratory of Hydrology–Water Resources and Hydraulic Engineering, Nanjing Hydraulic Research Institute, Nanjing 210029, China"
+      },
+      {
+       "name": "Research Center for Climate Change, Ministry of Water Resources, Nanjing 210029, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Water"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2022,
+      2,
+      11
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "8",
+   "abstract": "<jats:p>Humus is one of the key components of soil, determining its physical, chemical, and biological properties. The analysis of humus fractions in the soils of the Lower Amu Darya region is of great importance for improving soil fertility and ensuring ecosystem stability. Humus fractions are formed as a result of soil organic matter accumulation, its decomposition, and complex interactions among organic and mineral components.\n\nThe fractional composition of humus reflects its multifunctional nature and the ways it changes under different ecological conditions. Each fraction, characterized by specific chemical and physical properties, plays a distinct role in soil processes. For instance, heavy fractions are generally enriched with heavy metals, mineral components, and other nutrients, contributing to soil structural stability. In contrast, light fractions contain easily decomposable organic compounds and serve as a rapid source of nutrients for plants.\n\nThis article provides a detailed analysis of the group and qualitative composition of humus fractions in the soils of the Lower Amu Darya region. The influence of humus fractional composition on soil fertility, as well as recommendations for soil improvement, are discussed. The findings of this study are significant for the effective management of soil resources and the maintenance of agroecological sustainability.</jats:p>",
+   "DOI": "10.37547/ajahi/volume06issue08-02",
+   "page": "11-16",
+   "is-referenced-by-count": 0,
+   "title": [
+    "Group and Fractional Composition of Humus in The Soils of The Lower Amu Darya Region"
+   ],
+   "volume": "6",
+   "author": [
+    {
+     "given": "Aytmuratova Gulayxan Uays",
+     "family": "qizi",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "PhD Student, Institute of Soil Science and Agrochemical Research, Uzbekistan"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Berdiyev Tolib",
+     "family": "Tursunniyazovich",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "b.f.f.d., k.i.x, Institute of soil science and agrochemical research, Uzbekistan"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "American Journal Of Agriculture And Horticulture Innovations"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      8,
+      1
+     ]
+    ]
+   }
+  },
+  {
+   "DOI": "10.24425/jwld.2024.151803",
+   "title": [
+    "Examining the environmental vulnerability of the floodplain geosystem in the Syr Darya River’s lower reaches"
+   ],
+   "container-title": [
+    "Journal of Water and Land Development"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2024,
+      12,
+      30
+     ]
+    ]
+   },
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0001-5628-4012",
+     "authenticated-orcid": false,
+     "given": "Bibatpa N.",
+     "family": "Madekesheva",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Eurasian National University, Department of Physical and Economic Geography, Kanysh Satbaev St 2, 010000, Astana, Kazakhstan"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-9262-9417",
+     "authenticated-orcid": false,
+     "given": "Sagymbay",
+     "family": "Oketay",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Al-Farabi Kazakh National University, Faculty of Geography and Environmental Management, Department of Geography, Land Management and Cadastre, 71 Al-Farabi Ave, 050040, Almaty, Kazakhstan"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "abstract": "<jats:p>The Syr Darya River’s lower reaches of floodplain geosystems face growing environmental pressures, necessitating a thorough understanding of their vulnerability on which this study focuses, emphasising the role of natural and climatic factors. The research analyses the correlations and impacts of elevation, soil density, precipitation, air temperature, and normalised difference vegetation index (NDVI) on environmental vulnerability. The results indicate a strong positive correlation between elevation, precipitation, air temperature, and environmental vulnerability, with NDVI also playing a significant role. The study employs principal components analysis to further explore these relationships and generates an integrated vulnerability map, highlighting vulnerable areas, particularly near Kyzylorda city. The map also aligns with different land cover types, emphasising the dominant influence of environmental and climatic factors, especially maximum air temperature, precipitation, and elevation, on environmental vulnerability. The research concludes that the integrated vulnerability map serves as a valuable tool for guiding environmental management and conservation strategies, enabling targeted interventions and sustainable practices in areas of high vulnerability. The study’s methodology and findings offer crucial insights for effective environmental management and conservation in floodplain geosystems, promoting informed decision-making for sustainable development in the region.</jats:p>",
+   "is-referenced-by-count": 0,
+   "page": "176-176"
+  },
+  {
+   "issue": "10",
+   "abstract": "<jats:p>This article analyzes the hydrological transformation of water resources in the Amu Darya Delta under the combined influence of climate change and anthropogenic activities. The study examines changes in seasonal river discharge, snow and glacier melt, precipitation, evaporation, irrigation systems, reservoirs, and drainage networks and their effects on the regional water balance. Particular attention is given to the reduction of water availability in the lower Amu Darya, increasing water mineralization, soil salinization, changes in groundwater levels, and the transformation of natural wetlands. The study also examines the relationship between water quantity and quality, the importance of environmental flows for maintaining delta ecosystems, and the impact of irrigation practices on hydrological processes. The potential of remote sensing, GIS technologies, and hydrological monitoring for integrated water resource management in the delta is also considered. The findings demonstrate that sustainable water management in the Amu Darya Delta requires the combined assessment of climatic and anthropogenic factors, improved water-use efficiency, control of groundwater and salinity, and maintenance of environmentally significant river flows.</jats:p>",
+   "DOI": "10.70413/ejar-v06-i10-s60251",
+   "page": "48-51",
+   "is-referenced-by-count": 0,
+   "title": [
+    "HYDROLOGICAL TRANSFORMATION OF WATER RESOURCES IN THE AMU DARYA DELTA UNDER CLIMATE CHANGE AND ANTHROPOGENIC IMPACT"
+   ],
+   "volume": "6",
+   "author": [
+    {
+     "given": "Iqlima",
+     "family": "Saytova",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Nukus shahri 11-sonli maktabning geografiya fani o‘qituvchisi"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Eurasian Journal of Academic Research"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      10,
+      10
+     ]
+    ]
+   },
+   "article-number": "60251"
+  },
+  {
+   "issue": "01",
+   "abstract": "<jats:p>This article scientifically examines the geostrategic significance of the Beleuli caravanserai, located on the trade routes of the Lower Amu Darya region, its place in the system of ancient caravan routes, its defensive and defensive architecture, and its role in regional trade and cultural relations. The article highlights the significance of the caravanserai as a trade infrastructure connecting Kazakhstan, Karakalpakstan, and the Caspian region, and analyzes its prospects for modern tourism as a geocultural heritage site.</jats:p>",
+   "DOI": "10.37547/ajsshr/volume06issue01-18",
+   "page": "79-81",
+   "is-referenced-by-count": 0,
+   "title": [
+    "Geostrategic Significance Of The BeleuliCarvansaray On Trade Routes Of The Lower Amu Darya Region"
+   ],
+   "volume": "06",
+   "author": [
+    {
+     "name": "Senior Lecturer, PhD, Nukus, Karakalpak State University, Uzbekistan",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "A.B.",
+     "family": "Djoldasov",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "American Journal Of Social Sciences And Humanity Research"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      1,
+      21
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "10",
+   "abstract": "<jats:p> This article explores the history and structure of irrigation facilities built along the left and right banks of the Amu Darya River. It focuseson ancient canals, ditches, dams, and other hydraulic structures identified through archaeological research. The study highlights the roleof these systems in agricultural development and their significance for ancient civilizations such as Khorezm and Bactria.</jats:p>",
+   "DOI": "10.70728/tech.v2.i10.012",
+   "page": "33-34",
+   "is-referenced-by-count": 0,
+   "title": [
+    "IRRIGATION STRUCTURES CONSTRUCTED ON THE LEFT AND RIGHT BANKS OF THE AMU DARYA RIVER"
+   ],
+   "volume": "2",
+   "author": [
+    {
+     "given": "Babayazov",
+     "family": "Umidbek Pulatovich",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "INTERNATIONAL JOURNAL OF SCIENCE AND TECHNOLOGY"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      7,
+      9
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "8",
+   "abstract": "<jats:p>Soil salinization has become a worldwide issue affecting agricultural development. Statistical methods and spatial analysis were used to analyze the degree and type of saline soils and their spatial distribution. The driving factors of soil salinity were explored using Geodetetcor models. In this study, 84 soil samples were collected from a 0–20 cm soil layer, and the total salt concentration and salt ion composition were measured. The results of statistical analysis and cluster analysis showed that SO42− and Ca2+ had the highest concentrations of salt ions in terms of anion and cation contents, respectively. The interpolation results indicated that the study area was dominated by mild saline soils, with sulfate-type saline soils and chloride-sulfate-type soils dominating. Results of the factor detector suggested that the distance to the irrigation system (0.425), and distance to the drainage system (0.42), explained salinity more strongly in the Shardara district, and elevation (0.326) was the most important influencing factor for salinity in the Mahtaaral district. Results of the interaction detector indicate that human factors (distance to irrigation canals ∩ distance to drainage canals) had a stronger explanation both in the Shardara and Mahtaaral districts. This research provides a scientific basis for soil salinity regulation and management, which is crucial for sustainable agricultural development.</jats:p>",
+   "DOI": "10.3390/agronomy12081912",
+   "page": "1912",
+   "is-referenced-by-count": 23,
+   "title": [
+    "Driving Factor Identification for the Spatial Distribution of Soil Salinity in the Irrigation Area of the Syr Darya River, Kazakhstan"
+   ],
+   "volume": "12",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0001-5682-2503",
+     "authenticated-orcid": false,
+     "given": "Yongjian",
+     "family": "Duan",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "State Key Laboratory of Desert and Oasis Ecology, Xinjiang Institute of Ecology and Geography, Chinese Academy of Sciences, Urumqi 830011, China"
+      },
+      {
+       "name": "Research Center for Ecology and Environment of Central Asia, Chinese Academy of Sciences, Urumqi 830011, China"
+      },
+      {
+       "name": "University of Chinese Academy of Sciences, Beijing 100049, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-8233-8640",
+     "authenticated-orcid": false,
+     "given": "Long",
+     "family": "Ma",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "State Key Laboratory of Desert and Oasis Ecology, Xinjiang Institute of Ecology and Geography, Chinese Academy of Sciences, Urumqi 830011, China"
+      },
+      {
+       "name": "Research Center for Ecology and Environment of Central Asia, Chinese Academy of Sciences, Urumqi 830011, China"
+      },
+      {
+       "name": "University of Chinese Academy of Sciences, Beijing 100049, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-8483-1554",
+     "authenticated-orcid": false,
+     "given": "Jilili",
+     "family": "Abuduwaili",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "State Key Laboratory of Desert and Oasis Ecology, Xinjiang Institute of Ecology and Geography, Chinese Academy of Sciences, Urumqi 830011, China"
+      },
+      {
+       "name": "Research Center for Ecology and Environment of Central Asia, Chinese Academy of Sciences, Urumqi 830011, China"
+      },
+      {
+       "name": "University of Chinese Academy of Sciences, Beijing 100049, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-5524-0496",
+     "authenticated-orcid": false,
+     "given": "Wen",
+     "family": "Liu",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "State Key Laboratory of Desert and Oasis Ecology, Xinjiang Institute of Ecology and Geography, Chinese Academy of Sciences, Urumqi 830011, China"
+      },
+      {
+       "name": "Research Center for Ecology and Environment of Central Asia, Chinese Academy of Sciences, Urumqi 830011, China"
+      },
+      {
+       "name": "University of Chinese Academy of Sciences, Beijing 100049, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Galymzhan",
+     "family": "Saparov",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Kazakh Research Institute of Soil Science and Agrochemistry, Almaty 050060, Kazakhstan"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-8182-3978",
+     "authenticated-orcid": false,
+     "given": "Zhassulan",
+     "family": "Smanov",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "State Key Laboratory of Desert and Oasis Ecology, Xinjiang Institute of Ecology and Geography, Chinese Academy of Sciences, Urumqi 830011, China"
+      },
+      {
+       "name": "Research Center for Ecology and Environment of Central Asia, Chinese Academy of Sciences, Urumqi 830011, China"
+      },
+      {
+       "name": "University of Chinese Academy of Sciences, Beijing 100049, China"
+      },
+      {
+       "name": "Kazakh Research Institute of Soil Science and Agrochemistry, Almaty 050060, Kazakhstan"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Agronomy"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2022,
+      8,
+      14
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "10",
+   "abstract": "<jats:p>In the past few decades, the shrinkage of the Aral Sea is one of the biggest ecological catastrophes caused by human activity. To quantify the joint impact of both human activities and climate change on groundwater, the spatiotemporal groundwater dynamic characteristics in the Amu Darya Delta of the Aral Sea from 1999 to 2017 were analyzed, using the groundwater level, climate conditions, remote sensing data, and irrigation information. Statistics analysis was adopted to analyze the trend of groundwater variation, including intensity, periodicity, spatial structure, while the Pearson correlation analysis and principal component analysis (PCA) were used to quantify the impact of climate change and human activities on the variabilities of the groundwater level. Results reveal that the local groundwater dynamic has varied considerably. From 1999 to 2002, the groundwater level dropped from −189 cm to −350 cm. Until 2017, the groundwater level rose back to −211 cm with fluctuation. Seasonally, the fluctuation period of groundwater level and irrigation water was similar, both were about 18 months. Spatially, the groundwater level kept stable within the irrigation area and bare land but fluctuated drastically around the irrigation area. The Pearson correlation analysis reveals that the dynamic of the groundwater level is closely related to irrigation activity within the irrigation area (Nukus: −0.583), while for the place adjacent to the Aral Sea, the groundwater level is closely related to the Large Aral Sea water level (Muynak: 0.355). The results of PCA showed that the cumulative contribution rate of the first three components exceeds 85%. The study reveals that human activities have a great impact on groundwater, effective management, and the development of water resources in arid areas is an essential prerequisite for ecological protection.</jats:p>",
+   "DOI": "10.3390/w12102869",
+   "page": "2869",
+   "is-referenced-by-count": 16,
+   "title": [
+    "Quantitative Detection and Attribution of Groundwater Level Variations in the Amu Darya Delta"
+   ],
+   "volume": "12",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0003-2364-2965",
+     "authenticated-orcid": false,
+     "given": "Xiaohui",
+     "family": "Pan",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "State Key Laboratory of Desert and Oasis Ecology, Xinjiang Institute of Ecology and Geography, Chinese Academy of Sciences, Urumqi 830011, China"
+      },
+      {
+       "name": "Key Laboratory of GIS &amp; RS Application, Xinjiang Uygur Autonomous Region, Urumqi 830011, China"
+      },
+      {
+       "name": "University of Chinese Academy of Sciences, Beijing 100049, China"
+      },
+      {
+       "name": "Department of Geography, Ghent University, 9000 Ghent, Belgium"
+      },
+      {
+       "name": "Sino-Belgian Joint Laboratory of Geo-Information, Urumqi 830011, China"
+      },
+      {
+       "name": "Sino-Belgian Joint Laboratory of Geo-Information, 9000 Ghent, Belgium"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Weishi",
+     "family": "Wang",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Institute of Environmental Science and Geography, University of Potsdam, Karl-Liebknecht-Str. 24–25, 14476 Potsdam, Germany"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-6879-4818",
+     "authenticated-orcid": false,
+     "given": "Tie",
+     "family": "Liu",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "State Key Laboratory of Desert and Oasis Ecology, Xinjiang Institute of Ecology and Geography, Chinese Academy of Sciences, Urumqi 830011, China"
+      },
+      {
+       "name": "Key Laboratory of GIS &amp; RS Application, Xinjiang Uygur Autonomous Region, Urumqi 830011, China"
+      },
+      {
+       "name": "Sino-Belgian Joint Laboratory of Geo-Information, Urumqi 830011, China"
+      },
+      {
+       "name": "Sino-Belgian Joint Laboratory of Geo-Information, 9000 Ghent, Belgium"
+      },
+      {
+       "name": "CAS Research Center for Ecology and Environment of Central Asia, Urumqi 830011, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Yue",
+     "family": "Huang",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "State Key Laboratory of Desert and Oasis Ecology, Xinjiang Institute of Ecology and Geography, Chinese Academy of Sciences, Urumqi 830011, China"
+      },
+      {
+       "name": "Key Laboratory of GIS &amp; RS Application, Xinjiang Uygur Autonomous Region, Urumqi 830011, China"
+      },
+      {
+       "name": "Sino-Belgian Joint Laboratory of Geo-Information, Urumqi 830011, China"
+      },
+      {
+       "name": "Sino-Belgian Joint Laboratory of Geo-Information, 9000 Ghent, Belgium"
+      },
+      {
+       "name": "CAS Research Center for Ecology and Environment of Central Asia, Urumqi 830011, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-8902-3855",
+     "authenticated-orcid": false,
+     "given": "Philippe De",
+     "family": "Maeyer",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Geography, Ghent University, 9000 Ghent, Belgium"
+      },
+      {
+       "name": "Sino-Belgian Joint Laboratory of Geo-Information, Urumqi 830011, China"
+      },
+      {
+       "name": "Sino-Belgian Joint Laboratory of Geo-Information, 9000 Ghent, Belgium"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Chenyu",
+     "family": "Guo",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "State Key Laboratory of Desert and Oasis Ecology, Xinjiang Institute of Ecology and Geography, Chinese Academy of Sciences, Urumqi 830011, China"
+      },
+      {
+       "name": "Key Laboratory of GIS &amp; RS Application, Xinjiang Uygur Autonomous Region, Urumqi 830011, China"
+      },
+      {
+       "name": "University of Chinese Academy of Sciences, Beijing 100049, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Yunan",
+     "family": "Ling",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "State Key Laboratory of Desert and Oasis Ecology, Xinjiang Institute of Ecology and Geography, Chinese Academy of Sciences, Urumqi 830011, China"
+      },
+      {
+       "name": "Key Laboratory of GIS &amp; RS Application, Xinjiang Uygur Autonomous Region, Urumqi 830011, China"
+      },
+      {
+       "name": "University of Chinese Academy of Sciences, Beijing 100049, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-5302-7851",
+     "authenticated-orcid": false,
+     "given": "Shamshodbek",
+     "family": "Akmalov",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "CAS Research Center for Ecology and Environment of Central Asia, Urumqi 830011, China"
+      },
+      {
+       "name": "Tashkent Institute of Irrigation and Agricultural Mechanization Engineers, Tashkent 999033, Uzbekistan"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Water"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2020,
+      10,
+      15
+     ]
+    ]
+   }
+  },
+  {
+   "abstract": "<jats:p>Ecosystem vulnerability increases significantly when anthropogenic factors overlap with the effects of adverse climate change, which together negatively affect biodiversity and ecosystem functioning. According to ADB forecasts, the inflow to the lower reaches of the Amu Darya will decrease by 26-35% by 2050. The combined effect of higher water demand and lower inflow will increase the current water shortage - the annual water shortage will increase to 50% of the total demand. In connection with the projected changes, the current state of water resources of the Amu Darya river, as well as the need for the socioeconomic development of the region, the task of assessing the projected impact of climate change on the availability and quality of water resources becomes urgent.</jats:p>",
+   "DOI": "10.1051/e3sconf/202126403049",
+   "page": "03049",
+   "is-referenced-by-count": 6,
+   "title": [
+    "Assessment of water quality in the downstream of the Amu Darya basin"
+   ],
+   "volume": "264",
+   "author": [
+    {
+     "given": "Feruzbek",
+     "family": "Karimboev",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Daulet",
+     "family": "Gulomov",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Zarina",
+     "family": "Tillayeva",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "E3S Web of Conferences"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2021
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "10",
+   "abstract": "<jats:p>This article describes the history of the emergence and development of water transport on the Amu Darya waterway, their importance on the waterway, as well as the role of these vehicles in the transportation of commercial goods on the banks of the Amu Darya. In addition, the article analyzes such issues as the development of shipping, the construction of ships in the Bukhara Emirate and Khiva Khanates.</jats:p>",
+   "DOI": "10.33619/2414-2948/59/38",
+   "page": "422-429",
+   "is-referenced-by-count": 3,
+   "title": [
+    "History of Amu Darya Shipbuilding"
+   ],
+   "volume": "6",
+   "author": [
+    {
+     "given": "Sh.",
+     "family": "Allamuratov",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Termez State University"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Bulletin of Science and Practice"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2020,
+      10,
+      15
+     ]
+    ]
+   }
+  },
+  {
+   "DOI": "10.17580/gzh.2026.04.08",
+   "title": [
+    "Assessment and description of brine concentration zones at the Amu Darya syneclise"
+   ],
+   "container-title": [
+    "Gornyi Zhurnal"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      4,
+      30
+     ]
+    ]
+   },
+   "author": [
+    {
+     "given": "A. R.",
+     "family": "Deryaev",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "is-referenced-by-count": 0,
+   "page": "55-61"
+  },
+  {
+   "DOI": "10.62432/appe.cao.2026.11.22",
+   "title": [
+    "Lower spring carryover and uneven downstream delivery in the Syr Darya, 2024–2026"
+   ],
+   "container-title": [
+    "Central Asia Observation"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      9,
+      21
+     ]
+    ]
+   },
+   "author": [
+    {
+     "given": "Aizada",
+     "family": "Isakova",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Academy of Public Policy and Economics"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Rachel",
+     "family": "Whitcombe",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Academy of Public Policy and Economics"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Irina",
+     "family": "Meshkova",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Academy of Public Policy and Economics"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "abstract": "<jats:p>Recent Syr Darya water accounts show lower spring carryover alongside uneven downstream delivery. We compare three consecutive institutional water accounts for October 2024–March 2026 and interpret their outcomes alongside water–energy agreements and operating decisions. Toktogul's closing storage changed from 0.42 km³ above plan to shortfalls of 0.53 and 0.38 km³. The summer 2025 shortfall combined inflow 0.22 km³ below forecast, releases 0.26 km³ above plan, and a −0.05 km³ balance deviation. In winter 2025–2026, releases exceeded plan by 0.54 km³ despite inflow exceeding forecast by 0.17 km³; the balance deviation was −0.01 km³. Actual end-winter storage was also 1.35 km³ lower than a year earlier, reflecting lower opening storage and inflow despite reduced year-on-year releases. Downstream performance separated further: in the latter winter, Shardara inflow reached 101.89% of plan while reported Aral supply reached 43.80%. The 0.68 km³ Aral shortfall comprised 0.63 km³ less river release from Shardara and 0.05 km³ greater lower-reach net depletion. These comparisons establish two concurrent outcomes: lower spring carryover and downstream delivery below target even when intermediate inflow met plan. Seasonal cooperation therefore faces distinct storage and delivery constraints whose location and timing determine the water benefit actually realized.\n\nKeywords: Syr Darya; Toktogul; seasonal storage; downstream delivery; water–energy cooperation; Aral Sea</jats:p>",
+   "is-referenced-by-count": 0,
+   "volume": "11"
+  },
+  {
+   "issue": "01",
+   "abstract": "<jats:p>This article analyzes the historical development of rural and urban settlements in the Middle Syr Darya basin during antiquity and the early Middle Ages on the basis of written and archaeological sources. The study applies a comparative and critical approach to data derived from ancient Greek and Roman authors, Chinese chronicles, and Arabic and Persian geographical works. Particular attention is paid to the hydronym Syr Darya, its various historical names recorded in different sources, their etymology, and related toponymic features. The article also examines the formation of settlements in historical regions such as Chach, Ustrushana, Otrar, Isfijab, and the Mirzachul area, emphasizing the interactions between sedentary agricultural communities and nomadic pastoral populations. The research findings contribute to a more precise understanding of the historical geography of the Middle Syr Darya basin and are significant for interpreting the ethno-cultural processes of the region.</jats:p>",
+   "DOI": "10.37547/ijhps/volume06issue01-07",
+   "page": "26-30",
+   "is-referenced-by-count": 0,
+   "title": [
+    "The Formation Of Villages And Towns In The Middle Syr Darya Basin: A Comparative Analysis Of Written And Archaeological Sources"
+   ],
+   "volume": "06",
+   "author": [
+    {
+     "name": "Lecturer department of history Gulistan State University, Uzbekistan",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Shаrоfiddin",
+     "family": "Mamatov",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "International Journal Of History And Political Sciences"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      1,
+      18
+     ]
+    ]
+   }
+  },
+  {
+   "DOI": "10.70286/eoss-15.12.2025.005",
+   "title": [
+    "NEW SYR DARYA RIVER DELTA IN THE NORTH ARAL SEA: ITS FORMATION AND PERSPECTIVE"
+   ],
+   "container-title": [
+    "European Open Science Space"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      12,
+      15
+     ]
+    ]
+   },
+   "author": [
+    {
+     "given": "Vladimir",
+     "family": "Starodubtsev",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "abstract": "<jats:p>The formation history of the new Syr Darya River delta, which is\nforming in the northern part of the Aral Sea, is examined. The emergence of this\nrelatively new type of river delta is linked to the catastrophic shallowing of the Aral\nSea and the decline in its water level, which led to the division of the vast body of water\ninto two unequal parts. It has been noted that a large southern part is subject to drying\nout and desertification, turning into a man-made desert, which has been given the local\nname \"Aralkum\". The northern part, called the Small Aral, receives residual water,\nsolid and salt runoff from the Syr Darya River, gradually forming new relief features\nand wetlands with rich biodiversity.</jats:p>",
+   "is-referenced-by-count": 0,
+   "page": "136-143"
+  },
+  {
+   "DOI": "10.13187/bg.2025.3.1288",
+   "title": [
+    "Historical Geography of the Syr Darya Region in Russian Sources of the mid-19th century"
+   ],
+   "container-title": [
+    "Bylye Gody"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      9,
+      1
+     ]
+    ]
+   },
+   "is-referenced-by-count": 0,
+   "volume": "20",
+   "issue": "3"
+  },
+  {
+   "DOI": "10.32743/unichem.2023.107.5.15408",
+   "title": [
+    "ASSESSMENT OF PRODUCTIVITY OF RIPARIAN VEGETATION IN THE LOWER REACHES OF THE AMU DARYA"
+   ],
+   "container-title": [
+    "Universum:Chemistry &amp; biology"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      5,
+      7
+     ]
+    ]
+   },
+   "author": [
+    {
+     "given": "Gulzar",
+     "family": "Kutlimuratova",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "is-referenced-by-count": 0,
+   "volume": "107",
+   "issue": "5"
+  },
+  {
+   "issue": "12",
+   "abstract": "<jats:p>The article presents the results of the functional zoning of the delta of transboundary river Syr Darya, which is located in an ecological disaster zone and is the only watercourse in modern conditions that supplies the remained part of Aral Sea. Under the conditions of global climate change, the territories of river deltas in arid regions are subject to active degradation processes, which are associated both with decrease of their water content and increase of anthropogenic impact. To determine the current condition of Syr Darya river delta landscapes, a component-by-component analysis of its main components was carried out. Based on the assessment of use of delta natural resource potential, the degradation processes associated with the types and intensity of anthropogenic impact in the conditions of arid climate were identified. The conducted studies formed the basis for the functional zoning of the territory of Syr Darya river delta, which is a spatial planning of sustainable land use and landscapes preservation. The developed scheme of functional zoning of Syr Darya River delta allowed to propose a number of measures with allocation of landscapes recommended for conservation, restoration, or sustainable use by the certain type of land use with the minimization of degradation processes.</jats:p>",
+   "DOI": "10.3390/su14127153",
+   "page": "7153",
+   "is-referenced-by-count": 2,
+   "title": [
+    "The Functional Zoning of the Syr Darya River’s Delta"
+   ],
+   "volume": "14",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0003-4254-1369",
+     "authenticated-orcid": false,
+     "given": "Nurlybek",
+     "family": "Zinabdin",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Faculty of Natural Sciences, L.N. Gumilyov Eurasian National University, Nur-Sultan 010000, Kazakhstan"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-8395-8497",
+     "authenticated-orcid": false,
+     "given": "Farida",
+     "family": "Akiyanova",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "International Science Complex Astana, Nur-Sultan 010000, Kazakhstan"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-8945-2924",
+     "authenticated-orcid": false,
+     "given": "Kamshat",
+     "family": "Yegemberdiyeva",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Institute of Geography and Water Security, Almaty 050000, Kazakhstan"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-6610-3609",
+     "authenticated-orcid": false,
+     "given": "Roza",
+     "family": "Temirbayeva",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Institute of Geography and Water Security, Almaty 050000, Kazakhstan"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-8769-1240",
+     "authenticated-orcid": false,
+     "given": "Ordenbek",
+     "family": "Mazbayev",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Faculty of Natural Sciences, L.N. Gumilyov Eurasian National University, Nur-Sultan 010000, Kazakhstan"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Sustainability"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2022,
+      6,
+      10
+     ]
+    ]
+   }
+  },
+  {
+   "abstract": "<jats:p>Water consumption and water use have been continuously increasing, and the impact of economic activities on the hydrological regime of water flow, especially in irrigation, population and industry, has increased significantly. In particular, it is significantly increasing in the countries of Central Asia, including the Republic of Uzbekistan. Today's global problem is the severity, scale and unusualness of anthropogenic climate change, especially in developing countries, creates the need for action with an urgent scientific approach. Undoubtedly, the assessment of the observed climate change and the current state of water resources will require many years of in-depth scientific research. One of the factors limiting the development of the countries of the Amu Darya basin is the lack of water resources. The world is experiencing intensive climate warming, which leads to the melting of glaciers, which are the main sources of fresh water for the river basins that make up the water resources of the countries of Central Asia. The article gives an assessment of regional and local climate change and gives recommendations for reducing water shortages in the countries of the province</jats:p>",
+   "DOI": "10.1051/e3sconf/202337602010",
+   "page": "02010",
+   "is-referenced-by-count": 2,
+   "title": [
+    "Impact Assessment of climate change on water resources of the Amu Darya River basin"
+   ],
+   "volume": "376",
+   "author": [
+    {
+     "given": "Alisher",
+     "family": "Khodjiev",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "E3S Web of Conferences"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2023
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "6",
+   "abstract": "<jats:p>This study presents a 25-year spatiotemporal assessment of vegetation dynamics and drought severity in the Khorezm irrigated zone of the Amu Darya Basin (59–62.5°E, 40.5–42.5°N) over the period 2000–2024. Annual Normalized Difference Vegetation Index (NDVI) values were derived from Landsat Collection 2 Surface Reflectance imagery accessed via the Microsoft Planetary Computer STAC API, filtered to cloud cover below 20% and growing season months (April–September). The Vegetation Condition Index (VCI) was computed to classify annual drought severity according to the five-class Kogan framework. The Mann-Kendall non-parametric trend test and Sen's slope estimator were applied to assess long-term vegetation trends. Results indicate a mean annual NDVI of 0.1094 across the study period, with a minimum of 0.0754 in 2001 (Extreme drought) and a maximum of 0.1442 in 2022 (No drought). VCI classification identifies two years of Extreme drought (2000–2001), one year of Moderate drought (2008), fourteen years of Mild drought (56%), and eight years of No drought (32%). The Mann-Kendall test detects a positive trend direction (Kendall's τ = +0.267, p = 0.065, Sen's slope = +0.000548 NDVI yr⁻¹) that does not reach statistical significance at p &lt; 0.05, reflecting high interannual variability and non-monotonic dynamics. The findings characterize the Khorezm irrigated zone as a landscape under chronic structural water deficit, with the 2016–2022 period representing the best sustained vegetation conditions of the entire record.</jats:p>",
+   "DOI": "10.37547/tajas/volume08issue06-06",
+   "page": "264-267",
+   "is-referenced-by-count": 0,
+   "title": [
+    "25-Year Spatiotemporal Assessment of Vegetation Dynamics and Drought Severity in The Amu Darya Irrigated Zone Using Landsat Time Series and Mann-Kendall Trend Analysis"
+   ],
+   "volume": "8",
+   "author": [
+    {
+     "given": "Munisa",
+     "family": "Ismatova",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Master's Degree Student, Turin Polytechnic University in Tashkent, Uzbekistan"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "The American Journal of Applied Sciences"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      6,
+      1
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "4",
+   "abstract": "<jats:p>The article describes the higher aquatic plants, their place in nature and importance in the national economy, as well as the bioecological features of the higher aquatic plants of the Syr Darya basin. For example, higher aquatic plants, especially those that grow submerged in water, act as a biological filter, while between aquatic and marsh plants there are species that have essential oils, glycosidic and antibiotic properties and can be used as raw materials for the preparation of medicines. Higher aquatic plants that grow submerged in water act as biological filters and enrich the water with dissolved oxygen. The flora of aquatic and wetland plants of the Syr Darya basin was studied, more than 230 samples of higher aquatic and wetland plants were collected and identified. Among them, the most numerous families are those belonging to: Poaceae, Cyperaceae, Typhaceae, Potomagetonaceae. Among them-aromatic sedge cane (Acoruscalamus L.), The bioecological features and significance of Salvinia floating (Salvinianatans), flowering rush (Butomusumbellatus) are described in detail.</jats:p>",
+   "DOI": "10.5958/2278-4853.2021.00346.3",
+   "page": "939-943",
+   "is-referenced-by-count": 0,
+   "title": [
+    "Bioecological features and significance of higher aquatic plants of the syr darya basin"
+   ],
+   "volume": "10",
+   "author": [
+    {
+     "given": "R. N.",
+     "family": "Muminova",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Kokand State Pedagogical Institute",
+       "place": [
+        "Uzbekistan"
+       ],
+       "department": [
+        "Biological Sciences, Department of Biology"
+       ]
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "R Sh.",
+     "family": "Tashmatova",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Kokand State Pedagogical Institute",
+       "place": [
+        "Uzbekistan"
+       ],
+       "department": [
+        "Biological Sciences, Department of Biology"
+       ]
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Asian Journal of Multidimensional Research"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2021
+     ]
+    ]
+   }
+  },
+  {
+   "DOI": "10.1016/j.envres.2020.109229",
+   "page": "109229",
+   "is-referenced-by-count": 47,
+   "title": [
+    "A bi-level chance-constrained programming method for quantifying the effectiveness of water-trading to water-food-ecology nexus in Amu Darya River basin of Central Asia"
+   ],
+   "volume": "183",
+   "author": [
+    {
+     "given": "Y.",
+     "family": "Ma",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Y.P.",
+     "family": "Li",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "G.H.",
+     "family": "Huang",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Environmental Research"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2020,
+      4
+     ]
+    ]
+   },
+   "article-number": "109229"
+  }
+ ]
+}

@@ -1,0 +1,2317 @@
+{
+ "query": "groundwater level trend Mann-Kendall irrigated",
+ "source": "Crossref",
+ "date": "2026-11-18",
+ "filter": "2020–2026, journal-article",
+ "n": 40,
+ "items": [
+  {
+   "issue": "6",
+   "abstract": "<jats:p>This study presents a 25-year spatiotemporal assessment of vegetation dynamics and drought severity in the Khorezm irrigated zone of the Amu Darya Basin (59–62.5°E, 40.5–42.5°N) over the period 2000–2024. Annual Normalized Difference Vegetation Index (NDVI) values were derived from Landsat Collection 2 Surface Reflectance imagery accessed via the Microsoft Planetary Computer STAC API, filtered to cloud cover below 20% and growing season months (April–September). The Vegetation Condition Index (VCI) was computed to classify annual drought severity according to the five-class Kogan framework. The Mann-Kendall non-parametric trend test and Sen's slope estimator were applied to assess long-term vegetation trends. Results indicate a mean annual NDVI of 0.1094 across the study period, with a minimum of 0.0754 in 2001 (Extreme drought) and a maximum of 0.1442 in 2022 (No drought). VCI classification identifies two years of Extreme drought (2000–2001), one year of Moderate drought (2008), fourteen years of Mild drought (56%), and eight years of No drought (32%). The Mann-Kendall test detects a positive trend direction (Kendall's τ = +0.267, p = 0.065, Sen's slope = +0.000548 NDVI yr⁻¹) that does not reach statistical significance at p &lt; 0.05, reflecting high interannual variability and non-monotonic dynamics. The findings characterize the Khorezm irrigated zone as a landscape under chronic structural water deficit, with the 2016–2022 period representing the best sustained vegetation conditions of the entire record.</jats:p>",
+   "DOI": "10.37547/tajas/volume08issue06-06",
+   "page": "264-267",
+   "is-referenced-by-count": 0,
+   "title": [
+    "25-Year Spatiotemporal Assessment of Vegetation Dynamics and Drought Severity in The Amu Darya Irrigated Zone Using Landsat Time Series and Mann-Kendall Trend Analysis"
+   ],
+   "volume": "8",
+   "author": [
+    {
+     "given": "Munisa",
+     "family": "Ismatova",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Master's Degree Student, Turin Polytechnic University in Tashkent, Uzbekistan"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "The American Journal of Applied Sciences"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      6,
+      1
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "3",
+   "DOI": "10.21275/sr23311124753",
+   "page": "917-921",
+   "is-referenced-by-count": 3,
+   "title": [
+    "Rainfall Trend Analysis of Nagaland by using Mann - Kendall Test"
+   ],
+   "volume": "12",
+   "author": [
+    {
+     "given": "Zaleto",
+     "family": "Medeo Wangshimenla Jamir",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "International Journal of Science and Research (IJSR)"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      3,
+      5
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "3",
+   "DOI": "10.1016/j.htopen.2026.100034",
+   "page": "100034",
+   "is-referenced-by-count": 4,
+   "title": [
+    "Assessment of groundwater level variation by ANN and ARIMA modeling coupled with Mann-Kendall trend analysis and GIS spatial interpolation"
+   ],
+   "volume": "9",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0009-0003-7512-0824",
+     "authenticated-orcid": false,
+     "given": "Md Abrarul",
+     "family": "Hoque",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Rubinoor",
+     "family": "Islam",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Farhana",
+     "family": "Kabir",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Abdullah All",
+     "family": "Noman",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Md. Abul Kalam",
+     "family": "Azad",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Md. Iftakhar-Ul",
+     "family": "Islam",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "H2Open Journal"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      6
+     ]
+    ]
+   },
+   "article-number": "100034"
+  },
+  {
+   "issue": "11",
+   "abstract": "<jats:p>In this study, we analyze sea surface height referenced against the WGS84 ellipsoid at the Hon Dau tidal gauge station (Hai Phong, Vietnam), in front of the Red River Delta, between 1961 and 2020. The annual sea level varied from 165.23 cm to 206.06 cm in this period (+20.28 cm over 60 years). The average water level was 190.87 cm for 60 years, with higher annual values in recent years, especially from 2016 to the present (above 201.5 cm). The Mann–Kendall (MK) test with Sen’s slope estimator and Şen’s innovative trend analysis (ITA) were applied and compared to estimate the sea level rise. These methods showed complete agreement among tests with significant rising trends of about 3.38 mm/year with the MK test and 3.08 mm/year with the ITA method for 1961–2020. During the last 20 years (2001–2020), the mean sea level increased about 7.16 mm/year (MK test and Sen’s slope), 7.38 mm/year (ITA method), and around twice higher than the rate of the region and globally. The MK test and ITA method provided similar results for periods: 1961–2020, 1961–1980, and 2001–2020, with relatively stable monotonic related trend conditions. For the period 1981–2000, with a more nonmonotonic trend, the MK test and ITA method provided different trends and allowed to illustrate the specificity of each method.</jats:p>",
+   "DOI": "10.3390/w14111709",
+   "page": "1709",
+   "is-referenced-by-count": 60,
+   "title": [
+    "Sea Level Variation and Trend Analysis by Comparing Mann–Kendall Test and Innovative Trend Analysis in Front of the Red River Delta, Vietnam (1961–2020)"
+   ],
+   "volume": "14",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-5604-4999",
+     "authenticated-orcid": false,
+     "given": "Hai Minh",
+     "family": "Nguyen",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Institute of Marine Environment and Resources, Vietnamese Academy of Science and Technology (VAST), 246 Danang Street, Haiphong 04216, Vietnam"
+      },
+      {
+       "name": "Faculty of Marine Science and Technology, Graduate University of Science and Technology, Vietnamese Academy of Science and Technology (VAST), 18 Hoang Quoc Viet, Hanoi 10000, Vietnam"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-7964-7787",
+     "authenticated-orcid": false,
+     "given": "Sylvain",
+     "family": "Ouillon",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "UMR LEGOS, University of Toulouse, IRD, CNES, CNRS, UPS, 14 Avenue Edouard Belin, 31400 Toulouse, France"
+      },
+      {
+       "name": "Department Water-Environment-Oceanography, University of Science and Technology of Hanoi (USTH), Vietnamese Academy of Science and Technology (VAST), 18 Hoang Quoc Viet, Hanoi 100000, Vietnam"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-4500-027X",
+     "authenticated-orcid": false,
+     "given": "Vinh Duy",
+     "family": "Vu",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Institute of Marine Environment and Resources, Vietnamese Academy of Science and Technology (VAST), 246 Danang Street, Haiphong 04216, Vietnam"
+      },
+      {
+       "name": "Faculty of Marine Science and Technology, Graduate University of Science and Technology, Vietnamese Academy of Science and Technology (VAST), 18 Hoang Quoc Viet, Hanoi 10000, Vietnam"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Water"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2022,
+      5,
+      26
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "5",
+   "abstract": "<jats:p/>",
+   "DOI": "10.14251/jscm.2026.5.111",
+   "page": "111-121",
+   "is-referenced-by-count": 0,
+   "title": [
+    "climate change, trend analysis, Mann-Kendall test, seasonal shift, South Korea"
+   ],
+   "volume": "16",
+   "author": [
+    {
+     "name": "Crisis and Emergency Management: Theory and Praxis",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Sungjong Lee",
+     "family": "Sungjong Lee",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Crisis and Emergency Management: Theory and Praxis"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      5,
+      31
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "2",
+   "abstract": "<jats:p xml:lang=\"tr\">Yağış ve sıcaklık verileri üzerine yapılan analizler iklim değişikliği çalışmaları için önemlidir. Bu çalışmada Karadeniz Bölgesinin yağış ve sıcaklık verileri üzerine trend analizi uygulanmıştır. Bu amaçla Mann-Kendall testi ve Yenilikçi Şen yöntemi 1960-2015 veri aralığına sahip olan 16 istasyonun verileri üzerine uygulanmıştır. Sonuçlar, Yenilikçi Şen yöntemine göre sıcaklık verileri için 16 istasyonun tamamında artan trend göstermiştir. Halbuki Mann-Kendall testine göre 7 istasyonda artan trend belirlenmiştir. Benzer sonuçlar yağış verileri üzerine trend analizinde de elde edilmiştir. Bu sonuçlar bize göstermektedir ki Yenilikçi Şen yöntemi yağış ve sıcaklık verileri üzerinde daha çok istatistiksel önemli trend gösterir. Ayrıca, Karadeniz Bölgesinde yıllık yağış ve sıcaklıklar genel olarak artış trendi gösterirler.</jats:p>",
+   "DOI": "10.21597/jist.633368",
+   "page": "1107-1118",
+   "is-referenced-by-count": 28,
+   "title": [
+    "Karadeniz Bölgesinde Yıllık Yağış ve Sıcaklık Verilerinin Yenilikçi Şen ve Mann-Kendall Yöntemleri ile Trend Analizi",
+    "Trend Analysis with Innovative Sen and Mann-Kendall methods of Annual Precipitation and Temperature data in the Black Sea Region"
+   ],
+   "volume": "10",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-3724-9358",
+     "authenticated-orcid": true,
+     "given": "Samet",
+     "family": "TOKGÖZ",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-3779-441X",
+     "authenticated-orcid": true,
+     "given": "Turgay",
+     "family": "PARTAL",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "ONDOKUZ MAYIS ÜNİVERSİTESİ"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Iğdır Üniversitesi Fen Bilimleri Enstitüsü Dergisi"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2020,
+      6,
+      1
+     ]
+    ]
+   }
+  },
+  {
+   "DOI": "10.55362/ije/2024/4597",
+   "title": [
+    "Trend Detection of Temperature, Diurnal Temperature Range and Rainfall in Amritsar by using Mann Kendall Test"
+   ],
+   "container-title": [
+    "Indian Journal of Ecology"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      10,
+      15
+     ]
+    ]
+   },
+   "is-referenced-by-count": 0
+  },
+  {
+   "issue": "2",
+   "DOI": "10.35180/gse-2023-0099",
+   "page": "186-233",
+   "is-referenced-by-count": 7,
+   "title": [
+    "Trend Assessment by the Mann-Kendall Test and the Innovative Trend Analysis Method (North-West Algeria)"
+   ],
+   "volume": "69",
+   "author": [
+    {
+     "given": "Oumeria",
+     "family": "OUFRIGH",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Abdelkader",
+     "family": "ELOUISSI",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Benali",
+     "family": "BENZATER",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "GeoScience Engineering"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      12
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "3",
+   "abstract": "<jats:title>Abstract</jats:title><jats:p>Mann‐Kendall (MK) trend test is frequently employed as the most familiar trend detection method. Its application requires serial independence of available hydrometeorological time series records. As suggested in the literature, the serial correlation effect can be removed from the given time series by using prewhitening, variance correction or overwhitening processes such as in the modified Mann‐Kendall (MMK) procedure. The PW process may cause some of the current trends to be removed along with the serial correlation. In this study, the MMK method is supported by Şen innovative trend analysis instead of Sen slope estimator (SSE). The MMK method is applied to monthly maximum temperatures of Oxford station in England, for which the data length is large and the moving trend slope values are calculated starting from 1854 for all durations between 1873 and 2017. The MMK_SSE and MMK_ITA methods yield significant increasing trends between 0.0037 and 0.0125°C/year annual slopes for January, March, May, July, August, September, October, November, December, but for February, there is not any significant trend. While MMK_SSE does not give any significant trend for April that has maximum positive kurtosis and skew, but MMK_ITA reflects an increasing trend of 0.0059°C per year.</jats:p>",
+   "DOI": "10.1002/eng2.12131",
+   "is-referenced-by-count": 110,
+   "title": [
+    "Combination of modified Mann‐Kendall method and Şen innovative trend analysis"
+   ],
+   "volume": "2",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0003-1769-4590",
+     "authenticated-orcid": false,
+     "given": "Sadık",
+     "family": "Alashan",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Department of Civil Engineering Bingol University  Bingol Turkey"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Engineering Reports"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2020,
+      2,
+      26
+     ]
+    ]
+   },
+   "article-number": "e12131"
+  },
+  {
+   "issue": "1",
+   "DOI": "10.1038/s41598-025-30034-0",
+   "is-referenced-by-count": 12,
+   "title": [
+    "Modified Mann-Kendall with higher-order statistics for trend analysis"
+   ],
+   "volume": "16",
+   "author": [
+    {
+     "given": "Yick Jing",
+     "family": "Then",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Syafrina",
+     "family": "Abdul Halim",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Scientific Reports"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      12,
+      3
+     ]
+    ]
+   },
+   "article-number": "500"
+  },
+  {
+   "issue": "8",
+   "abstract": "<jats:p>Analyzing monitoring data efficiently is a classic problem in structural health monitoring. A nonparametric test method, the Mann–Kendall (MK) method, was implemented in this study, which is commonly used to detect monotonic trends in a series of environmental data. Using the MK method, three types of time series were studied: the stress time series measured in the concrete prism compression test, the resultant force time series obtained from the pseudostatic test of a reinforced masonry shear wall, and the translation velocity time series detected in a high-rise building. The statistics calculated, as well as the intersections of curves, indicate the trend change in the time series. The results demonstrated that the MK method could efficiently analyze the trend in the engineering time series.</jats:p>",
+   "DOI": "10.3390/buildings12081165",
+   "page": "1165",
+   "is-referenced-by-count": 6,
+   "title": [
+    "Mann–Kendall-Based Concrete Failure Trend Analysis and Its Implementation for Dynamic Building Monitoring"
+   ],
+   "volume": "12",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0001-7266-3821",
+     "authenticated-orcid": false,
+     "given": "Xu",
+     "family": "Yang",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "School of Civil Engineering, Harbin Institute of Technology, Harbin 150090, China"
+      },
+      {
+       "name": "Key Lab of Structures Dynamic Behavior and Control of the Ministry of Education, Harbin Institute of Technology, Harbin 150090, China"
+      },
+      {
+       "name": "Key Lab of Smart Prevention and Mitigation of Civil Engineering Disasters of the Ministry of Industry and Information Technology, Harbin Institute of Technology, Harbin 150090, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Xueying",
+     "family": "Han",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "School of Architecture, Harbin Institute of Technology, Harbin 150006, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Buildings"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2022,
+      8,
+      4
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "1",
+   "abstract": "<jats:p>Climate change is a natural phenomenon but in present decades its variability of change mainly due to anthropogenic activities is alarming. Agriculture of Chhattisgarh state is mainly dependant on monsoon rain and its distribution. Considering this fact, the present study  has been tried to analyze the most important climatic variables,              viz., precipitation and temeperature for analyzing their trend in the area. The trends of maximum atmospheric temperature, rainfall and rainy days are analysed statistically for meteorological data of Jagdalpur station of Bastar district, over last three decades stretching between years 1980 to 2014. The long term change in temperature, rainfall and rainy days has been analysed by correlation and linear trend analysis. The annual MMAX temperature has decreased at a rate of -0.465 °C per year during this period at Jagdalpur station and decreasing trend for rainy days during monsoonal season (June to September) is also found and is confirmed by Mann-Kendall trend test. Very weak increasing trend is observed in total month rainfall (TMRF) during season June to September. There are decreasing trends of mean monthly rainfall and south west (June - September) rainfall observed in Bastar district of Chhattisgarh. The agricultural planning and utilization of water is dependent on monsoon rainfall and more than 75% of rainfall occurring during the monsoon season is uneven both in time and space. Therefore its analysis is important for crop planning.\r\n </jats:p>",
+   "DOI": "10.54302/mausam.v73i1.5082",
+   "page": "79-82",
+   "is-referenced-by-count": 6,
+   "title": [
+    "Trend assessment in climate variable by Mann Kendall test of  Bastar district of Chhattisgarh"
+   ],
+   "volume": "73",
+   "author": [
+    {
+     "given": "RAJESH",
+     "family": "KHAVSE",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "J.L.",
+     "family": "CHAUDHARY",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "MAUSAM"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2022,
+      1,
+      15
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "23",
+   "abstract": "<jats:p>Understanding the persistence and stability of hydroclimatic trends is essential for climate adaptation and sustainable water resource management, particularly in Mediterranean regions characterized by irregular precipitation regimes. This study examines long-term rainfall variability (1974–2021) at six meteorological stations along the southern coasts of Türkiye using three complementary non-parametric techniques: the Mann-Kendall (MK) test, the Wilcoxon Signed-Rank Test (WT), and the Innovative Trend Analysis (ITA). The three tests were applied with their respective methodological extensions to enhance sensitivity and better capture trend stability. Results show that while most stations exhibit generally stable rainfall regimes, period- and location-specific variations with non-monotonic or oscillatory tendencies are present, revealing patterns that standard trend tests often fail to detect. The WT method was more responsive to short-term fluctuations, whereas ITA and its three-dimensional version (3D-ITA) provided valuable insights into trend persistence and stability. Overall, the findings highlight that trend stability assessment enables the distinction between transient climate variability and sustained hydroclimatic change, offering a stronger scientific basis for adaptive water management and regional sustainability planning under climate uncertainty.</jats:p>",
+   "DOI": "10.3390/su172310454",
+   "page": "10454",
+   "is-referenced-by-count": 11,
+   "title": [
+    "Revisiting Trend Stability Using Mann-Kendall and Wilcoxon Signed-Rank Tests Through Innovative Method Comparisons"
+   ],
+   "volume": "17",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0001-9135-1698",
+     "authenticated-orcid": false,
+     "given": "Remziye İlayda",
+     "family": "Tan Kesgin",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Department of Engineering, Fatih Sultan Mehmet Vakıf University, Istanbul 34015, Türkiye"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Sustainability"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      11,
+      21
+     ]
+    ]
+   }
+  },
+  {
+   "DOI": "10.1016/j.gsd.2023.101060",
+   "page": "101060",
+   "is-referenced-by-count": 46,
+   "title": [
+    "Implications of rainfall variability on groundwater recharge and sustainable management in South Asian capitals: An in-depth analysis using Mann Kendall tests, continuous wavelet coherence, and innovative trend analysis"
+   ],
+   "volume": "24",
+   "author": [
+    {
+     "given": "Md. Abdul",
+     "family": "Fattah",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Md. Mahedi",
+     "family": "Hasan",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Irin Akter",
+     "family": "Dola",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Syed Riad",
+     "family": "Morshed",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Tanmoy",
+     "family": "Chakraborty",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-7544-5165",
+     "authenticated-orcid": false,
+     "given": "Abdulla - Al",
+     "family": "Kafy",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Saleh",
+     "family": "Alsulamy",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Khaled Mohamed",
+     "family": "Khedher",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Ahmed Ali A.",
+     "family": "Shohan",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Groundwater for Sustainable Development"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2024,
+      2
+     ]
+    ]
+   },
+   "article-number": "101060"
+  },
+  {
+   "issue": "1",
+   "abstract": "<jats:p xml:lang=\"tr\">Günümüzde farklı veri setleri (su kalitesi, akım, yağış, sıcaklık vb.) ile eğilimlerin tespit edilmesi için pek çok yöntem mevcuttur. Bu çalışmada trend analizi çalışmalarında yaygın bir şekilde kullanılan Mann-Kendall (MK) test istatistiği ile Spearman Rho test istatistiği ve son yıllarda popüler hale gelmiş olan Şen’in yenilikçi trend yöntemi (ITA), Yenilikçi eğilim çözümlemesi için geliştirilmiş görselleştirme (IV-ITA) yöntemlerinin performansları karşılaştırılmıştır. Bu amaçla Akdeniz Bölgesi’nde yer alan Ceyhan Nehri’ne ait 20-06-00-001 numaralı istasyonundan alınan 1986-2013 su yıllarına ait yıllık ortalama ve mevsimlik ortalama 8 adet su kalitesi parametresi kullanılmıştır. Öncelikle her bir parametrenin değerleri YSKYY’nde verilen su kalite değerleriyle karşılaştırılmış ve her bir parametreye göre su kalitesi sınıfları belirlenmiştir. Daha sonra her mevsim kendi içinde ve yıllık ortalama değerlerin trendleri karşılaştırılmıştır. Bu nedenle 5 farklı trend testinin karşılaştırılması yapılmıştır. Ancak sırasıyla yapılmış olan homojenlik ve otoregresif korelasyon testi işlemlerine göre hem %95 güven aralığında homojen olmayan hem de korelasyon değeri 0.30’un üzerinde kalan bazı veriler kıyaslamada kullanılmamıştır. Makalede elde edilen sonuçlar değerlendirildiğinde farklı analizlerin birlikte yapılarak kullanılması testlerdeki yanılma payını azaltacağı kanısına varılmıştır.</jats:p>",
+   "DOI": "10.60093/jiciviltech.1521101",
+   "page": "11-27",
+   "is-referenced-by-count": 3,
+   "title": [
+    "Su Kalitesi Parametreleri için Mann-Kendall ve Yenilikçi Trend Yöntemlerinin Karşılaştırılması"
+   ],
+   "volume": "7",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0001-5864-0076",
+     "authenticated-orcid": true,
+     "given": "Ramazan",
+     "family": "Acar",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "MUNZUR ÜNİVERSİTESİ"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Journal of Innovations in Civil Engineering and Technology"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      6,
+      30
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "1",
+   "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>In order to quantitatively describe the evolution trend of Dongting Lake water level and its driving forces, the Mann-Kendall approach is used to determine the lake water level and its driving forces, including the discharge of the Yangtze River at Yichang hydrological station, three outlets, and four rivers. The results show that the annual runoff and the runoff from September to October of the Yangtze River, the annual runoff of the three outlets have a significant downward trend, especially after the impoundment of the large reservoirs on the middle and upper reaches of Yangtze River. The Yangtze River discharge has a sudden change during the impoundment period, while the annual runoff and the runoff from September to October of the four rivers showed an insignificant decrease trend. The lake water level at Chenglingji decreased during the impoundment period of the large reservoirs slowed down, especially in September and October, so we can see that the reservoir impoundment is an important factor that decreasing the water level of Dongting Lake.</jats:p>",
+   "DOI": "10.1088/1755-1315/467/1/012140",
+   "page": "012140",
+   "is-referenced-by-count": 4,
+   "title": [
+    "Trend and abrupt analysis of Dongting Lake water level and its driving forces using Mann-Kendall approach"
+   ],
+   "volume": "467",
+   "author": [
+    {
+     "given": "Lingquan",
+     "family": "Dai",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Haibo",
+     "family": "Liu",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Wei",
+     "family": "Li",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Zhengyang",
+     "family": "Tang",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "IOP Conference Series: Earth and Environmental Science"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2020,
+      3,
+      1
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "2",
+   "DOI": "10.1007/s00704-023-04666-z",
+   "page": "901-910",
+   "is-referenced-by-count": 34,
+   "title": [
+    "Non-monotonic trend analysis using Mann–Kendall with self-quantiles"
+   ],
+   "volume": "155",
+   "author": [
+    {
+     "given": "Sadık",
+     "family": "Alashan",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Theoretical and Applied Climatology"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      10,
+      2
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "2",
+   "DOI": "10.54386/jam.v21i2.244",
+   "page": "239-240",
+   "is-referenced-by-count": 6,
+   "title": [
+    "Analysis of rainfall trend of Parbhani, Maharshtra using Mann– Kendall test"
+   ],
+   "volume": "21",
+   "author": [
+    {
+     "family": "R.S. SAYYAD",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "family": "K.K. DAKHORE",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "family": "S.V. PHAD",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Journal of Agrometeorology"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2021,
+      11,
+      10
+     ]
+    ]
+   }
+  },
+  {
+   "DOI": "10.1016/j.jhydrol.2020.124674",
+   "page": "124674",
+   "is-referenced-by-count": 237,
+   "title": [
+    "Improved visualization for trend analysis by comparing with classical Mann-Kendall test and ITA"
+   ],
+   "volume": "584",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-9939-1157",
+     "authenticated-orcid": false,
+     "given": "Yavuz Selim",
+     "family": "Güçlü",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Journal of Hydrology"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2020,
+      5
+     ]
+    ]
+   },
+   "article-number": "124674"
+  },
+  {
+   "issue": "1",
+   "abstract": "<jats:p xml:lang=\"tr\">Günümüzde farklı veri setleri ile trendlerin belirlenmesi için pek çok yöntem mevcuttur. Bu çalışmada trend analizi çalışmalarında sıklıkla kullanılan Mann-Kendall (MK) trend analizi ile son yıllarda popüler hale gelmiş olan Yenilikçi Eğilim Çözümlemesi (YEÇ), Yenilikçi Eğilim Çözümlemesi için Geliştirilmiş Görselleştirme (GG-YEÇ) kıyaslaması yapılmıştır. Ayrıca son yıllarda önerilen Saçılım Diyagramı ile Kombinasyonlu Wilcoxon Trend Testide (SDKWTT) bu karşılaştırmaya dahil edilmiştir. Bu amaçla Türkiye’nin Akdeniz Bölgesinde yer alan Köprüçay nehrine ait Beşkonak akım gözlem istasyonundan alınan 1942-2015 su yıllarına ait 74 yıllık aylık akım verisi kullanılmıştır. Her ay kendi içinde ve yıllık ortalama değerlerin trendleri karşılaştırılmıştır. Bu nedenle 13 farklı trend testinin kıyaslaması yapılmıştır. Ancak homojenlik testi yapıldığında Ağustos ve Ekim ayları verilerinin % 95güven aralığında homojen olmadığı tespit edilmiş ve bu aylara ait veriler kıyaslamada kullanılmamıştır. Çalışma sonucunda yöntemler arasında çok büyük farklar olmadığı testlerin tamamının kullanımının uygun olduğu, ancak birlikte kullanılmalarının güvenilirliği arttırdığı tespit edilmiştir.</jats:p>",
+   "DOI": "10.60093/jiciviltech.1487245",
+   "page": "1-12",
+   "is-referenced-by-count": 12,
+   "title": [
+    "Mann-Kendall Trend Testi ile Yenilikçi Yöntemlerin Kıyaslanması: Beşkonak Aylık Akım Verileri Örneği"
+   ],
+   "volume": "6",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0003-0016-8690",
+     "authenticated-orcid": true,
+     "given": "Kemal",
+     "family": "Saplıoğlu",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "SÜLEYMAN DEMİREL ÜNİVERSİTESİ"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Journal of Innovations in Civil Engineering and Technology"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2024,
+      6,
+      30
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "2",
+   "DOI": "10.1016/j.heliyon.2023.e13700",
+   "page": "e13700",
+   "is-referenced-by-count": 14,
+   "title": [
+    "Investigating the trend of road traffic fatalities in Malawi using Mann-Kendall statistic"
+   ],
+   "volume": "9",
+   "author": [
+    {
+     "given": "Gibson Mpokonyoka",
+     "family": "Ngwira",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Benjamin",
+     "family": "Bolaane",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-7728-6586",
+     "authenticated-orcid": false,
+     "given": "Bhagabat P.",
+     "family": "Parida",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Heliyon"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      2
+     ]
+    ]
+   },
+   "article-number": "e13700"
+  },
+  {
+   "issue": "4",
+   "abstract": "<jats:p>This study investigates monthly, seasonal, and annual rainfall trends using the Mann–Kendall (MK) test, Sen’s slope (SS) method and linear regression analysis in Syria. Historical monthly rainfall records for the period 1960 to 2021 from 17 meteorological stations across the study area were used. The MK test results revealed non-significant decreasing trends across the eastern and southeastern stations, while it showed slight increasing trends in rainfall toward the coastal and mountain regions during the winter. The decreasing rainfall in the study area suggests overall insignificant changes. The results are consistent with recent studies that highlight the impact of climate change in Syria, and also with the Intergovernmental Panel on Climate Change (IPCC) fifth report that predicted a decrease in rainfall in the Mediterranean and southern Asia.</jats:p>",
+   "DOI": "10.64903/1480-6800-25.4.215",
+   "page": "215-229",
+   "is-referenced-by-count": 1,
+   "title": [
+    "Rainfall Trend Analysis by Mann–Kendall Test in Syria"
+   ],
+   "volume": "25",
+   "author": [
+    {
+     "given": "Sattam S.",
+     "family": "Al Shogoor",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Department of Geography, Faculty of Social Sciences, Mutah University, AlKarak 61710 Jordan"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Rahaf M.",
+     "family": "Alrawas",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Geography, Faculty of Arts, Damascus University, Damascus Syria"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Esraa R.",
+     "family": "Tarawneh",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Civil and Environmental Engineering, Faculty of Engineering, Mutah University, AlKarak 61710 Jordan"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "The Arab World Geographer"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2022
+     ]
+    ]
+   }
+  },
+  {
+   "DOI": "10.28948/ngumuh.1104140",
+   "title": [
+    "Mann-kendall trend analizi ile Sivas ilindeki sıcaklık ve yağış trendlerinin belirlenmesi"
+   ],
+   "container-title": [
+    "Ömer Halisdemir Üniversitesi Mühendislik Bilimleri Dergisi"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2022,
+      5,
+      31
+     ]
+    ]
+   },
+   "author": [
+    {
+     "given": "Can Bülent",
+     "family": "KARAKUŞ",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "SİVAS CUMHURİYET ÜNİVERSİTESİ"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Ülker Aslı",
+     "family": "GÜLER",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "SİVAS CUMHURİYET ÜNİVERSİTESİ, MÜHENDİSLİK FAKÜLTESİ"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "abstract": "<jats:p xml:lang=\"tr\">Bu çalışmanın amacı; Sivas ilindeki 9 meteoroloji istasyonu için sıcaklık ve yağış trendlerinin ortaya konulmasıdır. Her meteoroloji istasyonunun farklı zaman aralıklarındaki sıcaklık ve yağış verileri Sivas Meteoroloji Müdürlüğü’nden temin edilmiş olup, Mann-Kendall trend testi yardımıyla ilkbahar, yaz, sonbahar, kış ve yıllık periyot için trend analizi gerçekleştirilmiştir. Gürün ve Ulaş ilçeleri dışındaki tüm istasyonlarda yıllık ortalama sıcaklık değerlerinin istatistiksel açıdan anlamlı bir artış trendi gösterdiği belirlenmiştir. Yıllık ortalama yağış değerleri açısından ise Kangal, Şarkışla ve Ulaş ilçelerinde istatistiksel açıdan anlamlı bir azalış trendi görülmüştür. Tüm istasyonların genelinde sıcaklıklar artış göstermiş, Şarkışla ve Ulaş ilçelerinde yer alan istasyonlara ait yağış değerleri azalmıştır. Çalışma alanındaki sıcaklık ve yağış parametrelerine ilişkin elde edilmiş trend analizi sonuçlarının, iklim değişikliği ve küresel ısınmanın bir sonucu olarak ortaya çıkabildiği düşünülmektedir. İklim değişikliği ve küresel ısınmanın insan faaliyetleri üzerindeki etkilerini en aza indirebilmek ve sıcaklık ve yağış değişkenlerine bağlı planlama çalışmaları için bu iki parametrenin izlenmesi oldukça önemlidir.</jats:p>",
+   "is-referenced-by-count": 4
+  },
+  {
+   "issue": "2",
+   "abstract": "<jats:p xml:lang=\"en\">Rainfall is the most important fundamental physical parameter among the climate, as this parameter determines the environmental condition of the particular region, which affects the agricultural productivity. Global warming or climate change,  is  one  of  the  most  important  worldwide  issues  discussed  among  scientists  and  researchers.  One  of  the consequences of climate change is the alteration of rainfall patterns and an increase in temperature. The drastic changes in rainfall pattern showed a significant impact on society, and therefore its up-to-date information is needed to estimate the spatial distribution and variability at all points of the territory. In this paper, a study on trend analysis of rainfall data observed at Anasi, Haliyal, Kadra, and Supa rain gauge stations in   Karnataka, India, was carried out. For this purpose, the annual 1-day maximum rainfall (AMR) and annual total rainfall (ATR) series were generated from the daily rainfall data and used in trend analysis. A non-parametric Mann-Kendall (MK) test was applied to evaluate the presence of significant trend in AMR and ATR, while the rate of significant trend was computed by Sen's slope estimator (SSE). The MK test results indicated that there is a decreasing trend in AMR series of Anasi, Haliyal, Kadra, and Supa. The study showed that the rate of decreasing trend in the AMR series of Anasi, Haliyal, Kadra, and Supa is computed as 1.4 mm/year, 0.1 mm/year, 0.6 mm/year, and 0.2 mm/year, respectively. For the ATR series, the rate of decreasing trend for Anasi was computed as 23.8 mm/year, whereas 11.2 mm/year for Supa, whereas the rate of increasing trend was 4.3 mm/year for Haliyal and 2.2 mm/year for Supa. This paper illustrated the application of the MK test and SSE for analyzing the trend in AMR and ATR of Anasi, Haliyal, Kadra, with Supa and the results obtained from the study.</jats:p>",
+   "DOI": "10.26634/jce.14.2.21074",
+   "page": "18",
+   "is-referenced-by-count": 0,
+   "title": [
+    "Trend analysis of rainfall data using Mann-Kendall test and sen's slope estimator"
+   ],
+   "volume": "14",
+   "author": [
+    {
+     "given": "N.",
+     "family": "Vivekanandan",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Central Water and Power Research Station",
+       "place": [
+        "Pune, Maharashtra, India"
+       ]
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "i-manager’s Journal on Civil Engineering"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2024
+     ]
+    ]
+   },
+   "article-number": "jce.14.2.21074"
+  },
+  {
+   "DOI": "10.17714/gumusfenbil.1026893",
+   "title": [
+    "Yeşilırmak havzasındaki hidrolojik kuraklıkların Mann-Kendall ve Yenilikçi Şen yöntemi ile trend analizi"
+   ],
+   "container-title": [
+    "Gümüşhane Üniversitesi Fen Bilimleri Enstitüsü Dergisi"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2022,
+      1,
+      31
+     ]
+    ]
+   },
+   "author": [
+    {
+     "given": "Okan Mert",
+     "family": "KATİPOĞLU",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Sefa Nur",
+     "family": "YEŞİLYURT",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Hüseyin Yildirim",
+     "family": "DALKILIÇ",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "is-referenced-by-count": 17
+  },
+  {
+   "issue": "3",
+   "abstract": "<jats:p>The present study aimed to assess the trend of maximum and minimum temperature at monthly scale and rainfall at monthly, seasonal and annual scale over the undulating red and lateritic zone of West Bengal, India. “TerraClimate” monthly maximum and minimum air temperature and rainfall data was collected from Google climate engine platform for the period 1958- 2021. The traditional Mann-Kendall (MK) test, Sen’s slope estimator and Innovative trend analysis (ITA) were implemented to detect the trend.  The results clearly indicated that the red and lateritic zones experienced significant temperature increase during the last six decades. Both the Sen’s slope estimator and ITA showed that the minimum air temperature of February increased at the highest annual rate followed by March and November. Annual rainfall over the study area followed non- significant increasing trend as confirmed by both the MK test and ITA. The monthly and seasonal rainfall distribution pattern changed. A shift of the South-west monsoon was realized over the study zone characterized by decreasing rainfall in June and increasing rainfall in October. The ITA successfully detected the monotonic and non-monotonic trend of air temperature and rainfall. Historical trend of the extreme weather values were detected by ITA. Higher values of November rainfall showed positive trend. On the contrary, a positive trend was detected for the lower values of pre-monsoon rainfall. The present study indicated that the red and lateritic zone experienced significant changes in the temperature and rainfall pattern. The findings of the present study can be used for assessing the future trend of the weather parameters and planning and sustainable management in this climatologically and socio-economically vulnerable zone.</jats:p>",
+   "DOI": "10.54302/mausam.v76i3.6312",
+   "page": "866-885",
+   "is-referenced-by-count": 5,
+   "title": [
+    "Assessing the air temperature and rainfall trend over the undulating red  and lateritic zone of West Bengal using Mann-Kendall test and  Innovative trend analysis"
+   ],
+   "volume": "76",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0003-3003-7886",
+     "authenticated-orcid": false,
+     "given": "ARGHA",
+     "family": "GHOSH",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "DILLIP KUMAR",
+     "family": "SWAIN",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "CHANDRAPRAKASH",
+     "family": ".",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "SUCHISMITA",
+     "family": "TRIPATHY",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "MAUSAM"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      6,
+      28
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "5",
+   "abstract": "<jats:title>ABSTRACT</jats:title>\n               <jats:p/>\n               <jats:p>Climate change is projected to have adverse impacts on environmental sustainability. This research combines statistical analysis and Bayesian modeling for climate change detection and attribution in Kaduna, Northern Nigeria. The study combines the Bayesian estimation of abrupt change, seasonality, and trend model (BEAST) with the Mann–Kendall (M–K) trend test for detection and correlation analysis with optimum fingerprinting for attribution. The study used 122 years of climate data (1901–2022), focusing on average annual rainfall and average annual surface temperature for climate change detection, alongside a 30-year analysis of greenhouse gas (GHG) emissions (1990–2020) for climate change attribution. The result of the M–K test reveals a significant increasing trend in temperature (approximately 0.004 °C/year) and a decreasing trend in rainfall (approximately 0.756 mm/year), indicating a warming climate and potential drought conditions. The Bayesian approach further identified multiple changepoints in temperature data, highlighting years of significant climatic shifts. Correlation analysis demonstrated a weak positive relationship between temperature increases and GHG emissions with a correlation coefficient of 0.27. Optimum fingerprinting results show a non-statistically significant relationship between the variables with an R2 value of 0.071, indicating that only 7.1% of the variability in temperature can be explained by the model.</jats:p>",
+   "DOI": "10.2166/wcc.2025.004",
+   "page": "1895-1911",
+   "is-referenced-by-count": 11,
+   "title": [
+    "Climate change detection and attribution: Bayesian estimation of abrupt change, seasonality and trend model, and Mann–Kendall trend test approaches"
+   ],
+   "volume": "16",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0001-5806-5067",
+     "authenticated-orcid": false,
+     "given": "Salisu",
+     "family": "Dan'azumi",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "a Department of Civil Engineering, College of Engineering in Al-Kharj, Prince Sattam bin Abdulaziz University, Al-Kharj 11942, Saudi Arabia"
+      },
+      {
+       "name": "b Department of Civil Engineering, Faculty of Engineering, Bayero University Kano, 700241 Kano, Nigeria"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0009-0005-2394-5132",
+     "authenticated-orcid": false,
+     "given": "Lawal",
+     "family": "Mamudu",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "b Department of Civil Engineering, Faculty of Engineering, Bayero University Kano, 700241 Kano, Nigeria"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-6575-6181",
+     "authenticated-orcid": false,
+     "given": "Ali",
+     "family": "Aldrees",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "a Department of Civil Engineering, College of Engineering in Al-Kharj, Prince Sattam bin Abdulaziz University, Al-Kharj 11942, Saudi Arabia"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Journal of Water and Climate Change"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      4,
+      25
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "3",
+   "DOI": "10.1007/s42452-025-06675-1",
+   "is-referenced-by-count": 23,
+   "title": [
+    "Annual rainfall trends in the Burkina Faso Sahel: a comparative analysis between Mann–Kendall and innovative trend method (ITM)"
+   ],
+   "volume": "7",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0001-5879-2723",
+     "authenticated-orcid": false,
+     "given": "Joseph",
+     "family": "Yaméogo",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Discover Applied Sciences"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      3,
+      14
+     ]
+    ]
+   },
+   "article-number": "221"
+  },
+  {
+   "issue": "1",
+   "abstract": "<jats:p>This study aims to analyze trends, being a very useful analytical tool for managing water resources. The Mann-Kendall test is frequently used by researchers to determine trends in temperature, evapotranspiration, and precipitation on monthly, seasonal, and annual scales. The purpose of this study is to analyze the rainfall trends in the Petrosani area, using long time series data and establish a hydrological model. In addition, this study is conducted to assess the significance of rainfall trends over the chosen study area using the Mann-Kendall Test and Sen's Slope.</jats:p>",
+   "DOI": "10.59168/wktd5309",
+   "page": "5-8",
+   "is-referenced-by-count": 0,
+   "title": [
+    "Rainfall trend analysis using Mann-Kendall and Sen’s slope estimator test"
+   ],
+   "volume": "69 (83)",
+   "author": [
+    {
+     "given": "Bădăluță–Minda",
+     "family": "Codruța",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "\"Scientific Bulletin of Politehnica University of Timişoara Transactions on HYDROTECHNICS\""
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2025
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "1",
+   "abstract": "<jats:p>Climate change is one of the most important issues among researchers, scientists, planners and politicians in the present times. Of all the climatic elements, temperature plays a major role in detecting climatic change. In this paper, MannKendall rank tests, Sen's slope estimator and Lag-one serial correlation are used to demonstrate any existence of possible temperature trends in Ranchi and Lohardaga district of Jharkhand by analyzing the time series data of annual, seasonal and monthly average, maximum and minimum temperature from 1901 to 2002. The statistical tests are applied to monthly, seasonal and annual average minimum and maximum temperatures records. The analysis indicates that the average, maximum and minimum annual temperature records have a warming trend over the period 1901 to 2002. The study of linear trend indicated increasing trends in annual maximum, annual minimum and annual average temperatures. During 1901–2002 annual average, annual maximum and annual minimum temperatures increased 0 0 0 0 about 0.003 C, 0.002 C to 0.004 C and 0.003 C respectively.</jats:p>",
+   "DOI": "10.47884/jweam.v1i1pp31-43",
+   "page": "34-46",
+   "is-referenced-by-count": 5,
+   "title": [
+    "Temporal Trend Analysis of Temperature Data Using Mann-kendall Test and Sen's Slope Estimator"
+   ],
+   "volume": "1",
+   "author": [
+    {
+     "given": "Jyoti",
+     "family": "Kerketta",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Corresponding author: Ex-Integrated M.Tech Student, Department of Water Engineering and Management, Central University of Jharkhand, Brambe, Ranchi – 835 205"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Ajai",
+     "family": "Singh",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Professor, Department of Water Engineering and Management, Central University of Jharkhand, Brambe, Ranchi – 835 205, India"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Journal of Water Engineering and Management"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2020,
+      4,
+      30
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "1",
+   "abstract": "<jats:p>The paper aims to assess the changing trend of monthly rainfall and minimum monthly rainfall in Binh Dinh province by the Mann-Kendall test method and the Theil-Sen trend in the period 1981 - 2919. The results show that: With a statistical significance of 5%, rainfall tends to increase in January at Hoai Nhon and Binh Tuong stations with an increase of 1.2 - 1.3 mm\\year and tends to increase in August at An Nhon station with an increase of 1.7 mm\\year but tends to decrease in June at Quy Nhon station with a decrease of 1.6 mm\\year. The total rainfall in the minimum months (from January to April) tends to increase at Hoai Nhon and Quy Nhon stations with an increase of 2.3 - 2.5 mm\\year. Monthly rainfall and total monthly rainfall at the remaining stations do not satisfy the condition P-value ≤ 0.05, therefore, hypothesis H0 is accepted as a trendless series.</jats:p>",
+   "DOI": "10.18173/2354-1059.2023-0012",
+   "page": "145-155",
+   "is-referenced-by-count": 0,
+   "title": [
+    "Research assessment variation trend of precipitation in Binh Dinh province by Mann-Kendall test and Theil-Sen trend"
+   ],
+   "volume": "68",
+   "author": [
+    {
+     "given": "Mui",
+     "family": "Tran Thi",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Thuy",
+     "family": "Hoang Luu Thu",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Vu",
+     "family": "Vuong Van",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Huong",
+     "family": "Do Thi Van",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Ha",
+     "family": "Dang Thi Ngan",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Journal of Science Natural Science"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      3
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "18",
+   "DOI": "10.1007/s12517-020-05926-2",
+   "is-referenced-by-count": 33,
+   "title": [
+    "Identification of EDI trend using Mann-Kendall and Şen-Innovative Trend methods (Uttarakhand, India)"
+   ],
+   "volume": "13",
+   "author": [
+    {
+     "given": "Anurag",
+     "family": "Malik",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Anil",
+     "family": "Kumar",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Quoc Bao",
+     "family": "Pham",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Senlin",
+     "family": "Zhu",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Nguyen Thi Thuy",
+     "family": "Linh",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0003-3990-5838",
+     "authenticated-orcid": false,
+     "given": "Doan Quang",
+     "family": "Tri",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Arabian Journal of Geosciences"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2020,
+      9
+     ]
+    ]
+   },
+   "article-number": "951"
+  },
+  {
+   "issue": "4",
+   "DOI": "10.54386/jam.v27i4.3147",
+   "page": "534-537",
+   "is-referenced-by-count": 0,
+   "title": [
+    "Trend analysis of rainfall and temperature in metropolitan cities of India using Mann-Kendall test"
+   ],
+   "volume": "27",
+   "author": [
+    {
+     "given": "M.",
+     "family": "MURUGAN",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "B.",
+     "family": "SANTHOSHKUMAR",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Journal of Agrometeorology"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      12,
+      1
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "23",
+   "abstract": "<jats:p>A Rank-Based Copula-Adjusted Mann–Kendall (R-CaMK) is proposed, with an end-to-end mathematical and computational framework that integrates rank-based multivariate dependence modelling (regular vines where data permit, Gaussian copula fallback otherwise), parametric spatial bootstrap for calibrated Mann–Kendall inference, and integer programming for budgeted sensor selection. At each site, the deterministic trend is removed, AR(1) margins are fitted, and residuals are transformed to ranks; the joint rank structure is modelled via R-vines or a Gaussian copula. Spatially coherent null series are simulated from the fitted model to estimate VarS for the Mann–Kendall S-statistic and to compute empirical p-values. A detection score  wj is defined and an integer linear programme (ILP) is solved to select sensors under cost/budget constraints. Simulation experiments show improved Type-I control and realistic power estimation relative to standard corrections; an application to seven long annual maximum flow sites in New South Wales demonstrates calibrated inference and operational selection decisions.</jats:p>",
+   "DOI": "10.3390/math13233762",
+   "page": "3762",
+   "is-referenced-by-count": 2,
+   "title": [
+    "Rank-Based Copula-Adjusted Mann–Kendall (R-CaMK)—A Copula–Vine Framework for Trend Detection and Sensor Selection in Spatially Dependent Environmental Networks"
+   ],
+   "volume": "13",
+   "author": [
+    {
+     "given": "Khaled",
+     "family": "Haddad",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "School of Engineering, Design and Built Environment, Building Penrith Campus, Western Sydney University, Penrith 2747, Australia"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Mathematics"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      11,
+      24
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "5",
+   "DOI": "10.1007/s10666-026-10122-9",
+   "page": "1303-1328",
+   "is-referenced-by-count": 0,
+   "title": [
+    "Monthly Rainfall Forecasting in the Districts of Mizoram Using the Innovative Rainfall Predictive Method and Trend Analysis with Mann-Kendall and Innovative Trend Analysis"
+   ],
+   "volume": "31",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0001-7529-9914",
+     "authenticated-orcid": false,
+     "given": "Sundararajan",
+     "family": "Muniyan",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-1478-4526",
+     "authenticated-orcid": false,
+     "given": "Marina",
+     "family": "Lallawmzuali",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Environmental Modeling &amp; Assessment"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      4,
+      29
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "12",
+   "abstract": "<jats:p>Afghanistan, a nation already challenged by geopolitical and environmental pressure, faces severe climate change impacts, evident through rising temperatures, decreasing precipitation, and reduced river discharge. These changes profoundly affect the country’s water resources, agriculture, ecosystems, and well-being. This study analyzes trends in mean annual temperature, precipitation, and river discharge across all five of Afghanistan’s river basins from 1980 to 2022, utilizing an innovative trend analysis (ITA), the Mann–Kendall (MK) test, and Sen’s slope (SS) estimator. Climate data were derived from the CRU TS.v4 and TerraClimate gridded datasets, while river discharge data were obtained from GloFAS-ERA5 datasets. The results reveal significant climate shifts, including a notable 1.5 °C rise in mean annual temperature, significantly higher than the global average of 1.3 °C, a 1.2 mm decrease in mean annual precipitation, and a −128 m3/s reduction in river discharge across all basins since 1980. Climate change impacts were particularly severe in the western part of the country. These findings underscore the strain on Afghanistan’s vulnerable water resources, with critical implications for agriculture and water management, highlighting the urgent need for adaptive strategies to mitigate climate-induced risks.</jats:p>",
+   "DOI": "10.3390/cli12120196",
+   "page": "196",
+   "is-referenced-by-count": 37,
+   "title": [
+    "Analyzing Temperature, Precipitation, and River Discharge Trends in Afghanistan’s Main River Basins Using Innovative Trend Analysis, Mann–Kendall, and Sen’s Slope Methods"
+   ],
+   "volume": "12",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-9405-9622",
+     "authenticated-orcid": false,
+     "given": "Noor Ahmad",
+     "family": "Akhundzadah",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Department of Natural Resources and the Environment, School of Agriculture and Life Sciences, Cornell University, Ithaca, NY 14853, USA"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Climate"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2024,
+      11,
+      22
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "8",
+   "abstract": "<jats:p>This study analyzed long-term extreme precipitation indices using 4 × 4 km gridded data obtained from the National Meteorological Agency of Ethiopia between 1981 and 2018. The study examined trends in extreme precipitation over three districts (Lay Gayint, Tach Gayint, and Simada) in the northwestern highlands of Ethiopia. Innovative Trend Analysis (ITA) and Mann–Kendall (MK) trend tests were used to study extreme precipitation trends. Based on the ITA result, the calculated values of nine indices (90% of the analyzed indices) showed significant increasing trends (p &lt; 0.01) in Lay Gayint. In Tach Gayint, 70% (seven indices) showed significantly increasing trends at p &lt; 0.01. On the other hand, 60% of the extreme indices showed significant downward trends (p &lt; 0.01) in Simada. The MK test revealed that 30% of the extreme indices had significantly increasing trends (p &lt; 0.01) in Lay Gayint. In Tach Gayint, 30% of the extreme indices showed significant increasing trends at p &lt; 0.05, while 10% of the extreme indices exhibited significant increasing trends at p &lt; 0.01. In Simada, 20% of the extreme indices showed significant increasing trends at p &lt; 0.05. Overall, the results showed that the ITA method can identify a variety of significant trends that the MK test misses.</jats:p>",
+   "DOI": "10.3390/cli11080164",
+   "page": "164",
+   "is-referenced-by-count": 37,
+   "title": [
+    "Trends in Extreme Precipitation Indices in Northwest Ethiopia: Comparative Analysis Using the Mann–Kendall and Innovative Trend Analysis Methods"
+   ],
+   "volume": "11",
+   "author": [
+    {
+     "given": "Aimro",
+     "family": "Likinaw",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Department of Geography and Environmental Studies, Addis Ababa University, Addis Ababa P.O. Box 1176, Ethiopia"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Arragaw",
+     "family": "Alemayehu",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Geography and Environmental Studies, Debre Berhan University, Debre Berhan P.O. Box 445, Ethiopia"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Woldeamlak",
+     "family": "Bewket",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Geography and Environmental Studies, Addis Ababa University, Addis Ababa P.O. Box 1176, Ethiopia"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Climate"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      7,
+      31
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "2",
+   "abstract": "<jats:p>This study analyzes trends in seven ETCCDI extreme climate indices at the Tanjung Emas Maritime Meteorological Station, coastal Semarang, Indonesia, over 1995–2024. Daily rainfall, minimum temperature, and maximum temperature records underwent quality control (RClimdex) and homogeneity testing (RHtestsV4). The Mann–Kendall test assessed trend significance and Sen's slope quantified trend magnitude, applied to the full 30-year period and two 15-year sub-periods (1995–2009 and 2010–2024). Among precipitation indices, total annual rainfall (PRCPTOT) and maximum 1-day rainfall (RX1day) showed significant increasing trends, with Sen's slopes of +16.53 mm/year and +2.09 mm/year, respectively. Consecutive dry and wet day indices showed no significant trends. Among temperature indices, warm night frequency (TN90p) and warm day frequency (TX90p) increased significantly at +0.50 and +0.54 days/year, respectively, while the diurnal temperature range showed no significant change. Sub-period analysis revealed acceleration of TX90p in 2010–2024 (Sen's slope = +1.19 days/year), indicating intensifying daytime warming in the more recent period. No precipitation index reached significance within either sub-period, suggesting that rainfall trends accumulate over decadal rather than sub-decadal timescales. These results provide quantitative evidence of strengthening warming signals and increasing rainfall intensity in coastal Semarang, with implications for flood risk management and climate adaptation planning.</jats:p>",
+   "DOI": "10.35472/scinexus.2735",
+   "page": "e2735",
+   "is-referenced-by-count": 0,
+   "title": [
+    "Trend analysis of extreme climate indices in coastal Semarang using ETCCDI and Mann–Kendall Test (1995–2024)"
+   ],
+   "volume": "2",
+   "author": [
+    {
+     "given": "Ghefira Tsuraya",
+     "family": "Rafli",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Department of Atmospheric and Planetary Sciences, Faculty of Science, Institut Teknologi Sumatera"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Lesi",
+     "family": "Mareta",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Atmospheric and Planetary Sciences, Faculty of Science, Institut Teknologi Sumatera"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Sugeng",
+     "family": "Nugroho",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "GAW Bukit Kototabang Station"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Scientific Nexus"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      6,
+      1
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "1",
+   "DOI": "10.67063/pjr.vol.22.issue.01.07",
+   "page": "59-67",
+   "is-referenced-by-count": 0,
+   "title": [
+    "Trend detection in weather parameters using Mann-Kendall test for Tarai region of Uttarakhand"
+   ],
+   "volume": "22",
+   "author": [
+    {
+     "given": "Shubika",
+     "family": "Goel",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "R.K.",
+     "family": "Singh",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Pantnagar Journal of Research"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2024
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "3",
+   "DOI": "10.1007/s42452-020-2302-6",
+   "is-referenced-by-count": 105,
+   "title": [
+    "Analysis of groundwater level trend and groundwater drought using Standard Groundwater Level Index: a case study of an eastern river basin of West Bengal, India"
+   ],
+   "volume": "2",
+   "author": [
+    {
+     "given": "Sudipa",
+     "family": "Halder",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Malabika Biswas",
+     "family": "Roy",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Pankaj Kumar",
+     "family": "Roy",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "SN Applied Sciences"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2020,
+      2,
+      28
+     ]
+    ]
+   },
+   "article-number": "507"
+  }
+ ]
+}

@@ -1,0 +1,3276 @@
+{
+ "query": "groundwater table depth irrigated Uzbekistan",
+ "source": "Crossref",
+ "date": "2026-11-18",
+ "filter": "2020–2026, journal-article",
+ "n": 40,
+ "items": [
+  {
+   "DOI": "10.1016/j.jhydrol.2022.128811",
+   "page": "128811",
+   "is-referenced-by-count": 34,
+   "title": [
+    "A monthly distributed water and salt balance model in irrigated and non-irrigated lands of arid irrigation district with shallow groundwater table"
+   ],
+   "volume": "616",
+   "author": [
+    {
+     "given": "Yeqiang",
+     "family": "Wen",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Heyang",
+     "family": "Wan",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Songhao",
+     "family": "Shang",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Journal of Hydrology"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      1
+     ]
+    ]
+   },
+   "article-number": "128811"
+  },
+  {
+   "issue": "4",
+   "abstract": "<jats:title>Abstract</jats:title><jats:p>A 10-yr simulation of shallow groundwater table (GWT) depth over a temperate region in northwestern Europe, using a physics-based integrated hydrological model at kilometer scale, exhibits a strong seasonal cycle. This is also well captured in terms of near-surface soil moisture anomalies, terrestrial water storage anomalies, and shallow GWT depth anomalies from observations over the region. The modeled monthly anomaly of GWT depth exhibits a statistically significant (<jats:italic>p</jats:italic> &lt; 0.05) moderate positive/negative correlation with non-rain- and rain-affected monthly anomalies of incoming solar radiation. The vegetation cover also produces a strong local control on the variability of shallow GWT depth. Thus, much of the variability in the simulated seasonal cycle of shallow GWT depth could be linked to the distribution of clouds and vegetation. The spatiotemporal distribution of clouds, partly influenced by the Rhine Massif, modulates the seasonal variability of incoming solar radiation and precipitation over the region. Particularly, the southwestern and northern part of the Rhine Massif divided by the Rhine Valley exhibits a dipole behavior with relatively high (low) shallow GWT depth fluctuations, associated with positive (negative) anomaly of incoming solar radiation and negative (positive) anomaly of precipitation.</jats:p>",
+   "DOI": "10.1175/jhm-d-20-0171.1",
+   "page": "753-763",
+   "is-referenced-by-count": 8,
+   "title": [
+    "Clouds and Vegetation Modulate Shallow Groundwater Table Depth"
+   ],
+   "volume": "22",
+   "author": [
+    {
+     "given": "Prabhakar",
+     "family": "Shrestha",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "a Institute of Geosciences, Meteorology Department, University of Bonn, Bonn, Germany"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Journal of Hydrometeorology"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2021,
+      4
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "3",
+   "abstract": "<jats:p>Groundwater management is an important element in irrigated agriculture. This article analyzes the temporal dynamics of the groundwater level in the Muzrabod district, located in the upper reaches of the Amudarya in the south of the Surkhandarya region of the Republic of Uzbekistan. The purpose of this study was to determine and evaluate the spatial changes in the depletion of groundwater level differences by using geostatistical methods based on data from 12 groundwater wells during the period from January 2018 to December 2021 in the study area. Groundwater level analysis for 2018-2021 is divided into pre-irrigation (April), irrigation period (July), post-irrigation (October) and multi-year periods. Geostatistical methods have been used widely as a convenient tool to make decision on the management of groundwater levels. The geographic information system IDW interpolation method was used to estimate spatial changes in groundwater levels. The maps show that the zone of sharp decrease in the groundwater level is located in the northwestern and eastern partsIn most parts of the region, it was noted that the depth of groundwater is from 1 to 6 meters. The IDW model also helps identify areas at risk for groundwater withdrawal. Such areas should be protected by effective management procedures for future groundwater use.</jats:p>",
+   "DOI": "10.67048//qxju2026ai124iss3m31",
+   "page": "70-74",
+   "is-referenced-by-count": 0,
+   "title": [
+    "EVALUATION OF THE SEASONAL GEOSPATIAL CHANGES IN THE GROUNDWATER LEVEL IN IRRIGATED LANDS: AS AN EXAMPLE OF MUZRABOD DISTRICT OF SURKHANDARYA REGION, UZBEKISTAN"
+   ],
+   "volume": "124",
+   "author": [
+    {
+     "given": "Aybek",
+     "family": "Arifjanov",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Navruz",
+     "family": "Eshboev",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Bekhruz",
+     "family": "Bektashov",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Agro ilm"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      5,
+      11
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "02",
+   "abstract": "<jats:p>Today, one of the other agronomic properties of this type of soil is that the amount of total nitrogen in the soil depends on the amount of humus in the soil. its amount varies from 0.05% to 0.15%. Typical gray soils are a very favorable medium for nitrification. The main part of nitrogen is found in the soil in the form of nitrate and is in a form that is easily absorbed by the plant. In most cases, the amount of total phosphorus is greater than the amount of total nitrogen. And in the upper layers of the soil, it is 0.1%-0.2%.  Typical irrigated gray soils contain a lot of remains of roots and other parts of the plant, relatively low soil compaction, and humus is present in the plowed part of the soil. These processes have a negative impact on soil fertility. The possibilities of application to modern production, analysis of solving problems, elimination of excess water loss are the main tasks of today in the region.</jats:p>",
+   "DOI": "10.37547/ijasr-03-02-01",
+   "page": "1-6",
+   "is-referenced-by-count": 0,
+   "title": [
+    "PROTECTION OF IRRIGATED AND NON-IRRIGATED AREAS FROM WATER EROSION"
+   ],
+   "volume": "03",
+   "author": [
+    {
+     "name": "Doctor Of Philosophy In Technical Sciences, (Phd), Uzbekistan",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Butayarov Abduqodir",
+     "family": "Tuxtaevich",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "International Journal of Advance Scientific Research"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      2,
+      1
+     ]
+    ]
+   }
+  },
+  {
+   "DOI": "10.1016/j.agwat.2024.109007",
+   "page": "109007",
+   "is-referenced-by-count": 39,
+   "title": [
+    "Optimal groundwater depth and irrigation amount can mitigate secondary salinization in water-saving irrigated areas in arid regions"
+   ],
+   "volume": "302",
+   "author": [
+    {
+     "given": "Wenhao",
+     "family": "Li",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Shaozhong",
+     "family": "Kang",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Taisheng",
+     "family": "Du",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Risheng",
+     "family": "Ding",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Minzhong",
+     "family": "Zou",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Agricultural Water Management"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2024,
+      9
+     ]
+    ]
+   },
+   "article-number": "109007"
+  },
+  {
+   "issue": "2",
+   "abstract": "<jats:p>Water conservation is imperative for alleviating water shortages and fostering the establishment of a water-saving society. However, the implementation of water-saving measures caused an increase in the depth to groundwater, resulting in ecological issues. Therefore, reasonable water saving should consider the appropriate depth to groundwater and its evolution trend. This study focuses on the Helan irrigation area in Ningxia as the research subject, aiming to establish thresholds for agricultural water-saving measures while considering constraints by depth to groundwater. The evolution trend of depth to groundwater from 1995 to 2018 was analyzed using the k-Shape cluster and complete ensemble empirical mode decomposition with adaptive noise (CEEMDAN) methods. Then, the thresholds of agricultural water-saving measures involved comparing groundwater numerical simulation results for water-saving scenarios, with the control area of ecological groundwater table depth and water shortage rate serving as the evaluation indices. The thresholds for implementing agricultural water-saving measures are as follows: the canal water utilization coefficient is set at 0.62; the proportion of water-efficient irrigation areas to effective irrigation areas should be 40% in the Yellow River irrigation area and 90% in the pumps-up Yellow River irrigation area; additionally, a reduction of 75% in the rice planting area is targeted.</jats:p>",
+   "DOI": "10.3390/w16020220",
+   "page": "220",
+   "is-referenced-by-count": 2,
+   "title": [
+    "Evolution Trend of Depth to Groundwater and Agricultural Water-Saving Measure Threshold under Its Constraints: A Case Study in Helan Irrigated Areas, Northwest China"
+   ],
+   "volume": "16",
+   "author": [
+    {
+     "given": "Cui",
+     "family": "Chang",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "School of Water Resources and Environment, China University of Geosciences (Beijing), Beijing 100083, China"
+      },
+      {
+       "name": "State Key Laboratory of Simulation and Regulation of Water Cycle in River Basin, China Institute of Water Resources and Hydropower Research, Beijing 100038, China"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Guiyu",
+     "family": "Yang",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "State Key Laboratory of Simulation and Regulation of Water Cycle in River Basin, China Institute of Water Resources and Hydropower Research, Beijing 100038, China"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Shuoyang",
+     "family": "Li",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "State Key Laboratory of Simulation and Regulation of Water Cycle in River Basin, China Institute of Water Resources and Hydropower Research, Beijing 100038, China"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Hao",
+     "family": "Wang",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "State Key Laboratory of Simulation and Regulation of Water Cycle in River Basin, China Institute of Water Resources and Hydropower Research, Beijing 100038, China"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Water"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2024,
+      1,
+      9
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "01",
+   "abstract": "<jats:p>This article systematizes and analyzes the issues of rational use and protection of groundwater in arid regions of Uzbekistan.</jats:p>",
+   "DOI": "10.37547/supsci-jgnr-02-01-08",
+   "page": "58-61",
+   "is-referenced-by-count": 0,
+   "title": [
+    "GROUNDWATER AND GREAT WATER MANAGEMENT IN DRY AREAS OF UZBEKISTAN"
+   ],
+   "volume": "02",
+   "author": [
+    {
+     "name": "Master's student Jizzakh State Pedagogical Institute Jizzakh, Uzbekistan",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Latofat",
+     "family": "Qabulova",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Journal of Geography and Natural Resources"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2022,
+      1,
+      1
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "07",
+   "DOI": "10.37547/tajiir/volume02issue07-17",
+   "page": "99-113",
+   "is-referenced-by-count": 8,
+   "title": [
+    "Efficiency Of Formation And Use Of Water Resources In Irrigated Agriculture Of The Republic Of Uzbekistan"
+   ],
+   "volume": "02",
+   "author": [
+    {
+     "name": "Candidate Of Economic Sciences, Associate Docent Of Karshi Engineering And Economics Institute, Uzbekistan.",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Shoxo'jaeva Zebo",
+     "family": "Safoevna",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Murodova Nargiza",
+     "family": "Utkirovna",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "name": "Senior Lecturer, Karshi Engineering And Economics Institute, Uzbekistan.",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "The American Journal of Interdisciplinary Innovations and Research"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2020,
+      7,
+      31
+     ]
+    ]
+   }
+  },
+  {
+   "DOI": "10.1016/j.gsd.2022.100772",
+   "page": "100772",
+   "is-referenced-by-count": 2,
+   "title": [
+    "New approach in estimation of seawater intrusion footprint (SWIF) for irrigated crops using coastal groundwater"
+   ],
+   "volume": "18",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0001-7462-3057",
+     "authenticated-orcid": false,
+     "given": "Osama",
+     "family": "Sallam",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Groundwater for Sustainable Development"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2022,
+      8
+     ]
+    ]
+   },
+   "article-number": "100772"
+  },
+  {
+   "issue": "1",
+   "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>\n                    Water table depth (WTD) has a substantial impact on the connection between groundwater dynamics and land surface processes. Due to the scarcity of WTD observations, physically‐based groundwater models are growing in their ability to map WTD at large scales; however, they are still challenged to represent simulated WTD compared to well observations. In this study, we develop a purely data‐driven approach to estimating WTD at continental scale. We apply a random forest (RF) model to estimate WTD over most of the contiguous United States (CONUS) based on available WTD observations. The estimated WTD are in good agreement with well observations, with a Pearson correlation coefficient (\n                    <jats:italic>r</jats:italic>\n                    ) of 0.96 (0.81 during testing), a Nash‐Sutcliffe efficiency (NSE) of 0.93 (0.65 during testing), and a root mean square error (RMSE) of 6.87 m (15.31 m during testing). The location of each grid cell is rated as the most important feature in estimating WTD over most of the CONUS, which might be a surrogate for spatial information. In addition, the uncertainty of the RF model is quantified using quantile regression forests. High uncertainties are generally associated with locations having a shallow WTD. Our study demonstrates that the RF model can produce reasonable WTD estimates over most of the CONUS, providing an alternative to physics‐based modeling for modeling large‐scale freshwater resources. Since the CONUS covers many different hydrologic regimes, the RF model trained for the CONUS may be transferrable to other regions with a similar hydrologic regime and limited observations.\n                  </jats:p>",
+   "DOI": "10.1111/gwat.13362",
+   "page": "34-43",
+   "is-referenced-by-count": 27,
+   "title": [
+    "Water Table Depth Estimates over the Contiguous United States Using a Random Forest Model"
+   ],
+   "volume": "62",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-1869-7702",
+     "authenticated-orcid": false,
+     "given": "Yueling",
+     "family": "Ma",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "High Meadows Environmental Institute, Princeton University  Princeton NJ USA"
+      },
+      {
+       "name": "Integrated GroundWater Modeling Center, Princeton University  Princeton NJ USA"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Elena",
+     "family": "Leonarduzzi",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "High Meadows Environmental Institute, Princeton University  Princeton NJ USA"
+      },
+      {
+       "name": "Integrated GroundWater Modeling Center, Princeton University  Princeton NJ USA"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Amy",
+     "family": "Defnet",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "High Meadows Environmental Institute, Princeton University  Princeton NJ USA"
+      },
+      {
+       "name": "Integrated GroundWater Modeling Center, Princeton University  Princeton NJ USA"
+      },
+      {
+       "name": "Department of Civil and Environmental Engineering Princeton University  Princeton NJ USA"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Peter",
+     "family": "Melchior",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Astrophysical Sciences Princeton University  Princeton NJ USA"
+      },
+      {
+       "name": "Center for Statistics and Machine Learning Princeton University  Princeton NJ USA"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0003-3639-8076",
+     "authenticated-orcid": false,
+     "given": "Laura E.",
+     "family": "Condon",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Hydrology and Atmospheric Sciences University of Arizona  Tucson AZ USA"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-1364-4441",
+     "authenticated-orcid": false,
+     "given": "Reed M.",
+     "family": "Maxwell",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "High Meadows Environmental Institute, Princeton University  Princeton NJ USA"
+      },
+      {
+       "name": "Integrated GroundWater Modeling Center, Princeton University  Princeton NJ USA"
+      },
+      {
+       "name": "Department of Civil and Environmental Engineering Princeton University  Princeton NJ USA"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Groundwater"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      10,
+      31
+     ]
+    ]
+   }
+  },
+  {
+   "DOI": "10.1016/j.gsd.2020.100482",
+   "page": "100482",
+   "is-referenced-by-count": 19,
+   "title": [
+    "Evaluation of groundwater quality in intensive irrigated zone of Northeastern Tunisia"
+   ],
+   "volume": "11",
+   "author": [
+    {
+     "given": "Zouheira",
+     "family": "Ibn Ali",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Asma",
+     "family": "Gharbi",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Moncef",
+     "family": "Zairi",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Groundwater for Sustainable Development"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2020,
+      10
+     ]
+    ]
+   },
+   "article-number": "100482"
+  },
+  {
+   "issue": "8",
+   "abstract": "<jats:title>Abstract</jats:title><jats:p>Evapotranspiration (ET) from riparian vegetation can be difficult to estimate due to relatively abundant water supply, spatial vegetation heterogeneity, and interactions with anthropogenic influences such as shallower groundwater tables, increased salinity, and nonpoint source pollution induced by irrigation. In semiarid south‐eastern Colorado, reliable ET estimates are scarce for the riparian corridor that borders the Arkansas River. This work investigates relationships between the riparian ecosystem along the Arkansas River and an underlying alluvial aquifer using ET estimates from remotely sensed data and modelled water table depths. Results from a calibrated, finite‐difference groundwater model are used to estimate weekly water table fluctuations in the riparian ecosystem from 1999 to 2009, and estimates of ET are calculated using the Operational Simplified Surface Energy Balance (SSEBop) model with over 200 Landsat scenes covering over 30 km<jats:sup>2</jats:sup> of riparian ecosystem along a 70‐km stretch of the river. Comparison of calculated monthly SSEBop ET to estimated alfalfa reference ET from local micrometeorological station data indicated statistically significant high linear correspondence (<jats:italic>R</jats:italic><jats:sup>2</jats:sup> = .87). Daily calculated SSEBop ET showed statistically significant moderate linear correspondence with data from a local weighing lysimeter (<jats:italic>R</jats:italic><jats:sup>2</jats:sup> = .59). Simulated monthly SSEBop ET values were larger in drier years compared with wetter years, and ET variability was also larger in drier years. Peak ET most commonly occurred during the month of June for all 11 years of analysis. Relationships between ET and water table depth showed that peak monthly ET was highest when groundwater depths were less than about 3 m, and ET values were significantly lower for groundwater depths greater than 3 m. Negative sample Spearman correlation highlighted riparian corridor locations where ET increased as a result of decreased groundwater depths across years with different hydroclimatic conditions. This study shows how a combination of remotely sensed riparian ET estimates and a regional groundwater model can improve our understanding of linkages between riparian consumptive use and near‐river groundwater conditions influenced by irrigation return flow and different climatic drivers.</jats:p>",
+   "DOI": "10.1002/hyp.13712",
+   "page": "1714-1727",
+   "is-referenced-by-count": 25,
+   "title": [
+    "Relationships between riparian evapotranspiration and groundwater depth along a semiarid irrigated river valley"
+   ],
+   "volume": "34",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0001-5337-8603",
+     "authenticated-orcid": false,
+     "given": "Matthew R.",
+     "family": "Lurtz",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Department of Civil and Environmental Engineering Colorado State University  Fort Collins Colorado"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-8612-1684",
+     "authenticated-orcid": false,
+     "given": "Ryan R.",
+     "family": "Morrison",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Civil and Environmental Engineering Colorado State University  Fort Collins Colorado"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Timothy K.",
+     "family": "Gates",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Civil and Environmental Engineering Colorado State University  Fort Collins Colorado"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-8810-8539",
+     "authenticated-orcid": false,
+     "given": "Gabriel B.",
+     "family": "Senay",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "U.S. Geological Survey (USGS), Earth Resources Observation and Science (EROS) Center North Central Climate Science Center  Fort Collins Colorado"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-9803-4003",
+     "authenticated-orcid": false,
+     "given": "Aditi S.",
+     "family": "Bhaskar",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Civil and Environmental Engineering Colorado State University  Fort Collins Colorado"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "David G.",
+     "family": "Ketchum",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Montana Department of Natural Resources and Conservation Water Resources Division  Helena Montana"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Hydrological Processes"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2020,
+      2,
+      21
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "02",
+   "abstract": "<jats:p>This article discusses the scientific significance of studying the work of the famous Uzbek scientist Yahyo Gulyamov “History of irrigation in Khorezm”. The research of the scientist on the history of irrigation in ancient Khorezm, which is one of the main directions of his scientific activity, plays a key role in it. The article also contains the views of contemporaries on this work by Y. Gulyamov.</jats:p>",
+   "DOI": "10.37547/history-crjh-03-02-05",
+   "page": "26-30",
+   "is-referenced-by-count": 1,
+   "title": [
+    "YAHYO GULYAMOV’S “HISTORY OF IRRIGATION IN KHOREZM” - AN IMPORTANT SOURCE IN THE STUDY OF THE HISTORY OF THE ANCIENT CULTURE OF IRRIGATED AGRICULTURE IN THE TERRITORY OF UZBEKISTAN"
+   ],
+   "volume": "03",
+   "author": [
+    {
+     "name": "PhD Student, National University of Uzbekistan, Tashkent, Uzbekistan",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Olimjon Sh.",
+     "family": "Kanimkulov",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "CURRENT RESEARCH JOURNAL OF HISTORY"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2022,
+      2,
+      1
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "9",
+   "abstract": "<jats:p>The article provides detailed information on the humus and nutrient content of saline and irrigated meadow-gray soils of the research area with varying degrees of gypsum. In addition, important information is provided on ways to increase the humus content and improve the fertility of soils with varying degrees of gypsum, as well as ways to effectively use such soils.</jats:p>",
+   "DOI": "10.37547/tajhfr/volume07issue09-02",
+   "page": "10-14",
+   "is-referenced-by-count": 0,
+   "title": [
+    "Agrochemical Condition Of Irrigated Soils In Mirzachol Oasis"
+   ],
+   "volume": "7",
+   "author": [
+    {
+     "name": "Doctor of Philosophy in Biological Sciences, Associate Professor, Gulistan State University, Uzbekistan",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Bakhrom Kholboev",
+     "family": "Ernazarovich",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Kudrat Kurdashev",
+     "family": "Davlyatovich",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "name": "Doctor of Philosophy in Biological Sciences (PhD), Gulistan State University, Uzbekistan",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Dilshod Mamaraimov",
+     "family": "Jabborovich",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "name": "Intern-teacher, Gulistan State University, Uzbekistan",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "The American Journal of Horticulture and Floriculture Research"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      9,
+      1
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "01",
+   "abstract": "<jats:p>At the Central Experimental Farm of the Research Institute of Irrigated Agriculture, valuable economic traits of durum wheat cultivation under irrigated conditions in 2024-2025 are presented.</jats:p>",
+   "DOI": "10.37547/ajahi/volume06issue01-02",
+   "page": "06-09",
+   "is-referenced-by-count": 0,
+   "title": [
+    "Results Obtained On Economically Valuable Traits Of Durum Wheat In Rainfed Areas"
+   ],
+   "volume": "06",
+   "author": [
+    {
+     "name": "Research Institute of Irrigated Agriculture, Doctor of Philosophy in Agriculture (PhD), head of the laboratory, Uzbekistan",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Z.A.",
+     "family": "Ochilov",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "B.I.",
+     "family": "Mamarahimov",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "name": "Research Institute of Irrigated Agriculture, Doctor of Agricultural Sciences., professor, director, Uzbekistan",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "H.X.",
+     "family": "Qarshiboyev",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "name": "Research Institute of Irrigated Agriculture, Doctor of Agricultural Sciences., Deputy Director for Scientific Work, Uzbekistan",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "American Journal Of Agriculture And Horticulture Innovations"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      1,
+      6
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "6",
+   "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>This study investigated collaborative groundwater‐flow modeling and scenario analysis in the Little Plover River basin, Wisconsin, USA where an unconfined aquifer supplies groundwater for agricultural irrigation, industrial processing, municipal water supply, and stream baseflow. We recruited stakeholders with diverse interests to identify, prioritize, and evaluate scenarios defined as management changes to the landscape. Using a groundwater flow model, we simulated the top 10 stakeholder‐ranked scenarios under historically informed dry, average, and wet weather conditions and evaluated the ability of scenarios to meet government‐defined stream flow performance measures. Results show that multiple changes to the landscape are necessary to maintain optimum stream flow, particularly during dry years. Yet, when landscape changes from three scenarios—transferring water from the local waste water treatment plant to basin headwaters, moving municipal wells further from the river and downstream, and converting 240 acre (97 ha) of irrigated land to unirrigated land—were simulated in combination, the probability of meeting or exceeding optimum flows rose to 75, 65, and 34% at upper, mid, and lower stream gages, respectively, in dry climate conditions. Discussions with stakeholders reveal that the collaborative model and scenario analysis process resulted in social learning that built upon the existing complex and dynamic institutional landscape. The approach provided a forum for solution‐based discussions, and the model served as an important mediation tool for the development and evaluation of community‐defined scenarios in a high conflict environment. Today, stakeholders continue to work collaboratively to overcome challenges and implement voluntary solutions in the basin.</jats:p>",
+   "DOI": "10.1111/gwat.12989",
+   "page": "973-986",
+   "is-referenced-by-count": 7,
+   "title": [
+    "Groundwater Model Simulations of Stakeholder‐Identified Scenarios in a High‐Conflict Irrigated Area"
+   ],
+   "volume": "58",
+   "author": [
+    {
+     "given": "Maribeth",
+     "family": "Kniffin",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Kenneth R.",
+     "family": "Bradbury",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Wisconsin Geological and Natural History Survey  3817 Mineral Point Road Madison WI 53705‐5100b"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Michael",
+     "family": "Fienen",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "U.S. Geological Survey, Upper Midwest Water Science Center  8551 Research Way #120 Middleton WI 535624"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Kenneth",
+     "family": "Genskow",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Planning and Landscape Architecture University of Wisconsin‐Madison  112a Music Hall, 925 Bascom Mall Madison WI 53706"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Groundwater"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2020,
+      3
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "3",
+   "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>As groundwater found in aquifers is the main reservoir of freshwater for human activity, knowledge of the future response of groundwater to climate change is key for improving water management adaptation plans. We analyze the climate‐driven evolution of future levels of unconfined aquifers in the 218 world's major groundwater basins in global climate simulations following the latest Intergovernmental Panel on Climate Change scenarios, run with models able to capture feedbacks among climate, land use and groundwater. We find a rising of groundwater levels on global average, which is consistent with the projected global intensification of precipitation. This signal presents large regional disparities which mostly match the patterns of precipitation changes. As the climate models we used do not simulate human groundwater withdrawals (irrigation as well as domestic and industrial uses) which represent the other main driver of groundwater levels evolution, we also use Food and Agriculture Organization maps of present‐day irrigated areas and projections of population in 2100 to identify regions where groundwater withdrawals could exacerbate the projected depletion, or even reverse a projected rise into a depletion. Depending on the scenario, we then find a rise (respectively a depletion) of groundwater levels in 2100 over 33%[28–39]% to 42%[41–45]% (respectively 26%[25–32]% to 37%[36–40]%) of the area covered by the 218 world's major groundwater basins. And we estimate that 31%[29–36]% to 43%[42–44]% of the world's population could be affected by these groundwater changes, facing either water scarcity issues (for 29%[27–33]% to 40%[39–40]% of the population), or increased risks of flooding (for 1.7%[1.5–2.2]% to 2.2%[2.2–2.4]% of the population).</jats:p>",
+   "DOI": "10.1029/2022ef003068",
+   "is-referenced-by-count": 45,
+   "title": [
+    "Projected Climate‐Driven Changes of Water Table Depth in the World's Major Groundwater Basins"
+   ],
+   "volume": "11",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-8491-8075",
+     "authenticated-orcid": false,
+     "given": "Maya",
+     "family": "Costantini",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Centre National de Recherches Météorologiques (CNRM) Météo‐France/CNRS  Toulouse France"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Jeanne",
+     "family": "Colin",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Centre National de Recherches Météorologiques (CNRM) Météo‐France/CNRS  Toulouse France"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-8661-1464",
+     "authenticated-orcid": false,
+     "given": "Bertrand",
+     "family": "Decharme",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Centre National de Recherches Météorologiques (CNRM) Météo‐France/CNRS  Toulouse France"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Earth's Future"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      3
+     ]
+    ]
+   },
+   "article-number": "e2022EF003068"
+  },
+  {
+   "issue": "9",
+   "abstract": "<jats:p>This study aims to comprehensively investigate the biogeochemical characteristics of chemical elements within the system of irrigated typical sierozem soils and raspberry plants (Rubus idaeus L.) in the Fergana region. It also examines the relationship between the mineral nutritional status of the soil and the biochemical composition of raspberry fruits and develops agronomic recommendations for obtaining high-quality yields.</jats:p>",
+   "DOI": "10.37547/ajast/volume06issue09-09",
+   "page": "59-67",
+   "is-referenced-by-count": 0,
+   "title": [
+    "Biogeochemical Characteristics of Irrigated Sierozem Soils and Raspberry (Rubus Idaeus L.) In Fergana District, Uzbekistan"
+   ],
+   "volume": "6",
+   "author": [
+    {
+     "given": "Zarnigor M.",
+     "family": "Rajavaliyeva",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Independent Researchers, Fergana State University, Fergana, 150100, Uzbekistan"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Maxliyo M.",
+     "family": "Alijonova",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Independent Researchers, Fergana State University, Fergana, 150100, Uzbekistan"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Gulizorbegim I.",
+     "family": "Ikromaliyeva",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Independent Researchers, Fergana State University, Fergana, 150100, Uzbekistan"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Sanoatxon Kh.",
+     "family": "Zakirova",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Doctor of Agricultural Sciences, Professor, Fergana State University, Fergana, 150100, Uzbekistan"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "American Journal of Applied Science and Technology"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      9,
+      1
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "11",
+   "abstract": "<jats:p>Extracted peatlands experience strong hydrological fluctuations due to drainage, vegetation succession, and climatic variability, yet long-term, high-frequency groundwater data remain scarce in Northern Europe. Our dataset presents two years (June 2023–May 2025) of 30-min groundwater table depth (WTD) measurements from six wells installed across contrasting Greenhouse Gass Emission Site Types (GEST 5, 6, 15, 20) in the Kaigu peatlands, central Latvia. Each well was equipped with an automatic pressure transducer (TD-Diver, van Essen Instruments) recording absolute pressure (m H2O). The dataset also includes metadata on coordinates, installation elevation, well construction, and manual control measurements. All values are unprocessed, i.e., they represent original logger outputs without atmospheric or elevation correction, enabling users to apply their own calibration or referencing methods. This is the first openly available high-frequency extracted peatland groundwater pressure dataset from the Baltic region and provides a foundation for hydrological modelling and rewetting designs.</jats:p>",
+   "DOI": "10.3390/data10110176",
+   "page": "176",
+   "is-referenced-by-count": 0,
+   "title": [
+    "Groundwater Table Depth Monitoring Dataset (2023–2025) from an Extracted Kaigu Peatland Section in Central Latvia"
+   ],
+   "volume": "10",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-1136-0146",
+     "authenticated-orcid": false,
+     "given": "Normunds",
+     "family": "Stivrins",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Faculty of Forest and Environmental Sciences, Latvia University of Life Sciences and Technologies, Liela Str. 2, LV-3001 Jelgava, Latvia"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0003-2380-2690",
+     "authenticated-orcid": false,
+     "given": "Jānis",
+     "family": "Bikše",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Geology, Faculty of Science and Technology, University of Latvia, Jelgavas Str. 1, LV-1004 Riga, Latvia"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Sabina",
+     "family": "Alta",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Laflora Ltd., Kaigu Peat Bog, Līvbērze Parich, Jelgava District, LV-3003 Jelgava, Latvia"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-3220-1777",
+     "authenticated-orcid": false,
+     "given": "Inga",
+     "family": "Grinfelde",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Faculty of Forest and Environmental Sciences, Latvia University of Life Sciences and Technologies, Liela Str. 2, LV-3001 Jelgava, Latvia"
+      },
+      {
+       "name": "Lietuvos Inžinerijos Kolegija, Higher Education Institution, Tvirtoves al. 35, LT-50155 Kaunas, Lithuania"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Data"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      11,
+      1
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "10",
+   "abstract": "<jats:p>The article provides data on the physical and mechanical properties of irrigated meadow soils in the Zhandar region. Depending on the mechanical composition, the degree of salinity and cultivation, it varies within a wide range of physical and mechanical properties, there are certain differences caused by their genesis and regional characteristics.</jats:p>",
+   "DOI": "10.37547/tajas/volume02issue10-04",
+   "page": "22-27",
+   "is-referenced-by-count": 0,
+   "title": [
+    "Physico-Mechanical Properties Of Irrigated Meadow Soils Of The Bukhara Region (On The Example Of The Zhandar District)"
+   ],
+   "volume": "02",
+   "author": [
+    {
+     "name": "Lecturers Of Bukhara State University, Uzbekistan",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Nazarova",
+     "family": "S.M.",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Zaripov",
+     "family": "G.T.",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "name": "Lecturers Of Bukhara State University, Uzbekistan",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Mamurova",
+     "family": "M.O.",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "name": "Lecturers Of Bukhara State University, Uzbekistan",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "The American Journal of Applied Sciences"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2020,
+      10,
+      28
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "05",
+   "abstract": "<jats:p>This article discusses the main purpose of the assessment of irrigated soils, the methods used to determine crop yields based on the characteristics of soil fertility and its properties, and their advantages. It also describes the procedures for scientifically substantiating the yield of irrigated soils corresponding to one quality score.</jats:p>",
+   "DOI": "10.37547/tajabe/volume03issue05-02",
+   "page": "8-12",
+   "is-referenced-by-count": 3,
+   "title": [
+    "Estimation Of Irrigated Soils Of Fergana Region (On The Example Of Dangara District)"
+   ],
+   "volume": "03",
+   "author": [
+    {
+     "name": "PhD, Assistant Professor, Fergana Polytechnic Institute, Fergana, Uzbekistan",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Kimsanov Ibrohim",
+     "family": "Xayitmurodovich",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Marupov Azizxon",
+     "family": "Abbosxonovich",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "name": "PhD, Applicant, Fergana Polytechnic Institute, Fergana, Uzbekistan",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Mamayusupova Muqaddam",
+     "family": "Dilmurod Qizi",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "name": "PhD, Applicant, Fergana Polytechnic Institute, Fergana, Uzbekistan",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "The American Journal of Agriculture and Biomedical Engineering"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2021,
+      5,
+      22
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "03",
+   "abstract": "<jats:p>This article describes the properties of irrigated sandy and loamy soils in the Bukhara oasis, to determine the evolutionary changes in the soil, and to reduce the impact of degradation processes occurring in these soils, the article also emphasizes the importance of research on maintaining, increasing and protecting soil fertility and efficient use of land.</jats:p>",
+   "DOI": "10.37547/tajabe/volume03issue03-01",
+   "page": "1-6",
+   "is-referenced-by-count": 3,
+   "title": [
+    "Prevent Salinization And Increase The Fertility Of Irrigated Sandy And Loamy Soils"
+   ],
+   "volume": "03",
+   "author": [
+    {
+     "name": "Doctor Of Biological Sciences, Associate Professor Bukhara State University, Bukhara, Uzbekistan",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Hafiza Toymurodovna",
+     "family": "Artikova",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Mahfuza Muhiddinnovna",
+     "family": "Sattorova",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "name": "Lecturer Bukhara State University, Bukhara, Uzbekistan",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Javokhir Jahon Oglu",
+     "family": "Jumaev",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "name": "Master Student Bukhara State University, Bukhara, Uzbekistan",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "The American Journal of Agriculture and Biomedical Engineering"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2021,
+      3,
+      11
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "2",
+   "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>The water shortage in agriculture area in China requires to reduce the consumption of excessive water in flood irrigation. Therefore, the dynamics of soil water regime is needed to investigate and water‐saving irrigation is necessary to alleviate water shortage. This study investigated the impact of flood irrigation on soil water movement and recharge to groundwater in the Yellow River irrigation area of Yinchuan Plain, China. Combining comprehensive field observation, stable isotopic techniques and water balance simulation, we described the soil water mechanism in vadose zone covered with bare soil in 2019 and planted with maize in 2020. The soil layers affected by precipitation infiltration and evaporation were mainly 0–50 cm, while the soil influenced by irrigation was the entire profile in the mode of piston flow. The maize root took up the soil water up to the depth of 100 cm during the tasseling period. The infiltration and capillary rise in 2020 were similar with those in 2019. However, the total deep percolation was 156.5 mm in 2020 which was about 50% of that in 2019 because of the maize root water uptake. The leakage of ditch water was the major recharge resource of groundwater for the fast water table rise. Precise irrigation is required to minimize deep percolation and leakage of ditch water and reduce excessive unproductive evapotranspiration. Therefore, understanding the soil water movement and groundwater recharge is critical for agricultural water management to improve irrigation efficiency and water use efficiency in arid regions.</jats:p>",
+   "DOI": "10.1111/gwat.13329",
+   "page": "212-225",
+   "is-referenced-by-count": 16,
+   "title": [
+    "Soil Water Movement and Groundwater Recharge Under Different Land Uses in a Flood‐Irrigated Area"
+   ],
+   "volume": "62",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-4580-4972",
+     "authenticated-orcid": false,
+     "given": "Lihu",
+     "family": "Yang",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Key Laboratory of Water Cycle and Related Land Surface Processes, Institute of Geographic Sciences and Natural Resources Research Chinese Academy of Sciences  Beijing People's Republic of China"
+      },
+      {
+       "name": "Laboratory of Geographic Environment Comprehensive Observation and Simulation, Xiongan Institute of Innovation  Xiongan People's Republic of China"
+      },
+      {
+       "name": "Sino‐Danish College, University of Chinese Academy of Sciences  Beijing People's Republic of China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Xianfang",
+     "family": "Song",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Key Laboratory of Water Cycle and Related Land Surface Processes, Institute of Geographic Sciences and Natural Resources Research Chinese Academy of Sciences  Beijing People's Republic of China"
+      },
+      {
+       "name": "Laboratory of Geographic Environment Comprehensive Observation and Simulation, Xiongan Institute of Innovation  Xiongan People's Republic of China"
+      },
+      {
+       "name": "Sino‐Danish College, University of Chinese Academy of Sciences  Beijing People's Republic of China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Yuxue",
+     "family": "Ma",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Basic Geological Environment Investigation, Ningxia Geological Survey Institute  Yinchuan People's Republic of China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Liang",
+     "family": "Gong",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Basic Geological Environment Investigation, Ningxia Geological Survey Institute  Yinchuan People's Republic of China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Zhipeng",
+     "family": "Zhao",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Ecological Geological Investigation, Institute of Hydrogeology and Environmental Geology of Ningxia  Yinchuan People's Republic of China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Groundwater"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      6,
+      9
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "3",
+   "abstract": "<jats:p>The article presents the main soil types in the region and their distribution by mechanical composition. It also presents methods for determining the mechanical composition of the region's soils and the results of the analysis of the mechanical composition of the soil by fractionation</jats:p>",
+   "DOI": "10.37547/ajahi/volume05issue03-03",
+   "page": "9-13",
+   "is-referenced-by-count": 0,
+   "title": [
+    "Mechanical composition and properties of irrigated soils of syrdarya region"
+   ],
+   "volume": "5",
+   "author": [
+    {
+     "name": "Senior researcher, Doctor of philosophy in agricultural sciences, Uzbekistan",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Rayimberdiev",
+     "family": "H.A.",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Eshonkulov",
+     "family": "M.A.",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "name": "Senior researcher, SRICS, SP and A, SSES doctor of philosophy in agricultural sciences, Uzbekistan",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Kholboev",
+     "family": "B.",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "name": "Doctor of philosophy of biological sciences,associate professor, Uzbekistan",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Raxmonov",
+     "family": "I.",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "name": "Doctor of philosophy of biological sciences,associate professor, Uzbekistan",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Mirsharipova",
+     "family": "G.",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "name": "Candidate of agricultural sciences, associate professor, Gulistan State University, Uzbekistan",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "American Journal Of Agriculture And Horticulture Innovations"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      3,
+      1
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "06",
+   "abstract": "<jats:p>The article describes the enzymatic activity of the irrigated meadow soils of the north-eastern part of the Mirzachol oasis. Due to weak salinity of irrigated meadow soils, it was found that catalase, peroxidase, and polyphenoloxidase activity of enzymes belonging to the class of oxidases was high. These indicators were also observed in the activity of invertase and urease enzymes. It was observed that the activity of enzymes was high in all studied cuttings in the spring, and decreased in the fall. The activity of enzymes depends on the humus in the soil, the amount of nutrients, the mechanical composition, the amount of different fertilizers used, and the hydrothermal regime of the area.</jats:p>",
+   "DOI": "10.37547/ijasr-03-06-17",
+   "page": "101-106",
+   "is-referenced-by-count": 5,
+   "title": [
+    "ENZYMATIC ACTIVITY OF IRRIGATED MEADOW SOILS OF THE NORTHEASTERN PART OF THE MIRZACHUL OASIS"
+   ],
+   "volume": "03",
+   "author": [
+    {
+     "name": "2nd Stage Master’s Degree, Gulistan State University, Uzbekistan",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "S.U.",
+     "family": "Nurillayev",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "M.R.",
+     "family": "Obloqulov",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "name": "Trainee Teacher, Gulistan State University, Uzbekistan",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "International Journal of Advance Scientific Research"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      6,
+      1
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "12",
+   "abstract": "<jats:p>As one global issue, soil salinization has caused soil degradation, thus affecting the sustainable development of irrigated agriculture. A two-year study was conducted in 2018 and 2019 to identify the effects of subsurface drainage spacing on soil salinity and groundwater level, the latter of which is in a high-water table in drip irrigation cotton fields in the Tarim Basin oasis in southern Xinjiang, China. Three subsurface drainage treatments, with a drain spacing of 10 m (W10), 20 m (W20), and 30 m (W30), respectively, and a drainage-absent treatment (CK), are tested. With CK, soil salinity in the 0–60 cm layer was accumulated within a year. In contrast, the subsurface drainage reduced the soil salinity at a leaching rate of 10–25%. When decreasing the drain spacing, it was found that the soil desalination rate increased significantly (p &lt; 0.05) with good repeatability. Experimental results showed that the fitting equation of the soil salinity leaching curve could accurately describe the soil salinity leaching pattern of drip irrigation, and thus could be further used to inversely determine the theoretical drip irrigation leaching quota for those soils with different salinity degrees. As such, subsurface drainage could effectively control the groundwater table. Compared with CK, subsurface drainage deepened the groundwater table and mitigated the fluctuation of the groundwater level. These effects were strengthened by reducing the drain spacing. Correspondingly, the influence of the fluctuation of the groundwater table was reduced.</jats:p>",
+   "DOI": "10.3390/agriculture12122167",
+   "page": "2167",
+   "is-referenced-by-count": 16,
+   "title": [
+    "Effects of Subsurface Drainage on Soil Salinity and Groundwater Table in Drip Irrigated Cotton Fields in Oasis Regions of Tarim Basin"
+   ],
+   "volume": "12",
+   "author": [
+    {
+     "given": "Yuhui",
+     "family": "Yang",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "College of Hydraulic and Architectural Engineering, Tarim University, Alaer 843300, China"
+      },
+      {
+       "name": "Key Laboratory of Modern Agricultural Engineering, Tarim University, Alaer 843300, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Dongwei",
+     "family": "Li",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Farmland Irrigation Research Institute, Chinese Academy of Agricultural Sciences, Xinxiang 453002, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-1704-5550",
+     "authenticated-orcid": false,
+     "given": "Weixiong",
+     "family": "Huang",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "College of Hydraulic and Architectural Engineering, Tarim University, Alaer 843300, China"
+      },
+      {
+       "name": "Hubei Key Laboratory of Yangtze Catchment Environmental Aquatic Science, School of Environmental Studies, China University of Geosciences, Wuhan 430078, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-9182-128X",
+     "authenticated-orcid": false,
+     "given": "Xinguo",
+     "family": "Zhou",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Farmland Irrigation Research Institute, Chinese Academy of Agricultural Sciences, Xinxiang 453002, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Zhaoyang",
+     "family": "Li",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "College of Hydraulic and Architectural Engineering, Tarim University, Alaer 843300, China"
+      },
+      {
+       "name": "Key Laboratory of Modern Agricultural Engineering, Tarim University, Alaer 843300, China"
+      },
+      {
+       "name": "Key Laboratory of Northwest Oasis Water-Saving Agriculture, Ministry of Agriculture and Rural Areas, Shihezi 832061, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Xiaomei",
+     "family": "Dong",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "College of Hydraulic and Architectural Engineering, Tarim University, Alaer 843300, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Xingpeng",
+     "family": "Wang",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "College of Hydraulic and Architectural Engineering, Tarim University, Alaer 843300, China"
+      },
+      {
+       "name": "Key Laboratory of Modern Agricultural Engineering, Tarim University, Alaer 843300, China"
+      },
+      {
+       "name": "Key Laboratory of Northwest Oasis Water-Saving Agriculture, Ministry of Agriculture and Rural Areas, Shihezi 832061, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Agriculture"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2022,
+      12,
+      16
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "3/4",
+   "abstract": "<jats:p>The article presents the traditional irrigation systems used for many years and proposes changes in the dominant agricultural system in order to improve the food security of the Region. Considerable efforts and resources have been devoted to new forms of water management at the interstate level for water users associations.</jats:p>",
+   "DOI": "10.15576/asp.fc/2021.20.3/4.47",
+   "page": "47-55",
+   "is-referenced-by-count": 1,
+   "title": [
+    "CONDITIONS OF IRRIGATED LANDS IN UZBEKISTAN – AMU-DARYA RIVER CASE STUDY"
+   ],
+   "volume": "20",
+   "author": [
+    {
+     "name": "Karakalpak State University, Uzbekistan",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-6065-969X",
+     "authenticated-orcid": false,
+     "given": "Rustam N.",
+     "family": "Eshniyazov",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "R.E.",
+     "family": "Qurbanbaev",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "name": "Karakalpak State University, Uzbekistan",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-8040-7032",
+     "authenticated-orcid": false,
+     "given": "Józef",
+     "family": "Mosiej",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "name": "Warsaw University of Life Sciences – SGGW, Poland",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Acta Scientiarum Polonorum Formatio Circumiectus"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2021
+     ]
+    ]
+   }
+  },
+  {
+   "abstract": "<jats:p>Irrigated areas in the Aral Sea Basin are becoming highly saline due to the ascendant groundwater table and groundwater mineralization. This, in turn, leads to a decrease in soil fertility in agriculture and negatively affects the food security of basin countries. In the research work, seasonal changes in the groundwater table and mineralization during the periods of 2015 and 2023 were evaluated on the irrigated lands of the Xojeli district in the Republic of Karakalpakstan (Uzbekistan). Field monitoring was carried out on 142 observation wells using traditional methods of measuring the groundwater table and mineralization. Then, the obtained data was statistically analyzed, and maps based on the geoinformation system (GIS) were created by the inverse distance weighting (IDW) interpolation method for the study period. Furthermore, a correlation coefficient analysis was applied to find a relationship between climatic patterns, and groundwater table, and mineralization. Results based on statistical analysis present steady fluctuations in the groundwater table and wild fluctuations in mineralization over a period of nine years. The average water table below surface and mineralization in April was determined by 1.55 m and 2.94 g/l, in July by 1.78 m and 2.96 g/l, and in October by 2.18 m and 2.56 g/l. The visual maps created in accordance with the GIS-based method show that average values for the groundwater table in the irrigated areas were 1.5–2 m and 2–3 m (57.9% and 27.8%), and mineralization was 1-3 g/l and 3-5 g/l (62.4% and 36.5%). A correlation coefficient (r) shows a low relationship between the chosen variables.</jats:p>",
+   "DOI": "10.1051/bioconf/20249304014",
+   "page": "04014",
+   "is-referenced-by-count": 6,
+   "title": [
+    "Determination and assessment of the groundwater table and mineralization in irrigated areas (Xojeli district, Republic of Karakalpakstan)"
+   ],
+   "volume": "93",
+   "author": [
+    {
+     "given": "Rashid",
+     "family": "Kulmatov",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Atabek",
+     "family": "Alimov",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Christian",
+     "family": "Opp",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "BIO Web of Conferences"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2024
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "10",
+   "abstract": "<jats:p>The article presents in detail the mechanical composition of gypsum-sierozem, meadow-sierozem, sierozem-meadow, meadow, meadow-swamp soils and saline soils of different levels in the Zarbdor district of the Jizzakh region. Based on the data obtained, it has been given that, in terms of the amount of coarse dust and fine sand fraction, the soils of the region are dominated by medium, heavy and light sands, sometimes shown to ease up to scattered sand.</jats:p>",
+   "DOI": "10.37547/tajabe/volume02issue10-03",
+   "page": "12-16",
+   "is-referenced-by-count": 1,
+   "title": [
+    "Mechanical Composition Of Gypsum Virgin Land And Irrigated Soils Zarbdar District Of Jizzakh Region"
+   ],
+   "volume": "02",
+   "author": [
+    {
+     "name": "Doctor Of Philosophy In Biological Sciences (PhD), National University Of Uzbekistan Named After Mirzo Ulugbek, Uzbekistan",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Мakhkamova Dilafruz",
+     "family": "Yuldashevna",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "The American Journal of Agriculture and Biomedical Engineering"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2020,
+      10,
+      21
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "21",
+   "abstract": "<jats:p>Accurate information about groundwater level prediction is crucial for effective planning and management of groundwater resources. In the present study, the Artificial Neural Network (ANN), optimized with a Genetic Algorithm (GA-ANN), was employed for seasonal groundwater table depth (GWTD) prediction in the area between the Ganga and Hindon rivers located in Uttar Pradesh State, India. A total of 18 models for both seasons (nine for the pre-monsoon and nine for the post-monsoon) have been formulated by using groundwater recharge (GWR), groundwater discharge (GWD), and previous groundwater level data from a 21-year period (1994–2014). The hybrid GA-ANN models’ predictive ability was evaluated against the traditional GA models based on statistical indicators and visual inspection. The results appraisal indicates that the hybrid GA-ANN models outperformed the GA models for predicting the seasonal GWTD in the study region. Overall, the hybrid GA-ANN-8 model with an 8-9-1 structure (i.e., 8: inputs, 9: neurons in the hidden layer, and 1: output) was nominated optimal for predicting the GWTD during pre- and post-monsoon seasons. Additionally, it was noted that the maximum number of input variables in the hybrid GA-ANN approach improved the prediction accuracy. In conclusion, the proposed hybrid GA-ANN model’s findings could be readily transferable or implemented in other parts of the world, specifically those with similar geology and hydrogeology conditions for sustainable planning and groundwater resources management.</jats:p>",
+   "DOI": "10.3390/su12218932",
+   "page": "8932",
+   "is-referenced-by-count": 96,
+   "title": [
+    "Artificial Neural Network Optimized with a Genetic Algorithm for Seasonal Groundwater Table Depth Prediction in Uttar Pradesh, India"
+   ],
+   "volume": "12",
+   "author": [
+    {
+     "given": "Kusum",
+     "family": "Pandey",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Department of Soil and Water Engineering, Punjab Agricultural University, Ludhiana 141004, Punjab, India"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Shiv",
+     "family": "Kumar",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Irrigation and Drainage Engineering, College of Technology, G.B. Pant University of Agriculture &amp; Technology, Pantnagar 263145, Uttarakhand, India"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-0298-5777",
+     "authenticated-orcid": false,
+     "given": "Anurag",
+     "family": "Malik",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Punjab Agricultural University, Regional Research Station, Bathinda 151001, Punjab, India"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-7464-8377",
+     "authenticated-orcid": false,
+     "given": "Alban",
+     "family": "Kuriqi",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "CERIS, Instituto Superior Técnico, Universidade de Lisboa, Av. Rovisco Pais 1, 1049-001 Lisbon, Portugal"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Sustainability"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2020,
+      10,
+      27
+     ]
+    ]
+   }
+  },
+  {
+   "DOI": "10.1016/j.rineng.2026.112834",
+   "page": "112834",
+   "is-referenced-by-count": 0,
+   "title": [
+    "Spatial response of groundwater table depth to coal-mine dewatering intensity: evidence from Shenmu City, China"
+   ],
+   "volume": "32",
+   "author": [
+    {
+     "given": "Dongxue",
+     "family": "Zhang",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Yujie",
+     "family": "Hu",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-2697-4802",
+     "authenticated-orcid": false,
+     "given": "Li",
+     "family": "Wang",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Results in Engineering"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      12
+     ]
+    ]
+   },
+   "article-number": "112834"
+  },
+  {
+   "issue": "12",
+   "abstract": "<jats:p>The problem of improving the quality of winter wheat grain is relevant and, at the same time, relatively intractable. In many farms of the republic, in recent years, the yield of winter wheat grain on irrigated lands is 50 c / ha and more. However, the quality of the grain remains low, the protein content in the grain ranges from 10-12%, and the amount of crude  gluten  in  it  is  in  the  range  of  19-25%.  This  protein  content  in  winter  wheat  grain  is  significantly  below  the established standard.</jats:p>",
+   "DOI": "10.37547/ajast/volume03issue12-03",
+   "page": "10-13",
+   "is-referenced-by-count": 0,
+   "title": [
+    "GRAIN QUALITY OF WINTER WHEAT WHEN FED FROM LEAVES IN IRRIGATED GRAY SOILS"
+   ],
+   "volume": "3",
+   "author": [
+    {
+     "name": "Docent, Tashkent State Agrarian University, Tdau, Uzbekistan",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Komilov Bobur",
+     "family": "Sultanovich",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Djabborov Shavkat",
+     "family": "Razzoqovich",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "name": "Head Teacher, Tashkent State Agrarian University, Tdau, Uzbekistan",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "American Journal of Applied Science and Technology"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      12,
+      1
+     ]
+    ]
+   }
+  },
+  {
+   "DOI": "10.1016/j.gsd.2026.101636",
+   "page": "101636",
+   "is-referenced-by-count": 0,
+   "title": [
+    "Economic analysis of managed aquifer recharge for irrigated agriculture under deep uncertainty"
+   ],
+   "volume": "34",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-7035-3237",
+     "authenticated-orcid": false,
+     "given": "Dennis",
+     "family": "Gonzalez",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Joseph H.A.",
+     "family": "Guillaume",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Groundwater for Sustainable Development"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      8
+     ]
+    ]
+   },
+   "article-number": "101636"
+  },
+  {
+   "issue": "2",
+   "abstract": "<jats:p>The article presents the influence of organomineral and biological preparations on the growth and development of cotton seedlings in conditions of irrigated typical sierozem. Also, dependingon the degree of soil erosion, the growth rate  of  cotton  varies.  According  to  the  data  obtained,  higher  rates  were  observed  in  the  option  with  the  use  of biological product Rizokom-1 and in the collected soil compared to other options.</jats:p>",
+   "DOI": "10.37547/ajast/volume04issue02-04",
+   "page": "18-23",
+   "is-referenced-by-count": 0,
+   "title": [
+    "EFFECTIVENESS OF BIOLOGICAL PRODUCTS AND ORGANIC FERTILIZERS FOR COTTON ON IRRIGATED ERODED TYPICAL SIROZEMS"
+   ],
+   "volume": "4",
+   "author": [
+    {
+     "name": "Phd., Agricultural Sciences Associate Professor, Uzbekistan",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Kamilov Bobir",
+     "family": "Sultonovich",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Mahkamova Aliya",
+     "family": "Shinibaevna",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "name": "Assistant., Tashkent State Agrarian University, Tsau, Uzbekistan",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "American Journal of Applied Science and Technology"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2024,
+      2,
+      1
+     ]
+    ]
+   }
+  },
+  {
+   "DOI": "10.1016/j.jhydrol.2021.127407",
+   "page": "127407",
+   "is-referenced-by-count": 11,
+   "title": [
+    "Groundwater table fluctuations in a coastal unconfined aquifer with depth-varying hydraulic properties"
+   ],
+   "volume": "606",
+   "author": [
+    {
+     "given": "Mingzhe",
+     "family": "Yang",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Yihao",
+     "family": "Zheng",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Xinghua",
+     "family": "Xu",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Haijiang",
+     "family": "Liu",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Pei",
+     "family": "Xin",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Journal of Hydrology"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2022,
+      3
+     ]
+    ]
+   },
+   "article-number": "127407"
+  },
+  {
+   "abstract": "<jats:p>The water footprint of crops (WFP) is crucial to understand how efficiently water is used in a farming system. This study evaluated the green and blue water footprints of selected crops in the Chirakchi Watershed, located in southern Uzbekistan. The sustainability of water use in the region’s agriculture is a growing concern due to its arid climate and increasing reliance on irrigation. Understanding the spatial and temporal dynamics of crop water use is essential for improving productivity and ensuring long-term water resource sustainability. The study evaluates the sustainability of water use in the region agricultural practices by integrating two biophysical simulation models, SWAT (Soil and Water Assessment Tool) and APEX (Agricultural Policy Environmental eXtender), to assess water consumption patterns of cotton, wheat, carrot, and potato between 2000 and 2023. The result of the study indicated a significant variation in water use among the selected crops, with cotton water use being the highest among the selected crops. The findings also revealed a declining trend in rainfall (green water) and increasing dependence on irrigation (blue water), particularly for cotton and wheat. This pattern highlights the water-intensive nature of the region's dominant cropping system. These trends are alarming, given the region's arid climate and increasing water scarcity driven by climate change. The study highlights the urgent need for improved irrigation efficiency and the adoption of water-saving practices, such as mulching or precision irrigation, to mitigate unsustainable water consumption. This research offers valuable insights into improving water productivity and can inform policy and management strategies in Uzbekistan's agricultural sector.</jats:p>",
+   "DOI": "10.3389/fagro.2025.1595665",
+   "is-referenced-by-count": 3,
+   "title": [
+    "Water footprints of irrigated crops in the Chirakchi Watershed, Uzbekistan"
+   ],
+   "volume": "7",
+   "author": [
+    {
+     "given": "Abeyou W.",
+     "family": "Worqlul",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Akmal",
+     "family": "Akramkhanov",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Zafar",
+     "family": "Gafurov",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Frontiers in Agronomy"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      9,
+      3
+     ]
+    ]
+   },
+   "article-number": "1595665"
+  },
+  {
+   "DOI": "10.1016/j.ecolind.2022.108915",
+   "page": "108915",
+   "is-referenced-by-count": 24,
+   "title": [
+    "A method to determine optimum ecological groundwater table depth in semi-arid areas"
+   ],
+   "volume": "139",
+   "author": [
+    {
+     "given": "Rui",
+     "family": "Zhang",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Jingwei",
+     "family": "Wu",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Yang",
+     "family": "Yang",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Xiang",
+     "family": "Peng",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Changsen",
+     "family": "Li",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Qiang",
+     "family": "Zhao",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Ecological Indicators"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2022,
+      6
+     ]
+    ]
+   },
+   "article-number": "108915"
+  },
+  {
+   "DOI": "10.1016/j.agee.2023.108573",
+   "page": "108573",
+   "is-referenced-by-count": 15,
+   "title": [
+    "Simulation of water drainage and nitrate leaching at an irrigated maize (Zea mays L.) oasis cropland with a shallow groundwater table"
+   ],
+   "volume": "355",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-5763-048X",
+     "authenticated-orcid": false,
+     "given": "Lizhu",
+     "family": "Hou",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Xiaojuan",
+     "family": "Fan",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-8233-165X",
+     "authenticated-orcid": false,
+     "given": "Zhiming",
+     "family": "Qi",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Li",
+     "family": "Wan",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-9321-0821",
+     "authenticated-orcid": false,
+     "given": "Kelin",
+     "family": "Hu",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Agriculture, Ecosystems &amp; Environment"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      10
+     ]
+    ]
+   },
+   "article-number": "108573"
+  },
+  {
+   "issue": "2",
+   "abstract": "<jats:p>Groundwater is a vital and critical resource for humanity. Therefore, its management requires accurate data on its conditions and characteristics, which are generally obtained through field surveys. However, limited accessibility often hinders optimal data acquisition, making interpolation necessary to fill data gaps. This study examines the application of Inverse Distance Weighting (IDW) and spline interpolation methods for analyzing groundwater depth and table elevation in urban and rural areas. The research was conducted in four locations: two representing urban areas (the border of Yogyakarta City–Bantul Regency–Sleman Regency, and Lowokwaru–Blimbing Districts in Malang City) and two representing rural areas (Kalibawang–Samigaluh Districts in Kulon Progo Regency, and Sanden District in Bantul Regency). At each location, three IDW and spline models were developed with different combinations of model and validation data for groundwater depth and elevation analysis, resulting in a total of 96 models (24 models per area). Model accuracy was compared using Root Mean Square Error (RMSE) and Mean Absolute Error (MAE). Results show that the IDW interpolation method is more accurate for groundwater depth analysis. For groundwater table elevation analysis, IDW was observed to be more accurate in urban areas, while spline interpolation was more accurate in rural areas.</jats:p>",
+   "DOI": "10.20884/1.jidr.2025.21.2.47",
+   "page": "98-106",
+   "is-referenced-by-count": 4,
+   "title": [
+    "Comparative Evaluation of Idw And Spline Interpolation Methods for Analyzing Groundwater Table Depth and Elevation"
+   ],
+   "volume": "21",
+   "author": [
+    {
+     "family": "Raja Susatio",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "family": "Indra Agus Riyanto",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "family": "Wahyu Wilopo",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "family": "Heru Hendrayana",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Dinamika Rekayasa"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      7,
+      29
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "14",
+   "abstract": "<jats:p>There is wide consensus among scholars and practitioners that improved irrigation technologies increase farm productivity and improve resource use efficiency. However, there is also growing empirical evidence that efficiency improvements in irrigation water use may create rebound effects, i.e., they may trigger changes in farmers’ behavior that partly or fully offset the technical water savings expected under ceteris paribus conditions. In extreme cases, total water consumption may even increase. We studied the impacts of introducing water-saving irrigation technologies in Uzbekistan and used structured stakeholder interviews for an expert-based assessment of potential rebound effects. Our findings contribute to the understanding of impacts of technological and institutional responses to environmental and economic pressures in sustaining water resources. The study demonstrates that although the objective of increasing irrigation efficiency may be achieved, the actual water savings under Uzbek conditions are likely to be reduced due to rebound effects. Unless there are effective policy interventions, we expect rebound effects through an increase in water supply for crops that compensates for current shortages of irrigation water availability, an increase in irrigated area, a switch to more water-intensive crops, and overall economic growth. The findings of this paper provide a reference point for estimating the water-saving potential and for evaluating and adapting policies.</jats:p>",
+   "DOI": "10.3390/su14148375",
+   "page": "8375",
+   "is-referenced-by-count": 38,
+   "title": [
+    "Rebound Effects in Irrigated Agriculture in Uzbekistan: A Stakeholder-Based Assessment"
+   ],
+   "volume": "14",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-6909-0978",
+     "authenticated-orcid": false,
+     "given": "Ahmad",
+     "family": "Hamidov",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Research Area 3 “Agricultural Landscape Systems”, Leibniz Centre for Agricultural Landscape Research (ZALF), Eberswalder Straße 84, 15374 Müncheberg, Germany"
+      },
+      {
+       "name": "Department of Irrigation and Melioration, “Tashkent Institute of Irrigation and Agricultural Mechanization Engineers (TIIAME)” National Research University (“TIIAME” NRU), 39 Kary-Niyaziy Street, Tashkent 100000, Uzbekistan"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Ulan",
+     "family": "Kasymov",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Chair of Ecosystem Services, International Institute Zittau, Technische Universität Dresden (TUD), Markt 23, 02763 Zittau, Germany"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Kakhramon",
+     "family": "Djumaboev",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Regional Representative Office for Central Asia, International Water Management Institute (IWMI), Apartment 120, House 6, Osiyo Street, Tashkent 100000, Uzbekistan"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-6936-8415",
+     "authenticated-orcid": false,
+     "given": "Carsten",
+     "family": "Paul",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Research Area 3 “Agricultural Landscape Systems”, Leibniz Centre for Agricultural Landscape Research (ZALF), Eberswalder Straße 84, 15374 Müncheberg, Germany"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Sustainability"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2022,
+      7,
+      8
+     ]
+    ]
+   }
+  }
+ ]
+}

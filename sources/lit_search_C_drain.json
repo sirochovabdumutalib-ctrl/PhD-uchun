@@ -1,0 +1,2584 @@
+{
+ "query": "collector drainage network Central Asia performance",
+ "source": "Crossref",
+ "date": "2026-11-18",
+ "filter": "2020–2026, journal-article",
+ "n": 40,
+ "items": [
+  {
+   "issue": "4",
+   "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>The study focused on modelling open channel flow in an agricultural ditch network. The objectives were (1) to set up a computational tool to explore the hydraulic impacts of water level control in a collector ditch network and (2) to test the effects of damming height and ditch flow resistance on the water level and its relation to field drainage. The model platform FLUSH is a hydrological model that couples field hydrology with a description of open channel flow network hydraulics under subarctic climate conditions. A one‐dimensional model setup described an existing collector ditch network in North Ostrobothnia, Finland, where fields under normal farming practices were instrumented to explore agricultural water management designs. In the model, drainage was fed to the ditch network as a spatially varied inflow. Four weir heights and flow resistances were used to run 16 simulations. Although flow resistance increased water levels in the ditch network, the absolute damming effect was the highest with low flow resistance. The water level control decreased the flow velocity within the control, which increased to 20%. According to the model simulations, a single weir downstream affected field drainage in up to 25% of the field area. The model provides a transparent means to investigate water management methods in fields and in collector ditches and to support the design of catchment‐scale water level control structures.</jats:p>",
+   "DOI": "10.1002/ird.3091",
+   "page": "1717-1729",
+   "is-referenced-by-count": 0,
+   "title": [
+    "Modelling the Spatio‐Temporal Effects of Water Level Control in an Agricultural Collector Ditch Network"
+   ],
+   "volume": "74",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0009-0008-0895-7743",
+     "authenticated-orcid": false,
+     "given": "Elina",
+     "family": "Paavonen",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Department of Environmental and Biological Sciences University of Eastern Finland  Joensuu Finland"
+      },
+      {
+       "name": "Department of Built Environment, School of Engineering Aalto University  Espoo Finland"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-4267-0569",
+     "authenticated-orcid": false,
+     "given": "Heidi",
+     "family": "Salo",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Built Environment, School of Engineering Aalto University  Espoo Finland"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-3344-8050",
+     "authenticated-orcid": false,
+     "given": "Aleksi",
+     "family": "Salla",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Built Environment, School of Engineering Aalto University  Espoo Finland"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-3713-1579",
+     "authenticated-orcid": false,
+     "given": "Harri",
+     "family": "Koivusalo",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Built Environment, School of Engineering Aalto University  Espoo Finland"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Irrigation and Drainage"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      2,
+      14
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "1",
+   "DOI": "10.1007/s40899-023-01010-1",
+   "is-referenced-by-count": 3,
+   "title": [
+    "Necessity and ways to improve the calculation of a closed collector-drainage network of drainage systems"
+   ],
+   "volume": "10",
+   "author": [
+    {
+     "given": "Liubov",
+     "family": "Volk",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Anatolii",
+     "family": "Rokochynskyi",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Pavlo",
+     "family": "Volk",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Ievgenii",
+     "family": "Gerasimov",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Oleg",
+     "family": "Pinchuk",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Cengiz",
+     "family": "Koç",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Sustainable Water Resources Management"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2024,
+      1,
+      8
+     ]
+    ]
+   },
+   "article-number": "20"
+  },
+  {
+   "abstract": "<jats:p>\n                    Landscape dissection by rivers is a common qualitative measure of surface maturity. Quantitative studies of fluvial development over time indicate that drainage development increases non-linearly and is influenced by lithology, however, these studies typically take place over short timescales (10s of years), cover small areas, and focus on steep landscapes. In this work we use the Central Lowlands physiographic province (CL) as a natural laboratory in which we investigate rates and controls on drainage development in a post-glacial lowland landscape. Portions of the CL have been glaciated repeatedly in the Quaternary, and its topography is dominated by a patchwork of glacial landforms that have been developing drainage for 10 thousand to more than 500 thousand years. We modify the National Hydrography Dataset to estimate pre-agriculture drainage density developed over different amounts of time to reveal rates of drainage development in the CL. We find that drainage density in the CL increases non-linearly, increasing rapidly following glaciation before slowly approaching a maximum value. Much of the development is accomplished by 50 ka, well within a typical interglacial period. The apparent maximum value, ~1.5 km/km\n                    <jats:sup>2</jats:sup>\n                    , is comparable to the median drainage density measured in regions in the CL that have not experienced Quaternary glaciation. Our study shows that this value is likely influenced by soil sand content and regional precipitation levels. We note that while drainage density increases to an apparent maximum within an interglacial, the fluvial network is unlikely to adjust to post-glacial base level conditions within that same length of time. Our results are most consistent with a model of drainage expansion driven by the connection of closed depressions, or ‘non-contributing area’ (NCA), the portion of a watershed that does not drain to a river. We find that NCA decreases in tandem with increasing drainage density, which implies that NCA could be a measure of landscape integration that is at least as sensitive as drainage density.\n                  </jats:p>",
+   "DOI": "10.2475/001c.129219",
+   "is-referenced-by-count": 4,
+   "title": [
+    "Timescales of Drainage Network Evolution Revealed: Spatiotemporal Variability in Drainage Density in the Post-Glacial Central Lowlands, USA"
+   ],
+   "volume": "325",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-9157-3503",
+     "authenticated-orcid": false,
+     "given": "Nooreen A.",
+     "family": "Meghani",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "id": [
+        {
+         "id": "https://ror.org/047426m28",
+         "id-type": "ROR",
+         "asserted-by": "publisher"
+        }
+       ],
+       "name": "University of Illinois Urbana-Champaign",
+       "department": [
+        "Earth, Society, and Environmental Sustainability"
+       ]
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Alison M.",
+     "family": "Anders",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "id": [
+        {
+         "id": "https://ror.org/047426m28",
+         "id-type": "ROR",
+         "asserted-by": "publisher"
+        }
+       ],
+       "name": "University of Illinois Urbana-Champaign",
+       "department": [
+        "Earth Science and Environmental Change"
+       ]
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "American Journal of Science"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      3,
+      4
+     ]
+    ]
+   },
+   "article-number": "2"
+  },
+  {
+   "DOI": "10.2139/ssrn.4128748",
+   "title": [
+    "Performance Prediction of Evacuated Tube Solar Collector with Convolutional Neural Network"
+   ],
+   "container-title": [
+    "SSRN Electronic Journal"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2022
+     ]
+    ]
+   },
+   "author": [
+    {
+     "given": "Rao",
+     "family": "Kuang",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Bin",
+     "family": "Du",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Jun",
+     "family": "Wang",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "is-referenced-by-count": 0
+  },
+  {
+   "issue": "1",
+   "abstract": "<jats:p>This study investigated the technical condition, operational problems and engineering-hydrotechnical  bases  for  their  rehabilitation  of  collector-drainage  systems located  in  the  Salyan-Mugan  plain  zone  of  Azerbaijan.  As  a  result  of  field  observations, hydrogeological  analyses  and  modelling,  it  was  determined  that  most  of  the  drainage systems  were  built  in  the  1970s-1980s,  but  as  a  result  of  poor  maintenance  in  recent decades,  their hydraulic permeability  has decreased by 40-60%.  Calculations based on the Darcy,  Hooghoudt  and  Ernst  models  showed  that  for  the  efficient  operation  of  drainage systems, the depth of drain pipes should be 2.3-2.5 m, and the spacing should be 65-80 m. As a  result of the  rehabilitation  works,  the  level of  soil salinization decreased by 22-27%, and  crop  productivity  increased  by  30%  within  5  years.  Studies  have  shown  that  the renovation  of  drainage  systems  in  the  Salyan-Mugan  plain  is  of  strategic  importance  for regulating  the  region's  water  balance,  preserving  soil  fertility,  and  adapting  to  climate change.</jats:p>",
+   "DOI": "10.55956/mrcl8645",
+   "page": "458-463",
+   "is-referenced-by-count": 0,
+   "title": [
+    "OPTIMIZATION OF CHEMICAL TECHNOLOGICAL PROCESSES IN THE REHABILITATION OF COLLECTOR-DRAINAGE SYSTEMS IN THE SALYAN-MUGAN AREA"
+   ],
+   "author": [
+    {
+     "given": "M.S.",
+     "family": "Zarbaliyev",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Azerbaijan University of Architecture and Construction, Baku, Azerbaijan"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "A.A.",
+     "family": "Sariyeva",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Azerbaijan University of Architecture and Construction, Baku, Azerbaijan"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Mechanics and technologies"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      3,
+      30
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "1",
+   "abstract": "<jats:p>Solar parabolic trough collector consists of a parabolic reflector with a central receiver at a focal point through which heat transfer fluid is passed. Parabolic trough collector is used mostly in solar thermal power plants for generating electricity. This paper describes the experimental results of two straight tubes wrapped over each other to form a helically shaped receiver. The receiver was tested with aluminium material with and without black paint over it. Also, the helical tube receiver was tested with a glass cover over it, at two different mass flow rates and, with and without manual tracking. The tested instantaneous thermal efficiency ranges from 31.26% to 45.28% and the overall thermal efficiency ranges from 14.9% to 31.41% during the experimental period. The instantaneous thermal efficiency increased by an average of 1.32 times for unpainted receiver and 1.36 times for black painted receiver with the increase in mass flow rate. By tracking the parabolic collector according to sun’s position, there is an average increase in instantaneous thermal efficiency by 1.1 times for unpainted receiver and 1.04 times for black painted receiver. The paper further reveals that the use of multiple helical tubes as a receiver for parabolic trough collector increases the overall efficiency of the collector in a substantial manner.</jats:p>",
+   "DOI": "10.18034/apjee.v7i1.272",
+   "page": "39-46",
+   "is-referenced-by-count": 4,
+   "title": [
+    "Performance Evaluation of Multiple Helical Tubes as a Receiver for Solar Parabolic Trough Collector"
+   ],
+   "volume": "7",
+   "author": [
+    {
+     "given": "Swapnil N.",
+     "family": "Lotake",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "M. M.",
+     "family": "Wagh",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Asia Pacific Journal of Energy and Environment"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2020,
+      4,
+      24
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "4",
+   "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>The accumulation of fluid in the wellbore of a natural gas well can seriously affect the production of the well and can even lead to the well flooding and stopping production. The conventional cyclone tool has low kinetic energy, serious energy loss and short effective distance of spiral flow in the process of gas well drainage and gas recovery, thus affecting the efficiency of gas well drainage and gas recovery. In response to the above problems, this paper proposes a new cyclonic drainage solution combining self‐excited oscillating pulse jet and cyclonic flow. The liquid‐carrying air flow through the oscillating chamber forms a large vortex ring and the flow pattern squeezes the central air flow inwards, allowing the return vortex at the wall to develop effectively, increasing the return vortex velocity and increasing the velocity at the centre of the squeezed pulsating flow. In this paper, based on theoretical analysis and experimental research, the numerical simulation results are compared with the various drainage performance of conventional cyclone tools. The results show that the pressure drop and critical fluid‐carrying velocity of the cyclone section are significantly reduced, and the average tangential velocity of the cyclone section and the effective action distance of the cyclone tool are significantly increased, indicating that the new cyclone tool can improve the fluid‐carrying capacity of gas wells by changing the flow pattern of the gas–liquid medium without increasing energy consumption.</jats:p>",
+   "DOI": "10.1002/apj.2912",
+   "is-referenced-by-count": 3,
+   "title": [
+    "Performance study of self‐excited oscillatory cyclone drainage tool to improve the efficiency of natural gas well drainage and gas recovery"
+   ],
+   "volume": "18",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0003-0752-618X",
+     "authenticated-orcid": false,
+     "given": "Huizhen",
+     "family": "Liang",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "College of Mechanical and Electronic Engineering Shandong University of Science and technology  Qingdao 266590 China"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-5429-8170",
+     "authenticated-orcid": false,
+     "given": "Xiukun",
+     "family": "Jiang",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "College of Mechanical and Electronic Engineering Shandong University of Science and technology  Qingdao 266590 China"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Chengzhen",
+     "family": "Li",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "College of Mechanical and Electronic Engineering Shandong University of Science and technology  Qingdao 266590 China"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Jian",
+     "family": "Ma",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "College of Mechanical and Electronic Engineering Shandong University of Science and technology  Qingdao 266590 China"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Lin",
+     "family": "Mu",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "College of Mechanical and Electronic Engineering Shandong University of Science and technology  Qingdao 266590 China"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Wenbo",
+     "family": "Han",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "School of Mechanical and Electrical Engineering Zaozhuang University  Zaozhuang 277160 China"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Asia-Pacific Journal of Chemical Engineering"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      4,
+      12
+     ]
+    ]
+   },
+   "article-number": "e2912"
+  },
+  {
+   "issue": "02",
+   "abstract": "<jats:p>The article presents opinions and comments on the use of collector-drainage networks and water sources in Bukhara region. Their hydromorphological data on the main collectors located in the region are also given. The changes in the flow and mineralization rate of collector-drainage networks were studied. Suggestions and recommendations were also provided in order to increase the efficiency of secondary use of some types of agricultural crops as an additional source of water from the collector-drainage water in Bukhara region.</jats:p>",
+   "DOI": "10.37547/tajabe/volume03issue02-03",
+   "page": "10-15",
+   "is-referenced-by-count": 0,
+   "title": [
+    "Efficient Use Of Collector-Drainage Networks (On The Example Of Bukhara Region)"
+   ],
+   "volume": "03",
+   "author": [
+    {
+     "name": "Lecturers Of Bukhara State University, Uzbekistan",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Yozil Kasimovich",
+     "family": "Hayitov",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Nurbek Ahmadovich",
+     "family": "Toshbekov",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "name": "Lecturers Of Bukhara State University, Uzbekistan",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "The American Journal of Agriculture and Biomedical Engineering"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2021,
+      2,
+      28
+     ]
+    ]
+   }
+  },
+  {
+   "abstract": "<jats:p>\n                    The paper examines the hydrogeological conditions of the formation and manifestation of pressurized groundwater recharge within the drainage influence zone on irrigated lands in the southern part of the Mirzachul Oasis. Based on field observations of the piezometric levels of confined groundwater at depths of 5, 10 and 20 m, the groundwater regime and the character of the seepage flow in a stratified soil-ground system complicated by low-permeability layers are analysed. Over the annual cycle the groundwater level varied between 3.05 and 3.85 m, with an average of 3.46 m, while the pressurized groundwater level varied between 2.25 and 3.02 m, with an average of 2.52 m; the resulting head difference ranged from 0.50 to 1.25 m, averaging 0.94 m. The hydraulic conductivity averaged 0.24 m/day at 3–5 m, fell to 0.04–0.07 m/day at 14–18 m and rose to 1.0–3.0 m/day in the main aquifer at 20–40 m. The calculated hydraulic gradient was 0.030 in the vegetation period and 0.040 in the non-vegetation period, with recharge values of 3022 and 4004 m\n                    <jats:sup>3</jats:sup>\n                    /ha. The impact of pressurized groundwater on the water-salt regime of the upper aeration zone and on the efficiency of the collector-drainage network is demonstrated.\n                  </jats:p>",
+   "DOI": "10.1051/bioconf/202625701022",
+   "page": "01022",
+   "is-referenced-by-count": 0,
+   "title": [
+    "Pressurized groundwater recharge in the zone of influence of the collector-drainage network of the southern Mirzachul Oasis"
+   ],
+   "volume": "257",
+   "author": [
+    {
+     "given": "Alisher",
+     "family": "Fatxulloyev",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Tashkent Institute of Irrigation and Agricultural Mechanization Engineers National Research University",
+       "place": [
+        "Uzbekistan"
+       ]
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Suloyman",
+     "family": "Ulugmuradov",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "South Mirzachul Canal Department",
+       "place": [
+        "Uzbekistan"
+       ]
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Jasurjon",
+     "family": "Hamroqulov",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Tashkent Institute of Irrigation and Agricultural Mechanization Engineers National Research University",
+       "place": [
+        "Uzbekistan"
+       ]
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Dilshod",
+     "family": "Nazaraliev",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Tashkent Institute of Irrigation and Agricultural Mechanization Engineers National Research University",
+       "place": [
+        "Uzbekistan"
+       ]
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Aziza",
+     "family": "Gafarova",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Tashkent Institute of Irrigation and Agricultural Mechanization Engineers National Research University",
+       "place": [
+        "Uzbekistan"
+       ]
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Zulxummor",
+     "family": "Ergasheva",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Research Institute of Irrigation and Water Problems",
+       "place": [
+        "Uzbekistan"
+       ]
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Risolatxon",
+     "family": "Jamoliddinova",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Tashkent Institute of Irrigation and Agricultural Mechanization Engineers National Research University",
+       "place": [
+        "Uzbekistan"
+       ]
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "BIO Web of Conferences"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "2",
+   "abstract": "<jats:p>Academic scholarship captures different land governance dimensions while focusing mainly on agrarian, legal, and economic aspects. However, little to no attention is paid to land governance consideration through public policy lenses. In particular, this holds for Central Asian (CA) countries where there is a noticeable lack of academic works on land governance effectiveness and anti-corruption strategies in the land sector. This review paper analyzes the question of how Central Asian countries are presented in land governance indices and assessment frameworks such as the World Bank’s Land Governance Assessment Framework (LGAF), Global Property Rights Index (Prindex), Global Land Governance Index (LANDex), and The Open Data Barometer. The paper uses the integrative review of academic works and the author’s empirical data on Central Asian performance in land governance indices and assessment programs. The findings revealed that while the Prindex results for the region are promising, the underperformance and lack of active engagement of Central Asian countries in the Open Data Barometer, LANDex, and LGAF are still visible. This fact could be explained by various reasons, including the lack of institutional and legal capacities in CA countries and the limitation in methodology and data collection techniques observed in present land indices. Considering that the subject is understudied, it is anticipated that this review paper will give both scholars and practitioners from the region and abroad the impetus to improve Central Asian performance in global land governance indices and assessment programs.</jats:p>",
+   "DOI": "10.29258/cajwr/2021-r1.v7-2/74-96.eng",
+   "page": "74-96",
+   "is-referenced-by-count": 4,
+   "title": [
+    "Central Asia performance review in land governance indices and assessment frameworks"
+   ],
+   "volume": "7",
+   "author": [
+    {
+     "given": "Akbikesh",
+     "family": "Mukhtarova",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Nazarbayev University"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Central Asian Journal of Water Research"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2021,
+      12,
+      30
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "4 (138)",
+   "abstract": "<jats:p>Throughout the entire period of independence in Central Asia, attempts have been made repeatedly to implement integration projects in a variety of areas, including the economy. These initiatives include the Central Asian Economic Community (CAEC), the Central Asian Union (CAU), Eurasian Economic Community (EurAsEC), and the Customs Union. In the field of politics and security, such integration associations as the Collective Security Treaty (CSTO), the Shanghai Cooperation Organization (SCO), and the Conference on Interaction and Confidence Building Measures in Asia (CICA) were created. However, with the exception of the SCO, all other integration associations have not achieved much success. For the most part, they became a declaration of the intentions and aspirations of the initiators, which did not receive proper practical implementation. Over the course of three decades of development of post-Soviet Central Asia, the search for a model of integration unification on an economic basis has been an important element of the development strategy of the countries of the region and determining their place on the economic and political map of the world. However, multilateral economic interaction within the framework of the first integration projects in Central Asia was not widely developed and attempts to create a single economic space failed. At the moment, the countries of the region have not even overcome the first stage of the formation of economic integration.</jats:p>",
+   "DOI": "10.18254/s207987840031437-9",
+   "page": "0",
+   "is-referenced-by-count": 0,
+   "title": [
+    "Performance Issues of Regional Organizations in Central Asia"
+   ],
+   "volume": "15",
+   "author": [
+    {
+     "given": "Cholpon",
+     "family": "Koichumanova",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "National Academy of Sciences of Kyrgyz Republic"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "ISTORIYA"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2024
+     ]
+    ]
+   }
+  },
+  {
+   "DOI": "10.54647/dee47296",
+   "title": [
+    "TECHNOLOGY OF COLLECTOR-DRAINAGE WATER desalination IN THE CONDITIONS OF THE KYRGYZ REPUBLIC"
+   ],
+   "container-title": [
+    "SCIREA Journal of Electrical Engineering"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      1,
+      1
+     ]
+    ]
+   },
+   "author": [
+    {
+     "given": "Karimov",
+     "family": "T.Kh.",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Bishkek Kyrgyz State Technical University. I. Razzakova"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Baygazy",
+     "family": "kyzy N.",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Bishkek Kyrgyz State Technical University. I. Razzakova"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "is-referenced-by-count": 0
+  },
+  {
+   "DOI": "10.1016/j.gr.2026.02.015",
+   "title": [
+    "Spatial network characteristics and influencing factors of energy security in China-Central Asia-West Asia"
+   ],
+   "container-title": [
+    "Gondwana Research"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      8
+     ]
+    ]
+   },
+   "author": [
+    {
+     "given": "Shuhui",
+     "family": "Yang",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Yong",
+     "family": "Liu",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Xiaowei",
+     "family": "Ye",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Lian",
+     "family": "Bai",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "is-referenced-by-count": 1,
+   "volume": "156",
+   "page": "20-36"
+  },
+  {
+   "issue": "2",
+   "abstract": "<jats:title>Abstract</jats:title><jats:p>In an effort to enhance the heat transfer performance of solar collectors, this paper proposed to replace the smooth tube with symmetrical and asymmetrical transversely corrugated tubes, and to couple with SiO<jats:sub>2</jats:sub>‐H<jats:sub>2</jats:sub>O nanofluids for heat transfer of solar collectors. Effects of nanofluids mass fraction (<jats:italic>w</jats:italic> = .0%, .1%, .3%, and .5%), Reynolds number (3000, 4000, 5000, 6000, and 7000), and groove radius (1.5, 2, and 2.5 mm) on the flow and heat transfer properties of nanofluids in solar collectors were studied. The comprehensive evaluation index was used to consider the heat transfer property and flow resistance of fluid flow at the same time. Results showed that with the augment of nanofluids mass fraction, Reynolds number, and groove radius, the heat transfer enhancement performance of the collector becomes better. Among them, when the Reynolds number is 4000, the asymmetric transversely corrugated tube with a nanofluids mass fraction of .5% and a groove depth of 2.5 mm has the best comprehensive flow and heat transfer performance, and the comprehensive evaluation index can reach 1.62. The study results in this paper are beneficial to the coupling of nanofluids and transversely corrugated tubes and their application in the domain of enhanced heat transfer of solar collectors.</jats:p>",
+   "DOI": "10.1002/apj.3022",
+   "is-referenced-by-count": 4,
+   "title": [
+    "Effect of symmetrical and asymmetrical structures of transverse tube on heat transfer performance of nanofluids in a solar collector system"
+   ],
+   "volume": "19",
+   "author": [
+    {
+     "given": "Maoqing",
+     "family": "Tang",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "School of Low‐Carbon Energy and Power Engineering China University of Mining and Technology  Xuzhou 221116 China"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Xinyi",
+     "family": "Jiang",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "School of Low‐Carbon Energy and Power Engineering China University of Mining and Technology  Xuzhou 221116 China"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-8589-4343",
+     "authenticated-orcid": false,
+     "given": "Cong",
+     "family": "Qi",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "School of Low‐Carbon Energy and Power Engineering China University of Mining and Technology  Xuzhou 221116 China"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Lin",
+     "family": "Liang",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "School of Low‐Carbon Energy and Power Engineering China University of Mining and Technology  Xuzhou 221116 China"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Dongtai",
+     "family": "Han",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "School of Low‐Carbon Energy and Power Engineering China University of Mining and Technology  Xuzhou 221116 China"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Asia-Pacific Journal of Chemical Engineering"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      12,
+      18
+     ]
+    ]
+   },
+   "article-number": "e3022"
+  },
+  {
+   "issue": "5",
+   "abstract": "<jats:p>Cryospheric and ecological studies become very complicated due to the absence of observed data, particularly in the mountainous regions of Central Asia. Performance analysis of Satellite-Based Precipitation Datasets (SBPD) is very critical before their direct hydro-climatic applications. This study assessed the ground validation of four SBPDs (IMERG, TRMM, PERSIANN-CDR, and PERSIANN-CSS). From January 2000 to December 2013, all SBPD data were analyzed on daily, monthly, seasonal (winter, spring, summer, autumn), and annual scales at the entire spatial domain and point-to-pixel scale. The performance of SBPD was analyzed by using evaluation indices (root mean square error (RMSE), correlation coefficient (CC), bias, and relative bias (r-Bias)) along with categorical indices (false alarm ratio (FAR), probability of detection (POD), success ratio (SR), and critical success index (CSI). Results revealed that: (1) IMERG’s spatiotemporal tracking ability is better as compared to other datasets with appropriate ranges (CC &gt; 0.8 and r-BIAS (±10)). The performance of all SBPDs is more capable on a monthly scale as compared to a daily scale. (2) In terms of POD, the IMERG outperformed all other SBPD on daily and seasonal scales. All SBPD showed underestimations in the summer season, and PERSIANN-CCS showed the most significant underestimation (−70). Moreover, the IMERG signposted the most satisfactory performance in all seasons. (3) All SBPD showed better performance in capturing the light precipitation events as indicated by the Probability Density Function (PDF%). Moreover, the performance of PERSIANN-CDR and TRMM is acceptable at low topography; the performance of PERSIANN-CCS is very poor in diverse topographical and climatic conditions over Tajikistan. Therefore, we advocate the use of daily, monthly, and seasonal estimations of IMERG precipitation product for hydro-climatic applications over the mountainous domain of Central Asia.</jats:p>",
+   "DOI": "10.3390/rs15051420",
+   "page": "1420",
+   "is-referenced-by-count": 6,
+   "title": [
+    "Performance Analysis of Precipitation Datasets at Multiple Spatio-Temporal Scales over Dense Gauge Network in Mountainous Domain of Tajikistan, Central Asia"
+   ],
+   "volume": "15",
+   "author": [
+    {
+     "given": "Manuchekhr",
+     "family": "Gulakhmadov",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "State Key Laboratory of Desert and Oasis Ecology, Xinjiang Institute of Ecology and Geography, Chinese Academy of Sciences, Urumqi 830011, China"
+      },
+      {
+       "name": "Research Center for Ecology and Environment of Central Asia, Xinjiang Institute of Ecology and Geography, Chinese Academy of Sciences, Urumqi 830011, China"
+      },
+      {
+       "name": "University of Chinese Academy of Sciences, Beijing 100049, China"
+      },
+      {
+       "name": "Institute of Water Problems, Hydropower and Ecology of the National Academy of Sciences of Tajikistan, Dushanbe 734042, Tajikistan"
+      },
+      {
+       "name": "Committee for Environmental Protection under the Government of the Republic of Tajikistan, Dushanbe 734034, Tajikistan"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Xi",
+     "family": "Chen",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "State Key Laboratory of Desert and Oasis Ecology, Xinjiang Institute of Ecology and Geography, Chinese Academy of Sciences, Urumqi 830011, China"
+      },
+      {
+       "name": "Research Center for Ecology and Environment of Central Asia, Xinjiang Institute of Ecology and Geography, Chinese Academy of Sciences, Urumqi 830011, China"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-2366-2491",
+     "authenticated-orcid": false,
+     "given": "Aminjon",
+     "family": "Gulakhmadov",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "State Key Laboratory of Desert and Oasis Ecology, Xinjiang Institute of Ecology and Geography, Chinese Academy of Sciences, Urumqi 830011, China"
+      },
+      {
+       "name": "Research Center for Ecology and Environment of Central Asia, Xinjiang Institute of Ecology and Geography, Chinese Academy of Sciences, Urumqi 830011, China"
+      },
+      {
+       "name": "Institute of Water Problems, Hydropower and Ecology of the National Academy of Sciences of Tajikistan, Dushanbe 734042, Tajikistan"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-8590-3708",
+     "authenticated-orcid": false,
+     "given": "Muhammad Umer",
+     "family": "Nadeem",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Climate, Energy and Water Research Institute, National Agriculture Research Center, Islamabad 44000, Pakistan"
+      },
+      {
+       "name": "Department of Land and Water Conservation Engineering, Faculty of Agricultural Engineering and Technology, PMAS-Arid Agriculture University, Rawalpindi 46000, Pakistan"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-7061-1809",
+     "authenticated-orcid": false,
+     "given": "Nekruz",
+     "family": "Gulahmadov",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "State Key Laboratory of Desert and Oasis Ecology, Xinjiang Institute of Ecology and Geography, Chinese Academy of Sciences, Urumqi 830011, China"
+      },
+      {
+       "name": "University of Chinese Academy of Sciences, Beijing 100049, China"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-6879-4818",
+     "authenticated-orcid": false,
+     "given": "Tie",
+     "family": "Liu",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "State Key Laboratory of Desert and Oasis Ecology, Xinjiang Institute of Ecology and Geography, Chinese Academy of Sciences, Urumqi 830011, China"
+      },
+      {
+       "name": "Research Center for Ecology and Environment of Central Asia, Xinjiang Institute of Ecology and Geography, Chinese Academy of Sciences, Urumqi 830011, China"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Remote Sensing"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      3,
+      2
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "2",
+   "abstract": "<jats:p>The Aga Khan Development Network (AKDN) was founded in 1967 by Aga Khan 4, the spiritual leader of the Shi’i Imami Nizari Ismaili Muslims. Guided by the Islamic ethics of helping the needy, the AKDN seeks to improve the quality of life of the poor in 30 countries. While inspired by faith, the organizations of the AKDN are secular in nature and reject any kind of proselytization. The AKDN has been present in Central Asia since early 1990’s where it manages concerted and integrated developmental programs to attain economic, social and cultural development. Operating in Tajikistan, Afghanistan, Kyrgyzstan and Kazakhstan, the AKDN has been striving to create projects that will enable the local population to attain self-reliance and develop their conditions of living. The work of the AKDN in Central Asia ranges from finance, tourism, agriculture, infrastructure, education, healthcare and habitat, to music initiatives and renovation of historical sites. The AKDN stresses the importance of multidimensional approach to development with the goal of making the local population masters of their own destiny. It embodies hope and support for the poor in the region which is known for entrenched poverty and lack of stability in some specific cases. </jats:p>",
+   "DOI": "10.32473/ufjur.v21i2.108556",
+   "is-referenced-by-count": 0,
+   "title": [
+    "The Operation of the Aga Khan Development Network (AKDN) in Central Asia."
+   ],
+   "volume": "21",
+   "author": [
+    {
+     "given": "Ayso",
+     "family": "Milikbekov",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "UF Journal of Undergraduate Research"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2020,
+      2,
+      13
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "5",
+   "abstract": "<jats:p>\n                    Enhancing the efficiency of parabolic-trough solar collectors (PTSCs) remains a pivotal objective for advancing solar-energy technology and fostering long-term energy sustainability. Accordingly, the present study examines the thermal-and exergy-performance gains attainable when Al\n                    <jats:sub>2</jats:sub>\n                    O\n                    <jats:sub>3</jats:sub>\n                    —CuO\n hybrid nanofluids, formulated in a HitecXL base, replace conventional working fluids. All simulations were carried out under the representative climatic conditions of Duba, Saudi Arabia. To predict collector behavior, a suite of data-driven models, ARIMA, CNN, and LSTM, was deployed; among\n them, the encoder–decoder LSTM (ED-LSTM) consistently produced the most accurate forecasts. Building on these predictions, a fuzzy-logic/neural-network (FL-NN) controller was introduced to adjust operating parameters in real time, thereby maximizing performance. The integrated configuration\n achieved a day-average thermal efficiency of 65.69% and an exergy efficiency of 31.94%, both measurably elevate higher than baseline figures. Parametric analysis further showed that higher flow rates and greater nanoparticle volume fractions elevate both efficiencies, whereas increased inlet\n temperature raises exergy efficiency yet diminishes thermal efficiency. Incremental efficiency gains observed at larger nanofluid fractions confirm their promise for future optimization. Collectively, the findings demonstrate that combining hybrid nanofluids with AI-guided control strategies\n can deliver more efficient and adaptable solar-energy systems.\n                  </jats:p>",
+   "DOI": "10.1166/jon.2025.2269",
+   "page": "751-765",
+   "is-referenced-by-count": 0,
+   "title": [
+    "Numerical Evaluation of Parabolic-Trough Solar Collector Performance Enhancement Using Hybrid Nanofluids and Fuzzy Logic-Neural Network Integration"
+   ],
+   "volume": "14",
+   "author": [
+    {
+     "given": "Moaz",
+     "family": "Al-lehaibi",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Mechanical Engineering Department, College of Engineering and Architecture, Umm Al-Qura University, P.O. Box 5555, Makkah 24382, Saudi Arabia"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Abdulelah",
+     "family": "Alhamayani",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Mechanical Engineering Department, College of Engineering and Architecture, Umm Al-Qura University, P.O. Box 5555, Makkah 24382, Saudi Arabia"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Journal of Nanofluids"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      10,
+      1
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "2",
+   "abstract": "<jats:p>Purpose: to determine the environmental issues that arose during the operation of irrigation and drainage systems, and the basic principles of managing the quality of drainage water from irrigated lands.  Discussion. Analytical data on the condition of reclaimed lands, changes in groundwater levels during the operation of irrigation systems, the use of water resources, the results of theoretical and experimental studies of the collector-drainage flow quality in the irrigation system diversion collectors in the south of Russia are considered. The main problems are identified: land resources degradation, rising groundwater levels, resalinization and salt accumulation during irrigation, especially with irrigation water with increased mineralization, changes in the hydrological and hydrochemical regime of water bodies – collector-drainage runoff intakes. Legal problems associated with the classification of irrigation and drainage systems as objects of category III are highlighted. Ways to solve environmental problems, methods for managing the quality of drainage runoff, including the creation of local treatment facilities based on routing the collector-drainage network to irrigated areas suspended from the drainage system, in the range of 10–200 ha with construction of storage drainage sumps as places for metering flow and regulating the chemical composition of drainage flow.  Conclusions. Pollution problems are regional in nature and are determined not only by economic activities, but also by natural factors. The set of irrigation canals, collector-drainage networks and water intakes of drainage-discharge waters participates in the inter-basin redistribution of surface and underground runoff. In the process of managing the quality of drainage water from irrigated lands and the environmentally safe operation of hydro-reclamation systems, three parties must certainly participate: reclamation departments, agricultural producers and government agencies.</jats:p>",
+   "DOI": "10.31774/2712-9357-2024-14-2-211-235",
+   "page": "211-235",
+   "is-referenced-by-count": 0,
+   "title": [
+    "Current environmental issues of collector-drainage network operation and ways to solve them"
+   ],
+   "volume": "14",
+   "author": [
+    {
+     "name": "Russian Scientific Research Institute of Land Improvement Problems, Novocherkassk, Russian Federation",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Tatyana I.",
+     "family": "Drovovozova",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Land Reclamation and Hydraulic Engineering"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2024
+     ]
+    ]
+   }
+  },
+  {
+   "DOI": "10.1016/j.energy.2020.119713",
+   "page": "119713",
+   "is-referenced-by-count": 50,
+   "title": [
+    "Combining CFD and artificial neural network techniques to predict the thermal performance of all-glass straight evacuated tube solar collector"
+   ],
+   "volume": "220",
+   "author": [
+    {
+     "given": "Bin",
+     "family": "Du",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-4819-3847",
+     "authenticated-orcid": false,
+     "given": "Peter D.",
+     "family": "Lund",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Jun",
+     "family": "Wang",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Energy"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2021,
+      4
+     ]
+    ]
+   },
+   "article-number": "119713"
+  },
+  {
+   "issue": "1",
+   "DOI": "10.1007/s40745-020-00273-1",
+   "page": "1-23",
+   "is-referenced-by-count": 22,
+   "title": [
+    "Application of Generalized Regression Neural Network in Predicting the Performance of Solar Photovoltaic Thermal Water Collector"
+   ],
+   "volume": "10",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0003-0792-4161",
+     "authenticated-orcid": false,
+     "given": "M.",
+     "family": "Sridharan",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Annals of Data Science"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2020,
+      5,
+      1
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "1",
+   "abstract": "<jats:p>NA</jats:p>",
+   "DOI": "10.55016/at8cv242",
+   "page": "1-2",
+   "is-referenced-by-count": 0,
+   "title": [
+    "Launching the Central Asia Higher Education Review: Creating a Scholarly Home for Higher Education Research in Central Asia"
+   ],
+   "volume": "1",
+   "author": [
+    {
+     "given": "Aliya",
+     "family": "Kuzhabekova",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "The Central Asia Higher Education Review"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      6,
+      25
+     ]
+    ]
+   }
+  },
+  {
+   "abstract": "<jats:p>The article has developed the optimal options for the use of collector-drainage water as an additional source in the active layer of soil during irrigation of collector-drainage water of cotton variety \"An-Bayaut-2\" in Saykhunabad district of Syrdarya region, which is 567 m<jats:sup>3</jats:sup>/ha. Innovative technologies for irrigating cotton with collector-drainage waters using the nuclear-physical method for determining the dynamics of water absorption in the active layer of soils with low salinity allow achieving water saving and a high yield of cotton 4.68 c/ha, saving 13-14% of river water and additionally net income in the amount of 1,150,000 UZS per hectare. </jats:p>",
+   "DOI": "10.1051/e3sconf/202340101091",
+   "page": "01091",
+   "is-referenced-by-count": 0,
+   "title": [
+    "Substantiation of technology of using collector-drainage water for cotton irrigation"
+   ],
+   "volume": "401",
+   "author": [
+    {
+     "given": "Sadriddin",
+     "family": "Urunboev",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "E3S Web of Conferences"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2023
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "2",
+   "abstract": "<jats:title>Abstract</jats:title><jats:p>Spinoff firms are a common phenomenon in entrepreneurship where employees leave incumbent parent firms to found their own. Like other types of new firms, such new spinoffs face liabilities of newness and smallness. Previous research has emphasised the role of the initial endowments from their parent firm to overcome such liabilities. In this study, we argue and are the first to show, that, in addition to such endowments, growing an alliance network with firms<jats:italic>other than their parents’</jats:italic>is also critical for spinoff performance. Specifically, we investigate the performance effect of alliance network growth in newly founded spinoffs using a longitudinal sample of 248 spinoffs and 3370 strategic alliances in the mining industry. Drawing on theory based on the resource adjustment costs of forming alliances, we posit and find a U-shaped relationship between the alliance network growth and spinoff performance, above and beyond the parent firm’s influence. We further hypothesise and find that performance effects become stronger with increased time lags between alliance network growth and spinoff performance, and when spinoffs delay growing their alliance networks. Implications for theory and practice are discussed.</jats:p>",
+   "DOI": "10.1007/s10490-022-09804-1",
+   "page": "743-773",
+   "is-referenced-by-count": 7,
+   "title": [
+    "Spinoffs’ alliance network growth beyond parental ties: performance diminishing, then performance enhancing"
+   ],
+   "volume": "40",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-7847-587X",
+     "authenticated-orcid": false,
+     "given": "Forough",
+     "family": "Zarea Fazlelahi",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "J. Henri",
+     "family": "Burgers",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Martin",
+     "family": "Obschonka",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Per",
+     "family": "Davidsson",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Asia Pacific Journal of Management"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2022,
+      1,
+      13
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "1",
+   "DOI": "10.18334/asia.10.1.124913",
+   "page": "29-50",
+   "is-referenced-by-count": 0,
+   "title": [
+    "Mobile Connectivity Infrastructure as a Structural Driver of Digital Financial Inclusion: Evidence from Central Asia"
+   ],
+   "volume": "10",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0001-9264-1419",
+     "authenticated-orcid": true,
+     "given": "Д.Э.",
+     "family": "Асеинов",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Journal of Central Asia Economy"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "2",
+   "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>This study presents a smart neural network (NN) model for estimating the thermal performance of a transient nature solar flat plate collector system (SFPCS). For this purpose, a series of experimental studies are conducted through four successive days with three different arrangements of SFPCS (standalone, series, and parallel). Experimental results of such arrangements are then used for designing a generalized regression neural network (GRNN) model. The GRNN architecture proposed in this study consists of four inputs (mass flowrate, solar irradiance, fluid temperature difference, and collector area) and two dependent outputs (power output and efficiency of SFPCS). Such GRNN architecture is trained, tested, and validated with real-time experimental transient datasets for each arrangement individually. The results of the GRNN model are in good agreement with experimental datasets. The overall accuracy of the developed GRNN model in predicting the performance of standalone, series, and parallel connected SFPCS is 98%.</jats:p>",
+   "DOI": "10.1115/1.4047824",
+   "is-referenced-by-count": 17,
+   "title": [
+    "Application of Generalized Regression Neural Network in Predicting the Thermal Performance of Solar Flat Plate Collector Systems"
+   ],
+   "volume": "13",
+   "author": [
+    {
+     "given": "M.",
+     "family": "Sridharan",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Department of Mechanical Engineering, Saranathan College of Engineering, Tiruchirappalli 620012, Tamilnadu, India"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Shribalaji",
+     "family": "Shenbagaraj",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Center for Alternate Energy Research, University of Petroleum and Energy Studies, Uttarakhand 248007, India"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Journal of Thermal Science and Engineering Applications"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2020,
+      8,
+      10
+     ]
+    ]
+   },
+   "article-number": "021023"
+  },
+  {
+   "DOI": "10.52340/2009.09.08.01",
+   "title": [
+    "EURASIA VERSUS CENTRAL CAUCASO-ASIA: ON THE GEOPOLITICS OF CENTRAL CAUCASO-ASIA"
+   ],
+   "container-title": [
+    "CICERO FOUNDATION GREAT DEBATE PAPER"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2024,
+      10,
+      7
+     ]
+    ]
+   },
+   "author": [
+    {
+     "given": "Vladimer",
+     "family": "Papava",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "is-referenced-by-count": 0
+  },
+  {
+   "DOI": "10.1016/j.solener.2020.06.045",
+   "title": [
+    "Investigation on performance of an asphalt solar collector: CFD analysis, experimental validation and neural network modeling"
+   ],
+   "container-title": [
+    "Solar Energy"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2020,
+      9
+     ]
+    ]
+   },
+   "author": [
+    {
+     "given": "Amir Pouya",
+     "family": "Masoumi",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Erfan",
+     "family": "Tajalli-Ardekani",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Ali Akbar",
+     "family": "Golneshan",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "is-referenced-by-count": 41,
+   "volume": "207",
+   "page": "703-719"
+  },
+  {
+   "DOI": "10.1016/j.focat.2024.11.069",
+   "title": [
+    "National Central University joins Covestro’s Asia Pacific Elite Industry-Academia-Research network collaboration platform"
+   ],
+   "container-title": [
+    "Focus on Catalysts"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2024,
+      12
+     ]
+    ]
+   },
+   "is-referenced-by-count": 0,
+   "volume": "2024",
+   "issue": "12",
+   "page": "6"
+  },
+  {
+   "issue": "7",
+   "abstract": "<jats:p>\n                    In the Teskey Range of the Tien Shan (Kyrgyz Republic),\nfive\noutburst flood disasters from short-lived glacial lakes in 2006, 2008, 2013, 2014, and 2019 caused severe damages in the downstream part. Short-lived glacial\nlakes in the Teskey Range grow rapidly and drain within a few months, due to\nclosure and opening of an outlet ice tunnel in an ice-cored moraine complex\nat the glacier front. In addition to these factors, summer meltwater from\nthe glacier can cause rapid growth. Outburst floods of this lake type are a\nmajor hazard in this region and differ from the moraine-dam failures common\nto the eastern Himalaya. To clarify how short-lived glacial lakes store and\ndrain water over short periods, we use results from a field survey and\nsatellite data to analyze the water level, area, volume, and discharge of Korumdu lake (2017–2019) as well as satellite data to monitor the\nappearance of 160 other short-lived lakes (2013–2018). Except in 2016,\nKorumdu lake appeared and drained within about 1 month during all the\nsummers. Water level data recorded by a data logger and time-lapse camera\nimages show that the lake appeared and expanded suddenly from July to August\nin 2017–2019. The timing of lake appearance indicates that the lake formed\nwhen an outlet ice tunnel (subsurface channel) drainage was blocked by\ndepositions of an ice–debris mixture due to ice melting and not by freezing of\nstored water. For 2017, we used uncrewed aerial vehicle (UAV)-derived\ndigital surface models (DSMs) and water levels, finding that the lake's\nvolume reached 234 000 m\n                    <jats:sup>3</jats:sup>\n                    within 29 d, and then the water discharged\nfor 17 d at a maximum rate of 0.66 m\n                    <jats:sup>3</jats:sup>\n                    /s. This discharge rate is more\nthan 20 times smaller than those found earlier (2006–2014) for four\nshort-lived lakes of tunnel type in this region. We argue that this large variation in\ndischarge rates is due to variation in the dimensions of the outlet\nice tunnels. For the 160 other short-lived glacial lakes, we found that 117\nformed during the ice-melt period from July to September. This timing and\nour findings for Korumdu lake show that these 117 lakes likely formed\nprimarily because deposition of an ice–debris mixture blocked the outlet\ntunnel, though increased glacial melt would also have contributed. In the\nTeskey Range, the appearance of short-lived glacial lakes on the moraine\ncomplexes at glacier fronts is inevitable in summer when the melting rate is\nhigh. Similar behavior of short-lived lakes may occur in other mountain\nregions of Central Asia, such as the Tien Shan and Pamir Mountains, wherever\nice-cored moraine complexes exist within mountain permafrost zone. Moreover,\nincreasing temperatures may increase both tunnel size and lake-basin size\n(lake volume), leading to increased hazard potential from such lakes in the\nfuture.\n                  </jats:p>",
+   "DOI": "10.5194/nhess-21-2245-2021",
+   "page": "2245-2256",
+   "is-referenced-by-count": 10,
+   "title": [
+    "Formation, evolution, and drainage of short-lived glacial lakes in permafrost environments of the northern Teskey Range, Central Asia"
+   ],
+   "volume": "21",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-1489-5090",
+     "authenticated-orcid": false,
+     "given": "Mirlan",
+     "family": "Daiyrov",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      },
+      {
+       "role": "corresponding-author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Chiyuki",
+     "family": "Narama",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      },
+      {
+       "role": "corresponding-author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Natural Hazards and Earth System Sciences"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2021,
+      7,
+      29
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "268",
+   "abstract": "<jats:title>Abstract</jats:title><jats:p>To understand the mechanism of simultaneous drainage event related to supraglacial lakes on a debris-covered glacier, we investigated water-level variations of supraglacial lakes on the southern Inylchek Glacier in Kyrgyzstan. To examine these variations, we used daily aerial images for 2017–2019 from an uncrewed aerial vehicle that were converted to 15 cm-digital surface models and ortho-images. Our main results are as follows: (1) When one lake drained, the water levels of other lakes simultaneously increased, indicating that drainage water is shared with several lakes through a main englacial conduit. In one drainage event, a branched off englacial conduit clearly connected to a main englacial conduit. (2) Sometimes several lakes discharged simultaneously, indicating that several lakes had connected to a main englacial conduit that had opened. Such cases can cause larger-scale drainage than that from the opening of a branched off englacial conduit. (3) Simultaneous drainage occurred twice in the same year, each time through a different conduit, indicating that the main englacial conduit can be abandoned and reused. (4) In some lakes, the water level on the hydraulic gradient line increased gradually with nearly the same increase rate just before drainage. Such an increase may be an indicator of a possible simultaneous drainage event.</jats:p>",
+   "DOI": "10.1017/jog.2021.77",
+   "page": "209-220",
+   "is-referenced-by-count": 3,
+   "title": [
+    "Simultaneous drainage events from supraglacial lakes on the southern Inylchek Glacier, Central Asia"
+   ],
+   "volume": "68",
+   "author": [
+    {
+     "given": "Naoki",
+     "family": "Sakurai",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Chiyuki",
+     "family": "Narama",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Mirlan",
+     "family": "Daiyrov",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Muhammed",
+     "family": "Esenamanov",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Zarylbek",
+     "family": "Usekov",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Hiroshi",
+     "family": "Inoue",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Journal of Glaciology"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2021,
+      7,
+      26
+     ]
+    ]
+   }
+  },
+  {
+   "DOI": "10.1016/j.tsep.2023.101717",
+   "page": "101717",
+   "is-referenced-by-count": 9,
+   "title": [
+    "Improving performance prediction of evacuated tube solar collector through convolutional neural network method"
+   ],
+   "volume": "39",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0003-4698-5071",
+     "authenticated-orcid": false,
+     "given": "Rao",
+     "family": "Kuang",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-2703-4935",
+     "authenticated-orcid": false,
+     "given": "Bin",
+     "family": "Du",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Peter D.",
+     "family": "Lund",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Jun",
+     "family": "Wang",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Thermal Science and Engineering Progress"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      3
+     ]
+    ]
+   },
+   "article-number": "101717"
+  },
+  {
+   "DOI": "10.20508/ijrer.v13i4.13887.g8830",
+   "title": [
+    "Performance Comparison of the Standard Photovoltaic Thermal Collector (PVT) and Photovoltaic Thermal Collector with Phase Change Materials (PVT-PCM)"
+   ],
+   "container-title": [
+    "International Journal of Renewable Energy Research"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2023
+     ]
+    ]
+   },
+   "is-referenced-by-count": 2,
+   "issue": "V13i4"
+  },
+  {
+   "issue": "15",
+   "abstract": "<jats:p>According to Victor Ernest Shelford’s ‘Law of Tolerance,’ organisms within ecosystems thrive optimally when environmental conditions are favorable. Applying this principle to ecosystems and agro-ecosystems facing water scarcity or environmental challenges can significantly enhance their productivity. In these ecosystems, phytocenosis adjusts its conditions by utilizing water with varying salinity levels. Moreover, establishing optimal drinking water conditions for human populations within an ecosystem can help mitigate future negative succession processes. The purpose of this study is to evaluate the quality of two distinct water sources in the Amudarya district of the Republic of Karakalpakstan, Uzbekistan: collector-drainage water and groundwater at depths of 10 to 25 m. This research is highly relevant in the context of climate change, as improper management of water salinity, particularly in collector-drainage water, may exacerbate soil salinization and degrade drinking water quality. The primary methodology of this study is as follows: The Food and Agriculture Organization of the United Nations (FAO) standard for collector-drainage water is applied, and the water quality index is assessed using the CCME WQI model. The Canadian Council of Ministers of the Environment (CCME) model is adapted to assess groundwater quality using Uzbekistan’s national drinking water quality standards. The results of two years of collected data, i.e., 2021 and 2023, show that the water quality index of collector-drainage water indicates that it has limited potential for use as secondary water for the irrigation of sensitive crops and has been classified as ‘Poor’. As a result, salinity increased by 8.33% by 2023. In contrast, groundwater quality was rated as ‘Fair’ in 2021, showing a slight deterioration by 2023. Moreover, a comparative analysis of CCME WQI values for collector-drainage and groundwater in the region, in conjunction with findings from Ethiopia, India, Iraq, and Turkey, indicates a consistent decline in water quality, primarily due to agriculture and various other anthropogenic pollution sources, underscoring the critical need for sustainable water resource management. This study highlights the need to use organic fertilizers in agriculture to protect drinking water quality, improve crop yields, and promote soil health, while reducing reliance on chemical inputs. Furthermore, adopting WQI models under changing climatic conditions can improve agricultural productivity, enhance groundwater quality, and provide better environmental monitoring systems.</jats:p>",
+   "DOI": "10.3390/w17152191",
+   "page": "2191",
+   "is-referenced-by-count": 8,
+   "title": [
+    "An Assessment of Collector-Drainage Water and Groundwater—An Application of CCME WQI Model"
+   ],
+   "volume": "17",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0009-0007-3394-3661",
+     "authenticated-orcid": false,
+     "given": "Nilufar",
+     "family": "Rajabova",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Department of Ecology, Faculty of Biology and Ecology, National University of Uzbekistan Named After Mirzo Ulugbek, Tashkent 100174, Uzbekistan"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Vafabay",
+     "family": "Sherimbetov",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Ecology, Faculty of Biology and Ecology, National University of Uzbekistan Named After Mirzo Ulugbek, Tashkent 100174, Uzbekistan"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Rehan",
+     "family": "Sadiq",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "School of Engineering, Okanagan Campus, University of British Columbia, Kelowna, BC V6T 1Z2, Canada"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-7999-4172",
+     "authenticated-orcid": false,
+     "given": "Alaa",
+     "family": "Farouk Aboukila",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "National Water Research Center, Drainage Research Institute, Delta Barrage, Al Qanater El Khayreya 13621, Egypt"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Water"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      7,
+      23
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "3",
+   "DOI": "10.1057/s41294-021-00156-1",
+   "page": "520-539",
+   "is-referenced-by-count": 13,
+   "title": [
+    "Economic Growth and Productivity Performance in Central Asia"
+   ],
+   "volume": "64",
+   "author": [
+    {
+     "given": "Mirzobobo",
+     "family": "Yormirzoev",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Comparative Economic Studies"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2021,
+      9,
+      10
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "7-8",
+   "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>For sedimentary archives to be used as a record of hinterland evolution, the factors affecting the archive must be known. In addition to tectonics, a number of factors, such as changes in climate and paleodrainage, as well as the degree of diagenesis, influence basin sediments. The Indus River delta-fan system of South-Central Asia records a history of Himalayan evolution, and both the onshore and offshore sedimentary repositories have been studied extensively to research orogenesis. However, a number of unknowns remain regarding this system. This paper seeks to elucidate the paleodrainage of the Indus River, in particular when it took on its modern drainage configuration with respect to conjoinment of the main Himalayan (Punjabi) tributary system with the Indus trunk river. We leverage the fact that the Punjabi tributary system has a significantly different provenance signature than the main trunk Indus River, draining mainly the Indian plate. Therefore, after the Punjabi tributary system joined the Indus River, the proportion of Indian plate material in the repositories downstream of the confluence should have been higher than in the upstream repository. We compared bulk Sr-Nd data and detrital zircon U-Pb data from the Cenozoic upstream peripheral foreland basin and downstream Indus delta and Indus Fan repositories. We determined that throughout Neogene times, repositories below the confluence had a higher proportion of material from the Indian plate than those above the confluence. Therefore, we conclude that the Indus River took on its current configuration, with the Punjabi tributary system draining into the Indus trunk river in the Paleogene, early in the history of the orogen. The exact time when the tributary system joined the Indus should correlate with a shift to more Indian plate input in the downstream repositories only. While the upstream repository records no change in Indian plate input from Eocene to Neogene times, a shift to increased material from the Indian plate occurs at the Eocene–Oligocene boundary in the delta, but sometime between 50 Ma and 40 Ma in the fan. Though further work is required to understand the discrepancy between the two downstream repositories, we can conclude that the tributary system joined the Indus trunk river at or before the start of the Oligocene.</jats:p>",
+   "DOI": "10.1130/b36596.1",
+   "page": "2815-2830",
+   "is-referenced-by-count": 11,
+   "title": [
+    "When did the Indus River of South-Central Asia take on its “modern” drainage configuration?"
+   ],
+   "volume": "136",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0003-1286-6509",
+     "authenticated-orcid": false,
+     "given": "Yani",
+     "family": "Najman",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "1Lancaster Environment Centre, Lancaster University, Lancaster LA1 4YQ, UK"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Guangsheng",
+     "family": "Zhuang",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "1Lancaster Environment Centre, Lancaster University, Lancaster LA1 4YQ, UK"
+      },
+      {
+       "name": "2Department of Geology and Geophysics, Louisiana State University, Baton Rouge, Louisiana 70803, USA"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Andrew",
+     "family": "Carter",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "3Department of Earth and Planetary Sciences, Birkbeck College, University of London, London WC1E 7HX, UK"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Lorenzo",
+     "family": "Gemignani",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "4Faculty of Earth and Life Science, Vrije Universiteit, 1081 HV Amsterdam, Netherlands"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Ian",
+     "family": "Millar",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "5Natural Environment Research Council, Isotope Geosciences Lab, British Geological Survey, Keyworth, Nottingham NG12 5GG, UK"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Jan",
+     "family": "Wijbrans",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "4Faculty of Earth and Life Science, Vrije Universiteit, 1081 HV Amsterdam, Netherlands"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Geological Society of America Bulletin"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      11,
+      30
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "7",
+   "abstract": "<jats:p>Mazkur maqolada Markaziy Osiyo mintaqasidagi logistik tarmoqlar holati va ularning rivojlanish istiqbollari tahlil qilingan. Mintaqaning geostrategik ahamiyati, transport infratuzilmasining o‘ziga xos xususiyatlari hamda mamlakatlar o‘rtasidagi integratsion jarayonlar yoritib berilgan. Qozog‘iston, O‘zbekiston, Qirg‘iziston, Tojikiston va Turkmanistonning avtomobil, temiryo‘l, havo va daryo transporti imkoniyatlari, so‘nggi yillarda amalga oshirilgan yirik investitsiya loyihalari hamda xalqaro hamkorlik dasturlari misolida logistik salohiyati ko‘rsatib o‘tilgan. Shuningdek, maqolada soha rivojiga to‘sqinlik qilayotgan asosiy muammolar – transport infratuzilmasining eskirishi, chegaradagi byurokratik to‘siqlar, tranzit salohiyatidan to‘liq foydalanilmayotgani kabi jihatlar ham ko‘rib chiqilgan. Tahlillar asosida logistik tizimni modernizatsiya qilish, mintaqaviy va xalqaro transport yo‘laklarini kengaytirish, xususiy hamda xorijiy investitsiyalarni jalb etish bo‘yicha taklif va tavsiyalar ishlab chiqilgan. Maqola Markaziy Osiyoda transport-logistika tizimining samarali ishlashini ta’minlash va mintaqani xalqaro savdo jarayonlarida muhim tranzit markaz sifatida shakllantirishga qaratilgan ilmiy-amaliy ahamiyatga ega.</jats:p>",
+   "DOI": "10.47390/ydif-y2025v1i7/n15",
+   "page": "74-80",
+   "is-referenced-by-count": 0,
+   "title": [
+    "MARKAZIY OSIYODAGI LOGISTIK TARMOQ",
+    "LOGISTICS NETWORK IN CENTRAL ASIA"
+   ],
+   "volume": "1",
+   "author": [
+    {
+     "given": "Shohruxbek",
+     "family": "Toshpulatov",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "YANGI DAVR ILM-FANI: INSON UCHUN INNOVATSION G‘OYA VA YECHIMLAR"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      9,
+      2
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "3",
+   "DOI": "10.1080/13547860.2024.2325252",
+   "page": "913-934",
+   "is-referenced-by-count": 3,
+   "title": [
+    "The belt and road initiative: a spatial empirical analysis of economic performance in Central Asia and the South Caucasus"
+   ],
+   "volume": "30",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0001-9995-6704",
+     "authenticated-orcid": false,
+     "given": "Alter",
+     "family": "Kahraman",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Political Science and International Relations Department, Karamanoğlu Mehmetbey University",
+       "place": [
+        "Karaman, Turkey"
+       ]
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-9082-0894",
+     "authenticated-orcid": false,
+     "given": "Mehmet",
+     "family": "Özcan",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Economics, Karamanoğlu Mehmetbey University",
+       "place": [
+        "Karaman, Turkey"
+       ]
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Journal of the Asia Pacific Economy"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2024,
+      3,
+      7
+     ]
+    ]
+   }
+  },
+  {
+   "DOI": "10.54981/pdca/vol1_iss1/a1",
+   "title": [
+    "Conservation-oriented restoration and its application to Central Asia"
+   ],
+   "container-title": [
+    "Plant Diversity of Central Asia"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2022
+     ]
+    ]
+   },
+   "author": [
+    {
+     "given": "Sergei",
+     "family": "Volis",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "is-referenced-by-count": 0,
+   "volume": "1",
+   "issue": "1"
+  },
+  {
+   "DOI": "10.31249/postcolonialism/2023.03.03",
+   "title": [
+    "FROM THE TURKESTAN GOVERNOR GENERAL TO THE SOVIET REPUBLICS OF CENTRAL ASIA: HOW AND WHEN MODERN BORDERS BEGAN TO FORM IN CENTRAL ASIA (ON THE 100TH ANNIVERSARY OF THE NATIONAL DEMARCATION IN CENTRAL ASIA)"
+   ],
+   "container-title": [
+    "Postcolonialism"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2024
+     ]
+    ]
+   },
+   "is-referenced-by-count": 0,
+   "issue": "3"
+  },
+  {
+   "issue": "1",
+   "abstract": "<jats:p>A numerical study was achieved on a new design of storage solar collector by using neural network (NN). The storage collector is a triangular face and a right triangular pyramid for the volumetric shape. It is obtained by cutting a cube from one upper corner at 45o, down to the opposite hypotenuse of the base of the cube. The numerical study was carried out using the computational fluid dynamics code (ANSYS-Fluent) software with natural convection phenomenon in the pyramid enclosure. The results show that, the temperature and velocity distributions throughout the operating period were obtained. The influence of introducing an internal partition inside the triangular storage collector was investigated. Also the optimum geometry and location for this partition were obtained. The enhancement was best at y= 0.25 m whereas the height of triangular collector was 0.5 m. The hourly system performance was evaluated for all test conditions. The performance of the NN to train a model for this work was 0.000207, while the error of the calculation was 1*10^-2 as average.</jats:p>",
+   "DOI": "10.56286/ntujre.v1i1.6",
+   "page": "43-49",
+   "is-referenced-by-count": 1,
+   "title": [
+    "Neural Network Based Assessment the performance of the triangular in-tegrated collector"
+   ],
+   "volume": "1",
+   "author": [
+    {
+     "given": "Raid",
+     "family": "Daoud",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Zaid H.",
+     "family": "Ali",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Zaki M.",
+     "family": "Abdullah",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Ahmed",
+     "family": "Hasan Ahmed",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "NTU Journal of Renewable Energy"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2021,
+      9,
+      14
+     ]
+    ]
+   }
+  }
+ ]
+}

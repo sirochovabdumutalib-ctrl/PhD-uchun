@@ -1,0 +1,2847 @@
+{
+ "query": "GIS land reclamation assessment irrigated lands Uzbekistan",
+ "source": "Crossref",
+ "date": "2026-11-18",
+ "filter": "2020–2026, journal-article",
+ "n": 40,
+ "items": [
+  {
+   "abstract": "<jats:p>On the territory of Uzbekistan, almost half of the area of irrigated land is subject to salinization, for this reason up to 30 % or more of the crop yield is lost. With a shortage of water resources, which will deepen due to climate change, water-saving technologies must be used not only for irrigation but also for the reclamation of saline soils. The authors have developed a new approach to the regulation of the salt regime and soil reclamation. The conducted experiments have established that the use of the Biosolvent preparation almost doubles the efficiency of washing saline lands, due to the increased leaching of salts. To reduce salinity by 0.1% of the total amount of salts, the water-saving unit costs are 610 m3/ha. Calculation on the basis of field experimental data from 2016 (of established indicators of salt removal when using Biosolvent), shows a reduction of soil washing norm by 3000 m3/ha or by 38 %, at the transition of soils from “strong” degree of salinization to “non-saline”. The study 2020 proved that the application of Biosolvent preparation for the melioration of highly saline gypsum soils, combined with their preliminary deep loosening, allows reducing soil salinity by 5 dS/m, due only to atmospheric precipitation.</jats:p>",
+   "DOI": "10.1051/e3sconf/202338602003",
+   "page": "02003",
+   "is-referenced-by-count": 1,
+   "title": [
+    "Water conservation in the reclamation of saline irrigated lands of Uzbekistan"
+   ],
+   "volume": "386",
+   "author": [
+    {
+     "given": "Yu.I.",
+     "family": "Shirokova",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "F.F.",
+     "family": "Sadiev",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "G.Q.",
+     "family": "Paluashova",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "E3S Web of Conferences"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2023
+     ]
+    ]
+   }
+  },
+  {
+   "DOI": "10.51886/1999-740x_2021_3_17",
+   "title": [
+    "INTENSIVE METHODS OF IMPROVING LAND RECLAMATION CONDITION OF IRRIGATED LANDS IN TURKESTAN REGION"
+   ],
+   "container-title": [
+    "Pochvovedenie i agrokhimiya"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2021
+     ]
+    ]
+   },
+   "author": [
+    {
+     "given": "S.P.",
+     "family": "Makhmadzhanov",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Kazakh Scientific Research Institute of Cotton Growing"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "A.M.",
+     "family": "Tagaev",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Kazakh Scientific Research Institute of Cotton Growing"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "is-referenced-by-count": 0,
+   "issue": "3",
+   "page": "17-23"
+  },
+  {
+   "issue": "2",
+   "DOI": "10.26739/2181-9904-2020-1-9",
+   "page": "58-61",
+   "is-referenced-by-count": 0,
+   "title": [
+    "THE IMPORTANCE OF PHYTO-RECLAMATION MEASURES IN IMPROVING THE RECLAMATION OF IRRIGATED LANDS AND SOIL FERTILITY"
+   ],
+   "volume": "1",
+   "author": [
+    {
+     "name": "TIIAME Bukhara branch of the Republic of Uzbekistan",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "H.",
+     "family": "Sanoev",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Z.",
+     "family": "Kodirov",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "JOURNAL OF AGRO PROCESSING"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2020,
+      1,
+      30
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "01",
+   "abstract": "<jats:p>This article is devoted reclamation of virgin land and increase of cotton monopoly in Karshi steppe in the period of Soviet government by the helping archive materials, historical literatures and media materials as well.</jats:p>",
+   "DOI": "10.37547/social-fsshj-02-01-05",
+   "page": "35-42",
+   "is-referenced-by-count": 2,
+   "title": [
+    "LAND RECLAMATION AND IRRIGATION MEASURES OF VIRGIN LANDS IN KARSHI STEPPE"
+   ],
+   "volume": "02",
+   "author": [
+    {
+     "name": "Doctor Of Sciences In History (Dsc), Professor At The Department “Theory Of Civil Society” Of Andizhan State University, Andizhan Region, Republic Of Uzbekistan",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Oybek Kamilovich",
+     "family": "Komilov",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Frontline Social Sciences and History Journal"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2022,
+      1,
+      1
+     ]
+    ]
+   }
+  },
+  {
+   "abstract": "<jats:p>Soil salinization represents a critical environmental challenge in arid and semi-arid irrigated agricultural regions, particularly in Central Asia where intensive irrigation practices have led to widespread land degradation. This study investigates the spatial-temporal dynamics of soil salinity in the irrigated lands of Syrdarya Province, Uzbekistan, utilizing an integrated approach combining Geographic Information Systems (GIS), remote sensing technologies, and traditional field measurements. Long-term monitoring data (2004-2024) from 1,500 observation wells and 3,800 soil sampling points were analyzed using Inverse Distance Weighting (IDW) interpolation methods in ArcGIS 10.6. The research examined the relationships between groundwater depth (GWD), groundwater mineralization (GWM), and soil salinity (SS) under changing climatic conditions. Results demonstrated that IDW-based GIS mapping achieved 91.4% accuracy for GWD, 84.1% for GWM, and 76.7% for SS assessment. Statistical analysis revealed strong correlations between shallow groundwater levels (1.0-1.5 m) and increased soil salinity, with GWM exceeding 5-10 g/L significantly contributing to soil degradation. Climate factors, particularly summer air temperature and winter precipitation, showed moderate to strong correlations with salinity distribution patterns. The study identified that approximately 62% of irrigated lands exhibited varying degrees of salinization, with moderately saline soils occupying 32.8% and weakly saline soils 54.9% of total irrigated areas. MODIS satellite thermography and NDVI indices were validated against ground-truth data, demonstrating 70.6% and 81.1% accuracy respectively for salinity assessment. The integration of GIS technologies reduced mapping time by 92.3% and costs by approximately 3,490,140 UZS compared to conventional methods. These findings provide crucial information for sustainable land management strategies and salinity mitigation measures in Central Asian irrigation systems.</jats:p>",
+   "DOI": "10.1051/e3sconf/202671902002",
+   "page": "02002",
+   "is-referenced-by-count": 0,
+   "title": [
+    "Spatial-temporal assessment of soil salinity dynamics in irrigated lands using GIS and remote sensing technologies: A case study of Syrdarya Province, Uzbekistan"
+   ],
+   "volume": "719",
+   "author": [
+    {
+     "given": "Shakhnoza",
+     "family": "Karshiboyeva",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Samarkand State University",
+       "place": [
+        "Uzbekistan"
+       ]
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Yunus",
+     "family": "Karimov",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Samarkand State Pedagogical Institute",
+       "place": [
+        "Uzbekistan"
+       ]
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Davronkhuja",
+     "family": "Jurakhujayev",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Samarkand State Pedagogical Institute",
+       "place": [
+        "Uzbekistan"
+       ]
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Sukhrob",
+     "family": "Khujakulov",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Samarkand State Pedagogical Institute",
+       "place": [
+        "Uzbekistan"
+       ]
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Dilnoza",
+     "family": "Navotova",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Shakhrisabz State Pedagogical Institute",
+       "place": [
+        "Uzbekistan"
+       ]
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Istat",
+     "family": "Mirzoyeva",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Bukhrara State University",
+       "place": [
+        "Uzbekistan"
+       ]
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "E3S Web of Conferences"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026
+     ]
+    ]
+   }
+  },
+  {
+   "abstract": "<jats:p>The importance of land distribution across all sectors of the national economy cannot be overstated, particularly in agriculture. Agricultural land plays a critical role in meeting the population's food needs and satisfying the demand for raw materials in the industry. The fertility of the land is the main productive property in agriculture. Continuous improvements in land productivity, combined with the adoption of innovative technologies, are key factors in modern agriculture development. However, natural and anthropogenic factors are negatively impacting agricultural land productivity, leading to a decrease in productivity. To prevent this, urgent measures must be taken to improve the reclamation conditions of agricultural lands, develop regions following climate change, and effectively organize cadastral reclamation activities. Additionally, monitoring the reclamation condition of agricultural lands is crucial in times of scarcity. This research focuses on the assessment of the melioration condition of agricultural land in the Pakhtakor district of the Republic of Uzbekistan, using geoinformation technologies and remote sensing data. These technologies enable the low-cost, timely, and high-accuracy measurement of changes in soil conditions over large land areas. By continuously monitoring the earth's surface, we can identify existing problems and develop timely solutions to address them. In research, enhancing agricultural land productivity is a critical task for modern agriculture development. Innovative technologies and effective monitoring strategies, such as geoinformation and remote sensing techniques, are essential to achieving this goal. Through this research, we hope to contribute to the continued improvement of land management practices and sustainable agriculture in Uzbekistan.</jats:p>",
+   "DOI": "10.1051/e3sconf/202340102002",
+   "page": "02002",
+   "is-referenced-by-count": 13,
+   "title": [
+    "Assessment of land reclamation status using remote sensing and GIS in territory of Pakhtakor district of Uzbekistan"
+   ],
+   "volume": "401",
+   "author": [
+    {
+     "given": "Uzbekkhon",
+     "family": "Mukhtorov",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Samandar",
+     "family": "Gapparov",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Ziyadulla",
+     "family": "Djumaev",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Abdukholik",
+     "family": "Utaev",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Sardor",
+     "family": "Olloniyozov",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Erkin",
+     "family": "Karimov",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "E3S Web of Conferences"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2023
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "11",
+   "abstract": "<jats:p>Article is devoted to the study of the role of land reclamation and water management works to increase the productivity of agricultural crops cultivated on the irrigated lands of the Khizi, Siazan, and Shabran districts located in the area of the Samur-Absheron canal reconstruction project. In the region, the total area of land under agricultural crops is 57501.0 hectares. Of these, 29,700.8 ha, or 51.7% are non-saline, and 27,800.2 ha are saline to varying degrees, and 32651.8 ha or 56.8% is salines to one degree or another. Among the cultivated agricultural crops, there is a significant proportion of grain and forage crops. In the conclusion of the study of the irrigation system in the region, it is concluded that comprehensive work is needed to establish the existing and further construction of irrigation canals.</jats:p>",
+   "DOI": "10.33619/2414-2948/60/18",
+   "page": "159-169",
+   "is-referenced-by-count": 0,
+   "title": [
+    "Assessment of the Role of Reclamation Activities on Newly Irrigated Lands"
+   ],
+   "volume": "6",
+   "author": [
+    {
+     "given": "N.",
+     "family": "Pashayev",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Azerbaijan NGO of Hydraulic Engineering and Land Reclamation"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Bulletin of Science and Practice"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2020,
+      11,
+      15
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "1",
+   "abstract": "<jats:p>Purpose: to perform a review of an under-investigated bluegrass crop – tall fescue (Festuca arundinacea Schreb.), which is not widespread in forage production, but has some advantages over other bluegrass grasses. Discussion. Tall fescue is characterized by high seed and forage yields, a long-time growing season, early regrowth in spring, an ability to vegetate until late autumn, and an active regrow capacity. Fescue agrocenoses are responsive to irrigation and a high background of mineral nutrition. The ability to grow on saline and alkalini soils is also important. It is widely used for slope and ravines stabilization. Providing optimal combinations of plant life factors creates conditions for good growth, development and formation of high productivity for a long time as well as allows the crop to persist and prevail in multi-species agrocenoses in a wide variety of soil and climatic conditions – from forest and forest-steppe to steppe and semi-desert regions. Tall fescue grows well in damp places under natural conditions. This moisture-loving plant tolerates moisture-saturated, heavy loamy soils well. Regulation of the water regime of fescue crops ensures a more complete use of the biological potential of the crop, which is expressed in the receipt of two additional mowings, compared to natural moisture conditions. Tall fescue is used mainly in the form of hay, silage and haylage.  Conclusion. Cultivation of tall fescue against the background of mineral fertilizer application and irrigation ensures an yield increase on average up to 15 t/ha of dry matter and up to 2.5 t/ha of crude protein collection. The wide distribution of this valuable crop in forage production in arid zones is hampered by the lack of scientifically based rational methods for creating highly productive grass stands and elements of cultivation technology.</jats:p>",
+   "DOI": "10.31774/2712-9357-2024-14-1-167-187",
+   "page": "167-187",
+   "is-referenced-by-count": 0,
+   "title": [
+    "On prospects for cultivating tall fescue (Festuca arundinacea Schreb.) on irrigated lands of the Lower Volga region"
+   ],
+   "volume": "14",
+   "author": [
+    {
+     "name": "All-Russian Research Institute of Irrigated Agriculture – branch of the Federal Scientific Center for Hydraulic Engineering and Land Reclamation named after A. N. Kostyakov, Volgograd, Russian Federation",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Irina P.",
+     "family": "Ivina",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Natalya I.",
+     "family": "Burtseva",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "name": "All-Russian Research Institute of Irrigated Agriculture – branch of the Federal Scientific Center for Hydraulic Engineering and Land Reclamation named after A. N. Kostyakov, Volgograd, Russian Federation",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Aleksey A.",
+     "family": "Novikov",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "name": "All-Russian Research Institute of Irrigated Agriculture – branch of the Federal Scientific Center for Hydraulic Engineering and Land Reclamation named after A. N. Kostyakov, Volgograd, Russian Federation",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Land Reclamation and Hydraulic Engineering"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2024
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "4",
+   "abstract": "<jats:p>Purpose: to develop a concept for generating an algorithm for ensuring environmental safety based on a cybernetic approach when involving previously irrigated lands in circulation. Materials and methods. The research methodology is based on general scientific cognition methods – analysis, synthesis, abstraction, modeling. The working hypothesis was the assumption of the effectiveness of managing the environmental sustainability of irrigated lands, including newly involved ones, by creating an abstract cybernetic model. Results. The re-introduction previously irrigated lands that have undergone anthropogenic environmental “pressure” into circulation, requires a careful assessment of the resource potential, the technologies used, the competencies of operating personnel and many other dynamic indicators that can negatively affect the ecological capacity of the irrigated landscape. With a large number of interdependent connections of various physical nature inherent in the reclaimed territory, the optimal method for constructing an algorithm for developing control environmental decisions is cybernetic modeling, the methods of which (synthesis, abstraction) make it possible to create the irrigated land quality control system. Conclusions. The complexity of the hydro-reclamation impact on the agricultural landscape elements and its reaction to it can be represented abstractly, through the creation of an expanded cybernetic environmental-reclamation unit, taking into account the regulated resources that can be used, unregulated environmental conditions, the quality of the environment obtained after the reclamation impact, regulated through restrictive forced connections, using the developed path (algorithm). With a high degree of abstraction, it allows creating an algorithm for the formation of control actions with their adaptation to the specific conditions of the irrigated agricultural landscape.</jats:p>",
+   "DOI": "10.31774/2712-9357-2023-13-4-79-96",
+   "page": "79-96",
+   "is-referenced-by-count": 2,
+   "title": [
+    "General theoretical provisions for ensuring the environmental sustainability of agricultural landscapes when involved previously irrigated lands into circulation"
+   ],
+   "volume": "13",
+   "author": [
+    {
+     "name": "All-Russian Research Institute of Irrigated Agriculture – branch of the Federal Scientific Center of Hydraulic Engineering and Land Reclamation named after A. N. Kostyakov, Volgograd, Russian Federation",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Sergey Ya.",
+     "family": "Semenenko",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Land Reclamation and Hydraulic Engineering"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2023
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "4",
+   "abstract": "<jats:p>Purpose: to develop techniques for increasing the irrigation water absorption rate using new designs of combined implements for tillage and increasing reclamation status of irrigated lands with the function of “precise” subsoil application of ameliorants. \nMaterials and methods. Practice-oriented principles of reclamation science, including field experiments, were used. The methodological basis of the research were intuitive-associative methods of theoretical and technical design, based on the “positive heuristics” phenomenon. \nResults and discussion. Innovative designs of soil tilling and reclamation implements for the simultaneous soil tillage and subsurface application of ameliorants are proposed. These implements allow for the soil density reduction in the 0–0.30 m layer by 11.7 % by the end of the irrigation period, compared to conventional autumn plowing, ensuring a high content of agronomically valuable aggregates after tillage at a level of 55.4 %, and increasing the irrigation water absorption rate by 23.0–23.3 %, which leads to the nutrient preservation in the arable soil layer due to the absence of their contact with surface liquid runoff. \nConclusions. Providing indicators of precision irrigated agriculture cannot be achieved without the use of innovative tilling implements that enable the combination of technological operations. Under the compacted, long-irrigated light chestnut soils of the Lower Volga region, the target indicators can be achieved, including increasing the irrigation water absorption rate and deep subsurface incorporation of organic and mineral fertilizers.</jats:p>",
+   "DOI": "10.31774/2712-9357-2025-15-4-160-176",
+   "page": "160-176",
+   "is-referenced-by-count": 0,
+   "title": [
+    "JUSTIFICATION AND DESIGN OF LAND RECLAMATION TOOLS FOR PRECISION IRRIGATED AGRICULTURE"
+   ],
+   "volume": "15",
+   "author": [
+    {
+     "name": "All-Russian Research Institute of Irrigated Agriculture – branch of the Federal Scientific Center of Hydraulic Engineering and Land Reclamation named after A. N. Kostyakov, Volgograd, Russian Federation",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Sergey Ya.",
+     "family": "Semenenko",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Land Reclamation and Hydraulic Engineering"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2025
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "5",
+   "abstract": "<jats:p>This article is devoted to the current issues of increasing soil fertility. All over the world, measures are being developed to effectively use green manures, increase plant biomass, and increase the demand for soil fertility. Green manures are of great importance in enriching the soil with organic matter and thereby improving the physical properties of the soil. These crops improve the physical properties of the soil, increase soil porosity, and as a result, reduce the bulk density of the soil.</jats:p>",
+   "DOI": "10.37547/ajast/volume05issue05-09",
+   "page": "39-42",
+   "is-referenced-by-count": 0,
+   "title": [
+    "Effect of Siderate Crops on Soil Volume and Porosity"
+   ],
+   "volume": "5",
+   "author": [
+    {
+     "name": "Gulistan State University, Associate Professor of the Department of Agro-Soil Science and Land Reclamation, Tashkent, Uzbekistan",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Bakhrom",
+     "family": "Kholboev",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Norboy",
+     "family": "Japakov",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "name": "Gulistan State University, Associate Professor of the Department of Agro-Soil Science and Land Reclamation, Uzbekistan",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Kamoliddin",
+     "family": "Fayziev",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "name": "Gulistan State University, Associate Professor of the Department of Agro-Soil Science and Land Reclamation, Uzbekistan",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Nasiba",
+     "family": "Esanbaeva",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "name": "Gulistan State University, Associate Professor of the Department of Agro-Soil Science and Land Reclamation, Uzbekistan",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Muslim",
+     "family": "Alibekov",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "name": "Gulistan State University, Associate Professor of the Department of Agro-Soil Science and Land Reclamation, Uzbekistan",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "American Journal of Applied Science and Technology"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      5,
+      1
+     ]
+    ]
+   }
+  },
+  {
+   "DOI": "10.31774/2712-9357-2023-13-1-39-57",
+   "title": [
+    "INTEGRAL ASSESSMENT OF THE GEO-IRRIGATION SITUATION AND LEVEL OF USE OF ALTAI IRRIGATED LANDS"
+   ],
+   "container-title": [
+    "Land Reclamation and Hydraulic Engineering"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2023
+     ]
+    ]
+   },
+   "author": [
+    {
+     "name": "Institute for Water and Environmental Problems of the Siberian Branch of the Russian Academy of Sciences",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "I. V.",
+     "family": "Orlova",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "abstract": "<jats:p>Purpose: to reveal the patterns of spatial differentiation of irrigation land use with the help of an integral assessment of geo-irrigation situation and the level of use of the Altai irrigated lands.  Materials and methods. The study was conducted by aggregation of the rating of key indicators of agricultural land use with the determination of the Irrigation Land Use Index (ILUI) based on a system approach. The database for calculations was formed on the basis of information from federal and regional institutions of the Russian Federation, the portal of the All-Russian Scientific Research Institute for Irrigation and Farming Water Supply Systems “Rainbow”, as well as administrations and enterprises of the Altai municipal districts.  Results. Four types of irrigation land use with ILUI index from 0.640 to 17.373 have been identified, varying in the level of irrigated land use and the degree of favorable combination of geo-irrigation parameters. A comparative analysis of the identified types structure with the specifics of the functioning of the regional system of agricultural land use for 31 districts of the Altai Territory and the Republic of Altai showed that the most favorable geo-irrigation situation and the highest level of irrigated land use (ILUI over 5.600) are typical for suburban areas with potato and vegetable specialization of land use and areas in which high values of livestock are observed in combination with a high moisture deficit during the growing season, and agricultural land use is characterized by a lack of natural fodder land and a high share of fodder crops in the crop acres.  Conclusions: aggregation of the ILUI evaluation index with the rating of agricultural land use indicators is an effective tool of strategic decision support for implementation of the regional policy of sustainable intensification of irrigated lands.</jats:p>",
+   "is-referenced-by-count": 0,
+   "issue": "1"
+  },
+  {
+   "issue": "4",
+   "abstract": "<jats:p>Purpose: to analyze the development of horticulture in Crimea under conditions of extreme water scarcity. \nMaterials and methods. The study was carried out on the basis of system and information-analytical approaches using methods of qualitative and quantitative statistical data analysis. \nResults. At present, on average, Russian residents consume no more than 45 % of the recommended consumption rate of fresh fruits and berries, and in many regions even less. It is shown that in Crimea the share of seeded fruit production on irrigated lands increased from 35–55 % in 2014–2015 to 85–95 % in the following years, and the share of drupe fruit production – from 20–30 to 55–75 %. It is revealed that fruit yield on irrigated lands under production conditions is 2–4 times higher than on non-irrigated lands on average for a multi-year period. The dependence of fruit yield on average for 2020–2022 on the farms in Crimea which apply irrigation, on the most important, showing that the largest influence on fruit yield of seed crops is exerted by the size of area of fruit-bearing plantations, number of irrigations per 1 ha of orchard and share of area with drip irrigation method in the total irrigated area, were obtained. The maximum influence on fruit yield of drupe fruit crops is exerted by the size of area of fruit-bearing plantations and the share of area with drip irrigation method in the total irrigated area. \nConclusions. Land irrigation is one of the most important agrotechnical methods for further development of intensive horticulture. The deficit of water resources was not an obstacle for the growth of seed crop production on irrigated lands of Crimea by 4 times, and drupe fruit production by 2.1 times for the period 2014–2022.</jats:p>",
+   "DOI": "10.31774/2712-9357-2024-14-4-15-29",
+   "page": "15-29",
+   "is-referenced-by-count": 0,
+   "title": [
+    "DEVELOPING HORTICULTURE ON IRRIGATED LANDS OF CRIMEA"
+   ],
+   "volume": "14",
+   "author": [
+    {
+     "name": "Institute of Water Problems of the Russian Academy of Sciences, Moscow, Russian Federation",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Alexander P.",
+     "family": "Demin",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Land Reclamation and Hydraulic Engineering"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2024
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "1",
+   "abstract": "<jats:p>Purpose: to develop a systematic approach to solving the problem of soil fertility based on a model for managing the flows of organic carbon and nitrogen on reclaimed lands.  Materials and methods: the working hypothesis of the study is the assumption of the possibility of creating a system of tools for regulating the flows of organic carbon and nitrogen, working within the framework of the principle of nature-likeness and ensuring comprehensive regulation of soil formation factors and increasing the agroecosystem productivity.  Results. The conceptual model for managing organic carbon and nitrogen flows on reclaimed lands was developed. The model includes a quantitative calculation of the organic carbon and nitrogen cycles in agroecosystems, the development of scenario forecasts, the development of a control decision and assessment of its execution consequences, the determination of the basic controller’s parameters, the determination of the composition and options for using the controller’s tools, the organization of process monitoring and the assessment of scenario forecasts for actual data. The controller structure of carbon and nitrogen cycle processes for agroecosystems is detailed by the model. The controller includes tools for influencing small nitrogen and carbon cycles, possible ways to implement the tool in a practical application and technologies through which the impact is carried out, with parameters and restrictions specified for a particular case. The basic controller tools are: the plant physiological activity regulation, the phytomass accumulation regulation, the phytomass turnover regulation, the circulation of animal waste regulation, the C:N ratio regulation, the regulation of soil microbiota activity. Conclusions: a conceptual model for managing the flows of organic carbon and nitrogen including a system of tools for the integrated regulation of soil formation factors and increasing the productivity of agroecosystems has been developed.</jats:p>",
+   "DOI": "10.31774/2712-9357-2024-14-1-51-70",
+   "page": "51-70",
+   "is-referenced-by-count": 0,
+   "title": [
+    "The generalized model of organic carbon and nitrogen flow management on reclaimed lands"
+   ],
+   "volume": "14",
+   "author": [
+    {
+     "name": "All-Russian Research Institute of Irrigated Agriculture – branch of the Federal Scientific Center of Hydraulic Engineering and Land Reclamation named after A. N. Kostyakov, Volgograd, Russian Federation",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Mikhail N.",
+     "family": "Lytov",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Land Reclamation and Hydraulic Engineering"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2024
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "4",
+   "abstract": "<jats:p>Purpose: to develop scientific approaches and propose a method of compensating for the recurrent frost intensity during the agricultural crop cultivation on irrigated lands. \nMaterials and methods. The working research hypothesis is the assumption on possibility to use temperature-controlled irrigation water to create heat reserves in the soil sufficient to compensate for recurrent frosts. The research methodology is based on modeling heat flows under the constraints when the flux gradient is directed from the soil to the atmosphere, and solar radiation is not taken into account. This allows perform calculations for conditions corresponding to the realization of the risk of recurrent frosts during the period of peak intensity. \nResults. It was found that even intense frosts can be compensated for by creating conditions for active moisture evaporation from the soil surface and forming the necessary reserve of soil heat. A temperature gradient of 4.0 °C between the surface of moistened soil and the sowing environment ensures the heat flow formation sufficient to compensate for frosts to minus 8 °C. An important mechanism for compensating for the intensity of recurrent frosts is the heat input resulting from the condensation of moisture evaporated from the soil. The heat flow generated by the energy transferred by moisture evaporating from the soil surface at a temperature gradient of 4.0 °C reaches 3.8 kJ/m² min. Combined with the convective heat exchange mechanism, the transfer of thermal energy from the soil to the surface air reaches 5.3 kJ/m² min. Moreover, to ensure the maintenance of positive temperatures in the plant environment at frost intensities down to minus 8 °C, the maximum heat flow should be approximately 5.0 kJ/m² min. \nConclusions. Models of heat transfer processes in the “soil – atmosphere” system allow calculate the gradient of soil temperature and surface air, required for heat flow generation that compensates for the harmful effects of frost on plants.</jats:p>",
+   "DOI": "10.31774/2712-9357-2025-15-4-144-159",
+   "page": "144-159",
+   "is-referenced-by-count": 0,
+   "title": [
+    "THEORETICAL JUSTIFICATION OF A COMPENSATION TECHNIQUE FOR RECURRENT FROSTS ON RECLAIMED LANDS"
+   ],
+   "volume": "15",
+   "author": [
+    {
+     "name": "All-Russian Research Institute of Irrigated Agriculture – branch of the Federal Scientific Center of Hydraulic Engineering and Land Reclamation named after A. N. Kostyakov, Volgograd, Russian Federation",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Mikhail N.",
+     "family": "Lytov",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Land Reclamation and Hydraulic Engineering"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2025
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "4",
+   "abstract": "<jats:p>Purpose: to develop scientific approaches and an algorithm for optimizing organic carbon and nitrogen flows on reclaimed lands. \nMaterials and methods. The working hypothesis of the research is that any level of agrocenosis bioproductivity requires a proportional amount of decomposable organic matter, which should not exceed a certain share of labile organic matter contained in the soil. \nResults. An algorithm that operates with two main regulators: the application mass of mineral nitrogen and organic matter, and determines the optimal balance for them, ensuring at least a non-negative trend in stable humus reproduction while achieving target indicators for the level of agrocenosis bioproductivity, has been developed. The algorithm is based on forecasting the dynamics of organic matter decomposition under given conditions. The dynamics of decomposition determines the amount of nitrogen released in the soil and the bioproductivity of crops correlated with it, on the one hand, and the direction of the transformation processes of pools of stable and labile organic matter, on the other hand. To solve the optimization problem on the part of the “carbon” branch of the algorithm, a limitation of the permissible decomposition of labile forms of organic matter is established. On the part of the “nitrogen” branch of the algorithm, the target function of achieving the planned agrocenosis bioproductivity is used. As a result of the solution, the main parameters of the application of mineral forms of nitrogen and organic matter are derived, including crop-root residues, straw biomass, green manure, livestock waste and products of their processing. \nConclusion: an algorithm for optimizing the management of organic carbon and nitrogen flows is proposed, which allows solving problems of intensifying production, preserving and expanding the soil fertility reproduction on reclaimed lands. </jats:p>",
+   "DOI": "10.31774/2712-9357-2024-14-4-171-192",
+   "page": "171-192",
+   "is-referenced-by-count": 0,
+   "title": [
+    "ALGORITHM FOR OPTIMIZING ORGANIC CARBON AND NITROGEN FLOWS ON RECLAIMED LANDS"
+   ],
+   "volume": "14",
+   "author": [
+    {
+     "name": "All-Russian Research Institute of Irrigated Agriculture – branch of the Federal Scientific Center of Hydraulic Engineering and Land Reclamation named after A. N. Kostyakov, Volgograd, Russian Federation",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Mikhail N.",
+     "family": "Lytov",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Land Reclamation and Hydraulic Engineering"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2024
+     ]
+    ]
+   }
+  },
+  {
+   "DOI": "10.31774/2712-9357-2021-11-3-109-122",
+   "title": [
+    "Justification and perspective of cropping pattern on irrigated lands in the south of Russia"
+   ],
+   "container-title": [
+    "Land Reclamation and Hydraulic Engineering"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2021
+     ]
+    ]
+   },
+   "author": [
+    {
+     "name": "Russian Scientific Research Institute of Land Improvement Problems",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "S.V.",
+     "family": "Kupriyanova",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "E. V.",
+     "family": "Melikhova",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "name": "Volgograd State Agricultural University",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "abstract": "<jats:p>Purpose: improvement of the irrigated agriculture system and justification of the rational cropping pattern, taking into account the possible provision of biological productivity of agricultural land for the period up to 2030.  Materials and methods: the optimal values of the cropping patterns used in the structure of reclamation complex were used as key criteria for improving the system of irrigated agriculture. The demand and potential level of export of agricultural products and options for their processing were taken into account. The proposed cropping patterns on irrigated lands were obtained based on the results of ranking indicators: cereals (wheat, corn), industrial (soybeans, etc.), vegetables (including potatoes), beets (table and fodder).  Results: the main conditions for carrying out reclamation measures aimed at increasing feed production, increasing the energy content and protein nutritional value of feed, contributing to the increase of farm animals productivity, were revealed. With a predicted high level of yield by 2030, its growth may be: for fodder – 2.5 times, sugar beet – 2.4 times, flax – 3.0, sunflower – 2.6, potatoes – 1.9, rice – 1.7 times.  Conclusions. The main requirements for cropping pattern optimization have been determined: ranking according to the degree of global demand for agricultural products, which determines the trends of its production in the Russian Federation; optimization of the production structure of certain groups of crops in the domestic market, as well as for export to the foreign market; application of scientifically based crop rotation systems; work on the selection of varieties and hybrids of crops; improvement of irrigation equipment and technologies. Optimization of cropping patterns, including fodder crops in irrigated crop rotations, and restoration of soil fertility can also increase the output of livestock products – to ensure the country's food security.</jats:p>",
+   "is-referenced-by-count": 0,
+   "issue": "3"
+  },
+  {
+   "issue": "11",
+   "abstract": "<jats:p>The article presents the results of scientific research aimed at increasing the fertility of irrigated gray-meadow soils in the Mirzachul oasis by planting various green manure crops. As a result of planting green manure crops, the soil has become enriched with organic residues, and the humus content has increased to some extent. The soil density has decreased, its porosity has improved, and there have been positive changes in the amount of mobile nutrients in the soil. Consequently, the yield of crops planted after the green manure crops has increased to a certain extent.</jats:p>",
+   "DOI": "10.37547/ajahi/volume04issue11-07",
+   "page": "46-52",
+   "is-referenced-by-count": 0,
+   "title": [
+    "IMPROVING THE PHYSICAL AND AGROCHEMICAL PROPERTIES OF IRRIGATED GRAY-MEADOW SOILS USING VARIOUS PLANT RESOURCES"
+   ],
+   "volume": "4",
+   "author": [
+    {
+     "name": "Professor, Doctor of Biological Sciences (DSc), Department of Agro-soil science and land reclamation, Gulistan State University, Uzbekistan",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Shakhobiddin M.",
+     "family": "Turdimetov",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Mokhinur M.",
+     "family": "Musurmanova",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "name": "Phd Student, Gulistan State University, Uzbekistan",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "American Journal Of Agriculture And Horticulture Innovations"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2024,
+      11,
+      1
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "3",
+   "abstract": "<jats:p>Purpose: The quantitative assessment of the potential for regulation of soil organic carbon and nitrogen turnover during cultivation of soybeans, winter wheat and Sarepta mustard on irrigated lands of the Lower Volga region. \nMaterials and methods. The study is based on the results of a field experiment with soybeans, Sarepta mustard and winter wheat. The possibilities of increasing the bioproductivity of irrigated soybeans were studied in a three-factor field experiment (variety, organic fertilizers and foliar treatments with a microcomplex), Sarepta mustard and winter wheat – in two-factor experiments (predecessor, aftereffect of organic fertilizers). \nResults. It was found that stubble and root residues of soybeans allow replacing annually no more than 0.88 t/ha of organic carbon and 12.7–12.9 kg/ha of nitrogen. The use of soybean by-products provides an increase in the regulatory potential of soybeans for organic carbon by 2.8–2.9 t/ha and for nitrogen by 93.4–101.4 kg/ha. With the by-products of the most developed mustard crops, up to 1.42 t/ha of organic carbon and 40.4–46.7 kg/ha of nitrogen enter the soil, and when plowing in green manure biomass – up to 2.57–3.39 t/ha of organic carbon and 97.5–128.8 kg/ha of nitrogen. The potential supply of organic carbon to the soil due to crop and root residues and by-products of winter wheat is 2.06 t/ha, which is comparable with the regulatory potential of soybeans. However, no more than 19.5 t/ha of nitrogen is supplied, which creates a deficient carbon-nitrogen balance, C:N = 104–116. \nConclusions. Irrigated soybean crops with the use of by-products provide the formation of one of the strongest potentials for regulating the turnover of organic carbon and nitrogen in the soil. A scientifically substantiated system of soybean cultivation techniques increases the possibilities of replenishing organic carbon and nitrogen in the soil by 12.2–14.7 % due to the use of additionally formed plant biomass.</jats:p>",
+   "DOI": "10.31774/2712-9357-2025-15-3-115-130",
+   "page": "115-130",
+   "is-referenced-by-count": 0,
+   "title": [
+    "POTENTIAL FOR REGULATING THE TURNOVER OF ORGANIC CARBON AND NITROGEN IN SOILS DURING FIELD CROPS CULTIVATION ON IRRIGATED LANDS OF THE LOWER VOLGA REGION"
+   ],
+   "volume": "15",
+   "author": [
+    {
+     "name": "All-Russian Research Institute of Irrigated Agriculture – branch of the Federal Scientific Center of Hydraulic Engineering and Land Reclamation named after A. N. Kostyakov, Volgograd, Russian Federation",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Mikhail N.",
+     "family": "Lytov",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Land Reclamation and Hydraulic Engineering"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2025
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "2",
+   "abstract": "<jats:p>Purpose: to substantiate scientifically the use of agricultural reclamation techniques in rice cultivation under sprinkling in combination with certain irrigation and plant nutrition regimes in light chestnut heavy loamy soils. \nMaterials and methods. The studies were conducted on a site in Volgograd region from 2022 to 2024, with the tested variety Stalingrad 1. The studies were based on three factors: A (soil water regime) – two options were used; B (soil tillage) – three options were used; C (fertilizer rates) – two options were used. Standard research methods were used. \nResults. The highest water permeability was recorded during autumn plowing in combination with deep loosening carried out before rice sowing (В₃), amounting to 51.2 mm/h during the first hour of observations. The lowest absorption value was recorded with autumn plowing (В₁), where the rate was 32.8 mm/h. Under soil water regime А₁ together with В₁ and С₁, the minimum grain yield was obtained – 4.69 t/ha. In the moistening variant А₂, the highest yield was 6.95 t/ha with a combination of В₃ and С₂. The highest evapotranspiration was observed when cultivating soil В₁, varying from 6028 to 6402 cub. m/ha with an irrigation rate of 5100–5490 cub. m/ha. \nConclusions. Cultivation of heavy loamy light chestnut soils, including autumn plowing to 0.25–0.27 m and before sowing aerobic rice to 0.40 m, compared to autumn plowing increases the soil water absorption rate by 18 mm/h after rice sowing. Maintaining an irrigation regime of 80 % HB at a depth of up to 0.4 m until the end of the tillering phase with a further increase to 0.6 m, with the addition of fertilizers at a dose of N₁₃₇P₇₄K₉₀ (7 t/ha) contributes to an yield increase to 6.95 t/ha and a decrease in irrigation rate by 600 cubic meters/ha.</jats:p>",
+   "DOI": "10.31774/2712-9357-2025-15-2-270-282",
+   "page": "270-282",
+   "is-referenced-by-count": 0,
+   "title": [
+    "AGRO-RECLAMATION TECHNIQUES AFFECTING SOIL WATER PERMEABILITY AND RICE PRODUCTIVITY UNDER SPRINKLING IN THE LOWER VOLGA REGION"
+   ],
+   "volume": "15",
+   "author": [
+    {
+     "name": "All-Russian Research Institute of Irrigated Agriculture – branch of the Federal Scientific Center of Hydraulic Engineering and Land Reclamation named after A. N. Kostyakov, Volgograd, Russian Federation",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Ivan P.",
+     "family": "Kruzhilin",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Muslim A.",
+     "family": "Ganiev",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "name": "All-Russian Research Institute of Irrigated Agriculture – branch of the Federal Scientific Center of Hydraulic Engineering and Land Reclamation named after A. N. Kostyakov, Volgograd, Russian Federation",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Konstantin A.",
+     "family": "Rodin",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "name": "All-Russian Research Institute of Irrigated Agriculture – branch of the Federal Scientific Center of Hydraulic Engineering and Land Reclamation named after A. N. Kostyakov, Volgograd, Russian Federation",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Ainagul B.",
+     "family": "Nevezhina",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "name": "All-Russian Research Institute of Irrigated Agriculture – branch of the Federal Scientific Center of Hydraulic Engineering and Land Reclamation named after A. N. Kostyakov, Volgograd, Russian Federation",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Land Reclamation and Hydraulic Engineering"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2025
+     ]
+    ]
+   }
+  },
+  {
+   "DOI": "10.31774/2712-9357-2022-12-3-56-75",
+   "title": [
+    "THE ASSESSMENT SYSTEM OF ENVIRONMENTAL AND ENGINEERING INFRASTRUCTURE OF RECLAIMED LANDS WITHDRAWN FROM AGRICULTURAL USE"
+   ],
+   "container-title": [
+    "Land Reclamation and Hydraulic Engineering"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2022
+     ]
+    ]
+   },
+   "author": [
+    {
+     "name": "Volgograd branch of A. N. Kostyakov All-Russian Research Institute for Hydraulic Engineering and Land Reclamation",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "M. N.",
+     "family": "Lytov",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "abstract": "<jats:p>Purpose: creation of an assessment system and development of scientific approaches to the formation of generalizing conclusions regarding the ecological and engineering-infrastructural state of previously reclaimed lands proposed for development.  Materials and methods. The research methodology is based on the assumption that it is possible to apply a cluster approach to the development of an assessment system, when each cluster of assessments allows estimating the state of land in relation to a specific problem that has its own specific methods of solution.  Results. An assessment system has been developed, which has a cluster structure and includes assessment complexes for the ecological and reclamation, ecological and phytosanitary, ecological and degradation, ecological and technogenic, engineering and infrastructure areas. For each cluster, complexes of priority indicators are proposed and quantitative scales to assess the severity of processes and the state of the problem at the time of assessment are developed. A three-level gradation of the resulting action of the entire set of processes taken into account within the framework of one evaluation cluster is proposed. At the same time, level 0 assumes that there are no factors for the development of degradation processes, level 1 is characterized by a weak or medium development of degradation factors, and level 2 is characterized by a strong development of degradation factors, when direct land use is impossible. Such a division makes it possible to synthesize generalized assessments that already contain the constituent elements of a judgment about the possibility of further use of land withdrawn from circulation, the possibility of resuming economic activity and the strategy for developing unused territories.  Conclusions. An assessment system of environmental and engineering infrastructure of reclaimed lands withdrawn from agricultural use has been developed, a mechanism for combining diverse indicators and assessment clusters has been proposed, the results of which are the basis for developing a strategy for their economic development.</jats:p>",
+   "is-referenced-by-count": 0,
+   "issue": "3"
+  },
+  {
+   "DOI": "10.52269/22266070_2022_4_158",
+   "title": [
+    "GIS ASSESSMENT OF THE STATE OF THE MAKTARAL IRRIGATED LANDS AND THE POSSIBILITY OF REUSE OF COLLECTOR-DRAINAGE WATER"
+   ],
+   "container-title": [
+    "3i: Intellect, Idea, Innovation - интеллект, идея, инновация"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2022
+     ]
+    ]
+   },
+   "author": [
+    {
+     "given": "Zhuldyzbek Alikhanuly",
+     "family": "Onglassynov",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Satbayev University"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Lyudmila Valentinovna",
+     "family": "Shagarova",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Satbayev University"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "is-referenced-by-count": 0,
+   "issue": "4",
+   "page": "158-164"
+  },
+  {
+   "DOI": "10.31838/jcr.07.01.99",
+   "title": [
+    "WATER SAVING TECHNOLOGY FOR LEACHING SALINITY OF IRRIGATED LANDS: A CASE STUDY FROM BUKHARA REGION OF UZBEKISTAN"
+   ],
+   "container-title": [
+    "Journal of critical reviews"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2020,
+      1,
+      1
+     ]
+    ]
+   },
+   "is-referenced-by-count": 5,
+   "volume": "7",
+   "issue": "02"
+  },
+  {
+   "issue": "70",
+   "abstract": "<jats:p>It was established that during the period of Ukraine’s independence, historiography began to play the role of an integration factor, maintaining the appropriate level of scientific knowledge, preserving and supplementing the methodological apparatus of modern historical science. It has been found that in recent decades, a number of meaningful scientific works have been published, which contain systematized factual material on the development of scientific support for water reclamation on irrigated lands of Ukraine, a thorough analysis of scientific technologies and their theoretical generalizations. It was determined that the historical works of the period of Ukraine’s independence are characterized by the multi-facetedness and content of generalizations, the objectivity of approaches to the study of the evolution of the scientific-organizational foundations of the use of water resources for land irrigation. Historical works highlight the evolution of certain scientific directions, theories, concepts and technologies regarding the improvement of water reclamation in agrarian production on irrigated lands; development of scientific foundations of effective management of water resources for agricultural land reclamation; the contribution of higher education institutions, and scientific-research institutions and research teams to the development of scientific technologies for the conservation and balanced use of water resources in irrigated farming; the evolution of the working and practical implementation of water reclamation on irrigated lands in the context of the activities of well-known agrarian scientists of Ukraine. It was established that at the beginning of the 21st century, thanks to the cooperation of Ukrainian and foreign scientists, the working and implementation of innovative technologies for the ecologically safe use of water and land resources gained significant development and has great prospects, especially in conditions of climate change. An own position has been formed regarding the choice of the most accurate and scientifically based reflection of the historical development of scientific support for water reclamation on irrigated lands of Ukraine, which is updated in the conditions of global challenges and threats today.</jats:p>",
+   "DOI": "10.17721/2518-1270.2023.70.12",
+   "page": "109-116",
+   "is-referenced-by-count": 0,
+   "title": [
+    "Development of Scientific Support of Water Reclamation on Irrigated Lands of Ukraine: Historiography of the Period of Independence"
+   ],
+   "author": [
+    {
+     "name": "Institute of Water Problems and Land Reclamation of National Academy of Agrarian Sciences of Ukraine",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-3045-3508",
+     "authenticated-orcid": false,
+     "given": "Svitlana",
+     "family": "Yehorova",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Ethnic History of European Nations"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2023
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "2",
+   "abstract": "<jats:p>Purpose: substantiation and development of the facility design for local treatment of drainage runoff discharged from an irrigated area. Materials and methods. The study was carried out on the example of a representative object – a collection-discharge (drainage) well of a collector-drainage network located on an irrigated site of the Nizhne-Donskaya irrigation system of the Rostov region. The source materials were the results of field studies of the hydrochemical parameters of drainage water in the well and the central collector. Results and discussion. Since the drainage water quality in the drainage well is much higher than in the mouth of the central collector, the reconstruction of the well will allow effective treatment of low drainage flow rates with minimal financial costs. The proposed design is based on di-viding the collector-drainage network into areas with their respective wells, on the outgoing collector pipes on which devices for drainage runoff treatment are mounted. The principle of the device is based on the use of removable cartridges filled with various filter materials, de-pending on the quality of the treated drainage flow. For example, for water desalination, it is recommended to use loads from ion-exchange resins (cation exchanger, anion exchanger). The example shows that cleaning from the main salt-forming ions of drainage flow with a flow rate of 7 m³/month will require 39.5 liters of cation exchanger and 89.3 liters of anion exchanger, this will amount to 31.7 thousand rubles. Conclusions. The use of drainage wells as local treatment facilities will improve the ecological situation in the zone of irrigated agri-culture, distribute responsibility between agricultural producers and owners of reclamation systems for the quality of drainage flow discharged into natural water bodies. The proposed design will provide a multi-variant operation of the device for drainage runoff treatment due to combinations of filter media and sets of various removable cartridges.</jats:p>",
+   "DOI": "10.31774/2712-9357-2023-13-2-94-108",
+   "is-referenced-by-count": 0,
+   "title": [
+    "Improving the technical approach to managing the process of local treatment of drainage runoff from irrigated lands"
+   ],
+   "volume": "13",
+   "author": [
+    {
+     "name": "Russian Scientific Research Institute of Land Improvement Problems, Novocherkassk, Russian Federation",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-8724-7799",
+     "authenticated-orcid": false,
+     "given": "Tatyana I.",
+     "family": "Drovovozova",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0003-2868-3774",
+     "authenticated-orcid": false,
+     "given": "Andrey A.",
+     "family": "Kirilenko",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "name": "Russian Scientific Research Institute of Land Improvement Problems, Novocherkassk, Russian Federation",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "name": "Novocherkassk Engineering and Land Reclamation Institute – branch of the Don State Agrarian University, Novocherkassk, Russian Federation",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Land Reclamation and Hydraulic Engineering"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2023
+     ]
+    ]
+   }
+  },
+  {
+   "DOI": "10.31774/2712-9357-2022-12-3-158-175",
+   "title": [
+    "SOYBEAN VARIETIES GROWTH AND DEVELOPMENT CHARACTERISTICS WHEN CULTIVATED ON IRRIGATED LANDS OF ROSTOV REGION"
+   ],
+   "container-title": [
+    "Land Reclamation and Hydraulic Engineering"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2022
+     ]
+    ]
+   },
+   "author": [
+    {
+     "name": "Russian Scientific Research Institute of Land Improvement Problems",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "G. T.",
+     "family": "Balakay",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "A. N.",
+     "family": "Babichev",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "name": "Russian Scientific Research Institute of Land Improvement Problems",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "S. A.",
+     "family": "Selitskiy",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "name": "Russian Scientific Research Institute of Land Improvement Problems",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "abstract": "<jats:p>Purpose: selection of soybean varieties adapted to the soil and climatic conditions of Rostov region, taking into account the cultivation technology application on irrigated lands.  Materials and methods. Three-year studies were conducted in Oktyabrsky district Rostov region on irrigated lands. Soils under soybean crops are meadow-chernozem heavy loamy. In the experiments, 24 soybean varieties of different ripeness groups were studied. The experiment was carried out in four repetitions with a randomized arrangement of plots. Observations of the soybeans growth and development, yield records, statistical processing of data were carried out according to generally accepted methods of field experiments.  Results. The duration of vegetation of the studied soybean varieties ranged from 100 to 125 days. Observations of the growth and development of plants made it possible to determine that, depending on the variety, the height of soybean plants reached 82.9–133.0 cm in the bean-filling phase; during this period, the maximum values of the soybean leaf area duration vary from 38.68 to 84.32 thousand sq. m/ha, and the dry biomass of soybeans varied from 1.31 to 2.31 t/ha. The productivity indicators of the studied soybean varieties on irrigation have been determined. The soybean variety yield varied from 3.19 to 5.34 t/ha. The maximum value was recorded for the variety SK Elana, the minimum was for the variety Kazachka. An analysis of the qualitative composition of soybean grain made it possible to find that the protein content varied from 37.4 to 44.0 %, and the protein harvest was from 1.1 to 1.9 t/ha. The oil content varied from 17.8 to 22.9 % depending on the variety, and its harvest from 0.5 to 1.0 t/ha.  Conclusions. Soybean cultivation on irrigated lands allows to obtain high productivity of a wide range of varieties. The maximum yield of soybean grain and protein harvest were obtained from the SK Elana variety – 5.34 t/ha and 1.9 t/ha, respectively. The maximum oil content in the grain was obtained from the Selecta 302 variety – 22.9 %, and its harvest from the SK Elana variety was 1.0 t/ha.</jats:p>",
+   "is-referenced-by-count": 0,
+   "issue": "3"
+  },
+  {
+   "issue": "2",
+   "abstract": "<jats:p>Purpose: to test the hypothesis on possibility of perennial grasses yield forecast model building using machine learning methods. For agricultural production planning, the yield forecasting is one of the important tasks, and when using information technologies, building forecast models requires significantly less labor while maintaining or even increasing the accuracy and adequacy of the models.  Materials and methods. Such methods of scientific knowledge as analysis and synthesis of various levels, methods of data preparation for machine learning, machine learning methods implementing a linear regression model and regression using decision trees were used. The popular Python language and publicly available libraries for data analysis and preparation and building machine learning models were used as the main technology stack for implementing machine learning methods.  Results. The data was prepared for training the model using machine learning methods, and the data was modified without loss in such a way that it represents exclusively numerical values. Linear regression and regression models using decision trees were trained. A metric of model quality confirmed by high values of determination coefficients (0.68 and 0.98, respectively) was calculated, using standard tools from the libraries used.  Conclusions: numerical values of input of such characteristics as food regime (0.176935–0.315269), as well as the ratio of the number of irrigations and irrigation norms (0.056576–0.108139), into the model, confirm their significance for the conditions of research areas and database collection.</jats:p>",
+   "DOI": "10.31774/2712-9357-2024-14-2-94-107",
+   "page": "94-107",
+   "is-referenced-by-count": 1,
+   "title": [
+    "Machine learning methods application to the perennial grasses yield forecast model building under irrigation"
+   ],
+   "volume": "14",
+   "author": [
+    {
+     "name": "All-Russian Research Institute of Irrigated Agriculture – branch of the Federal Scientific Center of Hydraulic Engineering and Land Reclamation named after A. N. Kostyakov, Volgograd, Russian Federation",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Sergey S.",
+     "family": "Marchenko",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Andrey E.",
+     "family": "Novikov",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "name": "All-Russian Research Institute of Irrigated Agriculture – branch of the Federal Scientific Center of Hydraulic Engineering and Land Reclamation named after A. N. Kostyakov, Volgograd, Russian Federation",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Natalia I.",
+     "family": "Burtseva",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "name": "All-Russian Research Institute of Irrigated Agriculture – branch of the Federal Scientific Center of Hydraulic Engineering and Land Reclamation named after A. N. Kostyakov, Volgograd, Russian Federation",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Sergey Ya.",
+     "family": "Semenenko",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "name": "All-Russian Research Institute of Irrigated Agriculture – branch of the Federal Scientific Center of Hydraulic Engineering and Land Reclamation named after A. N. Kostyakov, Volgograd, Russian Federation",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Land Reclamation and Hydraulic Engineering"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2024
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "3",
+   "abstract": "<jats:p>Purpose: assessment of the use of photosynthetically active radiation (PAR) by soybeans while using the improved cultivation technology on irrigated lands in Rostov region. Materials and methods. The studies were carried out on irrigated lands at Bessergenevskoe Agricultural Enterprise LLC in 2019–2021. The laying of field experiments on soybean crops, recording and observations were carried out according to the methods of VNIIMK and All-Union Scientific Research Institute of soybean. In the experiments, the following soybean varieties were sown: SK Optima, SK Riana, Selecta 201, Selecta 302, SK Veda. The method of A. A. Nichiporovich was used to calculate the use of PAR. Indicators of solar radiation were determined according to the data of the meteorological station in Gigant. Results. As a result of the research, the indicators necessary for calculating the capacity utilization (CU, an analogue of Efficiency) of the PAR under the conditions of Rostov region were specified: the duration of the soybean vegetation and total solar radiation for this period, the core product yield and the by-products biomass, the ratio of soybean seed yield to by-products, energy value of the core product and by-products. It has been found that the level of seed yield of soybean varieties on average for three years of research varies within the range of 3.96–4.66 t/ha, the maximum indicator was obtained for the cultivar SK Riana. Conclusions. The studies allowed determining the total mass of soybean plants, including the core product: the seed yield of the studied soybean varieties is from 3.96 to 4.66 t/ha, and of the by-product is from 4.79 to 5.64 t/ha absolutely dry mass with a ratio of 1:1.21, the energy content of the core and by-products and calculating the utilization capacity of the total radiation Kfar. Calculations showed that the Kfar soybean utilization factors depend on the total solar radiation received and the mass of the substance synthesized by soybean plants and reach 1.43 and 1.48 % for the cultivars SK Optima and SK Veda, respectively (this characterizes the crops of these varieties as ordinary) and 1.61; 1.62 and 1.67 % for cultivars Selecta 201, Selecta 302 and SK Riana, respectively (this characterizes the crops of these varieties as good).</jats:p>",
+   "DOI": "10.31774/2712-9357-2023-13-3-206-219",
+   "is-referenced-by-count": 0,
+   "title": [
+    "Assessment of the use of photosynthetically active radiation by soybean on irrigated lands in Rostov region"
+   ],
+   "volume": "13",
+   "author": [
+    {
+     "name": "Russian Scientific Research Institute of Land Improvement Problems, Novocherkassk, Russian Federation",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Roman S.",
+     "family": "Masnyi",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Georgiy T.",
+     "family": "Balakay",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "name": "Russian Scientific Research Institute of Land Improvement Problems, Novocherkassk, Russian Federation",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Alexandr N.",
+     "family": "Babichev",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "name": "Russian Scientific Research Institute of Land Improvement Problems, Novocherkassk, Russian Federation",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Sergey A.",
+     "family": "Selitskiy",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "name": "Russian Scientific Research Institute of Land Improvement Problems, Novocherkassk, Russian Federation",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Land Reclamation and Hydraulic Engineering"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2023
+     ]
+    ]
+   }
+  },
+  {
+   "DOI": "10.52276/25792822-2021.4-341",
+   "title": [
+    "Studying the Reclamation State of the Irrigated Meadow Brown Lands in Araksavan Community of Ararat Region"
+   ],
+   "container-title": [
+    "AgriScience and Technology"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2021
+     ]
+    ]
+   },
+   "author": [
+    {
+     "given": "A.Sh.",
+     "family": "Eloyan",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "H. Petrosyan Scientific Center of Soil Science, Melioration and Agrochemistry, ANAU Branch"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "M.H.",
+     "family": "Barseghyan",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "H. Petrosyan Scientific Center of Soil Science, Melioration and Agrochemistry, ANAU Branch"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "S.H.",
+     "family": "Daveyan",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "H. Petrosyan Scientific Center of Soil Science, Melioration and Agrochemistry, ANAU Branch"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "T.A.",
+     "family": "Jhangiryan",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "H. Petrosyan Scientific Center of Soil Science, Melioration and Agrochemistry, ANAU Branch"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "abstract": "<jats:p>Improvement of land reclamation methods and ecological state of the soils is essential for the sustainable development of agriculture in Armenia. The aim of the current work is to study the chemical composition of the irrigated meadowbrown soils with an area of 25 hectares in the village of Araksavan.\nThe results of the study showed that this land plot is not homogeneous in chemical composition. The studied soils are saline and alkaline, and without any chemical reclamation it is impossible to use them in agriculture. Thus, it is recommended to conduct chemical reclamation activities in the mentioned land area.</jats:p>",
+   "is-referenced-by-count": 1,
+   "page": "341-344"
+  },
+  {
+   "issue": "2",
+   "abstract": "<jats:p>This article focuses on improving the reclamation of irrigated lands in Syrdarya region, increasing soil fertility, efficient use of available water resources in the context of water scarcity, irrigated land in the region from 2013 to 2019, groundwater level, groundwater mineralization, drainage results of data on reconstruction, soil salinity and winter wheat grain yield over the years</jats:p>",
+   "DOI": "10.26739/2181-9904-2020-6-12",
+   "page": "69-75",
+   "is-referenced-by-count": 1,
+   "title": [
+    "RECLAMATION OF IRRIGATED LANDS OF SYRDARYA REGION EFFECT OF CONDITION ON AUTUMN WHEAT GRAIN YIELD"
+   ],
+   "volume": "6",
+   "author": [
+    {
+     "name": "Tashkent institute of irrigation and agricultural mechanization engineers of the Republic of Uzbekistan",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Sabirjan",
+     "family": "Isayev",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Elyor",
+     "family": "Malikov",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Azim",
+     "family": "Gofirov",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "JOURNAL OF AGRO PROCESSING"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2020,
+      6,
+      30
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "3",
+   "abstract": "<jats:p>Purpose: to develop rational combinations of species and varieties of perennial leguminous grasses, soil water and nutrient regimes, which will contribute to obtaining stable fodder yields with high levels of protein and energy content.  Materials and methods. Research is being carried out on perennial leguminous grasses on the experimental field of the institute. The experiment is three-factor and includes three options for maintaining the pre-irrigation soil moisture limit (60, 70 and 80 % of the lowest moisture capacity), three options for the soil nutritional regime (NPK₁, NPK₂ and control – without fertilizers), eight types of legumes are studied according to the third factor. The generally accepted experimental methods were used when setting up experiments and conducting research. Results. In the full germination phase there were from 294 to 386 plants of grass species per 1 sq. m. Their height before harvesting varied according to the experimental variants from 0.60 to 1.01 m in the first cutting, from 0.38 to 0.94 m in the second and from 0.25 to 0.66 m in the third cutting. The grass stand total water consumption in the year of seeding was 4.2–4.7 thous. cub. m/ha, increasing in subsequent years to 4.8–5.7 thous. cub. m/ha. The soil water regime and fertilizers had a significant impact on crop yield. In control options with a pre-irrigation limit of 60 % of the lowest moisture capacity, the green mass yield in the second year was 26.6–40.9 t/ha. With improved soil nutrition and good water supply, the yield increased to 48.2–87.8 t/ha. Sainfoin and blue-hybrid and variegated alfalfa plants responded to the improved growing conditions most actively; 54–88 t/ha of green mass were gathered from these sites during the season.  Conclusions. Selection of optimal combinations of soil water and nutrient regimes, as well as the new promising perennial leguminous grasses species and varieties introduction into the field feed production in the Lower Volga region will ensure high and stable yields of fodder rich in energy and nutrients.</jats:p>",
+   "DOI": "10.31774/2712-9357-2024-14-3-165-180",
+   "page": "165-180",
+   "is-referenced-by-count": 0,
+   "title": [
+    "PERENNIAL LEGUMINOUS GRASSES FOR IRRIGATION ARE A GUARANTEE OF SUSTAINABLE FEED PRODUCTION IN THE LOWER VOLGA REGION"
+   ],
+   "volume": "14",
+   "author": [
+    {
+     "name": "All-Russian Research Institute of Irrigated Agriculture – branch of the Federal Scientific Center for Hydraulic Engineering and Land Reclamation named after A. N. Kostyakov, Volgograd, Russian Federation",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Natalya I.",
+     "family": "Burtseva",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Elena I.",
+     "family": "Molokantseva",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "name": "All-Russian Research Institute of Irrigated Agriculture – branch of the Federal Scientific Center for Hydraulic Engineering and Land Reclamation named after A. N. Kostyakov, Volgograd, Russian Federation",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Ergali S.",
+     "family": "Bahtygaliev",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "name": "All-Russian Research Institute of Irrigated Agriculture – branch of the Federal Scientific Center for Hydraulic Engineering and Land Reclamation named after A. N. Kostyakov, Volgograd, Russian Federation",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Irina P.",
+     "family": "Ivina",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "name": "All-Russian Research Institute of Irrigated Agriculture – branch of the Federal Scientific Center for Hydraulic Engineering and Land Reclamation named after A. N. Kostyakov, Volgograd, Russian Federation",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Land Reclamation and Hydraulic Engineering"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2024
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "3/4",
+   "abstract": "<jats:p>The article presents the traditional irrigation systems used for many years and proposes changes in the dominant agricultural system in order to improve the food security of the Region. Considerable efforts and resources have been devoted to new forms of water management at the interstate level for water users associations.</jats:p>",
+   "DOI": "10.15576/asp.fc/2021.20.3/4.47",
+   "page": "47-55",
+   "is-referenced-by-count": 1,
+   "title": [
+    "CONDITIONS OF IRRIGATED LANDS IN UZBEKISTAN – AMU-DARYA RIVER CASE STUDY"
+   ],
+   "volume": "20",
+   "author": [
+    {
+     "name": "Karakalpak State University, Uzbekistan",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-6065-969X",
+     "authenticated-orcid": false,
+     "given": "Rustam N.",
+     "family": "Eshniyazov",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "R.E.",
+     "family": "Qurbanbaev",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "name": "Karakalpak State University, Uzbekistan",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-8040-7032",
+     "authenticated-orcid": false,
+     "given": "Józef",
+     "family": "Mosiej",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "name": "Warsaw University of Life Sciences – SGGW, Poland",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Acta Scientiarum Polonorum Formatio Circumiectus"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2021
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "11",
+   "abstract": "<jats:p>The “Farkhod Hydroelectric Power Station” which was built in Syrdarya region has irrigated 700,000 hectares of fertile land in Dalvarzin and Mirzachul districts of Uzbekistan, Tajikistan and Kazakhstan. “Andijan water reservoir” was built in the Karadarya River of Fergana Valley, and a hydroelectric power plant with a capacity of 140,000,000 kilowatt-hours was commissioned. Due to the commissioning of “Tuyamuyin” waterworks in the lower reaches of the Amudarya River, it was possible to irrigate 300,000 hectares of land in the Republic of Turkmenistan and Uzbekistan, as well as 200,000 hectares of new land for rice and cotton growing. In addition, this water facility has protected the land from erosion and provided with 150,000 kilowatts of electricity.</jats:p>",
+   "DOI": "10.47191/ijsshr/v4-i11-42",
+   "is-referenced-by-count": 0,
+   "title": [
+    "Attention to Land Reclamation in the Years of Stagnation in the Republic of Uzbekistan"
+   ],
+   "volume": "04",
+   "author": [
+    {
+     "name": "Candidate of Historical Sciences, Associate Professor, Jizzakh State Pedagogical Institute",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Abdurasul",
+     "family": "Boltaev",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "International Journal of Social Science and Human Research"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2021,
+      11,
+      30
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "4",
+   "abstract": "<jats:p>Purpose: to assess the adaptive potential and provide a scientific basis for selecting modern domestic potato varieties with colored flesh, for cultivation under irrigation in the southern regions of Russia including comparison with foreign varieties. In recent years, there has been increased attention to the use of potatoes as a significant source of natural antioxidants, particularly in dietary and specialized nutrition. Potatoes with red and purple flesh are of particular dietary value, as they contain polyphenolic compounds with antioxidant properties, especially anthocyanins. \nMaterials and methods. Field studies to select and test varieties were conducted in 2022–2024 on the experimental field of the All-Russian Research Institute of Irrigated Agriculture (VNIIOZ) with 5 potato varieties of domestic and foreign selection. Sprinkler irrigation was used. The studies were carried out in accordance with generally accepted methods. \nResults. The Lyubava variety produced the highest marketable tuber weight (118 g), while the Elixir variety produced the lowest (64 g). The Severnoye Siyanie variety was the most productive, with 30.5 t/ha among the potato varieties studied. In Elixir plantings, the yield was 1.9 t/ha lower. The most valuable and recommended varieties in terms of ecological plasticity (bi) and stable yield (S²di) are Severnoye Siyanie (bi = 2.96; S²di = 14.23) and Elixir (bi = 2.32; S²di = 22.23). \nConclusions. In a study of colored-fleshed potato varieties, the Severnoye Siyanie variety demonstrated the best results, achieving a yield of 30.5 t/ha with ecological flexibility and yield stability (bi = 2.96; S²di = 14.23). Furthermore, the Elixir variety demonstrated high productivity, achieving a yield of 28.6 t/ha with adaptability potential (bi = 2.32; S²di = 22.23). These varieties are recognized as the most suitable for cultivation under irrigated conditions on the southern slope of the Volga Upland.</jats:p>",
+   "DOI": "10.31774/2712-9357-2025-15-4-194-206",
+   "page": "194-206",
+   "is-referenced-by-count": 1,
+   "title": [
+    "AGROECOLOGICAL TESTING OF COLORED-FLESHED POTATO VARIETIES UNDER IRRIGATION ON THE VOLGA UPLAND SOUTHERN SLOPE"
+   ],
+   "volume": "15",
+   "author": [
+    {
+     "name": "All-Russian Research Institute of Irrigated Agriculture – branch of the Federal Scientific Center of Hydraulic Engineering and Land Reclamation named after A. N. Kostyakov, Volgograd, Russian Federation",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Alexey A.",
+     "family": "Novikov",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Konstantin A.",
+     "family": "Rodin",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "name": "All-Russian Research Institute of Irrigated Agriculture – branch of the Federal Scientific Center of Hydraulic Engineering and Land Reclamation named after A. N. Kostyakov, Volgograd, Russian Federation",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Artur S.",
+     "family": "Kazgaliev",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "name": "All-Russian Research Institute of Irrigated Agriculture – branch of the Federal Scientific Center of Hydraulic Engineering and Land Reclamation named after A. N. Kostyakov, Volgograd, Russian Federation",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Sofya V.",
+     "family": "Melnik",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "name": "All-Russian Research Institute of Irrigated Agriculture – branch of the Federal Scientific Center of Hydraulic Engineering and Land Reclamation named after A. N. Kostyakov, Volgograd, Russian Federation",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Land Reclamation and Hydraulic Engineering"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2025
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "3",
+   "abstract": "<jats:p>Purpose: to study the factors determining the risks of declining irrigated land fertility in the post-industrial period of land reclamation development. \nMaterials and methods. The research materials are the results of monitoring irrigated and adjacent non-irrigated lands, for the organization of which dynamic sites located in the agrolandscapes of the dry steppe and semi-desert zones of the Lower Volga region are used. A total of 15 dynamic sites were laid out. In the methodological aspect, the transect-catenar method, comparison of monitoring indicators in the natural environment and on the used sites, as well as an assessment of long-term trends in changes of soil fertility elements, taking into account anthropogenic load, is used. \nResults. Compared with the natural background, the organic matter content is reduced by 0.20–0.89 % on irrigated land sand by 0.49–1.48 % on dry lands. In experiments with agricultural crops (corn for silage), irrigation ensured a non-negative humus balance (plus 0.297 t/ha), however, which turned out to be lower than under natural conditions (plus 0.428 t/ha). The decomposition rate of plant residues (soybean straw) under irrigation increased by 1.4–2.2 times compared to dry farming. The zonal problem of carbonation of the arable horizon worsens the conditions of water exchange and actualizes the problem of soil compaction: from 1.14–1.40 t/cub. m in the 0–0.30 m layer to 1.40–1.60 t/cub. m in the subsoil horizons. Research has confirmed the trend of redistribution of water-soluble salts to deeper horizons during irrigation. Data, confirming the development of soil alkalinization processes when irrigated with water with a salinity of 1.01–1.12 g/l and a SAR of 3.1, which also indicates the inadequacy of the SAR concept, were obtained. \nConclusions: fertility problems in irrigated lands in the post-industrial period of land reclamation development are primarily associated with zonal risks, a deficit in the organic matter balance, and the need to optimize the soil water regime.</jats:p>",
+   "DOI": "10.31774/2712-9357-2026-16-3-112-132",
+   "page": "112-132",
+   "is-referenced-by-count": 0,
+   "title": [
+    "Problems of irrigated land fertility in the post-industrial period of land reclamation development"
+   ],
+   "volume": "16",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0003-2743-9825",
+     "authenticated-orcid": false,
+     "given": "Mikhail N.",
+     "family": "Lytov",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "All-Russian Research Institute of Irrigated Agriculture – branch of the Federal Scientific Center of Hydraulic Engineering and Land Reclamation named after A. N. Kostyakov"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0009-0009-6566-7360",
+     "authenticated-orcid": false,
+     "given": "Natalya G.",
+     "family": "Kruglyakova",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "All-Russian Research Institute of Irrigated Agriculture – branch of the Federal Scientific Center of Hydraulic Engineering and Land Reclamation named after A. N. Kostyakov"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-3815-0448",
+     "authenticated-orcid": false,
+     "given": "Gleb A.",
+     "family": "Rulev",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "All-Russian Research Institute of Irrigated Agriculture – branch of the Federal Scientific Center of Hydraulic Engineering and Land Reclamation named after A. N. Kostyakov"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-9953-2319",
+     "authenticated-orcid": false,
+     "given": "Ekaterina V.",
+     "family": "Zinchenko",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "All-Russian Research Institute of Irrigated Agriculture – branch of the Federal Scientific Center of Hydraulic Engineering and Land Reclamation named after A. N. Kostyakov"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-5802-1339",
+     "authenticated-orcid": false,
+     "given": "Sofya V.",
+     "family": "Melnik",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "All-Russian Research Institute of Irrigated Agriculture – branch of the Federal Scientific Center of Hydraulic Engineering and Land Reclamation named after A. N. Kostyakov"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Land Reclamation and Hydraulic Engineering"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026
+     ]
+    ]
+   }
+  },
+  {
+   "DOI": "10.31774/2712-9357-2022-12-4-52-66",
+   "title": [
+    "THE IMPACT OF INNOVATIVE TECHNOLOGICAL PRACTICES ON PRODUCTIVITY AND QUALITY OF POTATOES IN IRRIGATED AGROCENOSES OF VOLGA REGION"
+   ],
+   "container-title": [
+    "Land Reclamation and Hydraulic Engineering"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2022
+     ]
+    ]
+   },
+   "author": [
+    {
+     "name": "Volga Research Institute of Hydraulic Engineering and Land Reclamation",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "V. A.",
+     "family": "Shadskikh",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "V. E.",
+     "family": "Kizhaeva",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "name": "Volga Research Institute of Hydraulic Engineering and Land Reclamation",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "V. O.",
+     "family": "Peshkova",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "name": "Volga Research Institute of Hydraulic Engineering and Land Reclamation",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "abstract": "<jats:p>Purpose: to study the efficiency of innovative agrotechnological practice application on the productivity and quality of potatoes in irrigated agrocenoses of Volga region.  Materials and methods. Field experiments to assess the efficiency of the innovative agrotechnical practices application in potato cultivation were carried out in the experimental production farm of Volga Research Institute of Hydraulic Engineering and Land Reclamation on dark chestnut medium loamy soils; in CJSC TH “Gulliver” of Kislovsky district Volgograd region; in Peasant Farm Enterprise Leonov A. P. in Kharabalinsky district Astrakhan region on experimental plots of 30 hectares. Variants of experiments included the microfertilizer application and decapitation in the flowering phase. The control crops were the production crops without innovative methods. Results. Assessment of feasibility of innovative agrotechnological practices application in potato cultivation on irrigated lands showed that their use had a positive impact on productivity and quality of the products obtained. The most profitable in the experiment should be considered the production of varieties with the highest yields and starch content in tubers – varieties Memphis with an yield of 61 t/ha and Flamingo with a starch content of 17 % in Saratov region, varieties Koroleva Anna 54 t/ha and Colombo 20 % in Volgograd region and varieties Evolution, where the yield was 61 t/ha and Riviera with a starch content of 24 % in Astrakhan region. Conclusions. The results of studying the features of formation and productivity of potato agrophytocenosis confirmed the high efficiency of using innovative cultivation methods to improve the quality indicators of yield during irrigation in Volga region.</jats:p>",
+   "is-referenced-by-count": 0,
+   "issue": "4"
+  },
+  {
+   "issue": "10",
+   "abstract": "<jats:p>The article presents in detail the mechanical composition of gypsum-sierozem, meadow-sierozem, sierozem-meadow, meadow, meadow-swamp soils and saline soils of different levels in the Zarbdor district of the Jizzakh region. Based on the data obtained, it has been given that, in terms of the amount of coarse dust and fine sand fraction, the soils of the region are dominated by medium, heavy and light sands, sometimes shown to ease up to scattered sand.</jats:p>",
+   "DOI": "10.37547/tajabe/volume02issue10-03",
+   "page": "12-16",
+   "is-referenced-by-count": 1,
+   "title": [
+    "Mechanical Composition Of Gypsum Virgin Land And Irrigated Soils Zarbdar District Of Jizzakh Region"
+   ],
+   "volume": "02",
+   "author": [
+    {
+     "name": "Doctor Of Philosophy In Biological Sciences (PhD), National University Of Uzbekistan Named After Mirzo Ulugbek, Uzbekistan",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Мakhkamova Dilafruz",
+     "family": "Yuldashevna",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "The American Journal of Agriculture and Biomedical Engineering"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2020,
+      10,
+      21
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "3",
+   "abstract": "<jats:p>Purpose: to study methods to control weed infestation of crops by resource-saving methods of soil tillage, ensuring improvement of the phytosanitary condition of the irrigated agrocenosis.  Materials and methods. The test scheme included studying the impact of moldboard plowing at different depths, flat-cut and surface primary tillage on weed infestation of crops. The features of agrotechnical methods in weed control were studied on experimental plots in Saratov region in 2021–2023. The experimental methodology is generally accepted.  Results. The influence of different methods of primary tillage on weed infestation of agricultural crops in the crop rotation link under irrigation is considered. It is revealed that with the use of pre-sowing tillage and inter-row tillage during the crop vegetation period, a significant decrease in weed infestation of lands for the next crop is noted. For the first crop of the link – Sudan grass – the highest weed infestation was noted in the variant of minimum cultivation at 8–10 cm, the number of weeds was 26.0 pcs./sq. m. During the vegetation period, due to the high density of standing, the weed infestation of crops before harvesting decreased in all variants of the experiment. On the second crop of the link – spring wheat – and the third crop – soybean – the weed infestation varied insignificantly in all variants of the experiment. Weed control provided the biological yield of green mass of Sudan grass of 32.7–37.5 t/ha, spring wheat grain – 3.30–3.59 t/ha, soybean – 4.09–4.35 t/ha according to the variants of the experiment. No significant difference in the impact of the method of primary tillage on crop yield was revealed.  Conclusions. Using the example of soybeans, Sudan grass and spring wheat, it has been proven that during their cultivation, using ploughing with furrow slice upside-down in the fall in combination with pre-sowing tillage and inter-row tillage during the crop vegetation is effective.</jats:p>",
+   "DOI": "10.31774/2712-9357-2024-14-3-192-210",
+   "page": "192-210",
+   "is-referenced-by-count": 0,
+   "title": [
+    "AGROTECHNICAL MEASURES TO CONTROL WEED INFESTATION OF CROPS BY TILLAGE IN IRRIGATED AGROCENOSIS"
+   ],
+   "volume": "14",
+   "author": [
+    {
+     "name": "Volga Research Institute of Hydraulic Engineering and Land Reclamation, Engels, Russian Federation",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Vladimir A.",
+     "family": "Shadskikh",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Vera E.",
+     "family": "Kizhaeva",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "name": "Volga Research Institute of Hydraulic Engineering and Land Reclamation, Engels, Russian Federation",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Svetlana V.",
+     "family": "Enenko",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "name": "Volga Research Institute of Hydraulic Engineering and Land Reclamation, Engels, Russian Federation",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Land Reclamation and Hydraulic Engineering"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2024
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "6",
+   "abstract": "<jats:p>The paper is dedicated to creating the source material and a new variety of winter soft wheat, resistant to adverse environmental factors with high rates of economically valuable traits.</jats:p>",
+   "DOI": "10.31149/ijie.v2i6.251",
+   "page": "240-242",
+   "is-referenced-by-count": 0,
+   "title": [
+    "Improving the system of selection and seed production of soft wheat for irrigated lands of Uzbekistan"
+   ],
+   "volume": "2",
+   "author": [
+    {
+     "given": "Umida",
+     "family": "Karshieva",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "International Journal on Integrated Education"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2020,
+      1,
+      8
+     ]
+    ]
+   }
+  },
+  {
+   "DOI": "10.35809/2618-8279-2020-3-6",
+   "title": [
+    "Development of land reclamation for forage production in the Altai Republic"
+   ],
+   "container-title": [
+    "\"Irrigated Agriculture\""
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2020,
+      7,
+      1
+     ]
+    ]
+   },
+   "is-referenced-by-count": 0,
+   "issue": "3",
+   "page": "33-36"
+  }
+ ]
+}

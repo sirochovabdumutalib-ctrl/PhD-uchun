@@ -1,0 +1,2283 @@
+{
+ "query": "Fergana Valley groundwater salinity irrigation",
+ "source": "Crossref",
+ "date": "2026-11-18",
+ "filter": "2020–2026, journal-article",
+ "n": 40,
+ "items": [
+  {
+   "issue": "1",
+   "DOI": "10.1080/23311932.2024.2449201",
+   "is-referenced-by-count": 12,
+   "title": [
+    "Effects of mulching, terracing, and efficient irrigation on soil salinity reduction in Uzbekistan’s Fergana Valley"
+   ],
+   "volume": "11",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0003-3347-1696",
+     "authenticated-orcid": false,
+     "given": "Mirzohid",
+     "family": "Koriyev",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Department of Natural Sciences, Namangan State Pedagogical Institute",
+       "place": [
+        "Namangan 160800, Uzbekistan"
+       ]
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0009-0006-0985-838X",
+     "authenticated-orcid": false,
+     "given": "Ismoiljon",
+     "family": "Mirzahmedov",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Geography and Environmental Protection, Namangan State University",
+       "place": [
+        "Namangan 160800, Uzbekistan"
+       ]
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0009-0003-1841-4180",
+     "authenticated-orcid": false,
+     "given": "Karimjon",
+     "family": "Boymirzaev",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Geography, University of Business and Science",
+       "place": [
+        "Namangan, Uzbekistan"
+       ]
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-6804-7273",
+     "authenticated-orcid": false,
+     "given": "Zuhriddin",
+     "family": "Juraev",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Geography, College of Social Sciences, Chonnam National University",
+       "place": [
+        "Gwangju 61186, Korea"
+       ]
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Cogent Food &amp; Agriculture"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      1,
+      10
+     ]
+    ]
+   },
+   "article-number": "2449201"
+  },
+  {
+   "issue": "3",
+   "abstract": "<jats:p>In arid environments, water shortages due to over-allocation of river flow are often compensated by lift irrigation or pumping groundwater. In such environments, farmers using pumped irrigation can deploy on-farm energy-efficient and water-saving technologies; however, pumping water requiring extra energy is associated with carbon emissions. This study explores how to increase crop production using pumped irrigation with minimal energy and carbon emissions. The purpose of this research is twofold: first, to examine on-farm energy consumption and carbon emissions in gravity and groundwater irrigation systems; and second, to explore system-level alternatives of power generation and water management for food production based on the results from the farm-level analysis. This study employs a novel system-level approach for addressing water, energy, and carbon tradeoffs under pumped irrigation using groundwater. These tradeoffs are assessed at farm and system levels. On-farm level estimates showed that farm-level interventions were insufficient to produce mutual gains. According to the results of the system-level evaluation, system-level interventions for water and energy conservation, the use of renewable energy to pump water for irrigation, and river basin scale cooperation are all required to maintain crop production while reducing energy consumption and carbon emissions.</jats:p>",
+   "DOI": "10.3390/su14031451",
+   "page": "1451",
+   "is-referenced-by-count": 14,
+   "title": [
+    "Water, Energy and Carbon Tradeoffs of Groundwater Irrigation-Based Food Production: Case Studies from Fergana Valley, Central Asia"
+   ],
+   "volume": "14",
+   "author": [
+    {
+     "given": "Akmal Kh.",
+     "family": "Karimov",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Ecology and Water Resources Management Department, Tashkent Institute of Irrigation and Agriculture Mechanization Engineers, Tashkent 100000, Uzbekistan"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Iroda",
+     "family": "Amirova",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Center for Policy Research and Outreach, Westminster International University in Tashkent, Tashkent 100047, Uzbekistan"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-8223-5687",
+     "authenticated-orcid": false,
+     "given": "Aziz A.",
+     "family": "Karimov",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "CAC Regional Office, International Center for Biosaline Agriculture, Tashkent 100000, Uzbekistan"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Abdullo",
+     "family": "Tohirov",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Sogd Branch, Tajik Institute of Horticulture and Vegetable Growing, Tajik Academy of Agricultural Science, Gafurov 735690, Tajikistan"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Botir",
+     "family": "Abdurakhmanov",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Ecology and Water Resources Management Department, Tashkent Institute of Irrigation and Agriculture Mechanization Engineers, Tashkent 100000, Uzbekistan"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Sustainability"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2022,
+      1,
+      27
+     ]
+    ]
+   }
+  },
+  {
+   "DOI": "10.36266/ijwr/116",
+   "title": [
+    "Analysis of Temporal Variation of Salinity, Salinity Responsible Ions, And Groundwater Level in Lower Shire Valley, Malawi"
+   ],
+   "container-title": [
+    "International Journal of Water Research"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2021,
+      7,
+      27
+     ]
+    ]
+   },
+   "is-referenced-by-count": 0,
+   "volume": "3",
+   "issue": "1",
+   "page": "1-5"
+  },
+  {
+   "issue": "05",
+   "abstract": "<jats:p>This article discusses the unregulated use of Syrdarya water resources, which had a significant impact on the Aral Sea tragedy.</jats:p>",
+   "DOI": "10.37547/tajas/volume03issue05-11",
+   "page": "67-70",
+   "is-referenced-by-count": 0,
+   "title": [
+    "The Impact Of The Expansion Of Irrigation Networks In The Fergana Valley On The Aral Sea Tragedy"
+   ],
+   "volume": "3",
+   "author": [
+    {
+     "name": "Independent Resear cher Of Namangan State University, Uzbekistan",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Ravshan",
+     "family": "Abdullaev",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "The American Journal of Applied sciences"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2021,
+      5,
+      7
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "1",
+   "abstract": "<jats:p>Study on survey, characterization and classification of groundwater quality in the different districts of Punjab was undertaken with a total of 3525 samples from 22 districts. Out of this, 3267 ground water samples from 8 districts of south-west districts of Punjab were collected by AICRP on Management of Saline Water and Associated Salinization in Agriculture (MSW&amp;ASA), Bathinda, while data of remaining 258 ground water samples from 14 districts were acquired from Central Ground Water Board (CGWB), New Delhi. The ground water samples were analyzed in the laboratory for electrical conductivity (EC), pH, concentrations of cation (Na+, Ca2+ + Mg2+) and anions (CO32-, HCO3 - and Cl-). The water samples were categorized into different irrigation water classes as per criterion provided by ICAR-Central Soil Salinity Research Institute, Karnal based on EC, Sodium Adsorption Ratio (SAR) and Residual Sodium Carbonate (RSC). The irrigation water classes include good quality, three subclasses for saline water and three subclasses for alkali water. The data indicated that sub-mountain undulating region (agro climatic region-I) contain the maximum (97.4%) good quality ground water followed by 66.7 % in undulating plain region (agro climatic region-II). However, minimum (20.6%) good quality water samples were recorded from central plain region (agro climatic region-III) followed by 23.6% in western region (agro climatic region-V). It was also reported that 27.9% samples were found in good quality water class “A”, 13.7% in marginally saline (B1), 4.7% in saline (B2) and 4.7% in high SAR saline water class (B3), respectively. Among alkali water samples, 8.3% come under marginally alkali (C1), 6.4% in alkali water (C2) and 34.3% in high alkali water class (C3), respectively. In case of anions, HCO3 was dominant ion followed by Cl and CO3 in water samples. These results highlight an increasing issue of declining groundwater quality, which poses threats to crop productivity, soil health, and long-term agricultural sustainability, especially in Punjab central and southwestern districts. In order to ensure sustainable agricultural production and stop further land degradation in Punjab, this study also emphasizes the urgent need for comprehensive water resource management policies.</jats:p>",
+   "DOI": "10.56093/jsswq.v18i1.179917",
+   "page": "39-46",
+   "is-referenced-by-count": 0,
+   "title": [
+    "Appraisal of Groundwater Quality of Punjab, India for Irrigation"
+   ],
+   "volume": "18",
+   "author": [
+    {
+     "given": "Brijesh Kumar",
+     "family": "Yadav",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Babu Lal",
+     "family": "Meena",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Journal of Soil Salinity and Water Quality"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      6,
+      30
+     ]
+    ]
+   }
+  },
+  {
+   "DOI": "10.32743/unitech.2021.91.10.12446",
+   "title": [
+    "MODERN WATER-SAVING METHODS OF IRRIGATION OF GARDENS OF FERGANA VALLEY OF UZBEKISTAN AND THEIR PROSPECTS"
+   ],
+   "container-title": [
+    "Universum:Technical sciences"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2021,
+      10,
+      26
+     ]
+    ]
+   },
+   "author": [
+    {
+     "given": "Dilsorakhon",
+     "family": "Saidkhodjaeva",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Obomuslim",
+     "family": "Abdukhalilov",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "is-referenced-by-count": 0,
+   "volume": "91",
+   "issue": "10-3"
+  },
+  {
+   "issue": "4",
+   "abstract": "<jats:p>Annotation: This article highlights the rich history of irrigation and irrigation in the beautiful Fergana Valley in the snowcapped mountains, as well as interesting historical facts in its study. You can also learn about the findings and conclusions of the leading researchers of their time, as well as a brief description of the ancient irrigation structures. Keywords: Irrigation, Liman method, Panjaatan (fan-like) method, nevillerovka, sepoya, tanob, labgardon, wooden molds, evolution.</jats:p>",
+   "DOI": "10.22214/ijraset.2022.40960",
+   "page": "292-295",
+   "is-referenced-by-count": 0,
+   "title": [
+    "History of Irrigation in the Fergana Valley"
+   ],
+   "volume": "10",
+   "author": [
+    {
+     "given": "Akhmedov Murodjon Inomjon",
+     "family": "Ugli",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "International Journal for Research in Applied Science and Engineering Technology"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2022,
+      4,
+      30
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "2",
+   "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Groundwater is a key source of water for agriculture, although it may become salinized by several natural and anthropogenic sources. Saline groundwater for irrigation results in soil salinization and reduces crop productivity. This study used indicator kriging (IK) to evaluate the spatial suitability of groundwater electrical conductivity (EC) levels for irrigation in the Pingtung Plain, Taiwan, because of highly skewed data on EC. IK was used to establish a conditional cumulative distribution function (CCDF) for groundwater EC. For robust estimation for skewed data, two approaches of probability‐based estimation, estimated probability values and p‐quantile estimates based on the CCDF, were investigated at an EC level of 750 μS/cm for the Taiwanese standard for irrigation water quality. These estimates were compared against the observed EC values to determine the optimal classifications of suitable irrigation. An interquartile range was used to examine the local uncertainty of the estimates. The results revealed groundwater with EC levels exceeding 750 μS/cm, primarily in southern coastal regions. Estimated probability values of 0.7 and 0.7‐quantile estimates based on the CCDF at an EC level of 750 μS/cm were used to identify regions with suitable groundwater quality for irrigation. Moreover, regions with more saline groundwater had greater local uncertainty.</jats:p>",
+   "DOI": "10.1002/ird.70062",
+   "page": "719-730",
+   "is-referenced-by-count": 1,
+   "title": [
+    "Using Probability‐Based Geostatistics to Evaluate the Spatial Distribution of Groundwater Salinity for Irrigation"
+   ],
+   "volume": "75",
+   "author": [
+    {
+     "given": "Ling‐Fang",
+     "family": "Chang",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Agricultural Engineering Research Center  Taoyuan Taiwan"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0009-0009-5658-5726",
+     "authenticated-orcid": false,
+     "given": "Cheng‐Shin",
+     "family": "Jang",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Leisure and Recreation Management Kainan University  Taoyuan City Taiwan"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Irrigation and Drainage"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      11,
+      12
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "01",
+   "abstract": "<jats:p>This article analyzes the dual character of Soviet agrarian policy in the Fergana Valley from the 1920s to the 1950s, focusing on irrigation modernization as both an engine of socio-economic transformation and a mechanism of political control. Drawing on historical scholarship and published documentary evidence, the study examines how early Soviet land-and-water reforms, collectivization, and centrally planned procurement targets intersected with large-scale hydraulic projects. The Fergana Valley—already one of Central Asia’s most intensively irrigated regions—became a strategic space where Soviet “development” ambitions converged with the imperatives of cotton specialization, labor mobilization, and administrative consolidation. The article argues that irrigation modernization carried two simultaneous logics: a productive-modernizing logic that expanded cultivated land, stabilized water delivery, and supported new institutional capacity; and an extractive-coercive logic that narrowed agrarian diversity, intensified quota pressures, and reinforced disciplinary governance over rural society. By tracing policy shifts across the interwar years, wartime constraints, and postwar reconstruction, the article clarifies how modernization gains and social costs were co-produced within the same policy framework, leaving a legacy that shaped later ecological and governance challenges in the Syr Darya basin.</jats:p>",
+   "DOI": "10.37547/ijhps/volume06issue01-15",
+   "page": "64-67",
+   "is-referenced-by-count": 0,
+   "title": [
+    "The Dual Character Of Soviet Agrarian Policy And Irrigation Modernization In The Fergana Valley (1920s–1950s)"
+   ],
+   "volume": "06",
+   "author": [
+    {
+     "name": "Candidate of historical sciences, associate professor at department of Social and Humanitarian Sciences, Pedagogy and Psychology at Andijan State Institute of Foreign Languages, Uzbekistan",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Nasritdinov Qobuljon",
+     "family": "Maxamadjanovich",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "International Journal Of History And Political Sciences"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      1,
+      27
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "6",
+   "abstract": "<jats:p>This study discusses the application of Geographic Information Systems (GIS) for enhancing the management of water resources in the Fergana Valley irrigation systems of Uzbekistan. The research addresses the main problems of water shortage, inefficient distribution of resources, and environmental issues such as soil salinity and reduced river runoff. The evidence suggests that signifacant enhancement of water use efficiency is achievable using GIS tools by detailed mapping and predictive modeling, thereby enhancing crop yields and enabling cross-border cooperation. Andijan projects demonstrate that GIS enables farmers to plan irrigation more effectively. The study analyzes 23 sources to make recommendations such as monitoring canals and equitable distribution of water, which appear highly feasible. The findings indicate that the use of GIS can have an enormous potential to improve agricultural yields in the Fergana Valley if adapted to the local context. Future research must focus on field experiments for the evaluation of the economic impact of GIS applications.</jats:p>",
+   "DOI": "10.59324/ejaset.2025.3(6).02",
+   "page": "17-23",
+   "is-referenced-by-count": 1,
+   "title": [
+    "Water Resource Management in Fergana Valley Irrigation Systems:  GIS Technologies Implementation to Enhance Optimization"
+   ],
+   "volume": "3",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0009-0004-3738-1449",
+     "authenticated-orcid": false,
+     "given": "Ravshan",
+     "family": "Istamov",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "European Journal of Applied Science, Engineering and Technology"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      10,
+      26
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "06",
+   "abstract": "<jats:p>The article describes the study of the components of nature in the Fergana Valley in the second half of the twentieth century, based on its stage of development in space and time, in the fourth quarter of the twentieth century, the geoecological significance of studying in the Fergana Valley. The dynamics and scientific results of complex natural geographical researches carried out during the 2000s are described.</jats:p>",
+   "DOI": "10.37547/tajiir/volume03issue06-16",
+   "page": "109-116",
+   "is-referenced-by-count": 0,
+   "title": [
+    "Natural Geographical Research In The Fergana Valley"
+   ],
+   "volume": "03",
+   "author": [
+    {
+     "name": "Senior Lecturer, Ph.D. Fergana State University, Uzbekistan",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Abdusamad Abdumalikovich",
+     "family": "Hamidov",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Nargiza Urinovna",
+     "family": "Komilova",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "name": "Doctor Of Philosophy (PhD) In Geography, Fergana State University, Uzbekistan",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "The American Journal of Interdisciplinary Innovations and Research"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2021,
+      6,
+      8
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "04",
+   "abstract": "<jats:p>The article gives some information about the medicinal usage of scutella (lamiaceous) because of its biologically active substances in it, finding natural storage of the types, defining the modern condition of population, the necessity of saving endangered species.</jats:p>",
+   "DOI": "10.37547/tajas/volume03issue04-14",
+   "page": "105-110",
+   "is-referenced-by-count": 0,
+   "title": [
+    "The Medicinal Types Of Scutella (Lamiaceous) Group Spread Over Fergana Valley"
+   ],
+   "volume": "03",
+   "author": [
+    {
+     "name": "The Head Teacher, Fergana State University, Uzbekistan",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Muhayyo Xusanovna",
+     "family": "Akbarova",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Marhabo Foyzullayevna",
+     "family": "Bekchonova",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "name": "Teacher, Fergana State University, Uzbekistan",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Omina Muhammadzikirovna",
+     "family": "G`Ofurova",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "name": "Teacher, Fergana State University, Uzbekistan",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Tursunoy Erkinovna",
+     "family": "Usmanova",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "name": "Master, Fergana State University, Uzbekistan",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "The American Journal of Applied sciences"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2021,
+      4,
+      29
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "2",
+   "abstract": "<jats:p>Ushbu Maqolada Farg‘ona vodiysi suv resurslarining shakllanishi va ulardan samarali foydalanish, yer osti suvlarining joylashuvi, chuchuk suv muammosi va uni bartaraf etish masalalari hamda Farg‘ona vodiysida sug‘orish va sug‘orishning boy tarixi, uni o‘rganishda qiziqarli tarixiy faktlar bayon etilgan.</jats:p>",
+   "DOI": "10.66073/refocus-conf/141",
+   "page": "121-126",
+   "is-referenced-by-count": 0,
+   "title": [
+    "FARG‘ONA VODIYSIDAGI IRRIGATSIYA MASALASI.",
+    "IRRIGATION ISSUE IN THE FERGANA VALLEY.",
+    "ПРОБЛЕМА ИРРИГАЦИИ В ФЕРГАНСКОЙ ДОЛИНЕ."
+   ],
+   "volume": "1",
+   "author": [
+    {
+     "family": "Ravshanqulov Firdavs Mashraf o‘g‘li",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Toshkent viloyati Yangiyo‘l shahar Ixtisoslashtirilgan maktab-internati Tarix fani o‘qituvchisi Mustaqil tadqiqotchi"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Partner conferences of the International Scientific Journal Research Focus"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      9,
+      2
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "2",
+   "abstract": "<jats:p>Groundwater is a strategic resource for irrigated agriculture in arid regions, where severe water scarcity and high evaporative demand constrain sustainable crop production. This study evaluates the suitability of groundwater in the Béni Ounif syncline, southwestern Algeria, for agricultural irrigation using 46 groundwater samples collected from the shallow and Continental Intercalaire (CI) aquifers. Irrigation quality was assessed through electrical conductivity (EC), sodium adsorption ratio (SAR), soluble sodium percentage (SSP), Kelly’s ratio (KR), permeability index (PI), potential salinity (PS), magnesium adsorption ratio (MAR), and the irrigation water quality index (IWQI). Results indicate low sodium hazard, with all samples classified as excellent according to SAR. IWQI classified all CI samples as good, while shallow-aquifer waters were 63.33% good and 36.67% excellent. However, high-salinity conditions occurred in 62.5% of CI and 26.67% of shallow samples, highlighting the need for drainage, leaching, and salt-tolerant crops for sustainable agricultural water management under prevailing local conditions.</jats:p>",
+   "DOI": "10.64149/waterlines.v44i2.1305",
+   "page": "256-271",
+   "is-referenced-by-count": 0,
+   "title": [
+    "Groundwater Suitability for Sustainable Irrigation in the Arid Béni Ounif Syncline, Southwestern Algeria: Salinity Hazards, and Irrigation Water Quality Indices"
+   ],
+   "volume": "44",
+   "author": [
+    {
+     "family": "ARFA Abdellah",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "family": "BOUSELSAL Boualem",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Waterlines"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      10,
+      19
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "12",
+   "abstract": "<jats:p>Thanks to independence, attention is paid to restoring historical memory, perpetuating the memory of those who fought for independence, revealing historical justice associated with the fate of our country, revealing the recent black pages of our people and nation, drawing conclusions from this history.It is a duty and duty to perpetuate the memory of the innocent victims.</jats:p>",
+   "DOI": "10.37547/tajas/volume02issue12-05",
+   "page": "21-25",
+   "is-referenced-by-count": 2,
+   "title": [
+    "Fergana Valley Architectural School Decoration Methods"
+   ],
+   "volume": "02",
+   "author": [
+    {
+     "name": "Professor, Tashkent Architecture Institute, Toshkent, Uzbekistan",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Arifjan Salimov",
+     "family": "Muslimovich",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Abdurakhmanov Ulugbek",
+     "family": "Arabdjon ogli",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "name": "Doctorant, The Department of construction of buildings and structures, Fergana Polytechnic Institute, Ferghana, Uzbekistan",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Tursunova Dilnoza",
+     "family": "Raufjonovna",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "name": "Doctorant, The Department of Architecture, Fergana Polytechnic Institute, Fergana, Uzbekistan",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "The American Journal of Applied sciences"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2020,
+      12,
+      27
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "06",
+   "abstract": "<jats:p>The article discusses the study of flora, one of the components of nature in the Fergana Valley, based on its stage of development in space and time. The article also describes the scientific results of research on the flora of the Fergana Valley and adjacent areas from 1917 to 1954.g of scientific research in the Fergana valley.</jats:p>",
+   "DOI": "10.37547/tajssei/volume03issue06-35",
+   "page": "210-214",
+   "is-referenced-by-count": 0,
+   "title": [
+    "Biogeographic Studies Conducted In The Fergana Valley"
+   ],
+   "volume": "03",
+   "author": [
+    {
+     "name": "Senior Lecturer, Ph.D. Fergana State University, Uzbekistan",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Abdusamad Abdumalikovich",
+     "family": "Hamidov",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Khurshid Bakhtiyorovich",
+     "family": "Khalilov",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "name": "Methodist Of The Fergana Regional Institute For Retraining And Advanced Training, Uzbekistan",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "The American Journal of Social Science and Education Innovations"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2021,
+      6,
+      30
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "53",
+   "abstract": "<jats:p>The Fergana Valley, a historically and ethnically diverse region in Central Asia, has experienced multiple ethnic conflicts that have significantly shaped its socio-political landscape. This paper investigates the underlying causes of these conflicts, their socio-economic and political ramifications, and their broader impact on interethnic relations. Employing historical analysis and qualitative research methods, the study examines how both past and contemporary ethnic tensions have affected regional stability. The findings underscore the role of economic inequalities, complex border demarcations, and political dynamics in exacerbating interethnic discord. Additionally, the study explores the impact of migration, resource competition, and national policies on ethnic relations. In addressing these challenges, the paper discusses potential conflict-resolution strategies, emphasizing the need for economic cooperation, equitable governance, and policies that promote social cohesion. Furthermore, it highlights the importance of fostering intercultural dialogue and regional collaboration to mitigate ethnic tensions and ensure long-term stability in the Fergana Valley. By providing a comprehensive analysis, this study contributes to a deeper understanding of ethnic conflicts in the region and offers insights into sustainable solutions for peacebuilding.\nKeywords:\nFergana Valley, ethnic conflicts, interethnic relations, socio-political impact, Central Asia, conflict resolution.</jats:p>",
+   "DOI": "10.24193/csq.53.3",
+   "page": "37-52",
+   "is-referenced-by-count": 0,
+   "title": [
+    "Central Asia: An Analysis of the Ethnic Conflicts in the Fergana Valley"
+   ],
+   "author": [
+    {
+     "name": "Fergana State University, Fergana City, Uzbekistan",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0003-3414-3774",
+     "authenticated-orcid": false,
+     "given": "Rakhmanali",
+     "family": "BEKMIRZAYEV",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Conflict Studies Quarterly"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      10,
+      3
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "12",
+   "abstract": "<jats:p>The Sustainable Groundwater Management Act (SGMA) of 2014 and the Central Valley Salinity Alternatives for Long-Term Sustainability (CVSALTS) initiative were conceived to reverse years of inaction on the over-pumping of groundwater and salination of rivers that both threaten agricultural sustainability in the State of California. These largely stakeholder-led, innovative policy actions were supported by modern tools of remote sensing and Geographic Information System technology that allowed stakeholders to make adjustments to existing resource management and jurisdictional boundaries to form policy-mandated Groundwater Sustainability Agencies (GSAs) and Salinity Management Areas (SMAs) to address future management responsibilities. Additional resources mobilized by the California Department of Water Resources (CDWR) and other water resource and water quality management agencies have been effective in encouraging the use of spreadsheet accounting and numerical simulation models to develop robust and coherent quantitative understanding of the current state and likely problems that will be encountered to achieve resource sustainability. This activity has revealed flaws and inconsistencies in the conceptual models underpinning this activity. Two case studies are described that illustrate the disparity in the challenges faced by GSAs in subregions charged with developing consensus-based Groundwater Sustainability Plans (GSPs). These case studies also illustrate the unique aspect of SGMA: that alongside mandates and guidelines being imposed statewide, local leadership and advocacy can play an important role in achieving long-term SGMA and CVSALTS goals.</jats:p>",
+   "DOI": "10.3390/su13126658",
+   "page": "6658",
+   "is-referenced-by-count": 10,
+   "title": [
+    "Innovations in Sustainable Groundwater and Salinity Management in California’s San Joaquin Valley"
+   ],
+   "volume": "13",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0003-3333-4763",
+     "authenticated-orcid": false,
+     "given": "Nigel W. T.",
+     "family": "Quinn",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "HEADS, Lawrence Berkeley National Laboratory, Berkeley, CA 94720, USA"
+      },
+      {
+       "name": "School of Engineering, University of California, Merced, CA 95353, USA"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0003-1154-8621",
+     "authenticated-orcid": false,
+     "given": "James D.",
+     "family": "Oster",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Environmental Sciences, University of California, Riverside (Emeritus), CA 92521, USA"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Sustainability"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2021,
+      6,
+      11
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "10",
+   "abstract": "<jats:p>The modern species composition of domestic poultry helminths in the Fergana Valley was studied, and it was found to consist of 45 species. These include 12 species of cestodes, 15 species of trematodes, and 18 species of nematodes. During the research, representatives of the families Davaineidae, Ascaridiidae, Heterakidae, Strongylida, and Capillaridae (Raillietina tetragona, Skrjabinia cesticillus, Ascaridia galli, Heterakis gallinarum, Syngamus trachea) were found in almost all domestic poultry. The research on the distribution, biology, and host damage properties of these helminths is essential for developing control measures.</jats:p>",
+   "DOI": "10.37547/ajast/volume04issue10-12",
+   "page": "80-86",
+   "is-referenced-by-count": 0,
+   "title": [
+    "TAXONOMIC ANALYSIS OF HELMINTHS FOUND IN DOMESTIC POULTRY IN THE FERGANA VALLEY"
+   ],
+   "volume": "4",
+   "author": [
+    {
+     "name": "Researcher, Fergana State University, Uzbekistan",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Baxtiyorjon Avazbekovich",
+     "family": "Abduvaliyev",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Zokirov Islomjon",
+     "family": "Ilkhomjonovich",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "name": "Professor of Department of Zoology and General Biology, DSc, Fergana State University, Uzbekistan",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "American Journal of Applied Science and Technology"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2024,
+      10,
+      1
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "10",
+   "abstract": "<jats:p xml:lang=\"tr\">Fergana vadisi günümüzde Tacikistan, Özbekistan ve Kırgızistan tarafından paylaşılmış yüzölçümü 23.000 Km², uzunluğu 300 Km, genişliği 70 Km kadar olan bir arazidir. Vadide 10 milyon nüfus yaşamaktadır. Bu nüfus yapısıyla, Orta Asya’nın yüksek nüfuslu bölgelerinden biridir. Coğrafik olarak Orta Asya’nın %5’ini kapsar. Ancak Orta Asya’daki nüfusun %25’i Fergana’da yaşamaktadır. Orta Asya’da kilometrekareye ortalama 17 kişi düşerken, Fergana Vadisi’nde bu sayı 640’a ulaşmaktadır. Fergana Vadisi’nin son on yılda yaşadığı nüfus artış oranı ise %32’dir. Vadideki nüfus yoğunluğunun 2020 yılında bazı bölgelerde 5000 kişi/km2’ye kadar çıktığı saptanmıştır. Amu Derya ve Sır Derya sularının paylaşımından kaynaklanan sorunlar, etnik çeşitlilik, Sovyetler döneminden miras kalan sınır sorunları ve anklav-eksklav sorunları; Selefilik, Vehhabilik, Şiilik gibi Türkistan’ın geleneksel İslam anlayışına aykırı dini akımlar, İslami sıfatını kullanan terör örgütleri ve İslam dışı misyoner faaliyetler Fergana Vadisi’nde gerginliklere ve çatışmalara neden olmaktadır. Bu makalede, Fergana Vadisi’nde gerginlik ve çatışmalara sebep olan faktörler değerlendirilmiş ve bazı çözüm önerileri sunulmuştur.</jats:p>",
+   "DOI": "10.55089/yyuvasad.1207148",
+   "page": "8-18",
+   "is-referenced-by-count": 2,
+   "title": [
+    "Türkistan’da Bir Sancı Odağı: Fergana Vadisi",
+    "A Pain Focus in Turkestan: Fergana Valley"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-0174-6504",
+     "authenticated-orcid": true,
+     "given": "Hüseyin",
+     "family": "KARADAĞ",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "İstanbul Gelişim Üniversitesi Diş Hekimliği Fakültesi"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Vankulu Sosyal Araştırmalar Dergisi"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2022,
+      12,
+      31
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "1",
+   "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Monitoring the spatiotemporal variations in groundwater parameters is essential for the effective management of water resources in irrigated agricultural regions. This study aims to evaluate the spatiotemporal changes in groundwater depth (GD) and salinity (EC) within the command area of the Koprucay Irrigation System via geostatistical methods integrated with geographic information systems. Trend analyses of the GD and EC values were conducted via the Mann–Kendall test. Our results revealed that the slope of the GD trend exhibited an increasing trend across nearly the entire area. Conversely, concerning the initial value of the trend slope, the entire study area was identified as falling within the ‘risky’ range. Furthermore, the slope of the EC trend demonstrated an increasing trend in only 16% of the study area. In terms of the initial value of the EC trend slope, it was determined that ‘risky’ areas are restricted to a narrow section. These results were probably because the irrigation system was an open channel network and that surface irrigation methods were still dominant in the region. In conclusion, the study highlights significant spatial disparities and temporal trends in GD and EC, underscoring the need for region‐specific management strategies.</jats:p>",
+   "DOI": "10.1002/ird.70031",
+   "page": "290-304",
+   "is-referenced-by-count": 1,
+   "title": [
+    "Spatial and Temporal Trend Analysis of Groundwater Depth and Salinity Using Geostatistics Integrated With GIS in the Koprucay Irrigation System in Antalya, Turkey"
+   ],
+   "volume": "75",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-1424-8870",
+     "authenticated-orcid": false,
+     "given": "Bekir Sitki",
+     "family": "Karatas",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Department of Agricultural Structures and Irrigation Faculty of Agriculture, Akdeniz University  Antalya Türkiye"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0009-0008-6335-5737",
+     "authenticated-orcid": false,
+     "given": "Bilgehan",
+     "family": "Cetinkaya",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "State Hydraulic Works, 13<sup>th</sup> Regional Directorate  Antalya Türkiye"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-8006-3882",
+     "authenticated-orcid": false,
+     "given": "Bekir",
+     "family": "Cengil",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Food and Agriculture Vocational School Çankiri Karatekin University  Çankiri Türkiye"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Irrigation and Drainage"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      9,
+      4
+     ]
+    ]
+   }
+  },
+  {
+   "abstract": "<jats:p>Today, the importance of energy cost and efficiency is gradually increase. The decrease in drinking water and agricultural water resources, increases the interest in drip irrigation systems in agricultural irrigation. Environmentally friendly photovoltaic drip irrigation systems (PVDIS) are the appropriate solution in regions where there is no electricity distribution network, where it is far away, or where power cuts are frequently. This study is carried out in the Fergana Valley of Uzbekistan. Regional climate data obtained from Climwat 2.0 software are processed in Cropwat 8.0 software. Crops that are both the source of livelihood of the people of the region and that can be used in this study have been determined. Annual and daily water needs are analyzed so that these crops are irrigated every seven days. A system is designed by taking the data of the crop with the highest water requirement as a reference. The drip irrigation system is set up in a PVsyst 7.1.7 simulation environment to pump 114.24 m<jats:sup>3</jats:sup> of water daily from a 5-meter-deep river with a 1.8 kW photovoltaic system. The efficiency of the system is 58.7% and the efficiency of the pump is 34.5%. Crop water need is met at the rate of 98.87%. It is predicted that the designed and analyzed PVDIS will provide efficiency in energy and water resources.</jats:p>",
+   "DOI": "10.1051/e3sconf/202130401004",
+   "page": "01004",
+   "is-referenced-by-count": 2,
+   "title": [
+    "Designing an irrigation system using photovoltaic energy by considering crop type in Fergana Valley"
+   ],
+   "volume": "304",
+   "author": [
+    {
+     "given": "Şakir",
+     "family": "Kuzey",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Cihat",
+     "family": "Şeker",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Mohamed",
+     "family": "Elweddad",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "M. Tahir",
+     "family": "Güneşer",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "E3S Web of Conferences"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2021
+     ]
+    ]
+   }
+  },
+  {
+   "DOI": "10.56292/sjfsu/vol29_iss6/a69",
+   "title": [
+    "APPROACHES TO WATER SECURITY IN FERGANA VALLEY"
+   ],
+   "container-title": [
+    "Scientific journal of the Fergana State University"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2023
+     ]
+    ]
+   },
+   "author": [
+    {
+     "given": "G‘.A",
+     "family": "Raxmonov",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "is-referenced-by-count": 0,
+   "volume": "29",
+   "issue": "6"
+  },
+  {
+   "issue": "4",
+   "DOI": "10.37200/ijpr/v24i4/pr201485",
+   "page": "3714-3722",
+   "is-referenced-by-count": 0,
+   "title": [
+    "Karakalpaks of the Fergana Valley: Matters of Movement, Resettlement and Ethnocultural Relations"
+   ],
+   "volume": "24",
+   "author": [
+    {
+     "given": "Atakxanov Rafikjon",
+     "family": "Sotvoldiyevich",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "International Journal of Psychosocial Rehabilitation"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2020,
+      2,
+      28
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "5",
+   "abstract": "<jats:p>The  use  of  natural  resources,  mitigation  of  natural  and  anthropogenic  processes,  and  environmental protection are inherently interrelated components of a unified and integrated system. These processes are most effectively implemented within specific landscapes or groups of landscapes. The nature conservation aspect of this system holds particular significance. This article examines such processes using the example of the Fergana Valley.</jats:p>",
+   "DOI": "10.37547/ajast/volume05issue05-05",
+   "page": "16-20",
+   "is-referenced-by-count": 0,
+   "title": [
+    "Regionalization ofNature Conservation inThe Fergana Valley"
+   ],
+   "volume": "5",
+   "author": [
+    {
+     "name": "Doctor of Geographical Sciences, Associate Professor, Namangan State University, Uzbekistan",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Abdugaffor Abdujabbarovich",
+     "family": "Nazarov",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "American Journal of Applied Science and Technology"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      5,
+      1
+     ]
+    ]
+   }
+  },
+  {
+   "DOI": "10.1016/j.jhydrol.2026.134999",
+   "page": "134999",
+   "is-referenced-by-count": 5,
+   "title": [
+    "Irrigation reshaping groundwater dynamics to regulate salinity threshold and transport"
+   ],
+   "volume": "668",
+   "author": [
+    {
+     "given": "Yuting",
+     "family": "Zhang",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-9354-4060",
+     "authenticated-orcid": false,
+     "given": "Hui",
+     "family": "Qian",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Kai",
+     "family": "Hou",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Yuan",
+     "family": "Fang",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Journal of Hydrology"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      4
+     ]
+    ]
+   },
+   "article-number": "134999"
+  },
+  {
+   "DOI": "10.47100/conferences.v1i1.1213",
+   "title": [
+    "THE ROLE OF WOMEN IN FERGANA VALLEY POTTERY"
+   ],
+   "container-title": [
+    "Конференции"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2021,
+      6,
+      22
+     ]
+    ]
+   },
+   "author": [
+    {
+     "given": "Xumora",
+     "family": "Pozilova",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "abstract": "<jats:p>Ushbu maqola Farg’ona vodiysi hunarmandchiligining eng muhim tarmoqlaridan biri bo’lgan kulolchilik tarixi va unda ayollarning o’rni qanday bo’lganligi to’g’risida ma’lumot beradi. Xususan, ayol kulollar tomonidan qanday buyumlar tayyorlanganligi, tayyorlanish jarayoni va ushbu buyumlarning erkak kulollar tayyorlagan buyumlardan farqli va o’xshash tomonlari yoritilgan.</jats:p>",
+   "is-referenced-by-count": 0
+  },
+  {
+   "DOI": "10.56292/sjfsu/vol28_iss1/a29",
+   "title": [
+    "EFFICIENCY OF INTRODUCTION OF WATER-SAVING IRRIGATION TECHNOLOGIES TO IMPROVE WATER USE IN THE FERGHANA VALLEY"
+   ],
+   "container-title": [
+    "Scientific journal of the Fergana State University"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2022
+     ]
+    ]
+   },
+   "author": [
+    {
+     "given": "G'.",
+     "family": "Raxmonov",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "is-referenced-by-count": 0,
+   "volume": "28",
+   "issue": "1"
+  },
+  {
+   "DOI": "10.47100/conferences.v1i1.1252",
+   "title": [
+    "GERMAN SCIENTISTS ABOUT THE FERGANA VALLEY"
+   ],
+   "container-title": [
+    "Конференции"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2021,
+      6,
+      22
+     ]
+    ]
+   },
+   "author": [
+    {
+     "given": "Nematjon",
+     "family": "Sobirov",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Aziz",
+     "family": "Akbarov",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "abstract": "<jats:p>Мақолада немис олимлари томонидан Фарғона водийси тарихини ўрганилиши, шунингдек, уларнинг Марказий Осиё ҳамда Фарғона водийси хариташунослигига қўшган ҳиссаси ҳақида сўз боради.</jats:p>",
+   "is-referenced-by-count": 0
+  },
+  {
+   "issue": "06",
+   "abstract": "<jats:p>Today, in the world it payed a great attention to ensuring soil stability, assessing the ecological and sanitary condition of eroded soils and substantiating the role of soil microflora in the classification of eroded soils into different types. Accordingly, the substantiation and implementation of the laws of formation of algoflora in soils under the influence of anthropogenic factors is a topical issue. In this regard, it is important to assess the current state of algae, especially in eroded soils, inventory, identify specific species, isolate their strains, obtain biomass. Winter analysis of algae flora of eroded soils of the Fergana Valley revealed the occurrence and predominance of species belonging mainly to the Cyanophyta and Chlorophyta divisions, with a small number of species belonging to the Bacillariophyta division. The obtained species were studied on the basis of microscopic analyzes in samples taken from the soil layers of the surface layers and profile of eroded soils.</jats:p>",
+   "DOI": "10.47191/rajar/v8i6.12",
+   "is-referenced-by-count": 0,
+   "title": [
+    "Winter Analysis of Algoflora of Erosed Soils of Fergana Valley"
+   ],
+   "volume": "08",
+   "author": [
+    {
+     "name": "Doctor of Philosophy in Biological Sciences, Namangan State University",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Tukhtaboeva",
+     "family": "Yu.A.",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "RA JOURNAL OF APPLIED RESEARCH"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2022,
+      6,
+      25
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "11",
+   "abstract": "<jats:p>This article examines how the Russian Empire institutionalized colonial rule in the Fergana Valley through the creation of the Fergana Oblast (province) administration after the liquidation of the Kokand Khanate. Focusing on the formative period from 1876 through the first decade of consolidated imperial governance, the study interprets “territorial control” as a complex assemblage of legal classification, spatial re-organization, bureaucratic staffing, fiscal extraction, and mediated authority. The establishment of the oblast did not merely extend an existing administrative template; it translated military conquest into an operational regime of rule by producing new borders, re-scaling local communities into imperial units, and formalizing a hierarchy of offices that connected Turkestan’s Governor-General to district and rural levels. Special attention is paid to the early uezd (district) structure, the relocation and symbolic “re-foundation” of the administrative center, and the use of statistical reporting as a governing technology. The article argues that the Fergana oblast administration became effective not primarily through the immediate replacement of local institutions, but through selective incorporation of indigenous intermediaries and normative pluralism, while retaining coercive capacity as a background condition. At the same time, the administrative order remained structurally constrained by limited personnel, informational asymmetries, and persistent contestation over land, water, and jurisdiction. The Fergana case demonstrates how imperial territorialization in Central Asia fused military, civil, and epistemic tools into a distinctive late-imperial colonial governance model.</jats:p>",
+   "DOI": "10.37547/ijhps/volume05issue11-20",
+   "page": "93-97",
+   "is-referenced-by-count": 0,
+   "title": [
+    "Colonial Governance and Territorial Control In The Fergana Valley: The Formation Of The Fergana Oblast Administration"
+   ],
+   "volume": "5",
+   "author": [
+    {
+     "name": "Lecturer at the Department of Social and Humanitarian Sciences, Pedagogy and Psychology at Andijan State Institute of Foreign Languages, Uzbekistan",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Raupova",
+     "family": "Mushtariybegim",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "International Journal Of History And Political Sciences"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      11,
+      1
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "12",
+   "abstract": "<jats:p>This article is devoted to assessing the ecological state of groundwater in the territory of Avval town. The paper examines the hydrogeological conditions of the area, factors influencing groundwater formation, anthropogenic impacts, sources of pollution, and the results of ecological monitoring. Laboratory analyses showed that some groundwater quality indicators deviate from sanitary standards, revealing, in particular, a potential risk related to nitrate levels.</jats:p>",
+   "DOI": "10.37547/ajast/volume05issue12-03",
+   "page": "17-20",
+   "is-referenced-by-count": 0,
+   "title": [
+    "Ecological State Of Groundwater In The “Avval” Township Of Fergana District"
+   ],
+   "volume": "5",
+   "author": [
+    {
+     "name": "Student majoring in Ecology and Environmental Protection at Fergana State University, Uzbekistan",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Xolmatova",
+     "family": "Surayyo",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Ahmedova Dilfuza",
+     "family": "Mahammadovna",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "name": "Associate Professor at Department of Ecology and Environmental Protection at Fergana State University, Uzbekistan",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "American Journal of Applied Science and Technology"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      12,
+      9
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "4",
+   "abstract": "<jats:p>This article explores the archaeological heritage of the Fergana Valley and its role in cultural tourism development. It provides a detailed overview of the historical and cultural sites in the Fergana, Namangan, and Andijan regions, emphasizing the significance of archaeological monuments such as Axsikent. The study highlights the importance of preserving ancient city ruins as open-air museums, which can contribute to both historical research and tourism industry growth.</jats:p>",
+   "DOI": "10.37547/ijhps/volume05issue04-12",
+   "page": "48-50",
+   "is-referenced-by-count": 0,
+   "title": [
+    "General Description of Historical and Cultural Heritage Sites in The Fergana Valley: Examples of Archaeological Monuments"
+   ],
+   "volume": "5",
+   "author": [
+    {
+     "name": "PhD candidate at Fergana State University, Uzbekistan",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Talabjonov Bunyodbek Saidaxmad",
+     "family": "o‘g‘li",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "International Journal Of History And Political Sciences"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      4,
+      1
+     ]
+    ]
+   }
+  },
+  {
+   "DOI": "10.56292/sjfsu/vol29_iss3/a53",
+   "title": [
+    "ARTISANS OF FERGANA VALLEY IN THE POST-INDUSTRIAL WORLD"
+   ],
+   "container-title": [
+    "Scientific journal of the Fergana State University"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2023
+     ]
+    ]
+   },
+   "author": [
+    {
+     "given": "Л",
+     "family": "Соколова",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "is-referenced-by-count": 0,
+   "volume": "29",
+   "issue": "3"
+  },
+  {
+   "DOI": "10.47100/conferences.v1i1.1245",
+   "title": [
+    "POWS OF THE FIRST WORLD WAR IN FERGANA VALLEY"
+   ],
+   "container-title": [
+    "Конференции"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2021,
+      6,
+      22
+     ]
+    ]
+   },
+   "author": [
+    {
+     "given": "Jakhongir",
+     "family": "Tojiboev",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "abstract": "<jats:p>Ушбу мақолада Биринчи жаҳон уруши йилларида асирликка тушган австро-венгер, немис ва бошқа Европа халқлари ҳарбийларининг Фарғона водийсининг турли хил ҳудудларидаги ҳарбий лагерлардаги фаолияти акс эттирилган. Шунингдек, уларнинг ўлка ижтимоий-иқтисодий ва маданий ҳаётида амалга оширилган ишлардаги иштироки талқин этилган.</jats:p>",
+   "is-referenced-by-count": 0
+  },
+  {
+   "abstract": "<jats:p>Soil salinity is a major concern in the Uzbekistan. Fergana valleys agricultural lands, it negatively affects plant growth, crop yields, whereas in central part of the valley is semi-desert and desert affects agricultural areas due to subsidence, corrosion and ground water quality, leading to further soil erosion and land degradation. Traditional soil salinity assessments have been doing by collecting of soil samples and laboratory analyzing of collected samples for determining totally dissolved soils (TDS) and electro conductivity, but, Geo-informatic systems (GIS) and Remote Sensing (RS) technologies provides more efficient, economic and rapid tools and techniques for soil salinity assessment and soil salinity mapping. Main goals of this research are to map soil salinity of Fergana valley, to show relation of its result with traditional analysing and analysing withGIS technology As a source of satellite images has been used Landsat-8 OLI. Research areas every arable land validity point of different locations were measured by Traditional soil salinity assessments by Soil composition and Repository, Quality analysis center was compared to our research conducted on satellite sensor and it can be said that the study have done correctly.</jats:p>",
+   "DOI": "10.1051/e3sconf/202125803012",
+   "page": "03012",
+   "is-referenced-by-count": 51,
+   "title": [
+    "Evaluation of soil salinity level through using Landsat-8 OLI in Central Fergana valley, Uzbekistan"
+   ],
+   "volume": "258",
+   "author": [
+    {
+     "given": "Ilhomjon",
+     "family": "Aslanov",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Shovkat",
+     "family": "Kholdorov",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Shodiqul",
+     "family": "Ochilov",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Azamat",
+     "family": "Jumanov",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Zafarjon",
+     "family": "Jabbarov",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Ilyakhoja",
+     "family": "Jumaniyazov",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Normamat",
+     "family": "Namozov",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "E3S Web of Conferences"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2021
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "1",
+   "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>Sustainable and efficient water resources management is important for the irrigation dominated agricultural system and therefore for the rural population and the environment of the arid regions. The objective of this study is to provide an overview of ecohydrology and irrigation water management in the region and to lay down some opportunities for cooperation at the transboundary level with the aim of increasing water productivity and environmental sustainability. Based on extensive literature review and analysis of secondary data from different organizations, we found that water management in the region’s agriculture faces increasing challenges that are accumulated over time. It is hoped that conclusions from this study will help set the stage for productive discussions and to identify research needs in the region.</jats:p>",
+   "DOI": "10.1088/1757-899x/883/1/012081",
+   "page": "012081",
+   "is-referenced-by-count": 16,
+   "title": [
+    "Ecohydrology of the Syrdarya River under irrigation water management in the Fergana Valley"
+   ],
+   "volume": "883",
+   "author": [
+    {
+     "given": "S",
+     "family": "Kenjabaev",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "A",
+     "family": "Arifjanov",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "H",
+     "family": "Frede",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "T",
+     "family": "Apakhodjaeva",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "IOP Conference Series: Materials Science and Engineering"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2020,
+      7,
+      1
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "06",
+   "abstract": "<jats:p>The article describes, in detail, the dynamical development of soil and geographical research conducted in the Fergana Valley in 1918-1945. Exactly at those years the comprehensivestudy introduction of the soils of the Fergana Valley was scientifically substantiated by the prevalence of different soils in the region, and specific scientific ideas were developed. The article describes in detail the growing geo-ecological significance of soil in the process of geographical research conducted in 1918-1945 and describes its scientific results.</jats:p>",
+   "DOI": "10.37547/tajas/volume03issue06-07",
+   "page": "44-50",
+   "is-referenced-by-count": 0,
+   "title": [
+    "Dynamics Of Soil-Geographical Research In The Fergana Valley (1918-1945)"
+   ],
+   "volume": "03",
+   "author": [
+    {
+     "name": "Senior Lecturer, Ph.D.Fergana State University, Uzbekistan",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Abdusamad Abdumalikovich",
+     "family": "Hamidov",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "The American Journal of Applied sciences"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2021,
+      6,
+      12
+     ]
+    ]
+   }
+  },
+  {
+   "issue": "12",
+   "abstract": "<jats:p>The article analyzes scientific collections, monographs and numerous articles on the history of cities. At the beginning of the century, effective work was carried out on the study of ancient cities. However, to date, the historiography of the subject has been little studied. Existing scientific views, approaches and conclusions on the problem of historical patterns of formation and development of cities in Bactria, Sogd, Khorezm, Tashkent oasis and Fergana, the main results of the study of ancient urbanization in Uzbekistan are not sufficiently analyzed and available data are not summarized.</jats:p>",
+   "DOI": "10.37547/history-crjh-02-12-03",
+   "page": "13-16",
+   "is-referenced-by-count": 0,
+   "title": [
+    "PECULIARITIES OF THE FIRST URBANIZATION PROCESSES IN THE FERGANA VALLEY"
+   ],
+   "volume": "02",
+   "author": [
+    {
+     "name": "History Teacher Academic Lyceum At Gulistan State University Gulistan, Uzbekistan",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Davlat",
+     "family": "Qudratov",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "CURRENT RESEARCH JOURNAL OF HISTORY"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2021,
+      12,
+      1
+     ]
+    ]
+   }
+  },
+  {
+   "DOI": "10.56292/sjfsu/vol28_iss2/a20",
+   "title": [
+    "Fergana valley: forms of the master initiation rite"
+   ],
+   "container-title": [
+    "Scientific journal of the Fergana State University"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2022
+     ]
+    ]
+   },
+   "author": [
+    {
+     "given": "Ludmila Mixaylovna",
+     "family": "Sokolova",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "is-referenced-by-count": 0,
+   "volume": "28",
+   "issue": "2"
+  }
+ ]
+}
