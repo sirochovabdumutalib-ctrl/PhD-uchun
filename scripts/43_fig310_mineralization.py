@@ -48,7 +48,7 @@ for _, r in M.iterrows():
 north_arrow(ax2, x=.92, y=.86, size=.07); scale_bar(ax2, 5, x=.05, y=.035, segs=5, fs=5.6)
 ax2.text(.03, .985, 'b', transform=ax2.transAxes, fontsize=10, weight='bold', va='top')
 h2 = [Patch(fc=COL[i], ec='#666', lw=.4, label=LAB[i]) for i in range(5)] + [Patch(fc='white', ec='#999', hatch='////', lw=.4, label='2004–2010-yillarda\noʻlchanmagan')]
-legend_box(lg2, h2, title='Massiv boʻyicha mediana, g/l (3.8-jadval)', loc='upper left', bbox_to_anchor=(0, 1), ncol=2, fs=5.5, borderaxespad=0, columnspacing=.8)
+legend_box(lg2, h2, title='Massiv boʻyicha mediana, g/l (37-ilova)', loc='upper left', bbox_to_anchor=(0, 1), ncol=2, fs=5.5, borderaxespad=0, columnspacing=.8)
 lg2.text(0, .02, 'Massiv yozuvida: mediana; 3 g/l dan yuqori quduqlar ulushi; quduqlar soni.', fontsize=5.1, color='#333', transform=lg2.transAxes)
 fig.text(.35 / FW, .1 / FH, 'Proyeksiya: WGS 84 / UTM 43N. Minerallashuv — 1-aprel, 1-iyul va 1-oktabr holatiga oʻlchovlar; 2004–2010-yillar ishonchli davr deb topilgan (3.5-§, 20-ilova).'
          '\nSinflar: < 1 g/l — chuchuk, 1–3 g/l — kam minerallashgan, ≥ 3 g/l — oʻrtacha minerallashgan suv [17]. Asos: Copernicus GLO-30 relyef soyasi.',

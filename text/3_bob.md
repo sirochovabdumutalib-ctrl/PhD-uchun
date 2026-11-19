@@ -52,7 +52,7 @@ Bu quduqlarda yillik o'rtacha sath 2009-yildagi 1,60 m dan 2024-yilda 1,99 m gac
 
 &#91;image: Sizot suvi sathining dinamikasi\]
 
-*3.2-rasm. Sizot suvi sathi: a — ko'p yillik o'zgarish (tekshirilmagan ma'lumot va doimiy kuzatilgan quduqlar — barqaror panel); b — yil ichidagi o'rtacha yo'li o'n kunliklar bo'yicha*
+*3.2-rasm. Sizot suvi sathi: a — ko'p yillik o'zgarish (tekshirilmagan ma'lumot va doimiy kuzatilgan quduqlar); b — yil ichidagi o'rtacha yo'li o'n kunliklar bo'yicha*
 
 **Pog'onali o'zgarish.** Sath bir tekis emas, pog'ona bilan o'zgargan. 2009–2016-yillarda o'rtacha sath 1,63 m, 2018–2024-yillarda 1,92 m; farq 0,30 m. Har bir davr ichida esa sezilarli o'zgarish yo'q (Sen qiyaligi yiliga 0,021 va 0,022 m; p = 0,26 va 0,23). Pettitt mezoni \[150\] bo'yicha sakrash 2016-yildan keyin yuz bergan (p = 0,023), yozgi sathda ham shunday. O'zgarishning asosiy qismi 2016 va 2018-yillar orasida yuz bergan; 2017-yil bo'yicha mustaqil kuzatuv ma'lumotlari mavjud emasligi sababli uzilishni bir yil aniqligida belgilab bo'lmaydi.
 
@@ -266,7 +266,7 @@ Ma'lumotlar nuqsoni tasodifiy emas: u aynan sath chuqur joylarda va yillarda to'
 
 &#91;image: Andijon viloyati tumanlari xaritasi\]
 
-*3.9-rasm. Andijon viloyati tumanlari: a — yaroqli o'lchovlar ulushi; b — doimiy kuzatilgan quduqlar (barqaror panel) bo'yicha sathning o'zgarish tezligi va yozgi sath medianasi (qalin chiziq — Marhamat tumani)*
+*3.9-rasm. Andijon viloyati tumanlari: a — yaroqli o'lchovlar ulushi; b — doimiy kuzatilgan quduqlar bo'yicha sathning o'zgarish tezligi va yozgi sath medianasi (qalin chiziq — Marhamat tumani)*
 
 Sath chuqurlashishi butun viloyatga xos: 14 ta tumanning 12 tasida ishonchli chuqurlashish aniqlandi, qolgan ikkitasida (Oltinko'l, Bo'ston) ham yo'nalish shu, lekin ishonchli emas. Hech bir tumanda sath ko'tarilmagan. Tumanlar bo'yicha chuqurlashish tezligining medianasi yiliga 3,3 sm; Marhamat tumani (yiliga 3,3 sm) aynan viloyat medianasida turadi. Bu 3.2-§ va 3.4-§ dagi xulosani kuchaytiradi: Marhamat tumanidagi chuqurlashish tumanning o'z drenaj tarmog'idagi o'zgarishlardan ko'ra viloyat miqyosidagi omillar, xususan suv ta'minoti va sug'orish rejimi bilan bog'liq bo'lishi ehtimoli yuqori. Biroq bu qiyos ta'mir ta'sirini to'liq istisno etmaydi, chunki boshqa tumanlarda ham shu yillarda kollektorlar ta'miri olib borilgan bo'lishi mumkin va bu haqda viloyat bo'yicha ma'lumot tahlil qilinmadi; ta'mir samarasi 4.3-§ da alohida baholanadi.
 

@@ -52,8 +52,8 @@ h1 = [Patch(fc=GC['I'], ec='#555', lw=.4, label='I — birinchi navbat: xavf yuq
       Patch(fc=GC['II'], ec='#555', lw=.4, label='II — xavf yuqori, tarmoq yaxshi'),
       Patch(fc=GC['III'], ec='#555', lw=.4, label='III — xavf past, sath chuqurlashmoqda'),
       Patch(fc='#f2f2f2', ec='#888', hatch='....', lw=.4, label='Monitoringni tiklash (maʼlumot yetarli emas)')]
-legend_box(lg1, h1, title='Ustuvorlik guruhi (4.7-jadval)', loc='upper left', bbox_to_anchor=(0, 1), fs=5.4, borderaxespad=0)
-lg1.text(0, .05, 'Massiv yozuvida: yozda sath < 1,5 m boʻlish ehtimoli > 0,3 boʻlgan maydon, %;\nshoʻrlanish xavfli quduqlar soni; sath tendensiyasi (↑ koʻtarilish, ↓ chuqurlashish).',
+legend_box(lg1, h1, title='Ustuvorlik guruhi (4.3-jadval)', loc='upper left', bbox_to_anchor=(0, 1), fs=5.4, borderaxespad=0)
+lg1.text(0, .05, 'Massiv yozuvida: yozda sath < 1,5 m boʻlish ehtimoli > 0,3 boʻlgan maydon, %;\nshoʻrlanish xavfli quduqlar soni; sathning oʻzgarishi (↑ koʻtarilish, ↓ chuqurlashish).',
          fontsize=5.0, color='#333', transform=lg1.transAxes, va='bottom')
 
 # ---------- b) chora-tadbirlar
@@ -73,8 +73,8 @@ h2 = [Line2D([], [], marker='^', ls='', mfc='#d7301f', mec='#1a1a1a', mew=.45, m
       Line2D([], [], color='#1b4f8a', lw=1.5, path_effects=[pe.Stroke(linewidth=2.4, foreground='white'), pe.Normal()],
              label=f'T-9, T-10: holati va sarfini tekshirish —\nq < {T2:.2f} l/(s·ga) kollektorlar ({low.nm.nunique()})'.replace('0.', '0,')),
       Patch(fc='white', ec='#7a5195', hatch='////', lw=.4, label='T-14: ichki zovurlarni inventarizatsiya —\ntaʼmirsiz ulush ≥ 70 % massivlar')]
-legend_box(lg2, h2, title='Birinchi navbatdagi chora-tadbirlar (4.6-jadval)', loc='upper left', bbox_to_anchor=(0, 1), fs=5.3, borderaxespad=0)
-fig.text(.35 / FW, .1 / FH, 'Proyeksiya: WGS 84 / UTM 43N. Manbalar: 4.7-jadval; shoʻrlanish xavfi — 3.5-§ (yozgi sath < 2,0 m va ≥ 1 g/l); zaxira — 3.1-§; kollektorlar sarfi — 4.2-§ '
+legend_box(lg2, h2, title='Birinchi navbatdagi chora-tadbirlar (52-ilova)', loc='upper left', bbox_to_anchor=(0, 1), fs=5.3, borderaxespad=0)
+fig.text(.35 / FW, .1 / FH, 'Proyeksiya: WGS 84 / UTM 43N. Manbalar: 4.3-jadval; shoʻrlanish xavfi — 3.5-§ (yozgi sath < 2,0 m va ≥ 1 g/l); zaxira — 3.1-§; kollektorlar sarfi — 4.2-§ '
          '\n(tranzit kollektorlarsiz, kadastr nomi aniqlanganlari); ichki zovurlar — 4.1-§. Asos: Copernicus GLO-30 relyef soyasi.', fontsize=5.0, color='#555', ha='left', va='bottom')
 rep = export(fig, 'figures/map8_priority', provenance={
     'raw_data': ['text/4_bob.md table 4.7 (priority, p30, risk wells, trend)', 'results/map4_wells.csv (risk>=1)', 'results/map2_wells.csv (margin<0.5)',

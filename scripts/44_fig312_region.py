@@ -68,7 +68,7 @@ legend_box(la, [Patch(fc=c, ec='#666', lw=.4, label=l) for c, l in zip(CA, LA)] 
            title='Yaroqli oʻlchovlar ulushi, %', loc='center left', ncol=5, fs=5.4, borderaxespad=0, columnspacing=1.0)
 lb = add_axes_cm(fig, .35, BM + .02, PW, LH, FW, FH); lb.axis('off')
 legend_box(lb, [Patch(fc=c, ec='#666', lw=.4, label=l) for c, l in zip(CB, LB)] + [Patch(fc='white', ec='#555', hatch='....', lw=.4, label='p ≥ 0,05')],
-           title='Sath tendensiyasi (barqaror panel), sm/yil — chuqurlashish; yozuvda: tendensiya va yozgi sath medianasi (2019–2023)', loc='center left', ncol=6, fs=5.4, borderaxespad=0, columnspacing=1.0)
+           title='Sathning oʻzgarish tezligi (doimiy kuzatilgan quduqlar), sm/yil — chuqurlashish; yozuvda: oʻzgarish tezligi va yozgi sath medianasi (2019–2023)', loc='center left', ncol=6, fs=5.4, borderaxespad=0, columnspacing=1.0)
 fig.text(.35 / FW, .1 / FH, "Proyeksiya: WGS 84 / UTM 43N. Manba: viloyat meliorativ ekspeditsiyasi monitoring jadvallari (14 ta tuman, "
          + f"{R['region']['wells']:,}".replace(",", " ") + " ta quduq, " + f"{R['region']['obs']:,}".replace(",", " ") + " ta oʻlchov), 3.1-§ dagi tekshiruv."
          + "\nTumanlar boʻyicha yaroqli oʻlchovlar ulushi va yozgi sath orasida ρ = " + "−" + f"{abs(R['rho_valid_level'][0]) + 1e-9:.2f}".replace(".", ",")

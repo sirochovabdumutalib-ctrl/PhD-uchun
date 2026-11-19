@@ -35,12 +35,12 @@ def georef():
     f, (a, b) = fig(W_FULL, 6.0, ncols=2)
     a.hist(r[r <= 10], bins=np.arange(0, 10.5, .5), color=OI['blue'], edgecolor='white', lw=.4)
     a.axvline(5, color=OI['verm'], ls='--', lw=1); a.text(5.2, a.get_ylim()[1] * .9, f'{sh5*100:.0f} % nuqtada\n5 m dan kichik', color=OI['verm'], fontsize=7, va='top')
-    a.set_xlabel('Qoldiq, m (10 m gacha)'); a.set_ylabel('Tayanch nuqtalar soni'); axes_commas(a, x=True); panel(a, 'a')
+    a.set_xlabel('Xato, m (10 m gacha)'); a.set_ylabel('Tayanch nuqtalar soni'); axes_commas(a, x=True); panel(a, 'a')
     rk = np.arange(1, n + 1)
     b.semilogy(rk[~big], r[~big], 'o', ms=2.2, color=OI['blue'], label=f'50 m gacha ({(~big).sum()} ta)')
     b.semilogy(rk[big], r[big], 'X', ms=4, color=OI['verm'], label=f'50 m dan katta ({big.sum()} ta)')
     b.axhline(5, color='#999', ls=':', lw=.8); b.text(3, 5.6, '5 m', fontsize=6.5, color='#555')
-    b.set_xlabel('Tayanch nuqtalar (qoldiq boʻyicha tartiblangan)'); b.set_ylabel('Qoldiq, m (log shkala)'); b.legend(loc='upper left'); panel(b, 'b')
+    b.set_xlabel('Tayanch nuqtalar (xato boʻyicha tartiblangan)'); b.set_ylabel('Xato, m (log shkala)'); b.legend(loc='upper left'); panel(b, 'b')
     b.yaxis.set_major_formatter(comma())
     export(f, 'figures/ch2_georef_residuals', dict(raw_data='data/wells_map_2024.csv (xaritadagi va jadvaldagi koordinatalar)', transformations=['WGS84 → UTM 43N', 'qoldiq = Evklid masofasi'],
            uncertainty='—', missing_data=f'jadval koordinatasi yoʻq quduqlar kiritilmagan; jami {n} ta nuqta'),
@@ -73,7 +73,7 @@ def density():
     a.errorbar(d.n, d.rmse, yerr=d.rmse_sd, fmt='o-', color=OI['blue'], ms=3.5, capsize=2.5, lw=1.1, label='Kriging xatosi (±1 SD, 40 takror)')
     a.axhline(cv, color=OI['verm'], ls='--', lw=1, label=f'Hududiy oʻrtacha bilan baho ({fmt(cv,2)} m)')
     for _, q in d.iterrows(): a.annotate(f"{int(q.nn_m)} m", (q.n, q.rmse), textcoords='offset points', xytext=(4, 5), fontsize=6.3, color='#444')
-    a.set_xlabel('Modelga kiritilgan quduqlar soni'); a.set_ylabel('Nazorat quduqlaridagi xato (RMSE), m'); axes_commas(a, x=True); a.legend(loc='upper right')
+    a.set_xlabel('Modelga kiritilgan quduqlar soni'); a.set_ylabel('Tekshiruv quduqlaridagi xato (RMSE), m'); axes_commas(a, x=True); a.legend(loc='upper right')
     export(f, 'figures/ch3_density', dict(raw_data='results/ch3_geo_ext.json density (18-skript)', transformations=['34 ta nazorat qudugʻi; qolganlardan 25–100 % tanlab olish'],
            uncertainty='±1 SD, har bir zichlik uchun 40 tasodifiy takror', missing_data='—'),
            f'Kuzatuv tarmogʻi zichligining kriging xatosiga taʼsiri: quduqlar soni {int(d.n.min())} tadan {int(d.n.max())} taga oshganda xato {fmt(d.rmse.iloc[0],2)} m dan {fmt(d.rmse.min(),2)} m gacha kamayadi; '
@@ -84,8 +84,8 @@ def dynamics():
     t = J('ch3')['trend']; s = J('ch3')['season']['profile']
     yrs = np.array(sorted(map(int, t['series']))); ser = np.array([t['series'][str(y)] for y in yrs]); nai = np.array([t['naive_series'][str(y)] for y in yrs])
     f, (a, b) = fig(W_FULL, 6.3, ncols=2)
-    a.plot(yrs, nai, 's--', color=OI['grey'], ms=3, lw=1, label='Xom maʼlumot, barcha quduqlar')
-    a.plot(yrs, ser, 'o-', color=OI['blue'], ms=3.5, lw=1.3, label=f'Tekshirilgan, barqaror panel ({t["panel_wells"]} ta quduq)')
+    a.plot(yrs, nai, 's--', color=OI['grey'], ms=3, lw=1, label='Tekshirilmagan maʼlumot, barcha quduqlar')
+    a.plot(yrs, ser, 'o-', color=OI['blue'], ms=3.5, lw=1.3, label=f'Tekshirilgan, doimiy kuzatilgan quduqlar ({t["panel_wells"]} ta)')
     a.invert_yaxis(); a.set_xlabel('Yil'); a.set_ylabel('Sizot suvi sathi, m'); a.legend(loc='lower left'); axes_commas(a, ydec=1); panel(a, 'a')
     a.set_xticks([2009, 2012, 2015, 2018, 2021, 2024]); a.xaxis.set_major_formatter(lambda v, _: f'{int(v)}')
     dd = np.array(sorted(map(int, s))); pv = np.array([s[str(k)] for k in dd])
@@ -166,7 +166,7 @@ def season():
     for i, (m, r) in enumerate(S.iterrows()):
         a.plot(r.index, r.values, ls=LS7[i], marker=MARK7[i], markevery=3, ms=3, lw=1.1, color=SEQ7[i], label=f'{LAT.get(m, m)} ({nw[m]})')
     a.invert_yaxis(); a.set_xticks(range(2, 37, 3), MONTHS); a.set_ylabel('Sizot suvi sathi, m'); a.set_xlabel('Oʻn kunlik'); axes_commas(a, ydec=1)
-    a.legend(ncol=4, loc='lower center', title='Massiv (panel quduqlari soni)', title_fontsize=7)
+    a.legend(ncol=4, loc='lower center', title='Massiv (doimiy kuzatilgan quduqlar soni)', title_fontsize=7)
     export(f, 'figures/ch3_season_massif', dict(raw_data='data/gw_levels_long.csv (17-skript bilan bir xil tozalash)', transformations=['oʻzgarmas qatorlar chiqarilgan', 'barqaror panel', 'massiv va oʻn kunlik boʻyicha oʻrtacha'],
            uncertainty='—', missing_data='Y.Oxunboboyev massivida panel qudugʻi yoʻq'),
            'Sizot suvi sathining yil ichidagi yoʻli massivlar boʻyicha (barqaror panel quduqlari). Barcha massivlarda sath yanvar–martda eng chuqur, may–avgustda eng sayoz; '
@@ -203,8 +203,8 @@ def event():
     a.errorbar(E.e[~ref], E.b[~ref], yerr=[E.b[~ref] - E.lo[~ref], E.hi[~ref] - E.b[~ref]], fmt='o', color=OI['blue'], ms=4, capsize=2.5, lw=1.1, label='Baho va 95 % ishonch oraligʻi')
     a.plot(E.e[ref], E.b[ref], 'o', mfc='white', mec=OI['blue'], ms=4, label='Asos yil (−1)')
     a.set_xticks(range(-4, 5), ['≤−4', '−3', '−2', '−1', '0', '1', '2', '3', '≥4']); axes_commas(a, ydec=1)
-    a.set_xlabel('Taʼmir yilidan beri oʻtgan yillar'); a.set_ylabel('Nazoratga nisbatan sath farqi, m\n(musbat — chuqurlashish)'); a.legend(loc='lower left')
-    a.text(-4.3, a.get_ylim()[1] * .9, f'taʼmirdan oldin: F = {fmt(pre["F"],2)}; p = {fmt(pre["p"],2)}', fontsize=6.5, color='#444')
+    a.set_xlabel('Taʼmir yilidan beri oʻtgan yillar'); a.set_ylabel('Uzoqdagi quduqlarga nisbatan\nsath farqi, m (musbat — chuqurlashish)'); a.legend(loc='lower left')
+    a.text(-4.3, a.get_ylim()[1] * .9, f'taʼmirdan oldingi yillar farqi: p = {fmt(pre["p"],2)}', fontsize=6.5, color='#444')
     export(f, 'figures/ch4_event_study', dict(raw_data='data/repair_panel.csv; results/ch4_repair_ext.json (25-skript)', transformations=['quduq va yil qatʼiy effektlari', 'asos: taʼmirdan bir yil oldin'],
            uncertainty='95 % ishonch oraligʻi, quduqlar boʻyicha klasterlangan standart xato', missing_data='mustaqil maʼlumoti boʻlmagan yillar chiqarilgan'),
            'Kollektor taʼmirining sizot sathiga dinamik taʼsiri: taʼmir yiliga nisbatan har bir yil uchun nazorat quduqlariga nisbatan sath farqi va 95 % ishonch oraligʻi. '

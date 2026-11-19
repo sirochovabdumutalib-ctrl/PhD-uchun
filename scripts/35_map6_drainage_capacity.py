@@ -79,7 +79,7 @@ h2 = [Patch(fc=cc, ec='#666', lw=.4, label=l) for cc, l in zip(SEQ, ['< 20', '20
 h2 += [Patch(fc='white', ec='#999', hatch='////', lw=.4, label='Kadastr nomi aniqlangan\nkollektor yoʻq'),
        Line2D([], [], color='#1a1a1a', lw=.9, label=f'q < {T2:.2f} kollektorlar'.replace('.', ','))]
 legend_box(lg2, h2, title=f'Kollektorlar uzunligining q < {T2:.2f} l/(s·ga)\nboʻlgan qismi, % (tranzitsiz)'.replace('0.', '0,'), loc='upper left', bbox_to_anchor=(0, 1), ncol=2, fs=5.4, borderaxespad=0)
-fig.text(.35 / FW, .1 / FH, 'Proyeksiya: WGS 84 / UTM 43N. q = 1000·Q/F — kadastrdagi kollektor oxiridagi sarf (Q) va xizmat maydoni (F) boʻyicha; talab etiladigan modul — 4.3-jadval (iyul). '
+fig.text(.35 / FW, .1 / FH, 'Proyeksiya: WGS 84 / UTM 43N. q = 1000·Q/F — kadastrdagi kollektor oxiridagi sarf (Q) va xizmat maydoni (F) boʻyicha; talab etiladigan modul — 4.1-jadval (iyul). '
          f'\nXaritada kadastr nomi aniqlangan {named.nm.nunique()} ta kollektor (90 tadan); kadastrdagi sarfning ishonchliligi tekshirilmagan (4.2-§). Asos: Copernicus GLO-30 relyef soyasi.',
          fontsize=5.0, color='#555', ha='left', va='bottom')
 rep = export(fig, 'figures/map6_drainage_capacity', provenance={

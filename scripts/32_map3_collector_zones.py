@@ -103,11 +103,11 @@ h2 = [Line2D([], [], marker=MB[i], ls='', mfc=RB[i], mec='#1a1a1a', mew=.45, ms=
       for i, l in enumerate(['< −1 (koʻtarilish)', '−1…+1', '+1…+3', '+3…+6', '> +6 (chuqurlashish)'])]
 h2 += [Line2D([], [], marker='v', ls='', mfc='white', mec='#4393c3', mew=.9, ms=4.4, label='Boʻsh belgi: p ≥ 0,05'),
        Line2D([], [], marker='.', ls='', c='#888', ms=4, label=f'Qator < 8 yil ({int(nt.sum())})')]
-l2 = legend_box(lg2, h2, title='Sath tendensiyasi (Sen qiyaligi),\nsm/yil; toʻldirilgan: p < 0,05', loc='upper left', bbox_to_anchor=(0, 1.0), ncol=1, fs=5.5, borderaxespad=0)
+l2 = legend_box(lg2, h2, title='Sathning oʻzgarish tezligi (Sen qiyaligi),\nsm/yil; toʻldirilgan: p < 0,05', loc='upper left', bbox_to_anchor=(0, 1.0), ncol=1, fs=5.5, borderaxespad=0)
 legend_box(lg2, zone_h, title='Kollektorgacha masofa\n(tuman maydonidan ulushi)', loc='upper right', bbox_to_anchor=(1.0, 1.0), fs=5.5, borderaxespad=0)
 lg2.add_artist(l2)
 fig.text(.35 / FW, .1 / FH, 'Proyeksiya: WGS 84 / UTM 43N. Zonalar — tumandagi barcha kollektor va zovurlardan bufer (2.3-§ qatlami); quduqgacha masofa shu qatlam boʻyicha. '
-         f'\nTekshirilgan oʻlchovlar (3.1-§); tendensiya — yillik oʻrtachalar boʻyicha Sen qiyaligi, Mann–Kendall mezoni; {len(D)} ta quduq. Asos: Copernicus GLO-30 relyef soyasi.',
+         f'\nTekshirilgan oʻlchovlar (3.1-§); oʻzgarish tezligi — yillik oʻrtachalar boʻyicha Sen qiyaligi, Mann–Kendall mezoni; {len(D)} ta quduq. Asos: Copernicus GLO-30 relyef soyasi.',
          fontsize=5.0, color='#555', ha='left', va='bottom')
 rep = export(fig, 'figures/map3_collector_zones', provenance={
     'raw_data': ['data/gw_levels_long.csv', 'data/wells_metrics.csv', 'gis/collectors.geojson', 'gis/district.geojson', 'gis/massifs.geojson', 'gis/dem/marhamat_dem30_utm43.tif'],

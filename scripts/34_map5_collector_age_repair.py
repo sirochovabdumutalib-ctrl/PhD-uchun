@@ -61,7 +61,7 @@ draw(ax2, 'kr')
 north_arrow(ax2, x=.92, y=.86, size=.07); scale_bar(ax2, 5, x=.05, y=.035, segs=5, fs=5.6)
 ax2.text(.03, .985, 'b', transform=ax2.transAxes, fontsize=10, weight='bold', va='top')
 legend_box(lg2, handles(R_L, km('kr')), title='Oxirgi taʼmir yili (kadastr)', loc='upper left', bbox_to_anchor=(0, 1), ncol=2, fs=5.5, borderaxespad=0, columnspacing=.9)
-lg2.text(0, .36, 'Massiv yozuvida: taʼmir qayd etilmagan xoʻjalik ichki zovurlari\nulushi, uzunlik boʻyicha (4.2-jadval); «—» — zovurlar kadastrda yoʻq.', fontsize=5.3, color='#333', transform=lg2.transAxes, va='top')
+lg2.text(0, .36, 'Massiv yozuvida: taʼmir qayd etilmagan xoʻjalik ichki zovurlari\nulushi, uzunlik boʻyicha (45-ilova); «—» — zovurlar kadastrda yoʻq.', fontsize=5.3, color='#333', transform=lg2.transAxes, va='top')
 fig.text(.35 / FW, .1 / FH, 'Proyeksiya: WGS 84 / UTM 43N. Rang va chiziq qalinligi: qizil va qalin — eskiroq (a) yoki uzoqroq taʼmirlangan (b). Kadastr nomi xarita boʻlaklariga 2.3-§ dagi tartibda biriktirilgan;' +
          (f'\nxaritadagi {c.length.sum() / 1e3:.1f} km kollektor-zovurdan {named.length.sum() / 1e3:.1f} km ga ({named.nm.nunique()} ta kollektor) kadastr maʼlumoti biriktirilgan').replace('.', ',') + '. Xoʻjalik ichki zovurlari xaritada alohida qatlam sifatida yoʻq. Asos: Copernicus GLO-30.',
          fontsize=5.0, color='#555', ha='left', va='bottom')

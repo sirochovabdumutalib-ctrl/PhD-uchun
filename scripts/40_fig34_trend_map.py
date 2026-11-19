@@ -68,24 +68,24 @@ for _, r in M.iterrows():
         sh = SH.get(r['name'], {})
         pv = '< 0,001' if v['p'] < .001 else f"= {v['p']:.3f}".replace('.', ',')
         fmt = lambda x, f: format(x, f).replace('.', ',').replace('-', '−')
-        t = f"{r['name']}\n{fmt(v['sen'] * 100, '+.1f')} sm/yil\nτ = {fmt(v['tau'], '.2f')}; p {pv}; n = {v['n']}"
-    else: t = f"{r['name']}\npanel quduqlari yoʻq"
+        t = f"{r['name']}\n{fmt(v['sen'] * 100, '+.1f')} sm/yil\np {pv}; n = {v['n']}"
+    else: t = f"{r['name']}\ndoimiy kuzatilgan\nquduq yoʻq"
     label_halo(ax2.text(p.x, p.y, t, ha='center', va='center', fontsize=5.1, weight='bold', color='#1a1a1a', zorder=25, linespacing=1.1), 1.8)
 north_arrow(ax2, x=.92, y=.86, size=.07); scale_bar(ax2, 5, x=.05, y=.035, segs=5, fs=5.6)
 ax2.text(.03, .985, 'b', transform=ax2.transAxes, fontsize=10, weight='bold', va='top')
 cax = add_axes_cm(fig, .35 + PW + .5 + .3, BM + 1.35, PW - .6, .22, FW, FH)
 cb = fig.colorbar(mpl.cm.ScalarMappable(norm=norm, cmap=cmap), cax=cax, orientation='horizontal', ticks=[-4, -2, 0, 2, 4, 6])
 cb.ax.set_xticklabels(['−4', '−2', '0', '+2', '+4', '+6']); cb.ax.tick_params(labelsize=5.4, length=1.5, width=.4); cb.outline.set_linewidth(.4)
-cb.ax.set_title('Massiv boʻyicha Sen qiyaligi, sm/yil (barqaror panel, 3.3-jadval)', fontsize=5.8, weight='bold', pad=3)
+cb.ax.set_title('Massiv boʻyicha Sen qiyaligi, sm/yil (doimiy kuzatilgan quduqlar, 3.1-jadval)', fontsize=5.8, weight='bold', pad=3)
 fig.text((.35 + PW + .5 + .3) / FW, (BM + .98) / FH, '← sath koʻtarilmoqda', fontsize=5.2, color='#b2182b', va='top')
 fig.text((.35 + 2 * PW + .5 - .3) / FW, (BM + .98) / FH, 'sath chuqurlashmoqda →', fontsize=5.2, color='#2166ac', va='top', ha='right')
-fig.text((.35 + PW + .5 + .3) / FW, (BM + .62) / FH, 'Massiv yozuvida: Sen qiyaligi; Mann–Kendall τ va p; panel quduqlari soni (n).', fontsize=5.0, color='#333', va='top')
-fig.text(.35 / FW, .1 / FH, 'Proyeksiya: WGS 84 / UTM 43N. Tekshirilgan oʻlchovlar (3.1-§): 2010, 2013, 2017-yillar va oʻzgarmas qatorlar chiqarilgan. Tendensiya yillik oʻrtachalar boʻyicha.'
-         f'\n≥ 8 yillik qatorli {chk["n"]} ta quduqdan {chk["no_xy"]} tasining koordinatasi yoʻq (xaritada {len(T)} ta). Y.Oxunboboyev massivida barqaror panel shartiga mos quduq yoʻq. Asos: Copernicus GLO-30.', fontsize=5.0, color='#555', ha='left', va='bottom')
+fig.text((.35 + PW + .5 + .3) / FW, (BM + .62) / FH, 'Massiv yozuvida: Sen qiyaligi; Mann–Kendall p; doimiy kuzatilgan quduqlar soni (n).', fontsize=5.0, color='#333', va='top')
+fig.text(.35 / FW, .1 / FH, 'Proyeksiya: WGS 84 / UTM 43N. Tekshirilgan oʻlchovlar (3.1-§): 2010, 2013, 2017-yillar va oʻzgarmas qatorlar chiqarilgan. Oʻzgarish tezligi yillik oʻrtachalar boʻyicha.'
+         f'\n≥ 8 yillik qatorli {chk["n"]} ta quduqdan {chk["no_xy"]} tasining koordinatasi yoʻq (xaritada {len(T)} ta). Y.Oxunboboyev massivida doimiy kuzatilgan quduqlar shartiga mos quduq yoʻq. Asos: Copernicus GLO-30.', fontsize=5.0, color='#555', ha='left', va='bottom')
 rep = export(fig, 'figures/fig34_trend_map', provenance={
     'raw_data': ['data/gw_levels_long.csv', 'data/wells_metrics.csv', 'results/ch3_dyn_ext.json (massif panel trends, table 3.3)', 'gis/*.geojson'],
     'transformations': ['QC as 3.1-§', 'per-well Sen slope on annual means, wells with >=8 years; Mann-Kendall', 'classes {<-1,-1..1,1..3,3..6,>6} cm/yr (same as fig 3.8b)',
                         'massif fill: panel Sen slope, TwoSlopeNorm(-4, 0, 6) cm/yr'], 'check_vs_text_3.2': chk},
     alt_text=f"""Ikki panelli xarita, Marhamat tumani. a — {len(T)} ta kuzatuv qudugʻi boʻyicha sizot suvi sathi tendensiyasi: koʻpchilik quduqlarda sath chuqurlashgan (koʻk, pastga
 qaragan uchburchaklar), sath koʻtarilayotgan quduqlar (qizil uchburchaklar) asosan shimoldagi Z.M.Bobur massivida. b — massivlar boʻyicha barqaror panel tendensiyasi:
-Z.M.Bobur yiliga −3,1 sm (koʻtarilish, qizil), qolgan massivlar +3,1…+5,3 sm/yil (chuqurlashish, koʻk); Y.Oxunboboyevda panel quduqlari yoʻq.""")
+Z.M.Bobur yiliga −3,1 sm (koʻtarilish, qizil), qolgan massivlar +3,1…+5,3 sm/yil (chuqurlashish, koʻk); Y.Oxunboboyevda doimiy kuzatilgan\nquduq yoʻq.""")

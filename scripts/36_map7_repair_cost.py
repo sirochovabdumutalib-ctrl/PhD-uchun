@@ -88,7 +88,7 @@ for v in (3000, 1500, 500):
     la.plot([xb, xb + 1.0 * mpc], [yb + 2 * rad] * 2, color='#555', lw=.4); la.text(xb + 1.05 * mpc, yb + 2 * rad, f'{v:,}'.replace(',', ' '), fontsize=5.2, va='center')
 la.text(0, 1.98 * mpc, 'Xarajat, ming soʻm/ga,\n2026-yil narxlarida (doira yuzasi)', fontsize=5.4, weight='bold', va='top')
 fig.text(.35 / FW, .1 / FH, 'Proyeksiya: WGS 84 / UTM 43N. Xarajat kollektor xaritadagi boʻlaklarining massivlardagi uzunligiga mutanosib taqsimlangan (36 ta kollektor, umumiy xarajatning 80 foizi). '
-         '\nXarajatlar 2026-yil oktabr narxlarida: isteʼmol narxlari indeksi boʻyicha, koeffitsiyentlar 2017 — 2,60; 2018 — 2,27; 2019 — 1,98; 2020 — 1,75 (4.4-§, 28-ilova).\nSpearman ρ (xarajat ~ xavf) = +0,46; p = 0,29; n = 7. Asos: Copernicus GLO-30 relyef soyasi.',
+         '\nXarajatlar 2026-yil oktabr narxlarida: isteʼmol narxlari indeksi boʻyicha, koeffitsiyentlar 2017 — 2,60; 2018 — 2,27; 2019 — 1,98; 2020 — 1,75 (4.4-§, 50-ilova).\nSpearman ρ (xarajat ~ xavf) = +0,46; p = 0,29; n = 7. Asos: Copernicus GLO-30 relyef soyasi.',
          fontsize=5.0, color='#555', ha='left', va='bottom')
 rep_ = export(fig, 'figures/map7_repair_cost', provenance={
     'raw_data': ['results/ch4_cost_ext.json (by_massif; table 4.5)', 'results/ch4_repair_costs.csv', 'gis/collectors_named.geojson', 'gis/massifs.geojson'],

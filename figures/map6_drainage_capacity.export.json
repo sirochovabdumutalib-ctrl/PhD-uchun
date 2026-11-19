@@ -5,13 +5,13 @@
       "format": "pdf",
       "kind": "vector-container",
       "path": "/home/user/PhD-uchun/figures/map6_drainage_capacity.pdf",
-      "size_bytes": 2157582
+      "size_bytes": 2157580
     },
     {
       "format": "png",
       "kind": "raster",
       "path": "/home/user/PhD-uchun/figures/map6_drainage_capacity.png",
-      "size_bytes": 2999829
+      "size_bytes": 2999206
     }
   ],
   "provenance": {
