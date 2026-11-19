@@ -776,3 +776,20 @@ Izoh: jadvalda quvvat (ta'sirni aniqlash ehtimoli) berilgan; Monte Karlo xatosi 
 
 Izoh: «mos» — dalil izohga zid emas, lekin uni isbotlamaydi; raqib izohlar bir vaqtda ta'sir qilishi mumkin. Tekshiruvlar: 57-skript (results/hypothesis_checks.json).
 
+
+## 55-ilova
+
+*55-ilova. Dissertatsiya natijalari va tumanga topshirilgan tavsiyanoma \[173\] muvofiqligi*
+
+| Masala | Dissertatsiya | Tavsiyanoma | Izoh |
+| --- | --- | --- | --- |
+| Kuzatuv quduqlari | 188 ta (kuzatuv jadvallari va pasport) | 188 ta (hisobotlar), GAT bazasida 213 ta | Mos keladi |
+| Sug'oriladigan maydon | 20 662 ga (xarita bo'yicha) | 17 965 ga (meliorativ ekspeditsiya hisoboti) | Maydon chegarasi turlicha olingan |
+| Kollektor-drenaj tarmog'i | Kadastr: 72 ta xo'jaliklararo kollektor, 202,5 km; xaritadan 214,6 km vektorlandi | GAT bazasi: 119 ta zovur, 240,3 km | Tarmoqning turli qismi hisobga olingan |
+| Yillik yog'in | 323 mm (bitta manba, izchil davr) | 196 mm (Andijon meteostansiyasi, 2015–2023) | Hisoblash davri va manba turlicha |
+| Xavfli massivlar | Z.M.Bobur, Istiqlol (I guruh), Mash'al (II guruh) | Mash'al, Paxtakor, Z.M.Bobur (1-navbat), Istiqlol (2-navbat) | Mash'al, Z.M.Bobur va Istiqlol ikkala hujjatda ham xavfli |
+| Paxtakor | III guruh: sath chuqur, sho'rlanish xavfli quduqlar 4 ta | 1-navbat: 2024-yilda minerallashgan sizot suvli yerlar 49,5 % | Mezon turlicha: quduqlardagi sath va hisobotdagi minerallashuv maydoni |
+| Mash'al | Tarmoq yaxshi holatda; sug'orish samaradorligi (T-15), minerallashuv kuzatuvi (T-8) | Zovurlarni tozalash, suvni me'yorlash, har oy o'lchash | Zid emas: tozalash mavjud tarmoqni saqlash |
+| Monitoring | Minerallashuvni o'lchashni tiklash (T-8), quduqlarni chuqurlashtirish (T-5), ma'lumotlarni tekshirish (T-1–T-4) | Minerallashuvni yiliga kamida 2 marta o'lchash, Diver datchiklari, hisobotlarda avtomatik tekshiruv | Mos keladi |
+| Ta'mir samarasini o'lchash | Ta'mirni kuzatuv bilan bog'lash (T-13), ta'mir daftari (T-10) | Istiqlol, ZKD-6-2: №76, №67, №32a quduqlarda 2027-yil sathini 2024–2026-yillar bilan solishtirish | Mos keladi |
+| Sug'orish | Ustuvor massivlarda sug'orish samaradorligini oshirish (T-15) | Sath chuqurligiga qarab sug'orish me'yori; qiyaliklarda tomchilatib sug'orish | Tavsiyanoma bu tavsiyani me'yorlar bilan aniqlashtiradi |
