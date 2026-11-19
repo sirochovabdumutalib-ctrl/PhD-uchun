@@ -793,3 +793,380 @@ Izoh: «mos» — dalil izohga zid emas, lekin uni isbotlamaydi; raqib izohlar b
 | Monitoring | Minerallashuvni o'lchashni tiklash (T-8), quduqlarni chuqurlashtirish (T-5), ma'lumotlarni tekshirish (T-1–T-4) | Minerallashuvni yiliga kamida 2 marta o'lchash, Diver datchiklari, hisobotlarda avtomatik tekshiruv | Mos keladi |
 | Ta'mir samarasini o'lchash | Ta'mirni kuzatuv bilan bog'lash (T-13), ta'mir daftari (T-10) | Istiqlol, ZKD-6-2: №76, №67, №32a quduqlarda 2027-yil sathini 2024–2026-yillar bilan solishtirish | Mos keladi |
 | Sug'orish | Ustuvor massivlarda sug'orish samaradorligini oshirish (T-15) | Sath chuqurligiga qarab sug'orish me'yori; qiyaliklarda tomchilatib sug'orish | Tavsiyanoma bu tavsiyani me'yorlar bilan aniqlashtiradi |
+
+## 56-ilova
+
+*56-ilova. 2025-yil bahori: kuzatuv ma'lumotlarini 2009–2024-yillarning shu oylari (mart–aprel) bilan solishtirish*
+
+| Yil | Quduqlar | Oltita o'n kunlikda qiymati bir xil quduqlar, % | Yaroqli quduqlar (doimiy kuzatilganlar) | O'rtacha sath, m | Mediana, m |
+| --- | --- | --- | --- | --- | --- |
+| 2009 | 121 | 22,3 | 90 | 1,63 | 1,53 |
+| 2011 | 137 | 23,4 | 97 | 1,57 | 1,45 |
+| 2012 | 133 | 31,6 | 89 | 1,75 | 1,62 |
+| 2014 | 135 | 27,4 | 92 | 1,69 | 1,57 |
+| 2015 | 134 | 19,4 | 98 | 1,75 | 1,72 |
+| 2016 | 125 | 19,2 | 91 | 1,75 | 1,66 |
+| 2018 | 188 | 16,5 | 95 | 1,96 | 1,95 |
+| 2019 | 188 | 16,5 | 98 | 1,87 | 1,84 |
+| 2020 | 141 | 0,0 | 92 | 2,04 | 1,90 |
+| 2021 | 188 | 12,8 | 100 | 2,20 | 2,06 |
+| 2022 | 188 | 12,8 | 99 | 1,99 | 1,88 |
+| 2023 | 188 | 14,9 | 98 | 2,04 | 1,98 |
+| 2024 | 188 | 13,8 | 97 | 2,09 | 2,00 |
+| 2025 | 188 | 32,4 | 79 | 2,03 | 1,89 |
+
+Massivlar bo'yicha bahorgi sath medianasi, m (2023 / 2024 / 2025): Z.M.Bobur 1,30 / 1,62 / 2,00; Istiqlol 1,58 / 1,74 / 1,78; M.To'jiboyev 2,05 / 2,09 / 1,84; Mash'al 1,97 / 1,86 / 1,88; Paxtakor 2,57 / 2,62 / 2,27; T.Mirzayev 1,89 / 1,95 / 1,88; U.Qoraboyev 2,82 / 2,92 / 2,24.
+
+Izoh: 2010, 2013 va 2017-yillar bo'yicha mustaqil kuzatuv ma'lumotlari mavjud emas. Doimiy kuzatilgan quduqlar — 14 yilning kamida 10 tasida yaroqli o'lchovi bor 101 ta quduq. Manba: meliorativ ekspeditsiyaning 2025-yil mart va aprel holatidagi jadvallari; hisob: 61-skript (results/spring_2025.json).
+
+## 57-ilova
+
+*57-ilova. Tavsiyanoma \[173\]: qisqartmalar va massivlarning asosiy tavsifi*
+
+a) Qisqartmalar
+
+| Qisqartma | To'liq nomi |
+| --- | --- |
+| BKP | Bioklimatik potensial |
+| GAT | Geoaxborot tizimi |
+| GTK | Gidrotermik koeffitsiyent (Selyaninov) |
+| ITHB | Irrigatsiya tizimlari havza boshqarmasi |
+| KDT | Kollektor-drenaj tarmog'i |
+| MSOZ | Sug'oriladigan yerlarning meliorativ holati |
+| ME | Meliorativ ekspeditsiya |
+| PQ | Prezident qarori |
+| SES | Sizot (yer osti) suvlari |
+| FIK | Foydali ish koeffitsiyenti |
+| Cm | Namlanish koeffitsiyenti (Ivanov) |
+| ETc | Ekinning suv iste'moli (jami bug'lanish) |
+| ETo | Etalon jami bug'lanish (FAO-56) |
+| Im | Namlik indeksi (Shashko) |
+| Kc | Ekin koeffitsiyenti |
+| Pe | Foydali yog'in |
+| Rn | Radiatsiya balansi |
+| VPD | Havoning to'yinish tanqisligi |
+
+b) Massivlarning asosiy tavsifi (tavsiyanoma, 1.1-jadval)
+
+| Massiv | Sug'oriladigan maydon, ga | Balandlik, m | O'rtacha nishab, ° | Nishabi >3° yerlar, % | Bonitet balli | G'o'za 2024, ga | Bug'doy 2024, ga |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| M.Tojiboyev | 2 167 | 559–719 | 2,5 | 25 | 58,9 | 456 | 503 |
+| T.Mirzayev | 2 946 | 592–794 | 2,3 | 20 | 62,6 | 804 | 1 062 |
+| Mash'al | 3 198 | 568–685 | 2,1 | 16 | 59,5 | 772 | 1 100 |
+| Paxtakor | 1 679 | 552–684 | 2,3 | 19 | 67,5 | 320 | 418 |
+| U.Qoraboyev | 1 843 | 558–658 | 1,8 | 12 | 62,2 | 491 | 622 |
+| Z.M.Bobur | 2 474 | 521–675 | 2,1 | 17 | 65,9 | 583 | 743 |
+| Istiqlol | 2 478 | 505–795 | 5,8 | 62 | 57,5 | 516 | 572 |
+| Y.Oxunboboyev | 1 189 | 651–895 | 5,9 | 79 | 43,5 | 91 | 158 |
+| Jami | 17 974 | 505–895 | — | — | 59,4 | 4 033 | 5 548 |
+
+Manba: tavsiyanoma \[173\]; matni kirill yozuvidan lotin yozuviga o'girilgan, sonlar o'zgartirilmagan.
+
+## 58-ilova
+
+*58-ilova. Marhamat tumani qishloq xo'jaligining sxematik xaritasi (massivlar chegaralari)*
+
+&#91;image: Marhamat tumani qishloq xo'jaligining sxematik xaritasi\]
+
+Manba: Marhamat tumani qishloq xo'jaligi sxematik xaritasi (meliorativ ekspeditsiya); xaritadagi yozuvlar asl holida (kirill yozuvida) berilgan.
+
+## 59-ilova
+
+*59-ilova. Tavsiyanoma \[173\]: Marhamat tumani relyefi, irrigatsiya va drenaj tarmog'i*
+
+&#91;image: Tavsiyanoma: relyef, irrigatsiya va drenaj tarmog'i\]
+
+Manba: tavsiyanoma \[173\], 1-rasm; yozuvlar asl holida (kirill yozuvida) berilgan.
+
+## 60-ilova
+
+*60-ilova. Tavsiyanoma \[173\]: tuproqlarning sho'rlanishi (a), eroziyasi va toshloqligi (b)*
+
+&#91;image: Tavsiyanoma: tuproqlarning sho'rlanishi, eroziyasi va toshloqligi\]
+
+Manba: tavsiyanoma \[173\], 2-rasm (tuproq-bonitet xaritasi asosida); yozuvlar asl holida (kirill yozuvida) berilgan.
+
+## 61-ilova
+
+*61-ilova. Tavsiyanoma \[173\]: sug'oriladigan yerlarning meliorativ holati, 2014–2025-yillar*
+
+&#91;image: Tavsiyanoma: meliorativ holat toifalari va minerallashgan sizot suvli yerlar\]
+
+a) Meliorativ holat toifalari, %; b) minerallashuvi 3 g/l dan yuqori sizot suvli yerlar, ming ga (tavsiyanoma, 3-rasm; yozuvlar asl holida).
+
+v) Massivlar kesimida meliorativ holat, 2023 → 2024 (tavsiyanoma, 3.1-jadval)
+
+| Massiv | Yaxshi, % (2023 → 2024) | Qoniqarsiz, % (2024) | SES <2 m, % (2023 → 2024) | SES >3 g/l, % (2024) | Dinamika |
+| --- | --- | --- | --- | --- | --- |
+| Mash'al | 31,8 → 2,2 | 4,7 | 31,5 → 78,3 | 61,7 | yomonlashish |
+| T.Mirzayev | 85,6 → 53,1 | 3,1 | 1,0 → 24,9 | 0 | yomonlashish |
+| Paxtakor | 13,0 → 11,2 | 4,1 | 19,2 → 19,6 | 49,5 | yomonlashish (suv sifati) |
+| Istiqlol | 37,4 → 31,2 | 5,9 | 35,4 → 42,1 | 4,6 | yomonlashish |
+| Z.M.Bobur | 6,4 → 9,7 | 4,3 | 71,5 → 62,6 | 0 | barqaror qoniqarli |
+| M.Tojiboyev | 50,3 → 54,2 | 0,9 | 15,1 → 16,9 | 0 | barqaror |
+| U.Qoraboyev | 41,9 → 45,1 | 0,3 | 11,6 → 7,4 | 0 | barqaror |
+| Y.Oxunboboyev | 94,5 → 95,0 | 0 | 0 → 0 | 0 | barqaror yaxshi |
+
+Manba: tavsiyanoma \[173\]; matni kirill yozuvidan lotin yozuviga o'girilgan, sonlar o'zgartirilmagan.
+
+## 62-ilova
+
+*62-ilova. Tavsiyanoma \[173\]: sizot suvi sathi 2 m dan sayoz (a) va minerallashuvi 3 g/l dan yuqori (b) yerlar ulushi, vegetatsiya davri, 2024-yil*
+
+&#91;image: Tavsiyanoma: sayoz va minerallashgan sizot suvli yerlar ulushi\]
+
+Manba: tavsiyanoma \[173\], 4-rasm; yozuvlar asl holida (kirill yozuvida) berilgan.
+
+## 63-ilova
+
+*63-ilova. Tavsiyanoma \[173\]: agroiqlim ko'rsatkichlari (NASA POWER, 2001–2023-yillar o'rtachasi)*
+
+| Ko'rsatkich | Qiymati | Bahosi |
+| --- | --- | --- |
+| Havoning o'rtacha yillik harorati, °C | 15,2 | issiq mo''tadil mintaqa |
+| Samarali haroratlar yig'indisi ΣT>10 °C | 5 051 | go'za va bog'dorchilik uchun yetarli |
+| Havoning to'yinish tanqisligi VPD (IV–X), kPa | 2,20 | yuqori bug'lanish talabi |
+| Namlanish koeffitsiyenti Cm | 0,11 | juda quruq |
+| Gidrotermik koeffitsiyent GTK | 0,21 | juda quruq (<0,4) |
+| Namlik indeksi Im | 0,05 | juda quruq |
+| Qurg'oqchilik indeksi Rn/(L·P) | 4,7 | cho'l tipidagi iqlim (>3) |
+| Bioklimatik potensial BKP | 0,54 | sug'orishsiz past |
+| Yillik yog'in / ETo, mm | 247 / 1 348 | tanqislik 1 100 mm |
+
+Manba: tavsiyanoma \[173\]; matni kirill yozuvidan lotin yozuviga o'girilgan, sonlar o'zgartirilmagan.
+
+## 64-ilova
+
+*64-ilova. Tavsiyanoma \[173\]: massivlarni baholash ko'rsatkichlari va integral bahosi (2024)*
+
+a) Ko'rsatkichlar va ularning chegaralari (tavsiyanoma, 2.1-jadval)
+
+| № | Ko'rsatkich | 2 ball | 1 ball | 0 ball | Manba |
+| --- | --- | --- | --- | --- | --- |
+| 1 | SES chuqurligi 2 m dan kam yerlar ulushi, % | <20 | 20–40 | >40 | tuman ME hisoboti, 12-jadval |
+| 2 | SES mineralizatsiyasi 3 g/l dan yuqori yerlar ulushi, % | <5 | 5–25 | >25 | tuman ME hisoboti, 12-jadval |
+| 3 | MSOZ «yaxshi» yerlar ulushi, % | ≥50 | 25–50 | <25 | tuman ME hisoboti, 15-jadval |
+| 4 | «Yaxshi» yerlar o'zgarishi 2023→2024, foiz punkti | ≥0 | −10…0 | <−10 | tuman ME hisoboti, 15-jadval |
+| 5 | Sho'rlangan (kuchsiz va undan yuqori) tuproqlar ulushi, % | <15 | 15–35 | >35 | tuproq-bonitet xaritasi |
+| 6 | Yuvilgan (eroziyaga uchragan) tuproqlar ulushi, % | <10 | 10–30 | >30 | tuproq-bonitet xaritasi |
+| 7 | O'rtacha nishab, ° | <2 | 2–4 | >4 | SRTM relyef modeli |
+| 8 | Bonitet balli | ≥60 | 50–60 | <50 | tuproq-bonitet xaritasi |
+
+b) Massivlarning integral bahosi; qavs ichida — ko'rsatkich olgan ball (tavsiyanoma, 4.2-jadval)
+
+| Massiv | SES <2 m, % | SES >3 g/l, % | Yaxshi, % | Δ yaxshi, f.p. | Sho'rlangan, % | Eroziya, % | Nishab, ° | Bonitet | Ball | Sinf |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Mash'al | 78,3 (0) | 61,7 (0) | 2,2 (0) | −29,7 (0) | 27,5 (1) | 6,7 (2) | 2,0 (1) | 59,5 (1) | 5 | qoniqarsiz |
+| Istiqlol | 42,1 (0) | 4,6 (2) | 31,2 (1) | −6,2 (1) | 15,6 (1) | 19,1 (1) | 5,8 (0) | 57,5 (1) | 7 | qoniqarsiz |
+| Y.Oxunboboyev | 0 (2) | 0 (2) | 95,0 (2) | +0,5 (2) | 41,7 (0) | 50,3 (0) | 5,9 (0) | 43,5 (0) | 8 | qoniqarli |
+| Paxtakor | 19,6 (2) | 49,5 (0) | 11,2 (0) | −1,8 (1) | 51,9 (0) | 0 (2) | 2,3 (1) | 67,5 (2) | 8 | qoniqarli |
+| Z.M.Bobur | 62,6 (0) | 0 (2) | 9,7 (0) | +3,3 (2) | 43,3 (0) | 0,2 (2) | 2,1 (1) | 65,9 (2) | 9 | qoniqarli |
+| T.Mirzayev | 24,9 (1) | 0 (2) | 53,1 (2) | −32,5 (0) | 31,7 (1) | 6,4 (2) | 2,3 (1) | 62,6 (2) | 11 | qoniqarli |
+| M.Tojiboyev | 16,9 (2) | 0 (2) | 54,2 (2) | +3,9 (2) | 6,5 (2) | 30,7 (0) | 2,5 (1) | 58,9 (1) | 12 | qoniqarli |
+| U.Qoraboyev | 7,4 (2) | 0 (2) | 45,1 (1) | +3,2 (2) | 12,5 (2) | 7,9 (2) | 1,8 (2) | 62,2 (2) | 15 | yaxshi |
+
+Jami ball bo'yicha sinflar: 14–16 — yaxshi, 8–13 — qoniqarli, 0–7 — qoniqarsiz.
+
+Manba: tavsiyanoma \[173\]; matni kirill yozuvidan lotin yozuviga o'girilgan, sonlar o'zgartirilmagan.
+
+## 65-ilova
+
+*65-ilova. Tavsiyanoma \[173\]: massivlarning integral bahosi (a) va maqbul meliorativ rejimi (b)*
+
+&#91;image: Tavsiyanoma: integral baho va maqbul meliorativ rejim\]
+
+Manba: tavsiyanoma \[173\], 5-rasm; yozuvlar asl holida (kirill yozuvida) berilgan.
+
+## 66-ilova
+
+*66-ilova. Tavsiyanoma \[173\]: Marhamat tumaniga olingan sug'orish suvi*
+
+a) Yillar bo'yicha olingan suv (tavsiyanoma, 5.1-jadval)
+
+| Yil | Yillik limit, mln m³ | Amalda olingan, mln m³ | Limitdan foydalanish, % | shu jumladan tik quduqlardan, mln m³ | Vegetatsiya davri: limit / amalda, mln m³ | Vegetatsiyadan tashqari, mln m³ | Yillik, m³/ga | Vegetatsiya davrida, m³/ga |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2014 | 151,1 | 157,6 | 104,3 | — | 135,3 / 142,4 | 15,1 | 8 568 | 7 745 |
+| 2015 | 183,5 | 203,6 | 110,9 | — | 143,5 / 159,0 | 44,6 | 11 065 | 8 639 |
+| 2016 | 213,5 | 203,4 | 95,3 | — | — | — | 11 056 | — |
+| 2019 | 206,7 | 191,5 | 92,7 | 5,18 | 156,2 / 138,2 | 53,3 | 10 945 | 7 900 |
+| 2020 | 174,1 | 159,8 | 91,8 | 5,69 | 136,5 / 121,6 | 38,2 | 9 132 | 6 950 |
+| 2022 | 148,1 | 138,5 | 93,5 | — | 106,5 / 113,6 | 24,9 | 7 704 | 6 319 |
+| 2023 | 167,9 | 153,4 | 91,3 | — | 120,5 / 120,5 | 32,9 | 8 532 | 6 704 |
+| 2024 | 159,0 | 147,3 | 92,6 | — | 124,8 / 124,8 | 22,5 | 8 195 | 6 943 |
+| 2025 | 148,0 | 147,3 | 99,5 | 0,28 | 109,3 / 109,3 | 38,0 | 8 200 | 6 084 |
+
+b) Kuzgi-qishki davrda olingan suv, sho'r yuvish va nam to'plash maydoni (tavsiyanoma, 5.2-jadval)
+
+| Mavsum | Suv limiti, mln m³ | Amalda olingan, mln m³ | Limitdan foydalanish, % | Sho'r yuvish va nam to'plash maydoni: reja / amalda, ming ga | Nam to'plashga talab etilgan suv, mln m³ | Gektariga olingan suv, m³/ga |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2023–2024 | 23,70 | 23,70 | 100 | 4,60 / 4,60 | 16,8 | 5 150 |
+| 2024–2025 | 27,52 | 19,76 | 72 | 3,75 / 3,75 | 21,1 | 5 270 |
+
+v) Gektariga berilgan suv va ekinlarning sug'orish me'yorlari, m³/ga (tavsiyanoma, 5.3-jadval)
+
+| Ko'rsatkich | Qiymati, m³/ga |
+| --- | --- |
+| Tuman chegarasida olingan suv, yillik (2025) | 8 200 |
+| shu jumladan vegetatsiya davrida (2025) | 6 080 |
+| Iste'molchilarga yetkazilgan suv (Marhamat) | 7 600 |
+| Iste'molchilarga yetkazilgan suv (viloyat bo'yicha o'rtacha) | 8 100 |
+| O'rtacha sug'orish me'yori (gidromodul rayonlashtirish bo'yicha) | 6 600 |
+| G'o'za, egatlab sug'orish: SES 1–2 / 2–3 / >3 m | 7 430 / 9 220 / 10 420 |
+| G'o'za, tomchilatib sug'orish: SES 1–2 / 2–3 / >3 m | 5 360 / 6 660 / 7 520 |
+| Kuzgi bug'doy, egatlab sug'orish: SES 1–2 / 2–3 / >3 m | 2 350 / 3 250 / 3 850 |
+
+Manba: tavsiyanoma \[173\]; matni kirill yozuvidan lotin yozuviga o'girilgan, sonlar o'zgartirilmagan.
+
+## 67-ilova
+
+*67-ilova. Marhamat tumaniga olingan sug'orish suvi (a) va gektariga olingan suv (b), 2014–2025-yillar*
+
+&#91;image: Tumanga olingan sug'orish suvi\]
+
+Manba: tavsiyanoma \[173\], 6-rasm; 66-ilovadagi sonlar bo'yicha lotin yozuvida qayta chizilgan.
+
+## 68-ilova
+
+*68-ilova. Tavsiyanoma \[173\]: kollektor-drenaj oqimi, suv minerallashuvi va suv-tuz balansi*
+
+a) Kollektor-drenaj oqimi va suv minerallashuvi (tavsiyanoma, 5.4-jadval)
+
+| Yil | Zovur oqimi, mln m³ | shu jumladan tik drenajdan, mln m³ | Daryoga tashlangan, mln m³ | Sug'orishga qaytarilgan, mln m³ | Zovur oqimi / olingan suv, % | Sug'orish suvi mineralizatsiyasi, g/l | Zovur suvi mineralizatsiyasi, g/l |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 2014 | 9,3 | 0,80 | — | — | 5,9 | 1,18 | 1,09 |
+| 2015 | 10,6 | — | — | — | 5,2 | 0,88 | 0,64 |
+| 2016 | 125,0 | — | — | — | 61,5 | 0,85 | 0,78 |
+| 2019 | 200,1 | — | — | — | 104,5 | 0,60 | 0,81 |
+| 2020 | 151,9 | — | — | — | 95,1 | 0,60 | 0,76 |
+| 2022 | 90,1 | 0,81 | 90,1 | 0 | 65,1 | 0,38 | 0,66 |
+| 2023 | 98,3 | 0,57 | 98,3 | 0 | 64,1 | 0,38 | 0,66 |
+| 2024 | 98,2 | 0,63 | 97,6 | 0 | 66,7 | 0,40 | 0,75 |
+| 2025 | 118,5 | 0,74 | 117,5 | 0,28 | 80,4 | 0,52 | 0,99 |
+
+b) Suv-tuz balansi, quruq qoldiq bo'yicha (tavsiyanoma, 5.5-jadval)
+
+| Yil | Kirgan tuz, ming t | Chiqqan tuz, ming t | Balans, ming t | Balans, t/ga |
+| --- | --- | --- | --- | --- |
+| 2014 | 185,9 | 10,1 | +175,8 | +9,56 |
+| 2015 | 179,2 | 6,8 | +172,4 | +9,37 |
+| 2016 | 172,9 | 97,5 | +75,4 | +4,10 |
+| 2019 | 114,9 | 162,1 | −47,2 | −2,70 |
+| 2020 | 95,9 | 115,4 | −19,6 | −1,12 |
+| 2022 | 52,6 | 59,5 | −6,9 | −0,38 |
+| 2023 | 58,3 | 64,9 | −6,6 | −0,37 |
+| 2024 | 57,3 | 73,6 | −16,3 | −0,91 |
+| 2025 | 76,6 | 87,4 | −10,8 | −0,60 |
+
+Manba: tavsiyanoma \[173\]; matni kirill yozuvidan lotin yozuviga o'girilgan, sonlar o'zgartirilmagan.
+
+## 69-ilova
+
+*69-ilova. Zovur oqimining olingan suvga nisbati (a), sug'orish va zovur suvining minerallashuvi hamda tuz balansi (b)*
+
+&#91;image: Zovur oqimi va tuz balansi\]
+
+Manba: tavsiyanoma \[173\], 7-rasm; 68-ilovadagi sonlar bo'yicha lotin yozuvida qayta chizilgan.
+
+## 70-ilova
+
+*70-ilova. Tavsiyanoma \[173\]: maqbul meliorativ rejim va sug'orish me'yorlari*
+
+a) Vegetatsiya davrida sizot suvi sathining maqbul va kritik chuqurligi, o'rta qumoqli tuproqlar (tavsiyanoma, 6.1-jadval)
+
+| SES mineralizatsiyasi, g/l | Maqbul chuqurlik, m | Kritik chuqurlik, m | Rejim turi |
+| --- | --- | --- | --- |
+| <1 | 1,5–2,0 | 1,2 | gidromorf (SES suvidan foydalanish) |
+| 1–3 | 2,0–2,5 | 1,8 | yarim gidromorf |
+| 3–5 | 2,5–3,0 | 2,2 | yarim avtomorf, drenaj jadallashtiriladi |
+| >5 | >3,0 | 2,5 | avtomorf, sho'r yuvish rejimi |
+
+b) Sug'orish me'yorlari, m³/ga (tavsiyanoma, 6.2-jadval)
+
+| Ekin | SES chuqurligi | ETc, mm | SES hissasi, mm | Netto me'yor | Egatlab (η = 0,65) | Tomchilatib (η = 0,90) |
+| --- | --- | --- | --- | --- | --- | --- |
+| G'o'za | 1–2 m | 778 | 233 | 4 830 | 7 430 | 5 360 |
+| G'o'za | 2–3 m | 778 | 117 | 5 990 | 9 220 | 6 660 |
+| G'o'za | >3 m | 778 | 39 | 6 770 | 10 420 | 7 520 |
+| Kuzgi bug'doy | 1–2 m | 392 | 118 | 1 530 | 2 350 | 1 700 |
+| Kuzgi bug'doy | 2–3 m | 392 | 59 | 2 110 | 3 250 | 2 350 |
+| Kuzgi bug'doy | >3 m | 392 | 20 | 2 510 | 3 850 | 2 780 |
+
+v) Massivlar bo'yicha maqbul meliorativ rejim (tavsiyanoma, 6.3-jadval)
+
+| Massiv | SES 2024, m (o'rtacha / eng sayoz) | Hozirgi rejim | Maqsadli SES chuqurligi, m | G'o'za me'yori, m³/ga (egat / tomchi) | Asosiy talab |
+| --- | --- | --- | --- | --- | --- |
+| Mash'al | 1,93 / 1,75 | gidromorf, SES 3–5 g/l | ≥2,5 | 9 220 / 6 660 | drenajni tiklash, SES ni pasaytirish |
+| Paxtakor | 2,43 / 2,04 | yarim gidromorf, SES 3–5 g/l | ≥2,5 | 9 220 / 6 660 | SES ni pasaytirish, sho'r yuvish |
+| Z.M.Bobur | 1,95 / 1,70 | gidromorf, chuchuk SES | 1,8–2,2 | 7 430 / 5 360 | suvni kamaytirish, SES dan foydalanish |
+| Istiqlol | 2,07 / 1,71 | aralash: tekislikda gidromorf, adirda avtomorf | 2,0–2,5 | 7 430–10 420 / 5 360–7 520 | tekislik va adirni alohida boshqarish |
+| M.Tojiboyev | 2,45 / 2,27 | yarim gidromorf | 2,0–2,5 | 9 220 / 6 660 | eroziyaga qarshi sug'orish |
+| U.Qoraboyev | 2,82 / 2,37 | yarim gidromorf | 2,0–2,5 | 9 220 / 6 660 | hozirgi holatni saqlash |
+| T.Mirzayev | 3,26 / 3,02 | avtomorf (25% yerda <2 m) | ≥2,0 | 10 420 / 7 520 | sayoz SES li uchastkalarni aniqlash |
+| Y.Oxunboboyev | 3,32 / 2,63 | avtomorf | >3,0 | 10 420 / 7 520 | tomchilatib sug'orish, eroziyani to'xtatish |
+
+Manba: tavsiyanoma \[173\]; matni kirill yozuvidan lotin yozuviga o'girilgan, sonlar o'zgartirilmagan.
+
+## 71-ilova
+
+*71-ilova. Tavsiyanoma \[173\]: massivlar bo'yicha tadbirlar rejasi*
+
+| Navbat | Massiv | Tadbir | Kutiladigan natija | Muddat |
+| --- | --- | --- | --- | --- |
+| 1 | Mash'al | KDT va xo'jaliklararo zovurlarni tozalash, tik drenaj quduqlarini tiklash; zovur oqimi va mineralizatsiyasini har oy o'lchash | vegetatsiyada SES ≥2,5 m, >3 g/l maydon 1,97 ming ga dan kamayadi | 2026–2027 |
+| 1 | Mash'al | Suv taqsimotini me'yorlash (g'o'za uchun 9 220 m³/ga dan oshmasligi), oqova suvlarni kamaytirish | filtratsiya isrofi kamayadi | har yil |
+| 1 | Paxtakor | Kuzgi tuproq suratmasi; sho'rlangani tasdiqlangan yerlarda sho'r yuvish (≈ 2 200 m³/ga); zovurlarni tozalash | SES ≥2,5 m, «yaxshi» yerlar ulushi 11% dan oshadi | 2026–2027 |
+| 1 | Z.M.Bobur | Sug'orish me'yorini «1–2 m» guruhi darajasiga tushirish (7 430 m³/ga); sug'orishlar oralig'ini uzaytirish | SES suvidan foydalaniladi, <2 m yerlar 63% dan kamayadi | har yil |
+| 2 | Istiqlol | Adir qismida (nishab >3°) tomchilatib sug'orish; tekislikda zovurlarni tozalash | eroziya va pastki yerlarga suv tushishi kamayadi | 2026–2028 |
+| 2 | Y.Oxunboboyev | Tomchilatib yoki yomg'irlatib sug'orish; nishab yerlarda terrasalash, bog' qator oralarini chimzorlash | suv sarfi gektarga ≈ 2 900 m³ ga kamayadi, eroziya to'xtaydi | 2026–2028 |
+| 2 | M.Tojiboyev | Egat uzunligini qisqartirish va kichik oqimli sug'orish; nishab uchastkalarda tomchilatib sug'orish | yuvilgan yerlar (31%) kamayadi | 2026–2028 |
+| 2 | T.Mirzayev | SES sathi 2 m dan sayoz uchastkalarni (25%) joyida aniqlash; zovursiz 1 120 ga da mahalliy drenaj zaruratini baholash | 2024 yildagi salbiy siljish sababi aniqlanadi | 2026 |
+| 3 | U.Qoraboyev | Hozirgi sug'orish va drenaj rejimini saqlash, monitoring | «yaxshi» baho saqlanadi | har yil |
+| Tuman | Barcha massivlar | 188 ta kuzatuv qudug'ida SES mineralizatsiyasini yiliga kamida 2 marta o'lchash; natijalarni GAT da 1×1 km to'r bo'yicha tahlil qilish | yomonlashish ilgari aniqlanadi | har yil |
+| Tuman | Barcha massivlar | ME bahosi va tuproq-bonitet xaritasidagi sho'rlanish ma'lumotlarini muvofiqlashtirish (5 097 ga) | sho'r yuvish aniq yerlarda o'tkaziladi | 2026 |
+| Tuman | Barcha massivlar | Integral ballni har yili ME hisoboti asosida yangilash | tadbirlar samarasi baholanadi | har yil |
+
+Manba: tavsiyanoma \[173\]; matni kirill yozuvidan lotin yozuviga o'girilgan, sonlar o'zgartirilmagan.
+
+## 72-ilova
+
+*72-ilova. Istiqlol massividagi ZKD-6-2 zovurini tozalash (a) va yopiq-yotiq zovur qudug'idagi beton ishlari (b), 11.11.2026*
+
+&#91;image: Istiqlol massividagi ZKD-6-2 zovurini tozalash\]
+
+Manba: tavsiyanoma \[173\], 9-rasm (dala kuzatuvi). Tozalash samarasi №76, №67 va №32a kuzatuv quduqlarida 2027-yil vegetatsiya davridagi sathni 2024–2026-yillar bilan solishtirib baholanadi (4.5-§).
+
+## 73-ilova
+
+*73-ilova. Tavsiyanoma \[173\]: Andijon viloyatining asosiy meliorativ ko'rsatkichlari va suv yetkazib berish*
+
+a) Asosiy meliorativ ko'rsatkichlar, 2025-yil (tavsiyanoma, 8.1-jadval)
+
+| Ko'rsatkich | Qiymati | Viloyat ME jadvali |
+| --- | --- | --- |
+| Sug'oriladigan yer | 270,9 ming ga | J-2 |
+| MSOZ: yaxshi / qoniqarli / qoniqarsiz | 41,2% / 57,5% / 1,3% | J-15 |
+| SES sathi 2 m dan sayoz yerlar (2024) | 89,2 ming ga (32,8%) | J-12 |
+| Kollektor-drenaj tarmog'i bilan ta'minlangan yer | 186,4 ming ga (68,8%) | J-2 |
+| Kollektor-drenaj tarmog'i / shundan ta'mir talab | 8 251,6 km / 807,6 km | J-4b |
+| Tik drenaj quduqlari / ishlagani / suv o'lchagichlisi | 485 / 136 (28%) / 32 | J-10, J-10a |
+| Kuzatuv quduqlari / onlayn (“Diver”) / ta'mir talab | 2 210 / 725 / 241 | J-11 |
+| Tizimli ta'mirlash: reja / bajarildi | 1 008,7 km / 807,9 km (80%) | J-5a |
+| Kollektor-drenaj oqimi | 1 673,7 mln m³ | J-16a |
+
+b) Sug'orishga olingan va iste'molchiga yetkazilgan suv, mln m³ (tavsiyanoma, 8.2-jadval)
+
+| Yil | Viloyatga olingan (amalda) | Iste'molchiga yetkazilgan | Yo'qotish | Iste'molchiga yetgan ulush |
+| --- | --- | --- | --- | --- |
+| 2025 | 2 207,0 | 1 468,7 | 738,3 | 66,5% |
+| 2024 | 2 161,9 | 1 478,0 | 683,9 | 68,4% |
+| 2023 | 2 175,0 | 1 448,0 | 727,0 | 66,6% |
+
+Manba: tavsiyanoma \[173\]; matni kirill yozuvidan lotin yozuviga o'girilgan, sonlar o'zgartirilmagan.
+
+## 74-ilova
+
+*74-ilova. Andijon viloyati tumanlarida berilgan sug'orish suvining me'yorga nisbati*
+
+&#91;image: Viloyat tumanlarida suvning me'yorga nisbati\]
+
+Manba: tavsiyanoma \[173\], 8-rasm; lotin yozuvida qayta chizilgan.

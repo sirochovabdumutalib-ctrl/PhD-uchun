@@ -38,6 +38,8 @@ Bu taqsimotning sababi 3.1-rasm, b da ko’rinadi. Unda quduq tubigacha zaxira, 
 
 **Umumiy baho.** Tekshiruvdan so’ng 64 761 ta o’lchov (umumiy hajmning 87,7 foizi) tahlil uchun yaroqli deb topildi; ularning 8,2 foizi kesilgan qiymat sifatida belgilandi. Haqiqiy sathni aks ettiruvchi to’liq o’lchovlar umumiy hajmning taxminan 80 foizini tashkil etadi. Bu ko’rsatkich Marhamat tumani meliorativ monitoring ma’lumotlari ishonchliligining miqdoriy bahosi hisoblanadi.
 
+**2025-yil bahori.** Tekshiruv 2025-yil mart va aprel oylaridagi 188 ta quduq o’lchovlariga ham qo’llanildi (56-ilova). Shu ikki oyning oltita o’n kunligida qiymati bir xil bo’lgan quduqlar ulushi 32,4 foiz; 2021–2024-yillarning shu oylarida bu ulush 12,8–14,9 foiz edi. Demak, tekshiruv yangi ma’lumotlar uchun ham zarur. Yaroqli quduqlarda bahorgi o’rtacha sath 2,03 m bo’lib, 2023–2024-yillar darajasida (2,04–2,09 m) qoldi.
+
 Monitoring tizimining asosiy kamchiliklari quduqlar chuqurligining sizot rejimiga mos emasligi va quruq quduq holati hamda tarmoq tarkibidagi o’zgarishlarning hujjatlashtirilmasligidir. Ularni bartaraf etish bo’yicha tavsiyalar 4.5-§ da berilgan.
 
 ## 3.2-§. Sizot suvi sathining ko'p yillik va mavsumiy dinamikasi
