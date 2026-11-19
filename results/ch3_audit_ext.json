@@ -1,11 +1,11 @@
 {
  "total": {
-  "obs": 75200,
-  "wells": 196,
+  "obs": 73868,
+  "wells": 188,
   "const_obs": 9107,
-  "unit": 13,
-  "valid": 66093,
-  "share_valid": 87.9,
+  "unit": 12,
+  "valid": 64761,
+  "share_valid": 87.7,
   "with_depth": 73868,
   "censored": 5326,
   "censored_share_of_valid_with_depth": 8.22
@@ -163,8 +163,8 @@
   },
   {
    "year": 2019,
-   "obs": 6800,
-   "wells": 189,
+   "obs": 6764,
+   "wells": 188,
    "const": 576,
    "censored": 643,
    "deep5": 4.0,
@@ -172,30 +172,30 @@
   },
   {
    "year": 2020,
-   "obs": 6060,
-   "wells": 196,
+   "obs": 5736,
+   "wells": 188,
    "const": 327,
    "censored": 500,
-   "deep5": 3.2,
-   "valid_share": 94.6
+   "deep5": 3.4,
+   "valid_share": 94.3
   },
   {
    "year": 2021,
-   "obs": 7088,
-   "wells": 196,
+   "obs": 6764,
+   "wells": 188,
    "const": 504,
    "censored": 1023,
-   "deep5": 4.3,
-   "valid_share": 92.9
+   "deep5": 4.5,
+   "valid_share": 92.5
   },
   {
    "year": 2022,
-   "obs": 7092,
-   "wells": 196,
+   "obs": 6768,
+   "wells": 188,
    "const": 792,
    "censored": 691,
-   "deep5": 4.0,
-   "valid_share": 88.8
+   "deep5": 4.2,
+   "valid_share": 88.3
   },
   {
    "year": 2023,
@@ -208,12 +208,12 @@
   },
   {
    "year": 2024,
-   "obs": 7092,
-   "wells": 196,
+   "obs": 6768,
+   "wells": 188,
    "const": 792,
    "censored": 657,
-   "deep5": 3.9,
-   "valid_share": 88.8
+   "deep5": 4.1,
+   "valid_share": 88.3
   }
  ],
  "wells_ever_const": 56,
@@ -251,12 +251,12 @@
   },
   {
    "year": 2019,
-   "new": 1,
+   "new": 0,
    "gone": 0
   },
   {
    "year": 2020,
-   "new": 7,
+   "new": 0,
    "gone": 0
   },
   {
@@ -272,11 +272,11 @@
   {
    "year": 2023,
    "new": 0,
-   "gone": 8
+   "gone": 0
   },
   {
    "year": 2024,
-   "new": 8,
+   "new": 0,
    "gone": 0
   }
  ]

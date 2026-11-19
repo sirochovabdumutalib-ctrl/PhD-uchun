@@ -170,7 +170,7 @@ kollektor taʼmirining sizot sathiga taʼsirini, taʼmirning haqiqiy narxini va 
 
 monitoring tizimini takomillashtirish, taʼmir samaradorligini oʻlchash va mablagʻlarni ustuvor yoʻnaltirish boʻyicha ilmiy asoslangan tavsiyalar ishlab chiqish.
 
-**Tadqiqotning obyekti** sifatida Andijon viloyati Marhamat tumanining sugʻoriladigan yerlaridagi meliorativ tizim olingan: umumiy uzunligi 265,8 km boʻlgan 90 ta kollektor, 370,7 km uzunlikdagi 332 ta xoʻjalik ichki zovuri hamda sakkizta massivda joylashgan 196 ta meliorativ kuzatuv qudugʻi. Qiyosiy tahlil uchun Andijon viloyatining 14 ta tumanidagi 2 052 ta kuzatuv qudugʻi maʼlumotlari jalb etilgan.
+**Tadqiqotning obyekti** sifatida Andijon viloyati Marhamat tumanining sugʻoriladigan yerlaridagi meliorativ tizim olingan: umumiy uzunligi 265,8 km boʻlgan 90 ta kollektor, 370,7 km uzunlikdagi 332 ta xoʻjalik ichki zovuri hamda sakkizta massivda joylashgan 188 ta meliorativ kuzatuv qudugʻi. Qiyosiy tahlil uchun Andijon viloyatining 14 ta tumanidagi 1 972 ta kuzatuv qudugʻi maʼlumotlari jalb etilgan.
 
 **Tadqiqotning predmeti** meliorativ monitoring maʼlumotlarining ishonchlilik koʻrsatkichlari, sizot suvlari sathi va minerallashuvining fazoviy-vaqtli qonuniyatlari, ularning drenaj tarmogʻi koʻrsatkichlari bilan bogʻliqligi hamda tizim elementlarining ishonchliligi va taʼmir samaradorligini baholash usullaridan iborat.
 
@@ -194,7 +194,7 @@ kollektor taʼmirining sizot sathiga taʼsirini monitoring maʼlumotlari asosida
 
 Marhamat tumani meliorativ tizimining geomaʼlumotlar bazasi shakllantirilgan: kuzatuv quduqlari, kollektorlar, kanallar va massiv chegaralari qatlamlari kadastr maʼlumotlari bilan birga;
 
-2009–2024-yillar monitoring maʼlumotlarining tekshirilgan bazasi va tekshiruv dasturi yaratilgan, dastur viloyat miqyosida (866 844 ta oʻlchov) sinovdan oʻtkazilgan;
+2009–2024-yillar monitoring maʼlumotlarining tekshirilgan bazasi va tekshiruv dasturi yaratilgan, dastur viloyat miqyosida (854 676 ta oʻlchov) sinovdan oʻtkazilgan;
 
 sizot suvi sathi, bahoning noaniqlik va yozgi sayoz sath ehtimoli xaritalari tuzilgan, 2019–2024-yillardagi yozgi sath va 2004–2010-yillardagi minerallashuv boʻyicha shoʻrlanish xavfi ostidagi 56 ta quduq aniqlangan va massivlar uchta ustuvorlik guruhiga ajratilgan (birinchi navbatda Z.M.Bobur va Istiqlol massivlari);
 
@@ -562,7 +562,7 @@ Kollektorlarning yoshi va taʼmir tarixi ishonchlilik koʻrsatkichi sifatida 4.1
 
 Suv oʻlchash inshootlari atigi oltita. Bu kollektorlardagi drenaj oqimini muntazam oʻlchash imkoniyati cheklanganini bildiradi: kadastrdagi kollektor oxiridagi sarflar asosan loyiha yoki bir martalik oʻlchov qiymatlari boʻlishi mumkin. Shu sababli tarmoq ishini drenaj oqimi orqali emas, sizot suvlari rejimi orqali baholash amaliy jihatdan yagona imkoniyat boʻlib qoladi.
 
-**Kuzatuv quduqlari.** Kadastrda tuman boʻyicha 188 ta kuzatuv qudugʻining pasporti bor: massivi, qurilgan yili, chuqurligi, diametri, materiali, biriktirilgan maydoni va mutlaq balandligi. Barcha quduqlarning diametri 100 mm. Bitta quduqqa oʻrtacha 85 ga maydon biriktirilgan (48 dan 133 ga gacha); jami biriktirilgan maydon 15 985 ga. Quduqlar soni manbalar boʻyicha farq qiladi: pasportda 188 ta, koordinatalar jadvalida 205 ta, 2024-yilgi xaritada 202 ta, 2009–2024-yillar kuzatuv jadvallarida esa jami 196 ta quduq uchraydi. Keyingi boblarda har bir hisob qaysi manbaga tayanishi koʻrsatiladi.
+**Kuzatuv quduqlari.** Kadastrda tuman boʻyicha 188 ta kuzatuv qudugʻining pasporti bor: massivi, qurilgan yili, chuqurligi, diametri, materiali, biriktirilgan maydoni va mutlaq balandligi. Barcha quduqlarning diametri 100 mm. Bitta quduqqa oʻrtacha 85 ga maydon biriktirilgan (48 dan 133 ga gacha); jami biriktirilgan maydon 15 985 ga. Quduqlar soni manbalar boʻyicha farq qiladi: pasportda 188 ta, koordinatalar jadvalida 205 ta, 2024-yilgi xaritada 202 ta, 2009–2024-yillar kuzatuv jadvallarida esa 188 ta quduq bor. 2019-yildan boshlab bu jadvallarda har bir massiv bloki oxirida «27 та» kabi jami qatori (blokdagi quduqlar soni va ularning oʻrtacha qiymatlari), tuman bloki oxirida esa tuman boʻyicha jami qatori («188») turadi; ular quduq sifatida hisobga olinmadi. Keyingi boblarda har bir hisob qaysi manbaga tayanishi koʻrsatiladi.
 
 Quduqlar tarkibining ikki xususiyati keyingi tahlil uchun muhim.
 
@@ -570,7 +570,7 @@ Kuzatuv tarmogʻi asosan yangi. 188 ta quduqdan 120 tasi (64 foiz) 2013–2016-y
 
 Quduqlar sayoz. Chuqurlik medianasi 3,2 m; 142 ta quduq (76 foiz) 2,5–3,5 m chuqurlikda, faqat 26 tasi (14 foiz) 4 m dan chuqur. Sizot suvi quduq tubidan pastga tushganda quduq quriydi va haqiqiy sathni oʻlchab boʻlmaydi (1.4-§). 2024-yil 1-aprel holatiga quduqlarning 28 foizida sath 3 m dan chuqur boʻlgan (6-ilova), yaʼni ularning bir qismi oʻlchov chegarasiga yaqin ishlaydi. Bu sath chuqur hududlarda monitoring sathni kamaytirib koʻrsatishi mumkinligini bildiradi; masala 3.1-§ da miqdoriy koʻrib chiqiladi.
 
-**Manbalar orasidagi farqlar.** Quduqlar soni manbalar boʻyicha farq qiladi: pasportda 188 ta, GAT eksportidagi koordinatalar jadvalida 205 ta, 2024-yilgi xaritada 202 ta, 2009–2024-yillar kuzatuv jadvallarida esa jami 196 ta quduq uchraydi. Farqlarning bir qismi nomlanishdagi tafovutlar bilan (masalan, «104А» va «104а»), bir qismi pasporti rasmiylashtirilmagan qoʻshimcha quduqlar bilan izohlanadi. Keyingi boblarda har bir hisob qaysi manbaga tayanishi koʻrsatiladi.
+**Manbalar orasidagi farqlar.** Quduqlar soni manbalar boʻyicha farq qiladi: pasportda 188 ta, GAT eksportidagi koordinatalar jadvalida 205 ta, 2024-yilgi xaritada 202 ta, 2009–2024-yillar kuzatuv jadvallarida esa 188 ta quduq bor (massivlar va tuman boʻyicha jami qatorlari chiqarilgandan keyin). Farqlarning bir qismi nomlanishdagi tafovutlar bilan (masalan, «104А» va «104а»), bir qismi pasporti rasmiylashtirilmagan qoʻshimcha quduqlar bilan izohlanadi. Keyingi boblarda har bir hisob qaysi manbaga tayanishi koʻrsatiladi.
 
 Kadastr meliorativ tizimning tarkibi toʻgʻrisida batafsil maʼlumot beradi, ammo bu maʼlumotlar jadval shaklida boʻlib, fazoviy joylashuvga ega emas. Kollektorlarni sizot suvlari rejimi bilan bogʻlash uchun ularni geomaʼlumotlar bazasiga oʻtkazish zarur; bu 2.3-§ da bayon etiladi.
 
@@ -768,7 +768,7 @@ Ushbu bobda Marhamat tumani boʻyicha 2009–2024-yillardagi meliorativ monitori
 
 ## 3.1-§. Monitoring maʼlumotlari tekshiruvi natijalari
 
-**Tahlil qilingan maʼlumotlar.** Tahlil uchun meliorativ ekspeditsiyaning 2009–2024-yillardagi kuzatuv jadvallari olindi. Jadvallarda har bir kuzatuv qudugʻi uchun sizot suvi sathi oyiga uch marta, yaʼni yiliga 36 ta oʻn kunlik oʻlchov koʻrinishida qayd etilgan. 2010, 2013 va 2017-yillar boʻyicha mustaqil kuzatuv maʼlumotlari mavjud emas, shuning uchun tahlilga 13 yil kiritildi. Shu yillar uchun Marhamat tumani boʻyicha jami 196 ta quduq va 75 200 ta oʻlchov mavjud.
+**Tahlil qilingan maʼlumotlar.** Tahlil uchun meliorativ ekspeditsiyaning 2009–2024-yillardagi kuzatuv jadvallari olindi. Jadvallarda har bir kuzatuv qudugʻi uchun sizot suvi sathi oyiga uch marta, yaʼni yiliga 36 ta oʻn kunlik oʻlchov koʻrinishida qayd etilgan. 2010, 2013 va 2017-yillar boʻyicha mustaqil kuzatuv maʼlumotlari mavjud emas, shuning uchun tahlilga 13 yil kiritildi. Shu yillar uchun Marhamat tumani boʻyicha 188 ta quduq va 73 868 ta oʻlchov mavjud (massivlar va tuman boʻyicha jami qatorlari hisobga olinmagan, 2.2-§).
 
 Maʼlumotlar 2.4-§ da bayon etilgan uchta qoida boʻyicha tekshirildi: yil ichidagi oʻzgarmaslik, oʻlchov birligi va kuzatuv tarmogʻi tarkibi. Qoʻshimcha ravishda har bir oʻlchov quduq pasportidagi chuqurlik bilan solishtirilib, kesilgan qiymatlar aniqlandi. Yillar boʻyicha natijalar 17-ilovada keltirilgan.
 
@@ -804,7 +804,7 @@ Bu taqsimotning sababi 3.1-rasm, b da koʻrinadi. Unda quduq tubigacha zaxira, y
 3.1-rasm. Monitoring maʼlumotlari ishonchliligining fazoviy taqsimoti: a — quduqlar boʻyicha yaroqli oʻlchovlar ulushi, 2009–2024-yillar (massiv yozuvlarida — massiv boʻyicha ulush); b — quduq tubigacha zaxira (massiv yozuvlarida — mediana)
 :::
 
-**Umumiy baho.** Tekshiruvdan soʻng 66 093 ta oʻlchov (umumiy hajmning 87,9 foizi) tahlil uchun yaroqli deb topildi; ularning 8,2 foizi kesilgan qiymat sifatida belgilandi. Haqiqiy sathni aks ettiruvchi toʻliq oʻlchovlar umumiy hajmning taxminan 80 foizini tashkil etadi. Bu koʻrsatkich Marhamat tumani meliorativ monitoring maʼlumotlari ishonchliligining miqdoriy bahosi hisoblanadi.
+**Umumiy baho.** Tekshiruvdan soʻng 64 761 ta oʻlchov (umumiy hajmning 87,7 foizi) tahlil uchun yaroqli deb topildi; ularning 8,2 foizi kesilgan qiymat sifatida belgilandi. Haqiqiy sathni aks ettiruvchi toʻliq oʻlchovlar umumiy hajmning taxminan 80 foizini tashkil etadi. Bu koʻrsatkich Marhamat tumani meliorativ monitoring maʼlumotlari ishonchliligining miqdoriy bahosi hisoblanadi.
 
 Monitoring tizimining asosiy kamchiliklari quduqlar chuqurligining sizot rejimiga mos emasligi va quruq quduq holati hamda tarmoq tarkibidagi oʻzgarishlarning hujjatlashtirilmasligidir. Ularni bartaraf etish boʻyicha tavsiyalar 4.5-§ da berilgan.
 
@@ -1058,13 +1058,13 @@ Bu bahoning cheklovi shundaki, sath va minerallashuv turli davrlarga tegishli. 2
 
 ## 3.6-§. Marhamat tumani natijalarining Andijon viloyati tumanlari bilan qiyosi
 
-Oldingi paragraflarda olingan natijalar bitta tuman maʼlumotlariga asoslangan. Ularni umumlashtirish uchun ikki savolga javob berish kerak: Marhamat tumanidagi monitoring maʼlumotlarining sifati viloyat uchun odatiymi yoki istisnomi, va 3.1-§ da aniqlangan «chuqur sathli hududlarda maʼlumot ishonchliligi past» degan qonuniyat boshqa tumanlarda ham kuzatiladimi. Buning uchun meliorativ ekspeditsiyaning Andijon viloyatidagi 14 ta tuman boʻyicha 2009–2023-yillardagi kuzatuv jadvallari tahlil qilindi. Jadvallar Marhamat tumani jadvallari bilan bir xil shaklda: har bir quduq uchun yiliga 36 ta oʻn kunlik oʻlchov. Jami 2 052 ta quduq va 866 844 ta oʻlchov mavjud.
+Oldingi paragraflarda olingan natijalar bitta tuman maʼlumotlariga asoslangan. Ularni umumlashtirish uchun ikki savolga javob berish kerak: Marhamat tumanidagi monitoring maʼlumotlarining sifati viloyat uchun odatiymi yoki istisnomi, va 3.1-§ da aniqlangan «chuqur sathli hududlarda maʼlumot ishonchliligi past» degan qonuniyat boshqa tumanlarda ham kuzatiladimi. Buning uchun meliorativ ekspeditsiyaning Andijon viloyatidagi 14 ta tuman boʻyicha 2009–2023-yillardagi kuzatuv jadvallari tahlil qilindi. Jadvallar Marhamat tumani jadvallari bilan bir xil shaklda: har bir quduq uchun yiliga 36 ta oʻn kunlik oʻlchov. Jami 1 972 ta quduq va 854 676 ta oʻlchov mavjud (massivlar va tumanlar boʻyicha jami qatorlari chiqarilgan).
 
-Barcha tumanlarga 3.1-§ dagi tekshiruv qoidalari bir xil tartibda qoʻllanildi. Har bir tumanda 1–3 yil boʻyicha mustaqil kuzatuv maʼlumotlari mavjud emas, bu yillar tahlildan chiqarildi. Qolgan yillar boʻyicha yil ichidagi oʻzgarmas qatorlar (7 tadan ortiq oʻlchovi boʻlgan va barcha oʻlchovlari bir xil qiymatga ega quduq-yillar) va oʻlchov birligi xatolari aniqlandi. Qoʻshimcha koʻrsatkich sifatida bir xonali yaxlit qiymatlar (masalan, 2,0; 2,5; 3,0 m) ulushi hisoblandi: santimetr aniqligida oʻlchanadigan koʻrsatkichda bunday qiymatlarning koʻpligi oʻlchov taxminiy yozilganini bildirishi mumkin. Natijalar 39-ilovada keltirilgan. Marhamat tumani boʻyicha bu yerda olingan koʻrsatkichlar 3.1-§ dagilar bilan mos keladi (yaroqli oʻlchovlar ulushi 88,3 va 87,9 foiz), farq faqat davr chegarasi (2024-yil viloyat jadvalida yoʻq) bilan bogʻliq.
+Barcha tumanlarga 3.1-§ dagi tekshiruv qoidalari bir xil tartibda qoʻllanildi. Har bir tumanda 1–3 yil boʻyicha mustaqil kuzatuv maʼlumotlari mavjud emas, bu yillar tahlildan chiqarildi. Qolgan yillar boʻyicha yil ichidagi oʻzgarmas qatorlar (7 tadan ortiq oʻlchovi boʻlgan va barcha oʻlchovlari bir xil qiymatga ega quduq-yillar) va oʻlchov birligi xatolari aniqlandi. Qoʻshimcha koʻrsatkich sifatida bir xonali yaxlit qiymatlar (masalan, 2,0; 2,5; 3,0 m) ulushi hisoblandi: santimetr aniqligida oʻlchanadigan koʻrsatkichda bunday qiymatlarning koʻpligi oʻlchov taxminiy yozilganini bildirishi mumkin. Natijalar 39-ilovada keltirilgan. Marhamat tumani boʻyicha bu yerda olingan koʻrsatkichlar 3.1-§ dagilar bilan mos keladi (yaroqli oʻlchovlar ulushi 88,2 va 87,7 foiz), farq faqat davr chegarasi (2024-yil viloyat jadvalida yoʻq) bilan bogʻliq.
 
-**Maʼlumotlar sifatining tumanlar orasidagi farqi.** Tumanlar maʼlumotlar sifati boʻyicha katta farq qiladi. Oltinkoʻl, Boʻston, Shahrixon, Ulugʻnor, Buloqboshi va Baliqchi tumanlarida oʻzgarmas qatorlar 5 foizdan kam, yaroqli oʻlchovlar 96–100 foiz. Asaka, Paxtaobod, Qoʻrgʻontepa va Jalaquduq tumanlarida esa quduq-yillarning 22–29 foizida yil davomida bitta qiymat yozilgan. Marhamat tumani 14 ta tuman ichida 9-oʻrinda, viloyat medianasidan (10,4 foiz oʻzgarmas qator) biroz yomonroq. Marhamat tumanidagi maʼlumot nuqsonlari istisno emas: viloyatning toʻrtdan bir qismidan koʻprogʻida ular yanada jiddiyroq. Yaxlit qiymatlar ulushi oʻzgarmas qatorlar ulushi bilan bogʻlangan (ρ = +0,65; p = 0,011): maʼlumotlar sifati past tumanlarda oʻlchovlar ham taxminiyroq yozilgan.
+**Maʼlumotlar sifatining tumanlar orasidagi farqi.** Tumanlar maʼlumotlar sifati boʻyicha katta farq qiladi. Oltinkoʻl, Boʻston, Shahrixon, Ulugʻnor, Buloqboshi va Baliqchi tumanlarida oʻzgarmas qatorlar 5 foizdan kam, yaroqli oʻlchovlar 96–100 foiz. Asaka, Paxtaobod, Qoʻrgʻontepa va Jalaquduq tumanlarida esa quduq-yillarning 22–29 foizida yil davomida bitta qiymat yozilgan. Marhamat tumani 14 ta tuman ichida 9-oʻrinda, viloyat medianasidan (10,6 foiz oʻzgarmas qator) biroz yomonroq. Marhamat tumanidagi maʼlumot nuqsonlari istisno emas: viloyatning toʻrtdan bir qismidan koʻprogʻida ular yanada jiddiyroq. Yaxlit qiymatlar ulushi oʻzgarmas qatorlar ulushi bilan bogʻlangan (ρ = +0,65; p = 0,011): maʼlumotlar sifati past tumanlarda oʻlchovlar ham taxminiyroq yozilgan.
 
-**Ishonchlilik va sath chuqurligi.** 3.1-§ da Marhamat tumani massivlari boʻyicha aniqlangan qonuniyat viloyat miqyosida ham toʻliq tasdiqlanadi. Oʻzgarmas qatorlar ulushi tumandagi sathning medianasi bilan kuchli bogʻlangan (ρ = +0,85; p < 0,001), yaroqli oʻlchovlar ulushi esa unga teskari bogʻlangan (ρ = −0,82; p < 0,001). Sathi sayoz tumanlarda (Boʻston, Oltinkoʻl, Baliqchi; 2019–2023-yillardagi mediana 1,6–1,8 m) maʼlumotlar deyarli nuqsonsiz, sathi chuqur tumanlarda (Asaka, Paxtaobod; 2,7–2,95 m) esa eng koʻp nuqsonli. Bu 3.1-§ dagi izohni tasdiqlaydi: oʻzgarmas qatorlar asosan sath quduq tubidan pastga tushganda quduqning qurib qolishi va kuzatuvchining haqiqiy sath oʻrniga shartli qiymat yozishi. Kuzatuv quduqlarining chuqurligi sath chuqur hududlar uchun yetarli emas va bu muammo bitta tuman emas, butun viloyat monitoring tarmogʻiga xos.
+**Ishonchlilik va sath chuqurligi.** 3.1-§ da Marhamat tumani massivlari boʻyicha aniqlangan qonuniyat viloyat miqyosida ham toʻliq tasdiqlanadi. Oʻzgarmas qatorlar ulushi tumandagi sathning medianasi bilan kuchli bogʻlangan (ρ = +0,85; p < 0,001), yaroqli oʻlchovlar ulushi esa unga teskari bogʻlangan (ρ = −0,82; p < 0,001). Sathi sayoz tumanlarda (Boʻston, Oltinkoʻl, Baliqchi; 2019–2023-yillardagi mediana 1,6–1,8 m) maʼlumotlar deyarli nuqsonsiz, sathi chuqur tumanlarda (Asaka, Paxtaobod; 2,7–2,9 m) esa eng koʻp nuqsonli. Bu 3.1-§ dagi izohni tasdiqlaydi: oʻzgarmas qatorlar asosan sath quduq tubidan pastga tushganda quduqning qurib qolishi va kuzatuvchining haqiqiy sath oʻrniga shartli qiymat yozishi. Kuzatuv quduqlarining chuqurligi sath chuqur hududlar uchun yetarli emas va bu muammo bitta tuman emas, butun viloyat monitoring tarmogʻiga xos.
 
 Maʼlumotlar nuqsoni tasodifiy emas, tizimli: u aynan sath chuqur boʻlgan joylarda va yillarda toʻplanadi. Shuning uchun nuqsonli qiymatlarni oddiygina chiqarib tashlash sathni sayozroq koʻrsatadi, ularni tekshiruvsiz qoldirish esa shartli qiymatlarni haqiqiy oʻlchov sifatida qabul qilishga olib keladi. Ikkala holda ham xato bir tomonga yoʻnalgan. Bu muammoni faqat quduqlarni chuqurlashtirish yoki kesilgan qiymatlarni maxsus usullar bilan hisobga olish orqali hal etish mumkin \[63\].
 
@@ -1080,13 +1080,13 @@ Maʼlumotlar nuqsoni tasodifiy emas, tizimli: u aynan sath chuqur boʻlgan joyla
 
 Sath chuqurlashishi viloyat miqyosidagi hodisa: 14 ta tumanning 12 tasida barqaror panel boʻyicha statistik ahamiyatli chuqurlashish aniqlandi, qolgan ikkitasida (Oltinkoʻl, Boʻston) ham yoʻnalish shu, lekin ahamiyatli emas. Hech bir tumanda sath koʻtarilmagan. Tumanlar boʻyicha chuqurlashish tezligining medianasi yiliga 3,3 sm; Marhamat tumani (yiliga 3,3 sm) aynan viloyat medianasida turadi. Bu 3.2-§ va 3.4-§ dagi xulosani kuchaytiradi: Marhamat tumanidagi chuqurlashish tumanning oʻz drenaj tarmogʻidagi oʻzgarishlardan koʻra viloyat miqyosidagi omillar, xususan suv taʼminoti va sugʻorish rejimi bilan bogʻliq boʻlishi ehtimoli yuqori. Biroq bu qiyos taʼmir taʼsirini toʻliq istisno etmaydi, chunki boshqa tumanlarda ham shu yillarda kollektorlar taʼmiri olib borilgan boʻlishi mumkin va bu haqda viloyat boʻyicha maʼlumot tahlil qilinmadi; taʼmir samarasi 4.3-§ da alohida baholanadi.
 
-Chuqurlashish tezligi tumandagi yozgi sath medianasi bilan bogʻlangan (ρ = +0,76; 95 foizlik ishonch oraligʻi 0,32–0,93; p = 0,002): sathi chuqur Paxtaobod (yiliga 10,6 sm) va Asaka (6,4 sm) tumanlarida sath eng tez chuqurlashmoqda, sathi sayoz Boʻston, Oltinkoʻl va Ulugʻnor tumanlarida deyarli oʻzgarmaydi; quduqlar darajasida ham (3.2-§) chuqur quduqlarda chuqurlashish tezroq. Biroq tezlik maʼlumotlar sifati bilan ham bogʻlangan (yaroqli oʻlchovlar ulushi bilan ρ = −0,74; p = 0,002): eng tez chuqurlashayotgan tumanlarning tendensiyasi eng kichik va eng ishonchsiz panellarga (24–57 ta quduq) tayanadi. Sifat hisobga olinganda (xususiy rang korrelyatsiyasi) tezlik va sath chuqurligi bogʻlanishi ahamiyatsiz (r = 0,35; p = 0,22), 14 ta tuman boʻyicha ishonch oraliqlari esa keng (masalan, ρ = +0,85 uchun 0,47–0,97). Bu tumanlar boʻyicha tendensiyani ehtiyotkorlik bilan talqin qilish kerak.
+Chuqurlashish tezligi tumandagi yozgi sath medianasi bilan bogʻlangan (ρ = +0,70; 95 foizlik ishonch oraligʻi 0,21–0,91; p = 0,005): sathi chuqur Paxtaobod (yiliga 10,3 sm) va Asaka (6,4 sm) tumanlarida sath eng tez chuqurlashmoqda, sathi sayoz Boʻston, Oltinkoʻl va Ulugʻnor tumanlarida deyarli oʻzgarmaydi; quduqlar darajasida ham (3.2-§) chuqur quduqlarda chuqurlashish tezroq. Biroq tezlik maʼlumotlar sifati bilan ham bogʻlangan (yaroqli oʻlchovlar ulushi bilan ρ = −0,74; p = 0,002): eng tez chuqurlashayotgan tumanlarning tendensiyasi eng kichik va eng ishonchsiz panellarga (25–57 ta quduq) tayanadi. Sifat hisobga olinganda (xususiy rang korrelyatsiyasi) tezlik va sath chuqurligi bogʻlanishi ahamiyatsiz (r = 0,19; p = 0,52), 14 ta tuman boʻyicha ishonch oraliqlari esa keng (masalan, ρ = +0,85 uchun 0,48–0,99). Bu tumanlar boʻyicha tendensiyani ehtiyotkorlik bilan talqin qilish kerak.
 
-Marhamat tumani yozgi sathning medianasi boʻyicha viloyatda oʻrtacha oʻrinda (1,95 m; 7-oʻrin), lekin sathi 1,5 m dan sayoz quduqlar ulushi boʻyicha Boʻston tumanidan keyin ikkinchi (21,9 foiz; viloyat jadvallari boʻyicha 2019–2023-yillar). Mavsumiy amplituda boʻyicha ham Marhamat Xoʻjaobod tumanidan keyin ikkinchi oʻrinda (0,48 m). Marhamat tumanining oʻziga xosligi sathning fazoviy va mavsumiy oʻzgaruvchanligida: tumanda bir vaqtning oʻzida sathi chuqur va sayoz hududlar mavjud, yozda esa sath boshqa tumanlarga qaraganda koʻproq koʻtariladi. Bu 3.2–3.3-§ larda massivlar boʻyicha aniqlangan farqlar bilan mos va tadqiqotda massivlar darajasidagi yondashuv tanlanganini asoslaydi.
+Marhamat tumani yozgi sathning medianasi boʻyicha viloyatda oʻrtacha oʻrinda (1,92 m; 7-oʻrin), lekin sathi 1,5 m dan sayoz quduqlar ulushi boʻyicha Boʻston tumanidan keyin ikkinchi (22,9 foiz; viloyat jadvallari boʻyicha 2019–2023-yillar). Mavsumiy amplituda boʻyicha ham Marhamat Xoʻjaobod tumanidan keyin ikkinchi oʻrinda (0,48 m). Marhamat tumanining oʻziga xosligi sathning fazoviy va mavsumiy oʻzgaruvchanligida: tumanda bir vaqtning oʻzida sathi chuqur va sayoz hududlar mavjud, yozda esa sath boshqa tumanlarga qaraganda koʻproq koʻtariladi. Bu 3.2–3.3-§ larda massivlar boʻyicha aniqlangan farqlar bilan mos va tadqiqotda massivlar darajasidagi yondashuv tanlanganini asoslaydi.
 
 ## III bob boʻyicha xulosalar
 
-1. Marhamat tumani boʻyicha 2009–2024-yillardagi sizot suvi sathi kuzatuvlari (13 yil, 196 ta quduq, 75 200 ta oʻlchov) ishlab chiqilgan tartib boʻyicha tekshirildi. 270 ta quduq-yilda yil davomida bitta qiymat yozilgani, 2018-yilda kuzatuv tarmogʻi qayta tuzilgani (60 ta yangi quduq) va yaroqli oʻlchovlarning 8,2 foizi quduq qurigan holatni aks ettiruvchi kesilgan qiymat ekani aniqlandi. Oʻlchovlarning 87,9 foizi tahlil uchun yaroqli, haqiqiy sathni toʻliq aks ettiruvchi oʻlchovlar esa umumiy hajmning taxminan 80 foizi.
+1. Marhamat tumani boʻyicha 2009–2024-yillardagi sizot suvi sathi kuzatuvlari (13 yil, 188 ta quduq, 73 868 ta oʻlchov) ishlab chiqilgan tartib boʻyicha tekshirildi. 270 ta quduq-yilda yil davomida bitta qiymat yozilgani, 2018-yilda kuzatuv tarmogʻi qayta tuzilgani (60 ta yangi quduq) va yaroqli oʻlchovlarning 8,2 foizi quduq qurigan holatni aks ettiruvchi kesilgan qiymat ekani aniqlandi. Oʻlchovlarning 87,7 foizi tahlil uchun yaroqli, haqiqiy sathni toʻliq aks ettiruvchi oʻlchovlar esa umumiy hajmning taxminan 80 foizi.
 2. Maʼlumotlar nuqsoni tasodifiy emas, tizimli: ishonchlilik sath chuqurligi bilan bogʻliq. Sathi sayoz Mashʼal va Istiqlol massivlarida yaroqli oʻlchovlar 97–98 foiz, sathi chuqur T.Mirzayev va Y.Oxunboboyev massivlarida 50–60 foiz. Bu qonuniyat Andijon viloyatining 14 ta tumani miqyosida ham tasdiqlandi: oʻzgarmas qatorlar ulushi tumandagi sath chuqurligi bilan kuchli bogʻlangan (ρ = +0,85; p < 0,001). Uning sababi kuzatuv quduqlarining chuqurligi sath chuqur hududlar uchun yetarli emasligi.
 3. Barqaror panel (84 ta quduq) boʻyicha sizot suvi sathi 2009-yildagi 1,60 m dan 2024-yilda 1,99 m ga chuqurlashgan (Mann–Kendall τ = 0,744; p = 0,0005), tezlik yiliga 0,028–0,033 m. Bu baho kesilgan qiymatlarga va baholash usuliga chidamli. Oʻzgarish asosan pogʻona koʻrinishida yuz bergan: Pettitt mezoni uzilish nuqtasini 2016-yildan keyin koʻrsatadi (p = 0,023), 2009–2016-yillarda oʻrtacha sath 1,63 m, 2018–2024-yillarda 1,92 m.
 4. Tekshiruvsiz xom maʼlumot boʻyicha hisoblangan tendensiya (yiliga 0,045 m) barqaror panel bahosidan (yiliga 0,032 m) taxminan 1,4 baravar katta, xom oʻrtacha sathning oʻzi esa 0,29–0,53 m chuqur. Maʼlumotlar tekshiruvi tendensiyani toʻgʻri baholashning zaruriy sharti hisoblanadi.
@@ -1374,7 +1374,7 @@ Bu hisob taxminiy: u quduqlar bir-biridan mustaqil va taʼsir mahalliy degan far
 
 Tavsiyalarning iqtisodiy maʼnosi sarflanayotgan mablagʻ bilan uning natijasini oʻlchash xarajati orasidagi nisbatda koʻrinadi. Tumanda birgina 2017–2020-yillarda 53 ta kollektorni taʼmirlashga 2026-yil narxlarida 48,2 mlrd soʻm (yiliga oʻrtacha 12,0 mlrd soʻm) sarflangan. Bu mablagʻning meliorativ natijasi oʻlchanmagan (4.3-§), uning massivlar boʻyicha taqsimoti esa meliorativ ehtiyojga mos kelmagan (4.4-§).
 
-**Tavsiyalarni joriy qilish xarajatlari.** 52-ilovadagi 15 ta tavsiyaning toʻqqiztasi (T-1, T-2, T-3, T-4, T-7, T-10, T-11, T-12, T-13) qoʻshimcha mablagʻ talab qilmaydi: ular hisobot yuritish, maʼlumotlarni qayta ishlash va taʼmirni rejalashtirish tartibini oʻzgartiradi. Tekshiruv tartibi dasturiy ravishda amalga oshirilgan va bir tuman maʼlumotini bir necha daqiqada tekshiradi; 3.6-§ da u viloyatning 14 ta tumani boʻyicha 866 844 ta oʻlchovga qoʻllanildi. Mablagʻ talab qiladigan tavsiyalar: kuzatuv quduqlarini chuqurlashtirish va maqsadli joylashtirish (T-5, T-6), minerallashuvni oʻlchash (T-8), kollektorlarda sarfni oʻlchash (T-9), ichki zovurlarni inventarizatsiya qilish (T-14) va sugʻorish samaradorligini oshirish (T-15). Ularning qiymati quduq qurish va chuqurlashtirish, laboratoriya tahlili, gidrometrik oʻlchov va inventarizatsiya ishlarining smetasi asosida aniqlanadi; bu smetalar ushbu ishda tuzilmagan.
+**Tavsiyalarni joriy qilish xarajatlari.** 52-ilovadagi 15 ta tavsiyaning toʻqqiztasi (T-1, T-2, T-3, T-4, T-7, T-10, T-11, T-12, T-13) qoʻshimcha mablagʻ talab qilmaydi: ular hisobot yuritish, maʼlumotlarni qayta ishlash va taʼmirni rejalashtirish tartibini oʻzgartiradi. Tekshiruv tartibi dasturiy ravishda amalga oshirilgan va bir tuman maʼlumotini bir necha daqiqada tekshiradi; 3.6-§ da u viloyatning 14 ta tumani boʻyicha 854 676 ta oʻlchovga qoʻllanildi. Mablagʻ talab qiladigan tavsiyalar: kuzatuv quduqlarini chuqurlashtirish va maqsadli joylashtirish (T-5, T-6), minerallashuvni oʻlchash (T-8), kollektorlarda sarfni oʻlchash (T-9), ichki zovurlarni inventarizatsiya qilish (T-14) va sugʻorish samaradorligini oshirish (T-15). Ularning qiymati quduq qurish va chuqurlashtirish, laboratoriya tahlili, gidrometrik oʻlchov va inventarizatsiya ishlarining smetasi asosida aniqlanadi; bu smetalar ushbu ishda tuzilmagan.
 
 **Taʼmir xarajatlarini kamaytirish imkoniyatlari.** Mavjud maʼlumotlar ikki yoʻnalishdagi tejash imkoniyatini miqdoriy baholashga imkon beradi.
 
@@ -1409,7 +1409,7 @@ Samarani soʻmda toʻliq ifodalash uchun taʼmir turlarining haqiqiy meliorativ 
 
 1. Meliorativ tizimlarni baholashning mavjud yondashuvlari (loyihaviy-gidravlik, rejim koʻrsatkichlari boʻyicha va ishonchlilik nazariyasi) kirish maʼlumotlarining toʻgʻriligini oldindan qabul qiladi, drenaj tarmogʻining oʻzini fazoviy tahlilga kamdan-kam kiritadi va taʼmirning meliorativ samarasini bajarilgan ish hajmi bilan almashtiradi. Shu asosda tadqiqotning asosiy uslubiy pozitsiyasi belgilandi: tizim ishonchliligini baholashdan oldin maʼlumotlarning ishonchliligi baholanishi kerak.
 2. Mavjud xaritalar va kuzatuv quduqlarining koordinatalari asosida drenaj tarmogʻining geomaʼlumotlar bazasini tiklash usuli ishlab chiqildi. Marhamat tumani uchun xarita 181 ta quduq orqali joyiga bogʻlandi (qoldiq medianasi 1,9 m), 214,6 km kollektor va 170,9 km kanal vektorlandi, sakkizta massiv chegarasi tiklandi va 60 ta kollektorga kadastr maʼlumotlari biriktirildi. Baza kollektorlarning koʻrsatkichlari va taʼmir xarajatlarini massivlar boʻyicha taqsimlash imkonini berdi.
-3. Monitoring maʼlumotlarini tekshirish tartibi (yil ichidagi oʻzgarmaslik, oʻlchov birligi va kuzatuv tarmogʻi tarkibi boʻyicha uchta qoida hamda kesilgan qiymatlarni aniqlash) ishlab chiqildi. 2009–2024-yillardagi 13 yil boʻyicha 75 200 ta sath oʻlchovining 87,9 foizi yaroqli, yaroqlilarining 8,2 foizi quduq qurigan holatni aks ettiruvchi kesilgan qiymat ekani aniqlandi. Maʼlumotlar nuqsoni tizimli xususiyatga ega va sath chuqurligi bilan bogʻliq: sathi sayoz massivlarda yaroqli oʻlchovlar 97–98 foiz, sathi chuqur massivlarda 50–60 foiz. Bu qonuniyat Andijon viloyatining 14 ta tumani (2 052 ta quduq, 866 844 ta oʻlchov) boʻyicha ham tasdiqlandi (ρ = +0,85; p < 0,001); uning sababi kuzatuv quduqlarining chuqurligi sath chuqur hududlar uchun yetarli emasligi.
+3. Monitoring maʼlumotlarini tekshirish tartibi (yil ichidagi oʻzgarmaslik, oʻlchov birligi va kuzatuv tarmogʻi tarkibi boʻyicha uchta qoida hamda kesilgan qiymatlarni aniqlash) ishlab chiqildi. 2009–2024-yillardagi 13 yil boʻyicha 73 868 ta sath oʻlchovining 87,7 foizi yaroqli, yaroqlilarining 8,2 foizi quduq qurigan holatni aks ettiruvchi kesilgan qiymat ekani aniqlandi. Maʼlumotlar nuqsoni tizimli xususiyatga ega va sath chuqurligi bilan bogʻliq: sathi sayoz massivlarda yaroqli oʻlchovlar 97–98 foiz, sathi chuqur massivlarda 50–60 foiz. Bu qonuniyat Andijon viloyatining 14 ta tumani (1 972 ta quduq, 854 676 ta oʻlchov) boʻyicha ham tasdiqlandi (ρ = +0,85; p < 0,001); uning sababi kuzatuv quduqlarining chuqurligi sath chuqur hududlar uchun yetarli emasligi.
 4. Barqaror panel (84 ta quduq) boʻyicha sizot suvi sathi 2009-yildagi 1,60 m dan 2024-yilda 1,99 m ga chuqurlashgan, tezlik yiliga 0,028–0,033 m (Mann–Kendall τ = 0,744; p = 0,0005). Oʻzgarish asosan pogʻona koʻrinishida yuz bergan (Pettitt mezoni boʻyicha uzilish 2016-yildan keyin; p = 0,023). Tekshiruvsiz hisob tendensiyani 1,4 baravar oshirib koʻrsatadi. Sath chuqurlashishi viloyat miqyosidagi hodisa: 14 ta tumanning 12 tasida statistik ahamiyatli, Marhamat tumanidagi tezlik (yiliga 3,3 sm) viloyat medianasiga teng.
 5. Tuman boʻyicha oʻrtacha tendensiya massivlar orasidagi qarama-qarshi jarayonlarni yashiradi: oltita massivda sath yiliga 0,031–0,053 m tezlikda chuqurlashgan, Z.M.Bobur massivida esa yiliga 0,031 m tezlikda koʻtarilib, 2019-yildan keyin 1,27–1,71 m ga yetgan. Mavsumiy amplituda tuman boʻyicha 0,48 m, massivlar boʻyicha 0,32–0,85 m; sathning yozgi koʻtarilishi yogʻin davriga emas, sugʻorish mavsumiga toʻgʻri keladi. Shu sababli drenaj tizimini baholashda yillik oʻrtacha emas, yozgi eng sayoz sath asosiy mezon boʻlishi kerak.
 6. Sizot suvi sathi maydoni kuchli mahalliy oʻzgaruvchanlikka ega: variogrammaning nagget qismi umumiy dispersiyaning qariyb yarmiga teng, kriging xatosi 0,82 m boʻlib, hududiy oʻrtachadan atigi 17 foizga kichik. Kriging xaritasi sayoz sathli maydonni oʻn baravardan ortiq kam koʻrsatadi (yozda quduqlarning 23 foizida sath 1,5 m dan sayoz, xaritada esa maydonning 1,1 foizida). Shu sababli meliorativ holatni sathning kritik chuqurlikdan sayoz boʻlish ehtimoli xaritasi bilan baholash taklif etildi. Kuzatuv tarmogʻi xarita aniqligi boʻyicha toʻyingan: quduqlar sonini 94 tadan oshirish xatoni kamaytirmaydi.
@@ -2024,13 +2024,13 @@ Izoh: \* — kadastrda M.Toʻjiboyev massivi boʻyicha ichki zovurlar alohida ko
 | 2015 | 134 | 4 755 | 711 | 85,0 | 84 | 0,0 |
 | 2016 | 128 | 4 508 | 612 | 86,4 | 137 | 0,0 |
 | 2018 | 188 | 6 763 | 468 | 93,1 | 662 | 3,7 |
-| 2019 | 189 | 6 800 | 576 | 91,5 | 643 | 4,0 |
-| 2020 | 196 | 6 060 | 327 | 94,6 | 500 | 3,2 |
-| 2021 | 196 | 7 088 | 504 | 92,9 | 1 023 | 4,3 |
-| 2022 | 196 | 7 092 | 792 | 88,8 | 691 | 4,0 |
+| 2019 | 188 | 6 764 | 576 | 91,5 | 643 | 4,0 |
+| 2020 | 188 | 5 736 | 327 | 94,3 | 500 | 3,4 |
+| 2021 | 188 | 6 764 | 504 | 92,5 | 1 023 | 4,5 |
+| 2022 | 188 | 6 768 | 792 | 88,3 | 691 | 4,2 |
 | 2023 | 188 | 6 204 | 693 | 88,8 | 615 | 4,0 |
-| 2024 | 196 | 7 092 | 792 | 88,8 | 657 | 3,9 |
-| Jami | 196 | 75 200 | 9 107 | 87,9 | 5 326 | — |
+| 2024 | 188 | 6 768 | 792 | 88,3 | 657 | 4,1 |
+| Jami | 188 | 73 868 | 9 107 | 87,7 | 5 326 | — |
 
 ## 18-ilova
 
@@ -2064,7 +2064,7 @@ Izoh: \* — kadastrda M.Toʻjiboyev massivi boʻyicha ichki zovurlar alohida ko
 | Quduqlar pasporti | 188 | pasportda qayd etilgan | 2.2-§ |
 | Koordinatalar jadvali (GAT eksporti) | 205 | koordinatasi bor | 2.2-§ |
 | 2024-yilgi xarita | 202 | xaritada belgilangan | 2.2-§ |
-| Kuzatuv jadvallari, 2009–2024 | 196 | kamida bitta sath oʻlchovi | 3.1-§ |
+| Kuzatuv jadvallari, 2009–2024 | 188 | kamida bitta sath oʻlchovi (jami qatorlari chiqarilgan) | 3.1-§ |
 | Xaritani joyiga bogʻlash | 190 → 181 | raqami koordinatalar jadvali bilan mos; katta qoldiqlilar chiqarilgan | 2.3-§ |
 | Pasport chuqurligi bilan solishtirish | 182 | pasport chuqurligi va 2019–2024-yillar sathi bor | 3.1-§ |
 | 2019–2024-yillar tozalangan sathi | 168 | tekshiruvdan oʻtgan oʻlchovlar, koordinata bor | 3.3–3.4-§ |
@@ -2392,20 +2392,20 @@ Izoh: minerallashuv — 2004–2010-yillar, yozgi sath — 2019–2024-yillar (i
 | Tuman | Quduqlar soni | Mustaqil maʼlumoti yoʻq yillar | Oʻzgarmas qatorlar, quduq-yillarning %i | Yaroqli oʻlchovlar, % | Yaxlit qiymatlar, % |
 | --- | --- | --- | --- | --- | --- |
 | Oltinkoʻl | 130 | 2 | 0,0 | 100,0 | 18,1 |
-| Boʻston | 157 | 1 | 0,2 | 99,8 | 11,8 |
-| Shahrixon | 174 | 2 | 2,7 | 97,6 | 16,9 |
+| Boʻston | 148 | 1 | 0,2 | 99,8 | 11,9 |
 | Ulugʻnor | 186 | 2 | 2,5 | 97,3 | 19,9 |
-| Buloqboshi | 159 | 2 | 4,2 | 96,6 | 20,6 |
-| Baliqchi | 222 | 2 | 3,8 | 96,4 | 19,1 |
-| Xoʻjaobod | 66 | 2 | 9,3 | 91,2 | 35,6 |
-| Izboskan | 152 | 2 | 11,5 | 89,5 | 26,5 |
-| Marhamat | 196 | 3 | 12,4 | 88,3 | 28,8 |
-| Andijon | 128 | 2 | 18,7 | 82,6 | 28,4 |
-| Jalaquduq | 141 | 3 | 22,4 | 79,6 | 25,5 |
+| Shahrixon | 165 | 2 | 2,7 | 97,5 | 17,1 |
+| Baliqchi | 211 | 2 | 3,8 | 96,4 | 19,4 |
+| Buloqboshi | 154 | 2 | 4,3 | 96,5 | 21,0 |
+| Xoʻjaobod | 60 | 2 | 9,6 | 90,8 | 36,1 |
+| Izboskan | 150 | 2 | 11,5 | 89,5 | 26,6 |
+| Marhamat | 188 | 3 | 12,5 | 88,2 | 29,1 |
+| Andijon | 119 | 2 | 19,0 | 82,1 | 28,7 |
+| Jalaquduq | 134 | 3 | 22,7 | 79,1 | 25,9 |
 | Qoʻrgʻontepa | 108 | 2 | 26,3 | 74,4 | 42,7 |
-| Paxtaobod | 95 | 2 | 27,5 | 72,5 | 18,8 |
-| Asaka | 138 | 2 | 29,4 | 71,1 | 32,6 |
-| Mediana | — | 2 | 10,4 | 90,4 | — |
+| Paxtaobod | 88 | 2 | 28,0 | 71,9 | 19,2 |
+| Asaka | 131 | 2 | 29,7 | 70,6 | 33,1 |
+| Mediana | — | 2 | 10,6 | 90,2 | — |
 
 Izoh: Boʻston va Paxtaobod tumanlari boʻyicha 14 yillik, Buloqboshi tumani boʻyicha 13 yillik jadvallar mavjud.
 
@@ -2419,19 +2419,19 @@ Izoh: Boʻston va Paxtaobod tumanlari boʻyicha 14 yillik, Buloqboshi tumani bo�
 | Tuman | Barqaror panel, quduq | Sen qiyaligi, sm/yil | p | Iyul–avgust sathi medianasi, m | Yozda 1,5 m dan sayoz quduqlar, % | Yozda 2,0 m dan sayoz quduqlar, % | Mavsumiy amplituda, m |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Oltinkoʻl | 128 | +1,2 | 0,10 | 1,68 | 11,5 | 93,8 | 0,11 |
-| Boʻston | 141 | +0,8 | 0,08 | 1,58 | 27,4 | 98,7 | 0,21 |
-| Shahrixon | 111 | +1,8 | 0,001 | 1,82 | 6,9 | 73,0 | 0,43 |
+| Boʻston | 141 | +0,8 | 0,08 | 1,57 | 28,4 | 98,6 | 0,21 |
 | Ulugʻnor | 54 | +0,7 | 0,024 | 1,82 | 5,6 | 87,0 | 0,07 |
-| Buloqboshi | 34 | +3,5 | 0,003 | 2,06 | 14,5 | 43,5 | 0,24 |
-| Baliqchi | 100 | +3,5 | 0,001 | 1,74 | 12,4 | 79,8 | 0,18 |
-| Xoʻjaobod | 26 | +4,3 | 0,006 | 2,13 | 10,0 | 38,3 | 0,58 |
-| Izboskan | 41 | +2,7 | 0,006 | 2,06 | 12,2 | 46,3 | 0,35 |
-| Marhamat | 87 | +3,3 | 0,001 | 1,95 | 21,9 | 53,5 | 0,48 |
-| Andijon | 39 | +3,3 | 0,012 | 1,87 | 15,1 | 60,4 | 0,10 |
-| Jalaquduq | 57 | +5,7 | < 0,001 | 2,16 | 9,9 | 45,5 | 0,37 |
+| Shahrixon | 111 | +1,8 | 0,001 | 1,80 | 7,3 | 72,7 | 0,43 |
+| Baliqchi | 100 | +3,5 | < 0,001 | 1,73 | 13,0 | 79,7 | 0,18 |
+| Buloqboshi | 34 | +3,5 | 0,003 | 2,05 | 15,6 | 46,9 | 0,24 |
+| Xoʻjaobod | 25 | +4,5 | 0,009 | 2,10 | 11,1 | 42,6 | 0,60 |
+| Izboskan | 41 | +2,7 | 0,006 | 2,06 | 12,4 | 46,9 | 0,35 |
+| Marhamat | 87 | +3,3 | 0,001 | 1,92 | 22,9 | 54,7 | 0,48 |
+| Andijon | 39 | +3,3 | 0,012 | 1,86 | 15,5 | 62,9 | 0,10 |
+| Jalaquduq | 57 | +5,6 | < 0,001 | 2,06 | 9,6 | 48,2 | 0,37 |
 | Qoʻrgʻontepa | 24 | +3,2 | 0,012 | 2,14 | 13,3 | 40,0 | 0,21 |
-| Paxtaobod | 32 | +10,6 | < 0,001 | 2,65 | 4,2 | 17,9 | 0,44 |
-| Asaka | 31 | +6,4 | < 0,001 | 2,75 | 0,0 | 14,9 | 0,33 |
+| Paxtaobod | 32 | +10,3 | < 0,001 | 2,65 | 4,5 | 18,2 | 0,44 |
+| Asaka | 31 | +6,4 | < 0,001 | 2,65 | 0,0 | 15,8 | 0,33 |
 
 ## 41-ilova
 

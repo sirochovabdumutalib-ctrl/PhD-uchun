@@ -1,7 +1,7 @@
 {
  "audit": {
-  "raw_obs": 89025,
-  "wells": 196,
+  "raw_obs": 87693,
+  "wells": 188,
   "copied_pairs": [
    [
     2009,
@@ -16,12 +16,12 @@
     2017
    ]
   ],
-  "unit_errors": 13,
+  "unit_errors": 12,
   "const_well_years": 328,
   "const_obs": 11155,
   "obs_in_copied_years": 13825,
-  "clean_obs": 66093,
-  "clean_share": 0.742
+  "clean_obs": 64761,
+  "clean_share": 0.738
  },
  "trend": {
   "panel_wells": 84,
@@ -60,8 +60,8 @@
   "mk_p": 0.0005,
   "ols_slope": 0.0317,
   "ols_r2": 0.825,
-  "naive_slope_all_data": 0.045,
-  "naive_r2": 0.832,
+  "naive_slope_all_data": 0.0446,
+  "naive_r2": 0.831,
   "naive_series": {
    "2009": 1.888,
    "2011": 1.922,
@@ -70,12 +70,12 @@
    "2015": 1.952,
    "2016": 2.013,
    "2018": 2.34,
-   "2019": 2.357,
-   "2020": 2.348,
-   "2021": 2.559,
-   "2022": 2.389,
+   "2019": 2.356,
+   "2020": 2.332,
+   "2021": 2.553,
+   "2022": 2.385,
    "2023": 2.394,
-   "2024": 2.469
+   "2024": 2.463
   },
   "wells_deepening_sig": 44,
   "wells_shallowing_sig": 5,

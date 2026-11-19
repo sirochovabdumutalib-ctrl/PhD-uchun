@@ -2,6 +2,8 @@
 va yillik minerallashuvni ajratadi. Ishlatish: python3 scripts/02_extract_timeseries.py <uploads_dir> <out_dir>
 Chiqish: gw_levels_long.csv (yil, quduq, dekada, sath) va gw_annual.csv (yil, quduq, koordinata, o'rtacha, minerallashuv)."""
 import sys, csv, glob, os, re, xlrd
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from summary_rows import drop_summary
 U, OUT = sys.argv[1], sys.argv[2]
 DISTRICTS = ['андижон', 'асака', 'балик', 'балиқ', 'булок', 'булоқ', 'бустон', 'жалакудук', 'жалақудуқ', 'избоскан', 'улугнор',
              'улуғнор', 'мархамат', 'марҳамат', 'олтинк', 'пахтаобод', 'худжаобод', 'хужаобод', 'хўжаобод', 'шахрихон', 'кургонтепа', 'қўрғонтепа']
@@ -15,13 +17,20 @@ def is_district(row):
         if isinstance(v, str) and any(v.strip().lower().startswith(d) for d in DISTRICTS): return v.strip().lower()
     return None
 def extract(path, has_xy):
-    wb = xlrd.open_workbook(path, on_demand=True); ann, lon = [], []
+    """Quduq qatorlari tuman bloki bo'yicha yig'iladi; blok tugaganda jami qatorlari (summary_rows) olib tashlanadi."""
+    wb = xlrd.open_workbook(path, on_demand=True); ann, lon, dropped = [], [], []
     c0 = 6 if has_xy else 2
     for sh in wb.sheet_names():
-        s = wb.sheet_by_name(sh); on = False; group = ''
+        s = wb.sheet_by_name(sh); on = False; group = ''; block = []
+        def flush():
+            keep, dr = drop_summary(block, key=lambda b: b[0])
+            dropped.extend((int(sh), d) for d in dr)
+            for w, a, l in keep: ann.append(a); lon.extend(l)
+            block.clear()
         for i in range(5, s.nrows):
             r = s.row_values(i); d = is_district(r)
             if d and all(not isinstance(v, float) for v in r[c0:c0 + 6]):
+                if on: flush()
                 on = d.startswith('мархамат') or d.startswith('марҳамат'); group = ''; continue
             if not on or r[1] in ('', None): continue
             if isinstance(r[0], str) and len(r[0].strip()) > 2: group = r[0].strip()
@@ -30,9 +39,11 @@ def extract(path, has_xy):
             w = wellno(r[1])
             xy = (num(r[2]), num(r[3]), num(r[4]), num(r[5])) if has_xy else (None,) * 4
             miner = num(r[c0 + 37]) if has_xy and len(r) > c0 + 37 else None
-            ann.append((int(sh), w, group, *xy, num(r[c0 + 36]), miner, sum(v is not None for v in lv)))
-            lon += [(int(sh), w, k + 1, v) for k, v in enumerate(lv) if v is not None]
+            block.append((w, (int(sh), w, group, *xy, num(r[c0 + 36]), miner, sum(v is not None for v in lv)),
+                          [(int(sh), w, k + 1, v) for k, v in enumerate(lv) if v is not None]))
+        if on: flush()
         wb.unload_sheet(sh)
+    print(path.split('/')[-1][:12], 'olib tashlangan jami qatorlari:', len(dropped), sorted({d for _, d in dropped}))
     return ann, lon
 def find(p): return [f for f in glob.glob(os.path.join(U, '*')) if p in os.path.basename(f)][0]
 ann, lon = extract(find('379248cf'), True)

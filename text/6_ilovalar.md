@@ -239,13 +239,13 @@ Izoh: \* — kadastrda M.To’jiboyev massivi bo’yicha ichki zovurlar alohida 
 | 2015 | 134 | 4 755 | 711 | 85,0 | 84 | 0,0 |
 | 2016 | 128 | 4 508 | 612 | 86,4 | 137 | 0,0 |
 | 2018 | 188 | 6 763 | 468 | 93,1 | 662 | 3,7 |
-| 2019 | 189 | 6 800 | 576 | 91,5 | 643 | 4,0 |
-| 2020 | 196 | 6 060 | 327 | 94,6 | 500 | 3,2 |
-| 2021 | 196 | 7 088 | 504 | 92,9 | 1 023 | 4,3 |
-| 2022 | 196 | 7 092 | 792 | 88,8 | 691 | 4,0 |
+| 2019 | 188 | 6 764 | 576 | 91,5 | 643 | 4,0 |
+| 2020 | 188 | 5 736 | 327 | 94,3 | 500 | 3,4 |
+| 2021 | 188 | 6 764 | 504 | 92,5 | 1 023 | 4,5 |
+| 2022 | 188 | 6 768 | 792 | 88,3 | 691 | 4,2 |
 | 2023 | 188 | 6 204 | 693 | 88,8 | 615 | 4,0 |
-| 2024 | 196 | 7 092 | 792 | 88,8 | 657 | 3,9 |
-| Jami | 196 | 75 200 | 9 107 | 87,9 | 5 326 | — |
+| 2024 | 188 | 6 768 | 792 | 88,3 | 657 | 4,1 |
+| Jami | 188 | 73 868 | 9 107 | 87,7 | 5 326 | — |
 
 ## 18-ilova
 
@@ -273,7 +273,7 @@ Izoh: \* — kadastrda M.To’jiboyev massivi bo’yicha ichki zovurlar alohida 
 | Quduqlar pasporti | 188 | pasportda qayd etilgan | 2.2-§ |
 | Koordinatalar jadvali (GAT eksporti) | 205 | koordinatasi bor | 2.2-§ |
 | 2024-yilgi xarita | 202 | xaritada belgilangan | 2.2-§ |
-| Kuzatuv jadvallari, 2009–2024 | 196 | kamida bitta sath o'lchovi | 3.1-§ |
+| Kuzatuv jadvallari, 2009–2024 | 188 | kamida bitta sath o'lchovi (jami qatorlari chiqarilgan) | 3.1-§ |
 | Xaritani joyiga bog'lash | 190 → 181 | raqami koordinatalar jadvali bilan mos; katta qoldiqlilar chiqarilgan | 2.3-§ |
 | Pasport chuqurligi bilan solishtirish | 182 | pasport chuqurligi va 2019–2024-yillar sathi bor | 3.1-§ |
 | 2019–2024-yillar tozalangan sathi | 168 | tekshiruvdan o'tgan o'lchovlar, koordinata bor | 3.3–3.4-§ |
@@ -541,20 +541,20 @@ Izoh: minerallashuv — 2004–2010-yillar, yozgi sath — 2019–2024-yillar (i
 | Tuman | Quduqlar soni | Mustaqil ma'lumoti yo'q yillar | O'zgarmas qatorlar, quduq-yillarning %i | Yaroqli o'lchovlar, % | Yaxlit qiymatlar, % |
 | --- | --- | --- | --- | --- | --- |
 | Oltinko'l | 130 | 2 | 0,0 | 100,0 | 18,1 |
-| Bo'ston | 157 | 1 | 0,2 | 99,8 | 11,8 |
-| Shahrixon | 174 | 2 | 2,7 | 97,6 | 16,9 |
+| Bo'ston | 148 | 1 | 0,2 | 99,8 | 11,9 |
 | Ulug'nor | 186 | 2 | 2,5 | 97,3 | 19,9 |
-| Buloqboshi | 159 | 2 | 4,2 | 96,6 | 20,6 |
-| Baliqchi | 222 | 2 | 3,8 | 96,4 | 19,1 |
-| Xo'jaobod | 66 | 2 | 9,3 | 91,2 | 35,6 |
-| Izboskan | 152 | 2 | 11,5 | 89,5 | 26,5 |
-| Marhamat | 196 | 3 | 12,4 | 88,3 | 28,8 |
-| Andijon | 128 | 2 | 18,7 | 82,6 | 28,4 |
-| Jalaquduq | 141 | 3 | 22,4 | 79,6 | 25,5 |
+| Shahrixon | 165 | 2 | 2,7 | 97,5 | 17,1 |
+| Baliqchi | 211 | 2 | 3,8 | 96,4 | 19,4 |
+| Buloqboshi | 154 | 2 | 4,3 | 96,5 | 21,0 |
+| Xo'jaobod | 60 | 2 | 9,6 | 90,8 | 36,1 |
+| Izboskan | 150 | 2 | 11,5 | 89,5 | 26,6 |
+| Marhamat | 188 | 3 | 12,5 | 88,2 | 29,1 |
+| Andijon | 119 | 2 | 19,0 | 82,1 | 28,7 |
+| Jalaquduq | 134 | 3 | 22,7 | 79,1 | 25,9 |
 | Qo'rg'ontepa | 108 | 2 | 26,3 | 74,4 | 42,7 |
-| Paxtaobod | 95 | 2 | 27,5 | 72,5 | 18,8 |
-| Asaka | 138 | 2 | 29,4 | 71,1 | 32,6 |
-| Mediana | — | 2 | 10,4 | 90,4 | — |
+| Paxtaobod | 88 | 2 | 28,0 | 71,9 | 19,2 |
+| Asaka | 131 | 2 | 29,7 | 70,6 | 33,1 |
+| Mediana | — | 2 | 10,6 | 90,2 | — |
 
 Izoh: Bo'ston va Paxtaobod tumanlari bo'yicha 14 yillik, Buloqboshi tumani bo'yicha 13 yillik jadvallar mavjud.
 
@@ -565,19 +565,19 @@ Izoh: Bo'ston va Paxtaobod tumanlari bo'yicha 14 yillik, Buloqboshi tumani bo'yi
 | Tuman | Barqaror panel, quduq | Sen qiyaligi, sm/yil | p | Iyul–avgust sathi medianasi, m | Yozda 1,5 m dan sayoz quduqlar, % | Yozda 2,0 m dan sayoz quduqlar, % | Mavsumiy amplituda, m |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Oltinko'l | 128 | +1,2 | 0,10 | 1,68 | 11,5 | 93,8 | 0,11 |
-| Bo'ston | 141 | +0,8 | 0,08 | 1,58 | 27,4 | 98,7 | 0,21 |
-| Shahrixon | 111 | +1,8 | 0,001 | 1,82 | 6,9 | 73,0 | 0,43 |
+| Bo'ston | 141 | +0,8 | 0,08 | 1,57 | 28,4 | 98,6 | 0,21 |
 | Ulug'nor | 54 | +0,7 | 0,024 | 1,82 | 5,6 | 87,0 | 0,07 |
-| Buloqboshi | 34 | +3,5 | 0,003 | 2,06 | 14,5 | 43,5 | 0,24 |
-| Baliqchi | 100 | +3,5 | 0,001 | 1,74 | 12,4 | 79,8 | 0,18 |
-| Xo'jaobod | 26 | +4,3 | 0,006 | 2,13 | 10,0 | 38,3 | 0,58 |
-| Izboskan | 41 | +2,7 | 0,006 | 2,06 | 12,2 | 46,3 | 0,35 |
-| Marhamat | 87 | +3,3 | 0,001 | 1,95 | 21,9 | 53,5 | 0,48 |
-| Andijon | 39 | +3,3 | 0,012 | 1,87 | 15,1 | 60,4 | 0,10 |
-| Jalaquduq | 57 | +5,7 | < 0,001 | 2,16 | 9,9 | 45,5 | 0,37 |
+| Shahrixon | 111 | +1,8 | 0,001 | 1,80 | 7,3 | 72,7 | 0,43 |
+| Baliqchi | 100 | +3,5 | < 0,001 | 1,73 | 13,0 | 79,7 | 0,18 |
+| Buloqboshi | 34 | +3,5 | 0,003 | 2,05 | 15,6 | 46,9 | 0,24 |
+| Xo'jaobod | 25 | +4,5 | 0,009 | 2,10 | 11,1 | 42,6 | 0,60 |
+| Izboskan | 41 | +2,7 | 0,006 | 2,06 | 12,4 | 46,9 | 0,35 |
+| Marhamat | 87 | +3,3 | 0,001 | 1,92 | 22,9 | 54,7 | 0,48 |
+| Andijon | 39 | +3,3 | 0,012 | 1,86 | 15,5 | 62,9 | 0,10 |
+| Jalaquduq | 57 | +5,6 | < 0,001 | 2,06 | 9,6 | 48,2 | 0,37 |
 | Qo'rg'ontepa | 24 | +3,2 | 0,012 | 2,14 | 13,3 | 40,0 | 0,21 |
-| Paxtaobod | 32 | +10,6 | < 0,001 | 2,65 | 4,2 | 17,9 | 0,44 |
-| Asaka | 31 | +6,4 | < 0,001 | 2,75 | 0,0 | 14,9 | 0,33 |
+| Paxtaobod | 32 | +10,3 | < 0,001 | 2,65 | 4,5 | 18,2 | 0,44 |
+| Asaka | 31 | +6,4 | < 0,001 | 2,65 | 0,0 | 15,8 | 0,33 |
 
 ## 41-ilova
 

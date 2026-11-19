@@ -42,7 +42,7 @@ kollektor ta’mirining sizot sathiga ta’sirini, ta’mirning haqiqiy narxini 
 
 monitoring tizimini takomillashtirish, ta’mir samaradorligini o’lchash va mablag’larni ustuvor yo’naltirish bo’yicha ilmiy asoslangan tavsiyalar ishlab chiqish.
 
-**Tadqiqotning obyekti** sifatida Andijon viloyati Marhamat tumanining sug’oriladigan yerlaridagi meliorativ tizim olingan: umumiy uzunligi 265,8 km bo’lgan 90 ta kollektor, 370,7 km uzunlikdagi 332 ta xo’jalik ichki zovuri hamda sakkizta massivda joylashgan 196 ta meliorativ kuzatuv qudug’i. Qiyosiy tahlil uchun Andijon viloyatining 14 ta tumanidagi 2 052 ta kuzatuv qudug’i ma’lumotlari jalb etilgan.
+**Tadqiqotning obyekti** sifatida Andijon viloyati Marhamat tumanining sug’oriladigan yerlaridagi meliorativ tizim olingan: umumiy uzunligi 265,8 km bo’lgan 90 ta kollektor, 370,7 km uzunlikdagi 332 ta xo’jalik ichki zovuri hamda sakkizta massivda joylashgan 188 ta meliorativ kuzatuv qudug’i. Qiyosiy tahlil uchun Andijon viloyatining 14 ta tumanidagi 1 972 ta kuzatuv qudug’i ma’lumotlari jalb etilgan.
 
 **Tadqiqotning predmeti** meliorativ monitoring ma’lumotlarining ishonchlilik ko’rsatkichlari, sizot suvlari sathi va minerallashuvining fazoviy-vaqtli qonuniyatlari, ularning drenaj tarmog’i ko’rsatkichlari bilan bog’liqligi hamda tizim elementlarining ishonchliligi va ta’mir samaradorligini baholash usullaridan iborat.
 
@@ -66,7 +66,7 @@ kollektor ta’mirining sizot sathiga ta’sirini monitoring ma’lumotlari asos
 
 Marhamat tumani meliorativ tizimining geoma’lumotlar bazasi shakllantirilgan: kuzatuv quduqlari, kollektorlar, kanallar va massiv chegaralari qatlamlari kadastr ma’lumotlari bilan birga;
 
-2009–2024-yillar monitoring ma’lumotlarining tekshirilgan bazasi va tekshiruv dasturi yaratilgan, dastur viloyat miqyosida (866 844 ta o’lchov) sinovdan o’tkazilgan;
+2009–2024-yillar monitoring ma’lumotlarining tekshirilgan bazasi va tekshiruv dasturi yaratilgan, dastur viloyat miqyosida (854 676 ta o’lchov) sinovdan o’tkazilgan;
 
 sizot suvi sathi, bahoning noaniqlik va yozgi sayoz sath ehtimoli xaritalari tuzilgan, 2019–2024-yillardagi yozgi sath va 2004–2010-yillardagi minerallashuv bo’yicha sho’rlanish xavfi ostidagi 56 ta quduq aniqlangan va massivlar uchta ustuvorlik guruhiga ajratilgan (birinchi navbatda Z.M.Bobur va Istiqlol massivlari);
 
