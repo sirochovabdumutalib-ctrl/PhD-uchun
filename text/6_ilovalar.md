@@ -1170,3 +1170,39 @@ Manba: tavsiyanoma \[173\]; matni kirill yozuvidan lotin yozuviga o'girilgan, so
 &#91;image: Viloyat tumanlarida suvning me'yorga nisbati\]
 
 Manba: tavsiyanoma \[173\], 8-rasm; lotin yozuvida qayta chizilgan.
+
+## 75-ilova
+
+*75-ilova. Marhamat tumani xo'jaliklararo kollektorlaridan chiqqan suv va uning minerallashuvi (2025-yil) hamda suv-tuz balansi (2024–2025-yillar)*
+
+a) Tuman bo'yicha oylar kesimida
+
+| Oy | Yan | Fev | Mar | Apr | May | Iyn | Iyl | Avg | Sen | Okt | Noy | Dek | Yil |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Sarf, m³/s | 4,58 | 4,87 | 5,88 | 7,01 | 5,63 | 7,05 | 6,62 | 7,54 | 6,79 | 7,96 | 8,73 | 7,45 | 6,67 |
+| Chiqqan suv, mln m³ | 12,26 | 11,79 | 15,74 | 18,17 | 15,62 | 18,27 | 17,74 | 20,19 | 17,49 | 21,31 | 22,63 | 19,95 | 211,16 |
+| Minerallashuv, g/l | 0,82 | 0,66 | 0,75 | 0,81 | 1,34 | 0,86 | 1,41 | 1,27 | 1,18 | 0,95 | 0,91 | 0,91 | 0,99 |
+
+b) Kollektorlar bo'yicha
+
+| Kollektor | Massiv | O'rtacha sarf, m³/s | Chiqqan suv, mln m³ | Minerallashuv, g/l (yillik) | Eng yuqori minerallashuv, g/l (oy) |
+| --- | --- | --- | --- | --- | --- |
+| Polvontosh | Mash'al | 0,70 | 22,22 | 1,40 | 2,70 (Iyl) |
+| G'arbiy | Paxtakor | 1,47 | 46,41 | 1,36 | 2,70 (Iyl) |
+| O'qchi | Z.M.Bobur | 1,22 | 38,28 | 0,75 | 0,91 (Iyn) |
+| Aravon | Z.M.Bobur | 0,67 | 21,06 | 0,72 | 0,89 (May) |
+| Beshtentak | Z.M.Bobur | 0,86 | 27,22 | 0,76 | 1,00 (Dek) |
+| Istiqlol GKK | Istiqlol | 3,89 | 122,90 | 0,95 | 1,13 (Dek) |
+
+v) Suv-tuz balansi (quruq qoldiq bo'yicha)
+
+| Yil | Olingan suv, mln m³ | Sug'orish suvi minerallashuvi, g/l | Kirgan tuz, ming t | Zovur oqimi, mln m³ | Zovur suvi minerallashuvi, g/l | Chiqqan tuz, ming t | Balans, ming t | Xlor balansi, ming t |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2024 | 143,33 | 0,40 | 57,33 | 98,18 | 0,75 | 73,64 | −16,30 | −1,68 |
+| 2025 | 147,31 | 0,52 | 76,60 | 118,50 | 0,99 | 87,37 | −10,77 | −1,95 |
+
+&#91;image: Zovur oqimi va minerallashuvi 2025\]
+
+g) a — tuman bo'yicha zovur oqimi, sug'oriladigan maydonga (17 965 ga) bo'lingan, va iyulda talab etiladigan drenaj moduli (o'rta samaradorlik, 4.1-jadval); b — kollektorlar suvining oylik minerallashuvi.
+
+Izoh: kollektorlar bo'yicha chiqqan suv yig'indisi (278,1 mln m³) tuman jamidan (211,2 mln m³) katta; hisobotda bu farq izohlanmagan. Suv-tuz balansida 2025-yil zovur oqimi 118,5 mln m³ deb olingan. Manba: Marhamat tuman meliorativ uchastkasi, «2025-yilda xo'jaliklararo kollektorlardan chiqqan suv miqdori va tarkibi bo'yicha ma'lumot» (17a-jadval) va «2024–2025-yillardagi suv-tuz muvozanati to'g'risida ma'lumot»; hisob: 64-skript (results/drainage_2025.json).

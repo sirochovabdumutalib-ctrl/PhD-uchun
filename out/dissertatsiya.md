@@ -212,7 +212,7 @@ Amaliy ahamiyati shundaki, suv xoʻjaligi tashkilotlari monitoring maʼlumotlari
 
 **Tadqiqot natijalarining eʼlon qilinganligi.** Dissertatsiya mavzusi boʻyicha jami [\[soni\]]{custom-style="Toldirish"} ta ilmiy ish chop etilgan, shulardan Oʻzbekiston Respublikasi Oliy attestatsiya komissiyasining dissertatsiyalar asosiy ilmiy natijalarini chop etish tavsiya etilgan ilmiy nashrlarida [\[soni\]]{custom-style="Toldirish"} ta maqola, jumladan [\[soni\]]{custom-style="Toldirish"} tasi respublika va [\[soni\]]{custom-style="Toldirish"} tasi xorijiy jurnallarda nashr etilgan.
 
-**Dissertatsiyaning tuzilishi va hajmi.** Dissertatsiya kirish, toʻrtta bob, umumiy xulosalar, 139 nomdagi foydalanilgan adabiyotlar roʻyxati va ilovalardan iborat. Dissertatsiyaning asosiy matni 120 betni tashkil etadi, unda 9 ta jadval, 16 ta rasm (shundan 14 tasi GAT asosida tuzilgan xarita va sxema) va 21 ta formula keltirilgan; yordamchi jadval va rasmlar 74 ta ilovada berilgan.
+**Dissertatsiyaning tuzilishi va hajmi.** Dissertatsiya kirish, toʻrtta bob, umumiy xulosalar, 139 nomdagi foydalanilgan adabiyotlar roʻyxati va ilovalardan iborat. Dissertatsiyaning asosiy matni 120 betni tashkil etadi, unda 9 ta jadval, 16 ta rasm (shundan 14 tasi GAT asosida tuzilgan xarita va sxema) va 21 ta formula keltirilgan; yordamchi jadval va rasmlar 75 ta ilovada berilgan.
 
 Birinchi bobda meliorativ tizimlar ishonchliligi va samaradorligini baholashning mavjud usullari, meliorativ monitoringda GAT va geostatistik usullarning qoʻllanilishi tahlil qilingan, hal etilmagan masalalar aniqlangan hamda tadqiqotning maqsad va vazifalari belgilangan.
 
@@ -1054,6 +1054,8 @@ Xavfli quduqlarning joylashuvi va massivlar boʻyicha ulushi 3.8-rasmda koʻrsat
 3.8-rasm. Shoʻrlanish xavfi: a — quduqlar boʻyicha yozgi sath (2019–2024) va minerallashuv (2004–2010) birgalikda; b — massivlar boʻyicha xavfli quduqlar ulushi (yozgi sath < 2,0 m va minerallashuv ≥ 1 g/l)
 :::
 
+**2025-yilda zovur suvi boʻyicha tekshiruv.** 2010-yildan keyin sizot suvi minerallashuvi quduqlarda oʻlchanmagan, lekin 2025-yilda massivlardan suv chiqaradigan kollektorlarda zovur suvining minerallashuvi har oy oʻlchangan (75-ilova). Eng yuqori qiymatlar Mashʼal (Polvontosh kollektori, yillik oʻrtacha 1,40 g/l) va Paxtakor (Gʻarbiy kollektori, 1,36 g/l) massivlarida; bu ikki kollektorda minerallashuv may va iyul–sentabrda 2,0–2,7 g/l gacha koʻtariladi. Istiqlol kollektorida u 0,95 g/l, Z.M.Bobur kollektorlarida 0,72–0,76 g/l. Mashʼal massivining eng yuqori oʻrinda turishi 2004–2010-yillardagi sizot suvi maʼlumotlariga va tavsiyanomadagi 2024-yil maʼlumotlariga \[33\] mos keladi. Z.M.Bobur massivida esa kollektor suvi kam minerallashgan, garchi 2004–2010-yillarda bu massivda minerallashgan sizot suvli quduqlar boʻlgan; bu farqni quduqlarda qayta oʻlchab tekshirish kerak (T-8). Zovur suvi bir necha manbaning aralashmasi, shuning uchun u quduqlardagi oʻlchov oʻrnini bosmaydi.
+
 Bu bahoning cheklovi shundaki, sath va minerallashuv turli davrlarga tegishli. 2010-yildan keyingi minerallashuv oʻzgarishi nomaʼlum va bu davrda minerallashuv oʻzgargan boʻlishi mumkin. Shu sababli xavf bahosi minerallashuvning nisbiy darajasiga (massivlar orasidagi farqqa) tayanadi; massivlar orasidagi farq gidrogeologik sharoit bilan belgilangani uchun vaqt oʻtishi bilan saqlanib qolgan boʻlishi ehtimoli yuqori.
 
 **Monitoring tizimi uchun xulosa.** 2010-yildan keyingi minerallashuv oʻzgarishi haqida ishonchli xulosa chiqarib boʻlmaydi. Bu tadqiqotning cheklovi sifatida qayd etiladi; ayni paytda u monitoring tizimining jiddiy kamchiligini koʻrsatadi: soʻnggi 14 yil davomida tuman boʻyicha sizot suvlari minerallashuvining haqiqiy holati hujjatlashtirilmagan. Minerallashuvni oʻlchashni tiklash uchun barcha quduqlarda oʻlchash shart emas: bir quduq ichidagi mavsumiy farq ahamiyatsiz boʻlgani uchun yiliga bir marta oʻlchash yetarli, xavfli deb ajratilgan 56 ta quduq esa birinchi navbatda qamrab olinishi kerak. Elektr oʻtkazuvchanlikni dalada oʻlchaydigan asboblar bu ishni arzonlashtiradi \[106\]. Bu takliflar 4.5-§ da monitoring tizimini takomillashtirish tavsiyalariga kiritiladi.
@@ -1213,6 +1215,8 @@ Talabdan past kollektorlar bitta massivda toʻplanmagan, tuman boʻylab tarqoq j
 :::
 
 **Sizot suvi sathi boʻyicha tekshiruv.** Suv balansi hisobi taxminiy maʼlumotlarga tayanadi, shuning uchun u kuzatilgan sizot suvi sathi bilan tekshirildi. 3.2-§ ga koʻra sath mart oxiridan iyul oxirigacha, taxminan 120 sutka davomida, oʻrtacha 0,48 m ga koʻtariladi. Sathning koʻtarilishi sizot suviga tushayotgan suv drenaj orqali chiqayotgan suvdan koʻpligini bildiradi. Bu ortiqcha suv tuproqning suv beruvchanlik koeffitsiyenti μ orqali baholanadi: qumoq tuproqlar uchun μ = 0,05–0,15 qabul qilinganda u 24–72 mm ni yoki 0,02–0,07 l/(s·ga) ni tashkil etadi. Bu qiymat talab etiladigan drenaj modulining 5–45 foiziga teng. Mavjud tarmoq sugʻorish mavsumida sizot suviga tushayotgan suvning asosiy qismini olib chiqadi, lekin toʻliq emas: drenaj quvvatidagi taqchillik tuman oʻrtachasida talabning 5–45 foizini tashkil etadi. Bu baho yuqoridagi kadastr qiyosidan koʻra yumshoqroq, chunki u butun tuman boʻyicha oʻrtacha holatni aks ettiradi; massivlar boʻyicha esa mavsumiy koʻtarilish 0,32–0,85 m oraligʻida (3.2-§), shuning uchun taqchillik U.Qoraboyev massivida oʻrtachadan qariyb ikki baravar, Paxtakor massivida 1,4 baravar katta.
+
+**2025-yilda oʻlchangan oqim bilan tekshiruv.** Meliorativ uchastka 2025-yilda tumandan suv chiqaradigan oltita xoʻjaliklararo kollektorda suv sarfi va minerallashuvini har oy oʻlchagan (75-ilova). Tuman boʻyicha zovur oqimi yanvarda 4,58 m³/s dan noyabrda 8,73 m³/s gacha oʻzgargan, iyulda 6,62 m³/s boʻlgan. Uni sugʻoriladigan maydonga (17 965 ga) boʻlganda iyuldagi drenaj moduli 0,37 l/(s·ga) chiqadi (xarita maydoni boʻyicha 0,32). Bu suv balansi boʻyicha hisoblangan oʻrta daraja talabi oraligʻiga (0,26–0,43 l/(s·ga), 4.1-jadval) toʻgʻri keladi. Biroq oʻlchangan oqim qoʻshni hududlardan keladigan suvni ham oʻz ichiga oladi: yillik oqim (211,2 mln m³) tumanga olingan suvdan (147,3 mln m³) 43 foiz koʻp. Eng katta oqim noyabrda, kuzgi-qishki shoʻr yuvish va nam toʻplash davrida kuzatilgan. Suv-tuz balansida esa 2025-yil zovur oqimi 118,5 mln m³ deb olingan; ikki hisobot orasidagi farqni meliorativ ekspeditsiya bilan aniqlashtirish kerak. Oylik oʻlchov hozir faqat tumandan chiqish joylarida yuritiladi; T-9 tavsiyasi uni massivlar ichidagi asosiy kollektorlarga kengaytirishni nazarda tutadi (4.5-§).
 
 **Suv oʻtkazish qobiliyati.** Kollektorning suv oʻtkazish qobiliyati Manning formulasi boʻyicha aniqlanadi \[85, 122\]:
 
@@ -1395,7 +1399,7 @@ Samarani soʻmda toʻliq ifodalash uchun taʼmir turlarining haqiqiy meliorativ 
 1. Meliorativ kadastr maʼlumotlari ishonchlilikning odatdagi koʻrsatkichlarini (buzilmasdan ishlash ehtimoli, buzilishlar soni) hisoblashga yetmaydi, chunki buzilishlar va taʼmirlar tarixi qayd etilmaydi.
 2. Tumandagi 90 ta kollektorning (265,8 km) yoshi medianasi 61 yil, uzunlikning 90 foizi 50 yildan eski; barcha kollektorlar 2010–2020-yillarda taʼmirlangan, uzunlikning 71 foizi 2016–2019-yillarda. Taʼmir yili kollektor yoshi, uzunligi va sarfiga bogʻliq emas: taʼmir holatga qarab emas, dasturlar boʻyicha oʻtkazilgan. Xoʻjalik ichki zovurlarining 64,7 foizida taʼmir qayd etilmagan.
 3. Ochiq tarmoqning solishtirma uzunligi massivlar boʻyicha 6,8 m/ga dan 48,6 m/ga gacha; eng zaif tarmoq Y.Oxunboboyev, M.Toʻjiboyev va Z.M.Bobur massivlarida, eng yaxshisi Mashʼal massivida.
-4. Suv balansi boʻyicha iyuldagi talab etiladigan drenaj moduli 0,16–0,66 l/(s·ga), oʻrta variantda 0,26–0,43 l/(s·ga); sugʻorish samaradorligi oshirilganda u 2,5 baravar kamayadi. Kadastrdagi sarf qiymatlari toʻgʻri deb qabul qilinganda 90 ta kollektordan 27–48 tasining (variantga qarab) sarfi talabdan past.
+4. Suv balansi boʻyicha iyuldagi talab etiladigan drenaj moduli 0,16–0,66 l/(s·ga), oʻrta variantda 0,26–0,43 l/(s·ga); sugʻorish samaradorligi oshirilganda u 2,5 baravar kamayadi. 2025-yilda oʻlchangan tuman zovur oqimi iyulda 0,37 l/(s·ga) boʻlib, shu oraliqqa toʻgʻri keladi. Kadastrdagi sarf qiymatlari toʻgʻri deb qabul qilinganda 90 ta kollektordan 27–48 tasining (variantga qarab) sarfi talabdan past.
 5. Kollektor taʼmiridan keyin sath uzoqdagi quduqlarga nisbatan chuqurlashmagan (−0,12 m; 95 foizlik ishonch oraligʻi −0,33 … +0,09 m; boshqa tekshiruvlar ham shunday), lekin 0,2 m atrofidagi taʼsir istisno qilinmaydi: uni aniqlash uchun taʼmirlangan kollektorlar yonida taxminan 95 ta quduq kerak (hozir 36 ta). Bu taʼmir samarasizligini emas, mavjud monitoring bilan uni oʻlchab boʻlmasligini koʻrsatadi.
 6. Taʼmirning 2026-yil narxlaridagi haqiqiy narxi medianasi 348 mln soʻm/km; yengil tozalash va kapital taʼmir orasida taxminan oʻn baravar farq bor. 2017–2020-yillarda sarflangan 48,2 mlrd soʻmning massivlar boʻyicha taqsimoti meliorativ xavf bilan bogʻlanmagan: xavf eng yuqori Z.M.Bobur massiviga tuman oʻrtachasidan kam mablagʻ ajratilgan. Kapital taʼmirning bir qismini tozalash bilan almashtirib, 22–44 foiz tejash mumkin.
 7. Monitoring tizimini takomillashtirish boʻyicha 15 ta tavsiya ishlab chiqildi (toʻqqiztasi mablagʻ talab qilmaydi).
@@ -1420,7 +1424,7 @@ Samarani soʻmda toʻliq ifodalash uchun taʼmir turlarining haqiqiy meliorativ 
 7. Sizot suvi kollektorlarga yaqin va tarmoq zich joylarda sayozroq; bogʻlanish taxminan 850 m gacha kuzatiladi va massivlar ichida ham saqlanadi. Buning sababi, ehtimol, kollektorlar tabiatan sayoz sathli joylarga qurilgani. Shuning uchun bir yildagi turli joylarni solishtirib drenaj samarasini baholab boʻlmaydi. Kollektordan 800 m dan uzoqdagi quduqlarda sath kollektor yaqinidagiga qaraganda tezroq chuqurlashgan (yiliga 6,3 va 1,7 sm).
 8. Sizot suvlari minerallashuvi boʻyicha faqat 2004–2010-yillar maʼlumotlari ishonchli. Bu davrda massivlar orasidagi farq uch baravarga yetadi: Mashʼalda 2,47 g/l, T.Mirzayev va U.Qoraboyevda 0,80–0,84 g/l. Yozgi sath va minerallashuv birga olinganda 113 ta quduqdan 56 tasi shoʻrlanish xavfi ostida, ularning 82 foizi Mashʼal, Z.M.Bobur va Istiqlol massivlarida. Minerallashuv keyingi yillarda oʻzgargan boʻlishi mumkin, shuning uchun bu quduqlarda u qayta oʻlchanishi kerak.
 9. Tumandagi 90 ta kollektorning (265,8 km) uzunlik boʻyicha 90 foizi 50 yildan eski. Barcha kollektorlar 2010–2020-yillarda taʼmirlangan, lekin taʼmir yili kollektorning yoshi, uzunligi va sarfiga bogʻliq emas: taʼmir holatga qarab emas, dasturlar boʻyicha oʻtkazilgan. Eng zaif boʻgʻin xoʻjalik ichki zovurlari: ularning 64,7 foizida taʼmir qayd etilmagan. Kadastr maʼlumotlari ishonchlilikning odatdagi koʻrsatkichlarini hisoblashga yetarli emas.
-10. Suv balansi boʻyicha iyulda talab etiladigan drenaj moduli 0,16–0,66 l/(s·ga), oʻrta variantda 0,26–0,43 l/(s·ga); sugʻorish samaradorligi oshirilsa, u 2,5 baravar kamayadi. Kadastrdagi sarflar boʻyicha 90 ta kollektordan 27–48 tasining sarfi talabdan past. Oʻzandagi oʻsimlik va loyqa kollektorning oʻtkazish qobiliyatini 29–61 foizga kamaytiradi.
+10. Suv balansi boʻyicha iyulda talab etiladigan drenaj moduli 0,16–0,66 l/(s·ga), oʻrta variantda 0,26–0,43 l/(s·ga); sugʻorish samaradorligi oshirilsa, u 2,5 baravar kamayadi. 2025-yilda oʻlchangan tuman zovur oqimi iyulda 0,37 l/(s·ga) boʻlib, shu oraliqqa toʻgʻri keladi. Kadastrdagi sarflar boʻyicha 90 ta kollektordan 27–48 tasining sarfi talabdan past. Oʻzandagi oʻsimlik va loyqa kollektorning oʻtkazish qobiliyatini 29–61 foizga kamaytiradi.
 11. Mavjud monitoring maʼlumotlarida kollektor taʼmiridan keyin sizot sathi chuqurlashgani aniqlanmadi: taʼmirlangan kollektorlar yonidagi quduqlarda sath taʼmirlanmaganlar yonidagiga nisbatan chuqurlashmagan (baho −0,12 m, ishonch oraligʻi −0,33 dan +0,09 m gacha). Boshqa tekshiruvlar ham shu natijani berdi. Bu taʼmir samarasiz degani emas: mavjud kuzatuv tarmogʻi uni oʻlchashga yetarli emas. 0,20 m lik taʼsirni ishonchli aniqlash uchun taʼmirlangan kollektorlar yonida taxminan 95 ta quduq kerak, hozir 36 ta.
 12. 1 km kollektor taʼmirining 2026-yil narxlaridagi oʻrtacha narxi 348 mln soʻm; yengil tozalash va kapital taʼmir narxi taxminan oʻn baravar farq qiladi, uzun uchastkalarda 1 km arzonroq. 2017–2020-yillarda sarflangan 48,2 mlrd soʻm (2026-yil narxlarida) massivlar boʻyicha meliorativ xavfga qarab taqsimlanmagan: xavf eng yuqori Z.M.Bobur massiviga tuman oʻrtachasidan kam mablagʻ ajratilgan. Kapital taʼmirning bir qismini tozalash bilan almashtirib, xarajatlarni 22–44 foizga kamaytirish mumkin.
 13. Massivlar meliorativ xavf, drenaj tarmogʻi holati va xarajatlar boʻyicha uch guruhga ajratildi. Birinchi navbatda Z.M.Bobur va Istiqlol massivlarida drenaj tarmogʻining texnik holatini tekshirish va taʼmirlash, Mashʼal massivida esa sugʻorish samaradorligini oshirish va minerallashuvni oʻlchashni tiklash tavsiya etiladi. Bu xulosalar tumanga topshirilgan tavsiyanomadagi massiv tadbirlari bilan mos keladi.
@@ -3134,3 +3138,43 @@ Manba: tavsiyanoma \[33\]; matni kirill yozuvidan lotin yozuviga oʻgirilgan, so
 ![](figures/tv_region_ratio.png){width=15.5cm}
 
 Manba: tavsiyanoma \[33\], 8-rasm; lotin yozuvida qayta chizilgan.
+
+## 75-ilova
+
+
+::: {custom-style="Sarlavha-jadval"}
+**Marhamat tumani xoʻjaliklararo kollektorlaridan chiqqan suv va uning minerallashuvi (2025-yil) hamda suv-tuz balansi (2024–2025-yillar)**
+:::
+
+a) Tuman boʻyicha oylar kesimida
+
+| Oy | Yan | Fev | Mar | Apr | May | Iyn | Iyl | Avg | Sen | Okt | Noy | Dek | Yil |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Sarf, m³/s | 4,58 | 4,87 | 5,88 | 7,01 | 5,63 | 7,05 | 6,62 | 7,54 | 6,79 | 7,96 | 8,73 | 7,45 | 6,67 |
+| Chiqqan suv, mln m³ | 12,26 | 11,79 | 15,74 | 18,17 | 15,62 | 18,27 | 17,74 | 20,19 | 17,49 | 21,31 | 22,63 | 19,95 | 211,16 |
+| Minerallashuv, g/l | 0,82 | 0,66 | 0,75 | 0,81 | 1,34 | 0,86 | 1,41 | 1,27 | 1,18 | 0,95 | 0,91 | 0,91 | 0,99 |
+
+b) Kollektorlar boʻyicha
+
+| Kollektor | Massiv | Oʻrtacha sarf, m³/s | Chiqqan suv, mln m³ | Minerallashuv, g/l (yillik) | Eng yuqori minerallashuv, g/l (oy) |
+| --- | --- | --- | --- | --- | --- |
+| Polvontosh | Mashʼal | 0,70 | 22,22 | 1,40 | 2,70 (Iyl) |
+| Gʻarbiy | Paxtakor | 1,47 | 46,41 | 1,36 | 2,70 (Iyl) |
+| Oʻqchi | Z.M.Bobur | 1,22 | 38,28 | 0,75 | 0,91 (Iyn) |
+| Aravon | Z.M.Bobur | 0,67 | 21,06 | 0,72 | 0,89 (May) |
+| Beshtentak | Z.M.Bobur | 0,86 | 27,22 | 0,76 | 1,00 (Dek) |
+| Istiqlol GKK | Istiqlol | 3,89 | 122,90 | 0,95 | 1,13 (Dek) |
+
+v) Suv-tuz balansi (quruq qoldiq boʻyicha)
+
+| Yil | Olingan suv, mln m³ | Sugʻorish suvi minerallashuvi, g/l | Kirgan tuz, ming t | Zovur oqimi, mln m³ | Zovur suvi minerallashuvi, g/l | Chiqqan tuz, ming t | Balans, ming t | Xlor balansi, ming t |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2024 | 143,33 | 0,40 | 57,33 | 98,18 | 0,75 | 73,64 | −16,30 | −1,68 |
+| 2025 | 147,31 | 0,52 | 76,60 | 118,50 | 0,99 | 87,37 | −10,77 | −1,95 |
+
+
+![](figures/ch4_drainage_2025.png){width=15.5cm}
+
+g) a — tuman boʻyicha zovur oqimi, sugʻoriladigan maydonga (17 965 ga) boʻlingan, va iyulda talab etiladigan drenaj moduli (oʻrta samaradorlik, 4.1-jadval); b — kollektorlar suvining oylik minerallashuvi.
+
+Izoh: kollektorlar boʻyicha chiqqan suv yigʻindisi (278,1 mln m³) tuman jamidan (211,2 mln m³) katta; hisobotda bu farq izohlanmagan. Suv-tuz balansida 2025-yil zovur oqimi 118,5 mln m³ deb olingan. Manba: Marhamat tuman meliorativ uchastkasi, «2025-yilda xoʻjaliklararo kollektorlardan chiqqan suv miqdori va tarkibi boʻyicha maʼlumot» (17a-jadval) va «2024–2025-yillardagi suv-tuz muvozanati toʻgʻrisida maʼlumot»; hisob: 64-skript (results/drainage_2025.json).

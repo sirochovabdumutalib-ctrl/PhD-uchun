@@ -1,0 +1,161 @@
+{
+ "source": "Marhamat tuman meliorativ uchastkasi: 2025-yilda xo'jaliklararo kollektorlardan chiqqan suv (17a-jadval); suv-tuz balansi 2024–2025",
+ "collectors": {
+  "Polvontosh": {
+   "massif": "Mash'al",
+   "q_year": 0.7,
+   "v_year": 22.22,
+   "s_year": 1.4,
+   "s_jul": 2.7,
+   "s_max": 2.7,
+   "s_max_month": "Iyl"
+  },
+  "G'arbiy": {
+   "massif": "Paxtakor",
+   "q_year": 1.47,
+   "v_year": 46.41,
+   "s_year": 1.36,
+   "s_jul": 2.7,
+   "s_max": 2.7,
+   "s_max_month": "Iyl"
+  },
+  "O'qchi": {
+   "massif": "Z.M.Bobur",
+   "q_year": 1.22,
+   "v_year": 38.28,
+   "s_year": 0.75,
+   "s_jul": 0.66,
+   "s_max": 0.91,
+   "s_max_month": "Iyn"
+  },
+  "Aravon": {
+   "massif": "Z.M.Bobur",
+   "q_year": 0.67,
+   "v_year": 21.06,
+   "s_year": 0.72,
+   "s_jul": 0.64,
+   "s_max": 0.89,
+   "s_max_month": "May"
+  },
+  "Beshtentak": {
+   "massif": "Z.M.Bobur",
+   "q_year": 0.86,
+   "v_year": 27.22,
+   "s_year": 0.76,
+   "s_jul": 0.64,
+   "s_max": 1.0,
+   "s_max_month": "Dek"
+  },
+  "Istiqlol GKK": {
+   "massif": "Istiqlol",
+   "q_year": 3.89,
+   "v_year": 122.9,
+   "s_year": 0.95,
+   "s_jul": 1.1,
+   "s_max": 1.13,
+   "s_max_month": "Dek"
+  }
+ },
+ "district": {
+  "q_year": 6.67,
+  "v_year": 211.16,
+  "s_year": 0.99,
+  "q_jul": 6.62,
+  "q_max": 8.73,
+  "q_max_month": "Noy",
+  "q_min": 4.58,
+  "q_min_month": "Yan",
+  "s_max": 1.41,
+  "s_max_month": "Iyl"
+ },
+ "sum_of_collectors_v": 278.09,
+ "modulus_july": {
+  "ME hisoboti": 0.368,
+  "xarita": 0.32
+ },
+ "modulus_max_month": {
+  "ME hisoboti": 0.486,
+  "xarita": 0.423
+ },
+ "required_july": {
+  "o'rta, takroriy ekinlarsiz": 0.26,
+  "o'rta, takroriy ekinlar bilan": 0.43,
+  "yuqori": 0.16,
+  "past (takroriy bilan)": 0.66
+ },
+ "drain_to_intake_pct": 143.3,
+ "salt": {
+  "2024": {
+   "intake": 143.33,
+   "mi": 0.4,
+   "cl_in": 0.03,
+   "salt_in": 57.33,
+   "cl_salt_in": 4.3,
+   "drain": 98.18,
+   "md": 0.75,
+   "cl_d": 0.07,
+   "salt_out": 73.64,
+   "cl_out": 6.87,
+   "bal": -16.3,
+   "cl_bal": -1.68
+  },
+  "2025": {
+   "intake": 147.31,
+   "mi": 0.52,
+   "cl_in": 0.03,
+   "salt_in": 76.6,
+   "cl_salt_in": 4.42,
+   "drain": 118.5,
+   "md": 0.99,
+   "cl_d": 0.06,
+   "salt_out": 87.37,
+   "cl_out": 6.37,
+   "bal": -10.77,
+   "cl_bal": -1.95
+  }
+ },
+ "checks": {
+  "Polvontosh": {
+   "sum_v": 22.22,
+   "year_v": 22.22,
+   "mean_q": 0.7,
+   "year_q": 0.7,
+   "v_from_q": 22.2
+  },
+  "G'arbiy": {
+   "sum_v": 46.41,
+   "year_v": 46.41,
+   "mean_q": 1.47,
+   "year_q": 1.47,
+   "v_from_q": 46.4
+  },
+  "O'qchi": {
+   "sum_v": 38.28,
+   "year_v": 38.28,
+   "mean_q": 1.22,
+   "year_q": 1.22,
+   "v_from_q": 38.4
+  },
+  "Aravon": {
+   "sum_v": 21.06,
+   "year_v": 21.06,
+   "mean_q": 0.67,
+   "year_q": 0.67,
+   "v_from_q": 21.1
+  },
+  "Beshtentak": {
+   "sum_v": 27.22,
+   "year_v": 27.22,
+   "mean_q": 0.86,
+   "year_q": 0.86,
+   "v_from_q": 27.2
+  },
+  "Istiqlol GKK": {
+   "sum_v": 122.9,
+   "year_v": 122.9,
+   "mean_q": 3.89,
+   "year_q": 3.89,
+   "v_from_q": 122.9
+  }
+ }
+}

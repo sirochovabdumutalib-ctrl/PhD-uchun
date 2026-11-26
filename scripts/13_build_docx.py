@@ -19,7 +19,8 @@ IMG = {"Andijon viloyati tumanlari xaritasi": 'figures/fig312_region.png', "Mine
        "Tumanga olingan sug'orish suvi": 'figures/tv_water.png',
        'Zovur oqimi va tuz balansi': 'figures/tv_drainage.png',
        'Istiqlol massividagi ZKD-6-2 zovurini tozalash': 'figures/tv9_zkd.jpg',
-       "Viloyat tumanlarida suvning me'yorga nisbati": 'figures/tv_region_ratio.png'}
+       "Viloyat tumanlarida suvning me'yorga nisbati": 'figures/tv_region_ratio.png',
+       'Zovur oqimi va minerallashuvi 2025': 'figures/ch4_drainage_2025.png'}
 PB = '\n```{=openxml}\n<w:p><w:pPr><w:spacing w:before="0" w:after="0" w:line="20" w:lineRule="exact"/><w:rPr><w:sz w:val="2"/></w:rPr></w:pPr><w:r><w:rPr><w:sz w:val="2"/></w:rPr><w:br w:type="page"/></w:r></w:p>\n```\n'  # balandligi ~0: to'liq betdan keyin bo'sh bet hosil qilmaydi
 TOC = ('\n```{=openxml}\n<w:p><w:r><w:fldChar w:fldCharType="begin" w:dirty="true"/></w:r><w:r><w:instrText xml:space="preserve"> TOC \\o "1-2" \\h \\z \\u </w:instrText></w:r>'
        '<w:r><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:t>Mundarijani hosil qilish uchun shu satr ustida sichqonchaning oʻng tugmasini bosib, «Maydonni yangilash» buyrugʻini tanlang.</w:t></w:r>'
